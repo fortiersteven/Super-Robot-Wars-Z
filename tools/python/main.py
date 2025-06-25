@@ -135,5 +135,12 @@ if __name__ == "__main__":
         if args.file_type == "Iso":
             robotwars.extract_iso(game_iso=args.iso)
 
+        elif args.file_type == "Menu":
+            robotwars.extract_all_menus()
+
     elif args.action =="insert":
-        print('Insert')
+
+        if args.file_type == "Menu":
+            robotwars.pack_all_menu()
+            robotwars.patch_binaries()
+            #robotwars.make_iso()
