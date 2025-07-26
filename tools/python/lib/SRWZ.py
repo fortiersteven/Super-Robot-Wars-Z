@@ -2,7 +2,7 @@ import shutil
 import os
 import struct
 from pathlib import Path
-
+import math
 import pandas
 import pycdlib
 import pyjson5 as json
@@ -16,9 +16,11 @@ import re
 import lxml.etree as etree
 from tools.python.lib.FileIO import FileIO
 from tools.python.lib.stage import Stage
+from tools.python.lib.compdata import CompData
 from tools.python.lib.decompressor import Decompressor
 from tools.python.lib.binary_extracted import text_to_bytes, bytes_to_text
-
+from tools.python import isotool
+import datetime
 class SRWZ():
 
     def __init__(self, project_file:Path, insert_mask: list[str], changed_only: bool = False):
@@ -727,7 +729,7 @@ class SRWZ():
             raise ValueError("Error running armips")
 
         shutil.copy(self.paths['temp_files'] / 'SLPS_258.87', self.paths['temp_files'] / 'SLPS_258.elf')
-
+        shutil.copy(self.paths['temp_files'] / 'SLPS_258.87', self.paths['final_files'] / 'New_files' / 'SLPS_258.87')
 
     def copy_translations_menu(self, root_original, translated_path: Path):
 
@@ -872,6 +874,18 @@ class SRWZ():
             for sector, remainder in zip(tqdm(sectors, desc="Updating SLPS offsets"), remainders):
                 new.write(struct.pack("<I", sector + remainder))
 
+    def build_ps2_iso(self, original_iso):
+        # Let's clean old build (if they exists)
+        self.clean_builds(self.paths["game_builds"])
+
+        # Set up new iso name
+        n: datetime.datetime = datetime.datetime.now()
+        new_iso = self.paths["game_builds"]
+        new_iso /= f"SRWZ_{n.year:02d}{n.month:02d}{n.day:02d}{n.hour:02d}{n.minute:02d}.iso"
+
+        isotool.rebuild_iso(original_iso, self.paths['tools'] / 'python' / 'files.txt', self.paths['final_files'] / 'New_files', new_iso, 0)
+
+
     def pack_all_menu(self) -> None:
         xml_path = self.paths["menu_xml"]
         out_path = self.paths["temp_files"]
@@ -893,7 +907,7 @@ class SRWZ():
             base_offset = entry["base_offset"]
             pools: list[list[int]] = [[int(x['text_start'], 16), int(x['text_end'], 16) - int(x['text_start'], 16)] for x in entry["sections"] if 'text_start' in x]
             pools.sort(key=lambda x: x[1])
-
+            print(pools)
 
             with open(xml_path / (entry["friendly_name"] + ".xml"), "r", encoding='utf-8') as xmlFile:
                 root = etree.fromstring(xmlFile.read().replace("<EnglishText></EnglishText>",
@@ -907,93 +921,80 @@ class SRWZ():
                 self.pack_menu_file(root, pools, base_offset, f)
 
                 f.seek(0)
+                print(out_path / file_last)
                 (out_path / file_last).parent.mkdir(parents=True, exist_ok=True)
                 with open(out_path / file_last, "wb") as g:
                     g.write(f.read())
 
+    def pack_compdata(self):
+        cp = CompData(path = self.paths['extracted_files'] / 'DATA' / 'COMPDATA' / '0d.bin')
+        cp.pack_file(paths=self.paths, original_file=self.paths['extracted_files'] / 'DATA' / 'COMPDATA' / '0.bin')
 
     def pack_menu_file(self, root, pools: list[list[int]], base_offset: int, f: FileIO, pad=False) -> None:
-
-        if root.find("Strings").find("Section").text == "Arm9":
-            min_seq = 400
-            entries = [ele for ele in root.iter("Entry") if
-                       ele.find('PointerOffset').text not in ['732676', '732692', '732708']
-                       and int(ele.find('Id').text) <= min_seq]
-        else:
-            entries = root.iter("Entry")
+        entries = root.iter("Entry")
 
         i = 0
-        max = 700
         for line in entries:
 
-            if i < max:
-                hi = []
-                lo = []
-                flat_ptrs = []
 
-                p = line.find("EmbedOffset")
-                if p is not None:
-                    hi = [int(x) - base_offset for x in p.find("hi").text.split(",")]
-                    lo = [int(x) - base_offset for x in p.find("lo").text.split(",")]
+            hi = []
+            lo = []
+            flat_ptrs = []
 
-                poff = line.find("PointerOffset")
-                if poff.text is not None:
-                    flat_ptrs = [int(x) for x in poff.text.split(",")]
+            p = line.find("EmbedOffset")
+            if p is not None:
+                hi = [int(x) - base_offset for x in p.find("hi").text.split(",")]
+                lo = [int(x) - base_offset for x in p.find("lo").text.split(",")]
 
-                mlen = line.find("MaxLength")
-                if mlen is not None:
-                    max_len = int(mlen.text)
-                    f.seek(flat_ptrs[0])
-                    text_bytes = self.get_node_bytes(line,pad) + b"\x00"
-                    if len(text_bytes) > max_len:
-                        tqdm.write(
-                            f"Line id {line.find('Id').text} ({line.find('JapaneseText').text}) too long, truncating...")
-                        f.write(text_bytes[:max_len - 1] + b"\x00")
-                    else:
-                        f.write(text_bytes + (b"\x00" * (max_len - len(text_bytes))))
-                    continue
+            poff = line.find("PointerOffset")
+            if poff.text is not None:
+                flat_ptrs = [int(x) for x in poff.text.split(",")]
 
+            mlen = line.find("MaxLength")
+            if mlen is not None:
+                max_len = int(mlen.text)
+                f.seek(flat_ptrs[0])
                 text_bytes = self.get_node_bytes(line,pad) + b"\x00"
-
-                l = len(text_bytes)
-                for pool in pools:
-
-                    if l <= pool[1]:
-                        str_pos = pool[0]
-                        pool[0] += l
-                        pool[1] -= l
-                        break
+                if len(text_bytes) > max_len:
+                    tqdm.write(
+                        f"Line id {line.find('Id').text} ({line.find('JapaneseText').text}) too long, truncating...")
+                    f.write(text_bytes[:max_len - 1] + b"\x00")
                 else:
-                    print("Ran out of space")
-                    raise ValueError("Ran out of space")
+                    f.write(text_bytes + (b"\x00" * (max_len - len(text_bytes))))
+                continue
 
-                f.seek(str_pos)
-                f.write(text_bytes)
-                virt_pos = str_pos + base_offset
+            text_bytes = self.get_node_bytes(line,pad) + b"\x00"
 
-                for off in flat_ptrs:
-                    f.write_uint32_at(off, virt_pos)
+            l = len(text_bytes)
+            for pool in pools:
 
-                for _h, _l in zip(hi, lo):
-
-                    print(f"Text: {line.find('JapaneseText').text}")
-                    print(f"Hi: {hex(_h + base_offset)}")
-                    print(f"Lo: {hex(_l + base_offset)}")
-
-                    val_hi = (virt_pos >> 0x10) & 0xFFFF
-                    val_lo = (virt_pos) & 0xFFFF
-                    print(f"Val hi: {hex(val_hi)}")
-                    print(f"Val lo: {hex(val_lo)}")
-                    # can't encode the lui+addiu directly
-                    if val_lo >= 0x8000: val_hi += 1
-
-                    f.write_uint16_at(_h, val_hi)
-                    f.write_uint16_at(_l, val_lo)
-
-                i+=1
-
+                if l <= pool[1]:
+                    str_pos = pool[0]
+                    pool[0] += l
+                    pool[1] -= l
+                    break
             else:
-                break
+                print("Ran out of space")
+                raise ValueError("Ran out of space")
+
+            f.seek(str_pos)
+            f.write(text_bytes)
+            virt_pos = str_pos + base_offset
+
+            for off in flat_ptrs:
+                f.write_uint32_at(off, virt_pos)
+
+            for _h, _l in zip(hi, lo):
+                val_hi = (virt_pos >> 0x10) & 0xFFFF
+                val_lo = (virt_pos) & 0xFFFF
+
+                # can't encode the lui+addiu directly
+                if val_lo >= 0x8000: val_hi += 1
+
+                f.write_uint16_at(_h, val_hi)
+                f.write_uint16_at(_l, val_lo)
+
+            i+=1
 
     def get_node_bytes(self, entry_node, pad=False) -> bytes:
 
@@ -1010,7 +1011,7 @@ class SRWZ():
         else:
             final_text = japanese_text or ''
 
-        print(final_text)
+        #print(final_text)
         # Convert the text values to bytes using TBL, TAGS, COLORS, ...
         bytes_entry = text_to_bytes(final_text, True)
 

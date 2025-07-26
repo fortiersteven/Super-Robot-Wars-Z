@@ -1,12 +1,13 @@
 <MenuText>
   <Strings>
-    <Section></Section>
+    <Section>To Categorize 2</Section>
     <Entry>
       <PointerOffset>3332896</PointerOffset>
       <JapaneseText>ここまでのゲームデータをセーブします。</JapaneseText>
       <EnglishText>Your game data will be saved up to this point</EnglishText>
       <Notes/>
       <Id>1</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -15,6 +16,7 @@
       <EnglishText>Is this okay</EnglishText>
       <Notes/>
       <Id>2</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -23,6 +25,7 @@
       <EnglishText>Saving completed</EnglishText>
       <Notes/>
       <Id>3</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -31,6 +34,7 @@
       <EnglishText>Do you want to continue playing</EnglishText>
       <Notes/>
       <Id>4</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -39,11 +43,12 @@
       <EnglishText>It will be overwritten, are you sure?</EnglishText>
       <Notes/>
       <Id>5</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section></Section>
+    <Section>To Categorize 4</Section>
     <Entry>
       <PointerOffset>3333072</PointerOffset>
       <JapaneseText>この母艦で出撃しますか？</JapaneseText>
@@ -118,7 +123,7 @@
     </Entry>
   </Strings>
   <Strings>
-    <Section></Section>
+    <Section>To Categorize 5</Section>
     <Entry>
       <PointerOffset>3333264</PointerOffset>
       <EmbedOffset>
@@ -206,13 +211,14 @@
     </Entry>
   </Strings>
   <Strings>
-    <Section></Section>
+    <Section>To Categorize 9</Section>
     <Entry>
       <PointerOffset>3342448</PointerOffset>
       <JapaneseText>ユニット能力</JapaneseText>
       <EnglishText>Unit Info</EnglishText>
       <Notes/>
       <Id>22</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -221,6 +227,7 @@
       <EnglishText>Pilot Info</EnglishText>
       <Notes/>
       <Id>23</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -229,6 +236,7 @@
       <EnglishText>Mech Info</EnglishText>
       <Notes/>
       <Id>24</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -237,6 +245,316 @@
       <EnglishText>Weapon Info</EnglishText>
       <Notes/>
       <Id>25</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Parts Reinforcements</Section>
+    <Entry>
+      <PointerOffset>3310000</PointerOffset>
+      <JapaneseText>移動</JapaneseText>
+      <EnglishText>Move</EnglishText>
+      <Notes/>
+      <Id>26</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310004</PointerOffset>
+      <JapaneseText>（小隊）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310008</PointerOffset>
+      <JapaneseText>ＨＰ</JapaneseText>
+      <EnglishText>HP</EnglishText>
+      <Notes/>
+      <Id>28</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310012</PointerOffset>
+      <JapaneseText>ＥＮ</JapaneseText>
+      <EnglishText>EN</EnglishText>
+      <Notes/>
+      <Id>29</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310016</PointerOffset>
+      <JapaneseText>装甲</JapaneseText>
+      <EnglishText>Armor</EnglishText>
+      <Notes/>
+      <Id>30</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310020</PointerOffset>
+      <JapaneseText>運動性</JapaneseText>
+      <EnglishText>Mobility</EnglishText>
+      <Notes/>
+      <Id>31</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310024</PointerOffset>
+      <JapaneseText>照準値</JapaneseText>
+      <EnglishText>Aim</EnglishText>
+      <Notes/>
+      <Id>32</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310028</PointerOffset>
+      <JapaneseText>最大射程</JapaneseText>
+      <EnglishText>Max Range</EnglishText>
+      <Notes/>
+      <Id>33</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310032</PointerOffset>
+      <JapaneseText>特殊付加</JapaneseText>
+      <EnglishText>Special</EnglishText>
+      <Notes/>
+      <Id>34</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Parts Reinforcements 2</Section>
+    <Entry>
+      <PointerOffset>3310072</PointerOffset>
+      <JapaneseText>空</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310076</PointerOffset>
+      <JapaneseText>陸</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310080</PointerOffset>
+      <JapaneseText>水</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310096</PointerOffset>
+      <JapaneseText>Ｓ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310100</PointerOffset>
+      <JapaneseText>Ａ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310104</PointerOffset>
+      <JapaneseText>Ｂ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310108</PointerOffset>
+      <JapaneseText>Ｃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310112</PointerOffset>
+      <JapaneseText>Ｄ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310116</PointerOffset>
+      <JapaneseText>Ｅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3310120,3310124</PointerOffset>
+      <JapaneseText>−</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Parts Reinforcements 3</Section>
+    <Entry>
+      <PointerOffset>3309232</PointerOffset>
+      <JapaneseText>移動</JapaneseText>
+      <EnglishText>Move</EnglishText>
+      <Notes/>
+      <Id>45</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3309236</PointerOffset>
+      <JapaneseText>（小隊）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3309240</PointerOffset>
+      <JapaneseText>ＨＰ</JapaneseText>
+      <EnglishText>HP</EnglishText>
+      <Notes/>
+      <Id>47</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3309244</PointerOffset>
+      <JapaneseText>ＥＮ</JapaneseText>
+      <EnglishText>EN</EnglishText>
+      <Notes/>
+      <Id>48</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3309248</PointerOffset>
+      <JapaneseText>装甲</JapaneseText>
+      <EnglishText>Armor</EnglishText>
+      <Notes/>
+      <Id>49</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3309252</PointerOffset>
+      <JapaneseText>運動性</JapaneseText>
+      <EnglishText>Mobility</EnglishText>
+      <Notes/>
+      <Id>50</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3309256</PointerOffset>
+      <JapaneseText>照準値</JapaneseText>
+      <EnglishText>Aim</EnglishText>
+      <Notes/>
+      <Id>51</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3309260</PointerOffset>
+      <JapaneseText>最大射程</JapaneseText>
+      <EnglishText>Max Range</EnglishText>
+      <Notes/>
+      <Id>52</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3309264</PointerOffset>
+      <JapaneseText>特殊付加</JapaneseText>
+      <EnglishText>Special</EnglishText>
+      <Notes/>
+      <Id>53</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Scenario Screen</Section>
+    <Entry>
+      <PointerOffset>3249920</PointerOffset>
+      <JapaneseText>&lt;color:02&gt;&lt;width:10&gt;&lt;space:10&gt;&lt;height:08&gt;&lt;35:08&gt;：決定</JapaneseText>
+      <EnglishText>&lt;color:02&gt;&lt;width:10&gt;&lt;space:10&gt;&lt;height:08&gt;&lt;35:08&gt;Accept</EnglishText>
+      <Notes/>
+      <Id>54</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3249928</PointerOffset>
+      <JapaneseText>：戻る</JapaneseText>
+      <EnglishText>Back</EnglishText>
+      <Notes/>
+      <Id>55</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3249952</PointerOffset>
+      <JapaneseText>&lt;color:00&gt;&lt;width:12&gt;&lt;space:12&gt;&lt;height:09&gt;&lt;35:09&gt;ゲーム本編をプレイします。</JapaneseText>
+      <EnglishText>&lt;color:00&gt;&lt;width:10&gt;&lt;space:12&gt;&lt;height:09&gt;&lt;35:09&gt;Play the main game</EnglishText>
+      <Notes/>
+      <Id>56</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3249968</PointerOffset>
+      <JapaneseText>&lt;color:0E&gt;&lt;width:12&gt;&lt;space:12&gt;&lt;height:09&gt;&lt;35:09&gt;ゲームの基本操作を学べます。全一面。</JapaneseText>
+      <EnglishText>&lt;color:0E&gt;&lt;width:10&gt;&lt;space:12&gt;&lt;height:09&gt;&lt;35:09&gt;Learn the basics of the game</EnglishText>
+      <Notes/>
+      <Id>57</Id>
+      <Chapter/>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3249984</PointerOffset>
+      <JapaneseText>&lt;color:0C&gt;&lt;width:10&gt;&lt;space:10&gt;&lt;height:08&gt;&lt;35:08&gt;プレイするシナリオを選択してください。</JapaneseText>
+      <EnglishText>&lt;color:0C&gt;&lt;width:10&gt;&lt;space:10&gt;&lt;height:08&gt;&lt;35:08&gt;Select the scenario you want to play</EnglishText>
+      <Notes/>
+      <Id>58</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
   </Strings>
@@ -249,11 +567,11 @@
         <lo>3480004</lo>
       </EmbedOffset>
       <JapaneseText>味方部隊／</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Allied／</EnglishText>
       <Notes/>
-      <Id>26</Id>
+      <Id>59</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -262,11 +580,11 @@
         <lo>3480084</lo>
       </EmbedOffset>
       <JapaneseText>敵部隊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enemy</EnglishText>
       <Notes/>
-      <Id>27</Id>
+      <Id>60</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -275,11 +593,12 @@
         <lo>3480164</lo>
       </EmbedOffset>
       <JapaneseText>味方部隊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Allied
+</EnglishText>
       <Notes/>
-      <Id>28</Id>
+      <Id>61</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -288,11 +607,11 @@
         <lo>3480244</lo>
       </EmbedOffset>
       <JapaneseText>／敵部隊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>／Enemy</EnglishText>
       <Notes/>
-      <Id>29</Id>
+      <Id>62</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -301,11 +620,11 @@
         <lo>3480324</lo>
       </EmbedOffset>
       <JapaneseText>味方部隊表</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Allied Table</EnglishText>
       <Notes/>
-      <Id>30</Id>
+      <Id>63</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -314,11 +633,11 @@
         <lo>3480404</lo>
       </EmbedOffset>
       <JapaneseText>敵部隊表</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enemy Table</EnglishText>
       <Notes/>
-      <Id>31</Id>
+      <Id>64</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -329,7 +648,7 @@
       <JapaneseText>ＳＲポイント</JapaneseText>
       <EnglishText>SR Points</EnglishText>
       <Notes/>
-      <Id>32</Id>
+      <Id>65</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -342,7 +661,7 @@
       <JapaneseText>ターン数</JapaneseText>
       <EnglishText>Turns</EnglishText>
       <Notes/>
-      <Id>33</Id>
+      <Id>66</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -355,7 +674,7 @@
       <JapaneseText>ＢＳ</JapaneseText>
       <EnglishText>BS</EnglishText>
       <Notes/>
-      <Id>34</Id>
+      <Id>67</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -368,7 +687,8 @@
       <JapaneseText>資金</JapaneseText>
       <EnglishText>Funds</EnglishText>
       <Notes/>
-      <Id>35</Id>
+      <Id>68</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -380,7 +700,8 @@
       <JapaneseText>搭載中</JapaneseText>
       <EnglishText>Installed</EnglishText>
       <Notes/>
-      <Id>36</Id>
+      <Id>69</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -392,7 +713,7 @@
       <JapaneseText>防御率</JapaneseText>
       <EnglishText>Defense</EnglishText>
       <Notes/>
-      <Id>37</Id>
+      <Id>70</Id>
       <Chapter>Map Data</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -405,7 +726,7 @@
       <JapaneseText>回避率</JapaneseText>
       <EnglishText>Evasion</EnglishText>
       <Notes/>
-      <Id>38</Id>
+      <Id>71</Id>
       <Chapter>Map Data</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -418,7 +739,7 @@
       <JapaneseText>ＨＰ回復率</JapaneseText>
       <EnglishText>HP Regen</EnglishText>
       <Notes/>
-      <Id>39</Id>
+      <Id>72</Id>
       <Chapter>Map Data</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -431,7 +752,7 @@
       <JapaneseText>ＥＮ回復率</JapaneseText>
       <EnglishText>EN Regen</EnglishText>
       <Notes/>
-      <Id>40</Id>
+      <Id>73</Id>
       <Chapter>Map Data</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -444,7 +765,7 @@
       <JapaneseText>人</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>41</Id>
+      <Id>74</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -457,7 +778,7 @@
       <JapaneseText>艦名</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>42</Id>
+      <Id>75</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -470,7 +791,8 @@
       <JapaneseText>移動</JapaneseText>
       <EnglishText>Move</EnglishText>
       <Notes/>
-      <Id>43</Id>
+      <Id>76</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -482,7 +804,7 @@
       <JapaneseText>搭乗数</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>44</Id>
+      <Id>77</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -495,7 +817,8 @@
       <JapaneseText>Ｌｖ</JapaneseText>
       <EnglishText>Lv</EnglishText>
       <Notes/>
-      <Id>45</Id>
+      <Id>78</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -507,19 +830,20 @@
       <JapaneseText>気力</JapaneseText>
       <EnglishText>Will</EnglishText>
       <Notes/>
-      <Id>46</Id>
+      <Id>79</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3507964,3508796,3523248,3525952,3713904,3715508,3715792,3719004,3719132,3725284,3741952,3736368,3736468</hi>
-        <lo>3507968,3508812,3523264,3525964,3713912,3715516,3715800,3719012,3719140,3725292,3741960,3736380,3736480</lo>
+        <hi>3507964,3508796,3523248,3525952,3713904,3715508,3715792,3719004,3719132,3725284,3741952,3736368,3736468,2838292,2838344,2838404,2838456,2847812,2847844,2847972,2848004</hi>
+        <lo>3507968,3508812,3523264,3525964,3713912,3715516,3715800,3719012,3719140,3725292,3741960,3736380,3736480,2838304,2838356,2838416,2838468,2847824,2847856,2847984,2848016</lo>
       </EmbedOffset>
       <JapaneseText>／</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>47</Id>
+      <Id>80</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -532,7 +856,7 @@
       <JapaneseText>％</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>48</Id>
+      <Id>81</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -545,7 +869,7 @@
       <JapaneseText>ＳＰ／ＭＡＸ</JapaneseText>
       <EnglishText>SP／MAX</EnglishText>
       <Notes/>
-      <Id>49</Id>
+      <Id>82</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -558,7 +882,7 @@
       <JapaneseText>精神コマンド</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>50</Id>
+      <Id>83</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -571,7 +895,7 @@
       <JapaneseText>@&lt;height:00&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>51</Id>
+      <Id>84</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -584,7 +908,7 @@
       <JapaneseText>（ーーー）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>52</Id>
+      <Id>85</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -597,7 +921,7 @@
       <JapaneseText>（　　　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>53</Id>
+      <Id>86</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -610,7 +934,7 @@
       <JapaneseText>ＨＰ／ＭＡＸ</JapaneseText>
       <EnglishText>HP／MAX</EnglishText>
       <Notes/>
-      <Id>54</Id>
+      <Id>87</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -623,7 +947,7 @@
       <JapaneseText>ＥＮ</JapaneseText>
       <EnglishText>EN</EnglishText>
       <Notes/>
-      <Id>55</Id>
+      <Id>88</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -636,7 +960,7 @@
       <JapaneseText>ＳＰ</JapaneseText>
       <EnglishText>SP</EnglishText>
       <Notes/>
-      <Id>56</Id>
+      <Id>89</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -650,7 +974,7 @@
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>57</Id>
+      <Id>90</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -663,7 +987,7 @@
       <JapaneseText>フェイズを終了します。よろしいですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>58</Id>
+      <Id>91</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -676,7 +1000,7 @@
       <JapaneseText>行動終了していない小隊が</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>59</Id>
+      <Id>92</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -689,7 +1013,7 @@
       <JapaneseText>小隊あります。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>60</Id>
+      <Id>93</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -702,7 +1026,7 @@
       <JapaneseText>フェイズを終了しますか？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>61</Id>
+      <Id>94</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -715,7 +1039,7 @@
       <JapaneseText>トライ・フォーメーションに変更しますか？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>62</Id>
+      <Id>95</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -728,7 +1052,7 @@
       <JapaneseText>武器選択</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>63</Id>
+      <Id>96</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -741,7 +1065,7 @@
       <JapaneseText>＜使用する武器を選択して下さい＞</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>64</Id>
+      <Id>97</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -754,7 +1078,7 @@
       <JapaneseText>下記の</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>65</Id>
+      <Id>98</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -767,7 +1091,7 @@
       <JapaneseText>を満たしていません。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>66</Id>
+      <Id>99</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -780,7 +1104,7 @@
       <JapaneseText>使用条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>67</Id>
+      <Id>100</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -793,7 +1117,7 @@
       <JapaneseText>・弾数</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>68</Id>
+      <Id>101</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -806,7 +1130,7 @@
       <JapaneseText>・ＥＮ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>69</Id>
+      <Id>102</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -819,7 +1143,7 @@
       <JapaneseText>・気力</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>70</Id>
+      <Id>103</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -832,7 +1156,7 @@
       <JapaneseText>・スキル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>71</Id>
+      <Id>104</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -845,7 +1169,7 @@
       <JapaneseText>・地形</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>72</Id>
+      <Id>105</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -858,7 +1182,7 @@
       <JapaneseText>・射程</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>73</Id>
+      <Id>106</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -871,7 +1195,7 @@
       <JapaneseText>・移動後可能</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>74</Id>
+      <Id>107</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -884,7 +1208,7 @@
       <JapaneseText>・援護攻撃武器条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>75</Id>
+      <Id>108</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -897,7 +1221,7 @@
       <JapaneseText>・再攻撃武器条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>76</Id>
+      <Id>109</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -910,7 +1234,7 @@
       <JapaneseText>・反撃武器条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>77</Id>
+      <Id>110</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -923,7 +1247,7 @@
       <JapaneseText>・使用不能</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>78</Id>
+      <Id>111</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -936,7 +1260,7 @@
       <JapaneseText>・ーーーーーーーーー</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>79</Id>
+      <Id>112</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -949,7 +1273,7 @@
       <JapaneseText>・フォーメーション条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>80</Id>
+      <Id>113</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -962,7 +1286,7 @@
       <JapaneseText>・小隊ユニット数条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>81</Id>
+      <Id>114</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -975,7 +1299,7 @@
       <JapaneseText>・合体攻撃相手</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>82</Id>
+      <Id>115</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -988,7 +1312,7 @@
       <JapaneseText>・サテライトチャージ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>83</Id>
+      <Id>116</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1001,7 +1325,7 @@
       <JapaneseText>空き容量　　　　ＫＢ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>84</Id>
+      <Id>117</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1014,7 +1338,7 @@
       <JapaneseText>＋　＋　＋　＋</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>85</Id>
+      <Id>118</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1027,7 +1351,7 @@
       <JapaneseText>　＜搭乗機体無し＞</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>86</Id>
+      <Id>119</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1040,7 +1364,7 @@
       <JapaneseText>（？？？）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>87</Id>
+      <Id>120</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1053,7 +1377,7 @@
       <JapaneseText>・全能力▼</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>88</Id>
+      <Id>121</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1066,7 +1390,7 @@
       <JapaneseText>・戦闘不能</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>89</Id>
+      <Id>122</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1079,7 +1403,7 @@
       <JapaneseText>・装甲値▼</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>90</Id>
+      <Id>123</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1092,7 +1416,7 @@
       <JapaneseText>・運動性▼</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>91</Id>
+      <Id>124</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1105,7 +1429,176 @@
       <JapaneseText>・照準値▼</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>92</Id>
+      <Id>125</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2836652,2845852</hi>
+        <lo>2836660,2845860</lo>
+      </EmbedOffset>
+      <JapaneseText>個数</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2837380,2846416</hi>
+        <lo>2837388,2846424</lo>
+      </EmbedOffset>
+      <JapaneseText>パイロット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2838524,2838556,2838616,2838648,2848088,2848120,2848152,2848184</hi>
+        <lo>2838536,2838568,2838628,2838660,2848100,2848132,2848164,2848196</lo>
+      </EmbedOffset>
+      <JapaneseText>空専用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2838708,2838740,2838800,2838832,2848260,2848292,2848324,2848356</hi>
+        <lo>2838720,2838752,2838812,2838844,2848272,2848304,2848336,2848368</lo>
+      </EmbedOffset>
+      <JapaneseText>陸専用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2838892,2838924,2838984,2839016,2848436,2848468,2848500,2848532</hi>
+        <lo>2838904,2838936,2838996,2839028,2848448,2848480,2848512,2848544</lo>
+      </EmbedOffset>
+      <JapaneseText>空水用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2839820,2840032,2849728,2849808</hi>
+        <lo>2839872,2840084,2849780,2849860</lo>
+      </EmbedOffset>
+      <JapaneseText>なし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2839824,2840036,2849732,2849812</hi>
+        <lo>2839836,2840048,2849744,2849824</lo>
+      </EmbedOffset>
+      <JapaneseText>あり</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2840132,2840420,2849968,2850368,3715880,3719368,3722484,3726808</hi>
+        <lo>2840140,2840432,2849976,2850380,3715892,3719380,3722496,3726820</lo>
+      </EmbedOffset>
+      <JapaneseText>空　陸　海　宇</JapaneseText>
+      <EnglishText>空　陸　海　宇</EnglishText>
+      <Notes/>
+      <Id>133</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2844452</hi>
+        <lo>2844464</lo>
+      </EmbedOffset>
+      <JapaneseText>〜【強化パーツ】装備機体〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2845788</hi>
+        <lo>2845796</lo>
+      </EmbedOffset>
+      <JapaneseText>機体</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2845820,3721936</hi>
+        <lo>2845828,3721948</lo>
+      </EmbedOffset>
+      <JapaneseText>小隊</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2847180</hi>
+        <lo>2847196</lo>
+      </EmbedOffset>
+      <JapaneseText>（</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Chapter/>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>2847216</hi>
+        <lo>2847232</lo>
+      </EmbedOffset>
+      <JapaneseText>）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1118,7 +1611,7 @@
       <JapaneseText>検索</JapaneseText>
       <EnglishText>Search</EnglishText>
       <Notes/>
-      <Id>93</Id>
+      <Id>139</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -1131,7 +1624,7 @@
       <JapaneseText>第%s話『%s』に</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>94</Id>
+      <Id>140</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1144,7 +1637,7 @@
       <JapaneseText>第%s話『%s』を</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>95</Id>
+      <Id>141</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1157,7 +1650,7 @@
       <JapaneseText>第%s話『</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>96</Id>
+      <Id>142</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1170,7 +1663,7 @@
       <JapaneseText>』に</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>97</Id>
+      <Id>143</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1183,7 +1676,7 @@
       <JapaneseText>』を</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>98</Id>
+      <Id>144</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1196,7 +1689,7 @@
       <JapaneseText>　変化無し</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>99</Id>
+      <Id>145</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1209,7 +1702,7 @@
       <JapaneseText>勝利条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>100</Id>
+      <Id>146</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1222,7 +1715,7 @@
       <JapaneseText>敗北条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>101</Id>
+      <Id>147</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1235,7 +1728,7 @@
       <JapaneseText>ＳＲポイント獲得条件</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>102</Id>
+      <Id>148</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1248,7 +1741,7 @@
       <JapaneseText>【ーー／一一一】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>103</Id>
+      <Id>149</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1261,7 +1754,7 @@
       <JapaneseText>『%s』</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>104</Id>
+      <Id>150</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1274,7 +1767,7 @@
       <JapaneseText>〜【対象選択】〜</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>105</Id>
+      <Id>151</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1287,7 +1780,7 @@
       <JapaneseText>『%s』　味方の%sを選択します。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>106</Id>
+      <Id>152</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1300,7 +1793,7 @@
       <JapaneseText>　%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>107</Id>
+      <Id>153</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1313,7 +1806,7 @@
       <JapaneseText>【一一一一】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>108</Id>
+      <Id>154</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1326,7 +1819,7 @@
       <JapaneseText>【自分</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>109</Id>
+      <Id>155</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1339,7 +1832,7 @@
       <JapaneseText>【味方</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>110</Id>
+      <Id>156</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1352,7 +1845,7 @@
       <JapaneseText>【敵</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>111</Id>
+      <Id>157</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1365,7 +1858,7 @@
       <JapaneseText>単体】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>112</Id>
+      <Id>158</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1378,7 +1871,7 @@
       <JapaneseText>小隊】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>113</Id>
+      <Id>159</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1391,7 +1884,7 @@
       <JapaneseText>全体】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>114</Id>
+      <Id>160</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1404,7 +1897,7 @@
       <JapaneseText>個人】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>115</Id>
+      <Id>161</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1417,7 +1910,7 @@
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>116</Id>
+      <Id>162</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1430,7 +1923,7 @@
       <JapaneseText>？？？？？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>117</Id>
+      <Id>163</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1443,7 +1936,7 @@
       <JapaneseText>%sＬ%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>118</Id>
+      <Id>164</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1456,7 +1949,7 @@
       <JapaneseText>%s＋%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>119</Id>
+      <Id>165</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1469,7 +1962,7 @@
       <JapaneseText>%sＬ%s＋%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>120</Id>
+      <Id>166</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1482,7 +1975,7 @@
       <JapaneseText>　</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>121</Id>
+      <Id>167</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1496,7 +1989,7 @@
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>122</Id>
+      <Id>168</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1509,7 +2002,7 @@
       <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>123</Id>
+      <Id>169</Id>
       <Chapter/>
       <Status>Done</Status>
     </Entry>
@@ -1522,7 +2015,7 @@
       <JapaneseText>ーーーーーーーー</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>124</Id>
+      <Id>170</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1535,7 +2028,7 @@
       <JapaneseText>%s%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>125</Id>
+      <Id>171</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1548,7 +2041,7 @@
       <JapaneseText>%s・%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>126</Id>
+      <Id>172</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1561,7 +2054,7 @@
       <JapaneseText>経過ターン数</JapaneseText>
       <EnglishText>Turns Elapsed</EnglishText>
       <Notes/>
-      <Id>127</Id>
+      <Id>173</Id>
       <Chapter>Tactical Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -1574,7 +2067,7 @@
       <JapaneseText>総ターン数</JapaneseText>
       <EnglishText>Total Turns</EnglishText>
       <Notes/>
-      <Id>128</Id>
+      <Id>174</Id>
       <Chapter>Tactical Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -1587,7 +2080,7 @@
       <JapaneseText>獲得資金</JapaneseText>
       <EnglishText>Earned Funds</EnglishText>
       <Notes/>
-      <Id>129</Id>
+      <Id>175</Id>
       <Chapter>Tactical Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -1600,7 +2093,7 @@
       <JapaneseText>総資金</JapaneseText>
       <EnglishText>Total Funds</EnglishText>
       <Notes/>
-      <Id>130</Id>
+      <Id>176</Id>
       <Chapter>Tactical Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -1613,7 +2106,7 @@
       <JapaneseText>獲得ＢＳ</JapaneseText>
       <EnglishText>BS Acquired</EnglishText>
       <Notes/>
-      <Id>131</Id>
+      <Id>177</Id>
       <Chapter>Tactical Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -1626,7 +2119,7 @@
       <JapaneseText>総ＢＳ</JapaneseText>
       <EnglishText>BS Total</EnglishText>
       <Notes/>
-      <Id>132</Id>
+      <Id>178</Id>
       <Chapter>Tactical Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -1639,7 +2132,7 @@
       <JapaneseText>戦力</JapaneseText>
       <EnglishText>Forces</EnglishText>
       <Notes/>
-      <Id>133</Id>
+      <Id>179</Id>
       <Chapter>Tactical Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -1652,7 +2145,8 @@
       <JapaneseText>獲得強化パーツ</JapaneseText>
       <EnglishText>Parts Acquired</EnglishText>
       <Notes/>
-      <Id>134</Id>
+      <Id>180</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1664,7 +2158,8 @@
       <JapaneseText>総撃墜数</JapaneseText>
       <EnglishText>Total Kills</EnglishText>
       <Notes/>
-      <Id>135</Id>
+      <Id>181</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1676,7 +2171,7 @@
       <JapaneseText>被撃墜数</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>136</Id>
+      <Id>182</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1689,7 +2184,7 @@
       <JapaneseText>：養成へ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>137</Id>
+      <Id>183</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1702,7 +2197,7 @@
       <JapaneseText>：改造へ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>138</Id>
+      <Id>184</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1715,7 +2210,8 @@
       <JapaneseText>格闘</JapaneseText>
       <EnglishText>CQB</EnglishText>
       <Notes/>
-      <Id>139</Id>
+      <Id>185</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1727,7 +2223,8 @@
       <JapaneseText>射撃</JapaneseText>
       <EnglishText>RNG</EnglishText>
       <Notes/>
-      <Id>140</Id>
+      <Id>186</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1739,7 +2236,8 @@
       <JapaneseText>技量</JapaneseText>
       <EnglishText>SKL</EnglishText>
       <Notes/>
-      <Id>141</Id>
+      <Id>187</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1751,7 +2249,8 @@
       <JapaneseText>防御</JapaneseText>
       <EnglishText>DEF</EnglishText>
       <Notes/>
-      <Id>142</Id>
+      <Id>188</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1763,7 +2262,8 @@
       <JapaneseText>回避</JapaneseText>
       <EnglishText>EVA</EnglishText>
       <Notes/>
-      <Id>143</Id>
+      <Id>189</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1775,7 +2275,8 @@
       <JapaneseText>命中</JapaneseText>
       <EnglishText>ACC</EnglishText>
       <Notes/>
-      <Id>144</Id>
+      <Id>190</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1787,7 +2288,8 @@
       <JapaneseText>装甲</JapaneseText>
       <EnglishText>Armor</EnglishText>
       <Notes/>
-      <Id>145</Id>
+      <Id>191</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1799,7 +2301,8 @@
       <JapaneseText>運動性</JapaneseText>
       <EnglishText>Mobility</EnglishText>
       <Notes/>
-      <Id>146</Id>
+      <Id>192</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1811,20 +2314,9 @@
       <JapaneseText>照準値</JapaneseText>
       <EnglishText>Aim</EnglishText>
       <Notes/>
-      <Id>147</Id>
+      <Id>193</Id>
+      <Chapter/>
       <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3715880,3719368,3722484,3726808</hi>
-        <lo>3715892,3719380,3722496,3726820</lo>
-      </EmbedOffset>
-      <JapaneseText>空　陸　海　宇</JapaneseText>
-      <EnglishText>空　陸　海　宇</EnglishText>
-      <Notes/>
-      <Id>148</Id>
-      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -1837,11 +2329,16 @@
 ス
 キ
 ル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>S
+K
+I
+L
+L
+S</EnglishText>
       <Notes/>
-      <Id>149</Id>
+      <Id>194</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -1853,11 +2350,19 @@
 殊
 能
 力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A
+B
+I
+L
+I
+T
+I
+E
+S</EnglishText>
       <Notes/>
-      <Id>150</Id>
+      <Id>195</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -1870,11 +2375,15 @@
 パ
 ｜
 ツ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P
+A
+R
+T
+S</EnglishText>
       <Notes/>
-      <Id>151</Id>
+      <Id>196</Id>
       <Chapter/>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -1885,7 +2394,7 @@
       <JapaneseText>ＰＰ</JapaneseText>
       <EnglishText>PP</EnglishText>
       <Notes/>
-      <Id>152</Id>
+      <Id>197</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -1898,7 +2407,7 @@
       <JapaneseText>Ｎｅｘｔ</JapaneseText>
       <EnglishText>Next</EnglishText>
       <Notes/>
-      <Id>153</Id>
+      <Id>198</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -1911,7 +2420,7 @@
       <JapaneseText>隊長効果</JapaneseText>
       <EnglishText>Cpt Effect</EnglishText>
       <Notes/>
-      <Id>154</Id>
+      <Id>199</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -1924,7 +2433,7 @@
       <JapaneseText>艦長効果</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>155</Id>
+      <Id>200</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1937,7 +2446,7 @@
       <JapaneseText>命</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>156</Id>
+      <Id>201</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1950,7 +2459,7 @@
       <JapaneseText>射</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>157</Id>
+      <Id>202</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1963,7 +2472,7 @@
       <JapaneseText>回</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>158</Id>
+      <Id>203</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1976,7 +2485,7 @@
       <JapaneseText>技</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>159</Id>
+      <Id>204</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -1989,7 +2498,7 @@
       <JapaneseText>防</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>160</Id>
+      <Id>205</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2002,20 +2511,7 @@
       <JapaneseText>格</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>161</Id>
-      <Chapter/>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3721936</hi>
-        <lo>3721948</lo>
-      </EmbedOffset>
-      <JapaneseText>小隊</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>162</Id>
+      <Id>206</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2028,7 +2524,7 @@
       <JapaneseText>ＨＰ</JapaneseText>
       <EnglishText>HP</EnglishText>
       <Notes/>
-      <Id>163</Id>
+      <Id>207</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -2041,7 +2537,7 @@
       <JapaneseText>タイプ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>164</Id>
+      <Id>208</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2054,7 +2550,7 @@
       <JapaneseText>強化パーツ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>165</Id>
+      <Id>209</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2067,7 +2563,7 @@
       <JapaneseText>特殊能力</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>166</Id>
+      <Id>210</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2080,7 +2576,7 @@
       <JapaneseText>撃墜数</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>167</Id>
+      <Id>211</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2093,7 +2589,7 @@
       <JapaneseText>ＥＸＰ</JapaneseText>
       <EnglishText>Exp</EnglishText>
       <Notes/>
-      <Id>168</Id>
+      <Id>212</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -2106,7 +2602,7 @@
       <JapaneseText>Ｎｅｘｔ−Ｌｖ</JapaneseText>
       <EnglishText>Next Lvl</EnglishText>
       <Notes/>
-      <Id>169</Id>
+      <Id>213</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -2119,7 +2615,8 @@
       <JapaneseText>能力</JapaneseText>
       <EnglishText>Ability</EnglishText>
       <Notes/>
-      <Id>170</Id>
+      <Id>214</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -2131,7 +2628,7 @@
       <JapaneseText>特殊スキル</JapaneseText>
       <EnglishText>Skills</EnglishText>
       <Notes/>
-      <Id>171</Id>
+      <Id>215</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -2144,7 +2641,7 @@
       <JapaneseText>精神コマンド／ＳＰ</JapaneseText>
       <EnglishText>Spirit Cmd／SP</EnglishText>
       <Notes/>
-      <Id>172</Id>
+      <Id>216</Id>
       <Chapter/>
       <Status>Editing</Status>
     </Entry>
@@ -2157,7 +2654,7 @@
       <JapaneseText>ＭＡＰ兵器（　　　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>173</Id>
+      <Id>217</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2170,7 +2667,7 @@
       <JapaneseText>トライチャージ兵器（　　　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>174</Id>
+      <Id>218</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2183,7 +2680,7 @@
       <JapaneseText>全体攻撃武器（　　　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>175</Id>
+      <Id>219</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2196,7 +2693,7 @@
       <JapaneseText>ＰＬＡ攻撃武器（　　　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>176</Id>
+      <Id>220</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2209,7 +2706,7 @@
       <JapaneseText>特殊攻撃武器</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>177</Id>
+      <Id>221</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2222,7 +2719,7 @@
       <JapaneseText>移動後使用可能</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>178</Id>
+      <Id>222</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2235,7 +2732,7 @@
       <JapaneseText>ビーム兵器</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>179</Id>
+      <Id>223</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2248,7 +2745,7 @@
       <JapaneseText>（　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>180</Id>
+      <Id>224</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2261,7 +2758,7 @@
       <JapaneseText>（　　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>181</Id>
+      <Id>225</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2274,7 +2771,7 @@
       <JapaneseText>%s〜%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>182</Id>
+      <Id>226</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2287,7 +2784,7 @@
       <JapaneseText>　１〜</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>183</Id>
+      <Id>227</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2300,7 +2797,7 @@
       <JapaneseText>%sＬ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>184</Id>
+      <Id>228</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2313,7 +2810,7 @@
       <JapaneseText>搭載</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>185</Id>
+      <Id>229</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2326,7 +2823,7 @@
       <JapaneseText>待機</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>186</Id>
+      <Id>230</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2339,7 +2836,7 @@
       <JapaneseText>攻撃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>187</Id>
+      <Id>231</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2352,7 +2849,7 @@
       <JapaneseText>空中</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>188</Id>
+      <Id>232</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2365,7 +2862,7 @@
       <JapaneseText>地上</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>189</Id>
+      <Id>233</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2378,7 +2875,7 @@
       <JapaneseText>水中</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>190</Id>
+      <Id>234</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2391,7 +2888,7 @@
       <JapaneseText>発進</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>191</Id>
+      <Id>235</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2404,7 +2901,7 @@
       <JapaneseText>修理</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>192</Id>
+      <Id>236</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2417,7 +2914,7 @@
       <JapaneseText>補給</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>193</Id>
+      <Id>237</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2430,7 +2927,7 @@
       <JapaneseText>変形</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>194</Id>
+      <Id>238</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2443,7 +2940,7 @@
       <JapaneseText>分離</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>195</Id>
+      <Id>239</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2456,7 +2953,7 @@
       <JapaneseText>合体</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>196</Id>
+      <Id>240</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2469,7 +2966,7 @@
       <JapaneseText>パーツ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>197</Id>
+      <Id>241</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2482,7 +2979,7 @@
       <JapaneseText>フォーメーション</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>198</Id>
+      <Id>242</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2495,7 +2992,8 @@
       <JapaneseText>精神</JapaneseText>
       <EnglishText>Spirit</EnglishText>
       <Notes/>
-      <Id>199</Id>
+      <Id>243</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -2507,7 +3005,7 @@
       <JapaneseText>説得</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>200</Id>
+      <Id>244</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2520,7 +3018,7 @@
       <JapaneseText>戦術換装</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>201</Id>
+      <Id>245</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2533,7 +3031,7 @@
       <JapaneseText>合神</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>202</Id>
+      <Id>246</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2546,7 +3044,7 @@
       <JapaneseText>トリニティＣ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>203</Id>
+      <Id>247</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2559,7 +3057,7 @@
       <JapaneseText>回収</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>204</Id>
+      <Id>248</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2572,7 +3070,7 @@
       <JapaneseText>フェイズ終了</JapaneseText>
       <EnglishText>End Phase</EnglishText>
       <Notes/>
-      <Id>205</Id>
+      <Id>249</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -2585,7 +3083,7 @@
       <JapaneseText>部隊表</JapaneseText>
       <EnglishText>Team Lists</EnglishText>
       <Notes/>
-      <Id>206</Id>
+      <Id>250</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -2598,7 +3096,7 @@
       <JapaneseText>作戦目的</JapaneseText>
       <EnglishText>Battle Objective</EnglishText>
       <Notes/>
-      <Id>207</Id>
+      <Id>251</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -2611,7 +3109,7 @@
       <JapaneseText>戦況報告</JapaneseText>
       <EnglishText>Combat Report</EnglishText>
       <Notes/>
-      <Id>208</Id>
+      <Id>252</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -2624,7 +3122,7 @@
       <JapaneseText>一括フォーメーション</JapaneseText>
       <EnglishText>Formation</EnglishText>
       <Notes/>
-      <Id>209</Id>
+      <Id>253</Id>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
@@ -2637,7 +3135,8 @@
       <JapaneseText>システム</JapaneseText>
       <EnglishText>Options</EnglishText>
       <Notes/>
-      <Id>210</Id>
+      <Id>254</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -2649,7 +3148,8 @@
       <JapaneseText>途中セーブ</JapaneseText>
       <EnglishText>Save</EnglishText>
       <Notes/>
-      <Id>211</Id>
+      <Id>255</Id>
+      <Chapter/>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -2661,7 +3161,7 @@
       <JapaneseText>母艦の改造</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>212</Id>
+      <Id>256</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2674,7 +3174,7 @@
       <JapaneseText>：決定</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>213</Id>
+      <Id>257</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2687,7 +3187,7 @@
       <JapaneseText>：リスト選択</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>214</Id>
+      <Id>258</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2700,7 +3200,7 @@
       <JapaneseText>：ーーーーー</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>215</Id>
+      <Id>259</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>
@@ -2713,7 +3213,7 @@
       <JapaneseText>：ーーー</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>216</Id>
+      <Id>260</Id>
       <Chapter/>
       <Status>To Do</Status>
     </Entry>

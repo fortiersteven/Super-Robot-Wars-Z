@@ -140,6 +140,7 @@ def text_to_bytes(text:str, font_adjusted:bool):
                         b = ijsonTblTags["tbl"][c].to_bytes(2, 'big')
                         output += b
                     else:
+                        c = c.replace("\u200b", "")
                         output += c.encode("cp932")
 
     return output

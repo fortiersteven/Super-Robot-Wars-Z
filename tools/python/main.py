@@ -142,5 +142,7 @@ if __name__ == "__main__":
 
         if args.file_type == "Menu":
             robotwars.pack_all_menu()
+            robotwars.pack_compdata()
             robotwars.patch_binaries()
+            robotwars.build_ps2_iso(args.iso)
             #robotwars.make_iso()

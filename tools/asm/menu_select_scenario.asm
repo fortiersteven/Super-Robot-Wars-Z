@@ -1,0 +1,13 @@
+.ps2
+.open __SLPS_PATH__, 0x00FE580
+
+.org 0x00417CC4
+	.byte 0x7C
+	
+.org 0x00417CB4
+	.byte 0x95
+	
+.org 0x00417CA4
+	.byte 0xB4
+	
+.close

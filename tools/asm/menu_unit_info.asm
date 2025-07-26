@@ -5,6 +5,13 @@
 .org 0x0038A404
 	li  a0, 0xC
 	
+.org 0x0038A94C
+	li  a0, 0xC
+	
+.org 0x0038B314
+	li  a0, 0x13
+	
+	
 .org 0x0038A4DC
 	addiu v1,v1,-0xD8
 	
