@@ -1,0 +1,13 @@
+.ps2
+.open __SLPS_PATH__, 0x00FE580
+
+.org 0x003540F0
+	li 	a0, 0x13
+	
+.org 0x0035414C
+	li  a0, 0x13
+	
+.org 0x003541DC
+	li  a0, 0x13
+	
+.close

@@ -4,4 +4,5 @@
 .include "menu_pilot_info.asm"
 .include "menu_weapons_info.asm"
 .include "menu_select_scenario.asm"
+.include "menu_tactical.asm"
 .include "menu_parts_reinfor.asm"
