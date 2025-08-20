@@ -1,9 +1,11 @@
 import shutil
 import os
+import stat
 import struct
 from pathlib import Path
 import math
 import pandas
+import pandas as pd
 import pycdlib
 import pyjson5 as json
 import pprint
@@ -17,6 +19,7 @@ import lxml.etree as etree
 from tools.python.lib.FileIO import FileIO
 from tools.python.lib.stage import Stage
 from tools.python.lib.compdata import CompData
+from tools.python.lib.vt1 import Vt1
 from tools.python.lib.decompressor import Decompressor
 from tools.python.lib.binary_extracted import text_to_bytes, bytes_to_text
 from tools.python import isotool
@@ -26,6 +29,7 @@ class SRWZ():
     def __init__(self, project_file:Path, insert_mask: list[str], changed_only: bool = False):
         self.jsonTblTags = {}
         self.ijsonTblTags = {}
+        self.slps_offsets = {}
         self.project_file = project_file
         self.id = 1
         self.list_status_insertion: list[str] = ['Done']
@@ -114,18 +118,23 @@ class SRWZ():
 
         iso.close()
 
+    def handle_remove_readonly(self, func, path, exc_info):
+        # Change the file permission and reattempt removal
+        os.chmod(path, stat.S_IWRITE)
+        func(path)
+
     def clean_folder(self, path: Path) -> None:
         target_files = list(path.iterdir())
         if len(target_files) != 0:
             print("Cleaning folder...")
             for file in target_files:
                 if file.is_dir():
-                    shutil.rmtree(file)
+                    shutil.rmtree(file, onerror=self.handle_remove_readonly, ignore_errors=True)
                 elif file.name.lower() != ".gitignore":
                     file.unlink(missing_ok=False)
 
     def clean_builds(self, path: Path) -> None:
-        target_files = sorted(list(path.glob("*.iso")), key=lambda x: x.name)[:-4]
+        target_files = sorted(list(path.glob("*.iso")), key=lambda x: x.name)[:-3]
         if len(target_files) != 0:
             print("Cleaning builds folder...")
             for file in target_files:
@@ -168,8 +177,10 @@ class SRWZ():
 
                 if item['compressed']:
                     # print(f' {i}.bin')
-                    dec = Decompressor()
-                    dec.decompress(new_folder / f'{i}.bin', new_folder / f'{i}d.bin')
+                    
+                    if i != 1:
+                        dec = Decompressor()
+                        dec.decompress(new_folder / f'{i}.bin', new_folder / f'{i}d.bin')
 
     def extract_seg_archive(self, file_name:str):
         item = self.archives[file_name]
@@ -208,11 +219,12 @@ class SRWZ():
         for file_name, item in self.archives.items():
             print(file_name)
 
-            if 'seg' in item.keys():
-                self.extract_seg_archive(file_name)
+            if file_name in ['COMPDATA.BN']:
+                if 'seg' in item.keys():
+                    self.extract_seg_archive(file_name)
 
-            else:
-                self.extract_SLPS_archive(file_name)
+                else:
+                    self.extract_SLPS_archive(file_name)
 
     def extract_stage_offsets(self):
 
@@ -721,6 +733,9 @@ class SRWZ():
                 "-strequ",
                 "__SLPS_PATH__",
                 str(self.paths["temp_files"] / self.main_exe_name),
+                "-strequ",
+                "__PROP_PATH__",
+                str(self.paths["font_updated"] / 'font_properties.bin'),
             ],
             env=env,
             cwd=str(self.paths["tools"] / "asm")
@@ -728,6 +743,7 @@ class SRWZ():
         if r.returncode != 0:
             raise ValueError("Error running armips")
 
+        (self.paths['final_files'] / 'New_files').mkdir(parents=True, exist_ok=True)
         shutil.copy(self.paths['temp_files'] / 'SLPS_258.87', self.paths['temp_files'] / 'SLPS_258.elf')
         shutil.copy(self.paths['temp_files'] / 'SLPS_258.87', self.paths['final_files'] / 'New_files' / 'SLPS_258.87')
 
@@ -929,6 +945,36 @@ class SRWZ():
     def pack_compdata(self):
         cp = CompData(path = self.paths['extracted_files'] / 'DATA' / 'COMPDATA' / '0d.bin')
         cp.pack_file(paths=self.paths, original_file=self.paths['extracted_files'] / 'DATA' / 'COMPDATA' / '0.bin')
+
+    def convert_font_properties(self):
+        df = pd.read_excel(self.paths['font_updated'] / 'VWF_Properties.xlsx')
+        df = df.dropna(subset='Shift-JIS')
+        columns = ['Width_13', 'Width_0C', 'Width_Other1', 'Width_Other2']
+
+        with FileIO(self.paths['font_updated'] / 'font_properties.bin', 'wb') as bin_file:
+            for _, row in df[columns].iterrows():
+                for hex_val in row:
+                    int_val = int(str(hex_val), 16)
+                    bin_file.write_uint8(int_val)
+
+    def pack_font(self):
+        self.convert_font_properties()
+
+        item = self.archives['VT1.BIN']
+        slps_offsets = self.extract_SLPS_offsets(item['start'], item['end'])
+        vt1 = Vt1(path=self.paths['original_files'] / 'DATA' / 'VT1.BIN')
+        new_offsets = vt1.pack_file(self.paths, slps_offsets)
+        self.slps_offsets[item['start']] = new_offsets
+
+    def update_slps_offsets(self):
+
+        with FileIO(self.paths['final_files'] / "New_files" / 'SLPS_258.87', "rb+") as f:
+
+            for start_offset, offsets in self.slps_offsets.items():
+                f.seek(start_offset)
+
+                for off in offsets:
+                    f.write_uint32(off)
 
     def pack_menu_file(self, root, pools: list[list[int]], base_offset: int, f: FileIO, pad=False) -> None:
         entries = root.iter("Entry")

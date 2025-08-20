@@ -11,7 +11,7 @@
 		"story_original":  "./1.5_original_translated/story/",
         "menu_xml":        "./2_translated/menu/",
         "story_xml":       "./2_translated/story/",
-        "skit_xml":        "./2_Translated/skits/",
+        "font_updated":    "./2_translated/font",
         "final_files":     "./3_patched/",
         "temp_files":      "./3_patched/patched_temp/",
         "game_builds":     "./4_builds/",

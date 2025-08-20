@@ -1,6 +1,7 @@
 import argparse
 from pathlib import Path
 from lib.SRWZ import SRWZ
+import shutil
 
 
 def get_arguments(argv=None):
@@ -29,7 +30,7 @@ def get_arguments(argv=None):
     sp_extract.add_argument(
         "-ft",
         "--file_type",
-        choices=["Iso", "Main", "Menu", "Story", "Skits"],
+        choices=["Iso", "Main", "Menu", "Story", "All"],
         required=True,
         metavar="file_type",
         help="(Required) - Options: Iso, Init, Main, Menu, Story, Skits",
@@ -134,15 +135,23 @@ if __name__ == "__main__":
 
         if args.file_type == "Iso":
             robotwars.extract_iso(game_iso=args.iso)
+            robotwars.extract_all_archives()
+            robotwars.extract_stage_archive()
 
         elif args.file_type == "Menu":
+            robotwars.extract_all_menus()
+
+        elif args.file_type == "All":
             robotwars.extract_all_menus()
 
     elif args.action =="insert":
 
         if args.file_type == "Menu":
+            shutil.copytree(robotwars.paths["original_files"], robotwars.paths["final_files"] / "New_files", dirs_exist_ok=True)
             robotwars.pack_all_menu()
-            robotwars.pack_compdata()
+            #robotwars.pack_compdata()
+            robotwars.pack_font()
             robotwars.patch_binaries()
+            robotwars.update_slps_offsets()
             robotwars.build_ps2_iso(args.iso)
             #robotwars.make_iso()
