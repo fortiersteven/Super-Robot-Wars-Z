@@ -3,139 +3,165 @@
 
 ; Character spacing test
 ;.org 0x0013AAE8
-;	addiu 	v0, v0, 0x14
+;	addiu 	$v0, $v0, 0x14
 	
 ;.org 0x0013C654
-;	addiu	a2, a1, 0x14
-
-
-.org 0x0013A968
+;	addiu	$a2, $a1, 0x14
 	
-	addiu	s4, s4, -1
-	ori     v0,zero,0x989f
-    slt     v0,v1,v0
-    bne     v0,zero,call_func					; v0 < 0x989F, call our function
+.org 0x0013A968
+	addiu	$s4, $s4, -2
+	ori     $v0,$zero,0x989f
+    slt     $v0,$v1,$v0
+    bne     $v0,$zero,call_func					; $v0 < 0x989F, call our function
 	nop
 	j		0x0013A898							; Else branch of the If condition
 	nop
 call_func:
-	j		computeIndex
-	nop
+	jal		computeIndex
+	move 	$a0, $s4
 	
-; Create the new function to handle ascii characters
+return_index:
+	move	$s4, $a0
+	
+; Cre$ate the new function to handle ascii characters
 .org 0x0043B334		
 
 computeIndex:		
-	; a0 = first_byte
-	; a1 = address to 2nd byte if needed
-	li      t0, 0x7F          					; Load 0x7F into $t0
-	ble     a0, t0, isASCII  					; If a0 <= 0x7F, branch to isASCII
+	; $a0 = address of the string
+	lbu		$t4, ($a0)							; Read first byte
+	li      $t0, 0x7F          					; Load 0x7F into $t0
+	ble     $t4, $t0, isASCII  					; If $t4 <= 0x7F, branch to isASCII
 	nop
 
 	
 	; Handle regular branch with Kanji
-	li 		t0, -0x89
-	lbu      t1, (s4)
-	addiu	s4, s4, 0x1
-	addu	a0, a0, t0
-	sll 	v1, a0, 0x1
-	addu	v1, v1, a0
-	sll 	v1, v1, 0x6
-	addiu	v1, v1, 0x5C0
-	addu 	t2, t1, v1							; t2 is the index
+	li 		$t0, -0x89
+	addiu	$a0, $a0, 0x1
+	lbu     $t1, ($a0)
+	addu	$t4, $t4, $t0
+	sll 	$v1, $t4, 0x1
+	addu	$v1, $v1, $t4
+	sll 	$v1, $v1, 0x6
+	addiu	$v1, $v1, 0x5C0
+	addu 	$t2, $t1, $v1							; $t2 is the index
 	
-	lui     at, 0x7000
-	sh      t2, 0x62(at)						; Store the index at the right place
+	lui     $at, 0x7000
+	sh      $t2, 0x62($at)						; Store the index $at the right place
+	addiu	$a0, $a0, 0x1
 	
-	j       0x13A990     						; Return from the function
+	j       skip       						; Return from the function
 	nop
 	
 	isASCII:
-		li      t0, 'a'           				; Load 'a' into $t0
-		li      t1, 'z'           				; Load 'z' into $t1
 		
-		;Spacing
-		;li      v0, 0x5
-		;lui     at, 0x0047
-		;sh		v0, -0x1C94(at)
-        
-		;Size
-		;li		v0, 0x10
-		;sh		v0, -0x1C98(at)
-		;sh      v0, 0x18(s1)
-		;sh      v0, 0x38(at)                
-        ;sh      zero,0x48(s1)
-		blt     a0, t0, notLowercase  		; If bVar1 < 'a', it's not lowercase
-		nop
-
-		; Handle Lowercase here
-		li		t1, 0x82
-		li		t2, -0x180
-		subu    $t3, $a0, $t0         		; index = char - 'a'
-		addiu   $t3, $t3, 0x1A    
-		addiu	a0, a0, 0x20
-		j       final
+		
+		li 		$t0, 0x20	
+		li		$t2, 0xBF
+		subu    $v0, $t4, $t0							; index = char - 0x20
+		li		$t1, 'Z'
+		blt     $t4, $t1, upper_case
 		nop
 		
-	notLowercase:
-		li      t0, 'A'           				; Load 'A' into $t0
-		li      t1, 'Z'           				; Load 'Z' into $t1
-		blt     a0, t0, notUppercase  			; If bVar1 < 'A', it's not uppercase
-		nop
-		bgt     a0, t1, notUppercase  			; If bVar1 > 'Z', it's not uppercase
-		nop
+		lower_case:
+			addiu	$v0, $v0, 0x1
 		
-		; Handle Uppercase here
-		li		t1, 0x82
-		li		t2, -0x180
-		subu    $t3, $a0, $t0
-		addiu	a0, a0, 0x1F
-
-		j       final
-		nop
+		upper_case:
+			addu    $v0,$v0,$t2
+			lui     $at, 0x7000 
+			sh      $v0, 0x62($at)						; Store the index $at the right place
+			
+			;Store the value
+			jal		get_ascii_width
+			nop
 		
-	notUppercase:
-		li      v0, 0x34            				; Print integer syscall
-		move    a0, a0           					; Print the character (ASCII value in $a0)
-		
-		; For other type of characters
-	
-	final:
-		lui     at, 0x7000                       
-        sll     t1,t1,0x8
-        andi    t1,t1,0xffff
-        or      v0,t1,a0							; Create two bytes values
-        addiu   v0, v0, -0x8000  
-        addu    v0,v0,t2
-		sh      v0, 0x62(at)						; Store the index at the right place
-		
-		;Index for Width
-		li      t7, 0x4               				
-		multu   t3, t7
-		mflo    t8                   				; t8 = index * 4
-		addu    t8, t8, a1         					; add size index (0,1,2)
-		
-		;Store the value
-		lui     t0, 0x0043
-		ori     t0, t0, 0xB590 
-		addu    t9, t0, t8         					; final address = base + offset
-		lbu     v0, 0x0(t9)           				; load width byte
-		sh 		v0, 0x38(at)			
-		
-		;lw      v0, 0x30(at)           				; load width byte
-		;subu	v0, v0, v1
-		;sh 		v0, 0x30(at)
+		ascii_return:
+			sh 		$v0, 0x38($at)
 	
 	skip:
-		j       0x13A990     						; Return from the function
+		
+		
+		j 	return_index    						; Return from the function
 		nop
 
 	skip_jump:
+		
+		j 	return_index
+
+
+;Take a 1 byte char th$at is ASCII and compute the size based on the font style
+;and a table used to stored VWF values
+;It supports the new control code 0x3F for unsupported ASCII character in the 0x20-0x3F range
+;$a0 = pointer to string
+get_ascii_width:
+
 	
+	lbu		$t4, ($a0)
+	;Test for the new control byte for ascii
+	addiu 	$t0, $zero, 0x3F
+	bne   	$t4 ,$t0 ,regular_ascii
+
+	not_supported_ascii:
+		
+		;We read the next character and we continue on the regular branch
+		addiu	$a0, $a0, 0x1
+		lbu		$t4, ($a0)
+	
+	regular_ascii:
+		;Compute the character index
+		li 		$t0, 0x20
+		subu    $t3, $t4, $t0							; index = char - 0x20
+		li      $t7, 0x4               				
+		multu   $t3, $t7
+		
+		jal		get_font_style							; $v0 = font style 
+		mflo    $t8                   					; $t8 = index * 4
+		addu    $t8, $t8, $v0        					; add font style (0,1,2,3)
+		
+		;Compute the final offset into the table
+		lui     $t0, 0x0043
+		ori     $t0, $t0, 0xB590 
+		addu    $t9, $t0, $t8         					; final address = base + offset
+		lbu     $v0, 0x0($t9)           				; load width byte
+	
+	j 	ascii_return
+	
+get_font_style:
+	lbu		$t4, -0x75b8($gp)
+	li      $v0, 0x3              
+    li      $t1, 0x13
+    beq     $t4, $t1, L_case1
+	nop
+    li      $t1, 0x0C
+    beq     $t4, $t1, L_case2
+	nop
+    beqz    $t4, L_case3        
+	nop
+    b       L_end             
+	nop
+
+	;if font=0x13
+	L_case1:
+		li      $v0, 0x0
+		b       L_end
+		nop
+
+	;if font=0x0C
+	L_case2:
+		li      $v0, 0x1
+		b       L_end
+		nop
+	;if font=0x00
+	L_case3:
+		li      $v0, 0x2
+
+	;else other font
+	L_end:
+		jr $ra
+
 
 .org 0x0013A990
-	    lui     at,0x7000
-        lhu     v0, 0x62(at)
+	    lui     $at,0x7000
+        lhu     $v0, 0x62($at)
 
 .org 0x0043B590
 	.incbin __PROP_PATH__
