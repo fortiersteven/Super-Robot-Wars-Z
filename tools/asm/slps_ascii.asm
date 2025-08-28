@@ -1,12 +1,7 @@
 .ps2
 .open __SLPS_PATH__, 0x00FE580
 
-; Character spacing test
-;.org 0x0013AAE8
-;	addiu 	$v0, $v0, 0x14
-	
-;.org 0x0013C654
-;	addiu	$a2, $a1, 0x14
+
 	
 .org 0x0013A968
 	addiu	$s4, $s4, -2
@@ -23,8 +18,8 @@ call_func:
 return_index:
 	move	$s4, $a0
 	
-; Cre$ate the new function to handle ascii characters
-.org 0x0043B334		
+; Create the new function to handle ascii characters
+.org 0x003F5820	
 
 computeIndex:		
 	; $a0 = address of the string
@@ -39,11 +34,11 @@ computeIndex:
 	addiu	$a0, $a0, 0x1
 	lbu     $t1, ($a0)
 	addu	$t4, $t4, $t0
-	sll 	$v1, $t4, 0x1
-	addu	$v1, $v1, $t4
-	sll 	$v1, $v1, 0x6
-	addiu	$v1, $v1, 0x5C0
-	addu 	$t2, $t1, $v1							; $t2 is the index
+	sll 	$t3, $t4, 0x1
+	addu	$t3, $t3, $t4
+	sll 	$t3, $t3, 0x6
+	addiu	$t3, $t3, 0x5C0
+	addu 	$t2, $t1, $t3							; $t2 is the index
 	
 	lui     $at, 0x7000
 	sh      $t2, 0x62($at)						; Store the index $at the right place
@@ -55,12 +50,21 @@ computeIndex:
 	isASCII:
 		
 		
-		li 		$t0, 0x20	
-		li		$t2, 0xBF
-		subu    $v0, $t4, $t0							; index = char - 0x20
-		li		$t1, 'Z'
-		blt     $t4, $t1, upper_case
+		li	$t0, 0x2A
+		bne   	$t4 ,$t0 ,regular
 		nop
+		
+		;We read the next character and we continue on the regular branch
+		addiu	$a0, $a0, 0x1
+		lbu		$t4, ($a0)
+			
+		regular:	
+			li 		$t0, 0x20	
+			li		$t2, 0xBF
+			subu    $v0, $t4, $t0							; index = char - 0x20
+			li		$t1, 'Z'
+			blt     $t4, $t1, upper_case
+			nop
 		
 		lower_case:
 			addiu	$v0, $v0, 0x1
@@ -73,8 +77,7 @@ computeIndex:
 			;Store the value
 			jal		get_ascii_width
 			nop
-		
-		ascii_return:
+			lui     $at, 0x7000 
 			sh 		$v0, 0x38($at)
 	
 	skip:
@@ -95,24 +98,25 @@ computeIndex:
 get_ascii_width:
 
 	
-	lbu		$t4, ($a0)
+	lbu		$t1, ($a0)
 	;Test for the new control byte for ascii
 	addiu 	$t0, $zero, 0x3F
-	bne   	$t4 ,$t0 ,regular_ascii
+	bne   	$t1 ,$t0 ,regular_ascii
 
 	not_supported_ascii:
 		
 		;We read the next character and we continue on the regular branch
 		addiu	$a0, $a0, 0x1
-		lbu		$t4, ($a0)
+		lbu		$t1, ($a0)
 	
 	regular_ascii:
 		;Compute the character index
 		li 		$t0, 0x20
-		subu    $t3, $t4, $t0							; index = char - 0x20
-		li      $t7, 0x4               				
-		multu   $t3, $t7
+		subu    $t3, $t1, $t0							; index = char - 0x20
+		li      $t2, 0x4               				
+		multu   $t3, $t2
 		
+		move 	$at, $ra
 		jal		get_font_style							; $v0 = font style 
 		mflo    $t8                   					; $t8 = index * 4
 		addu    $t8, $t8, $v0        					; add font style (0,1,2,3)
@@ -120,10 +124,11 @@ get_ascii_width:
 		;Compute the final offset into the table
 		lui     $t0, 0x0043
 		ori     $t0, $t0, 0xB590 
-		addu    $t9, $t0, $t8         					; final address = base + offset
-		lbu     $v0, 0x0($t9)           				; load width byte
+		addu    $t2, $t0, $t8         					; final address = base + offset
+		lbu     $v0, 0x0($t2)           				; load width byte
 	
-	j 	ascii_return
+	move $ra, $at
+	jr	$ra
 	
 get_font_style:
 	lbu		$t4, -0x75b8($gp)
@@ -157,8 +162,48 @@ get_font_style:
 	;else other font
 	L_end:
 		jr $ra
+		nop
 
+ adjust_width:
+	
+	li      $t0, 0x7F          					; Load 0x7F into $t0
+	ble     $t3, $t0, b1_isASCII 
+	
+		
+	;Regular shift-jis width
+	sll   	t3 ,t3 ,0x8
+    lbu     $t0 ,0x1 (a0)
+    andi    t2 ,t3 ,0xffff
+    lui     at ,0x47
+    lh      t3 ,-0x1c88 (at)
+    or      $t0 ,t2 ,$t0
+    addiu   a0 ,a0 ,0x2
+	j	0x00139C04
+	
+	b1_isASCII:
+		move 	$t3, $v0
+		jal	get_ascii_width
+		nop
+		
+		addu	$t3, $t3, $v0  
+		move 	$v0, $t3
+		j		0x00139b78
+ 
+	
 
+;Adjust Get_String_Len to use our ASCII width	
+;.org 0x00139BE8
+;	j	adjust_width
+	
+.org 0x00139bc4
+	li  $t0, 0x34
+	
+.org 0x00139b9c
+	li	$t1, 0x32
+		
+.org 0x00139b88
+	li	$t2, 0x31
+	
 .org 0x0013A990
 	    lui     $at,0x7000
         lhu     $v0, 0x62($at)
