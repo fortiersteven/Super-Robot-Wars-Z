@@ -413,7 +413,6 @@ get_font_style:
         lhu     $v0, 0x62($at)
 
 .org 0x0043B590
-	.incbin __PROP_PATH__
 
 
 .close
