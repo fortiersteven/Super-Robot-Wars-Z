@@ -79,14 +79,14 @@ class Decompressor():
                 pos, uncomp_len = self.get_coded_int(input[input_pos:], 0)
                 res = [hex(t) for t in input[temp2:(temp2+pos)]]
                 #print(f'First temp - byte: {hex(temp)} - uncomp: {uncomp_len} - counter: {counter}')
-                print(f'Adjusted Comp - Byte: {res} - Uncomp: {uncomp_len} - counter: {counter}')
+                #print(f'Adjusted Comp - Byte: {res} - Uncomp: {uncomp_len} - counter: {counter}')
                 coded_int.append((tuple(input[input_pos:(input_pos + pos)].tolist()), uncomp_len.item(), "uncomp_len"))
                 input_pos += pos
 
 
             if counter == 0:
                 temp2 = input_pos
-                print(f"Counter updated: {hex(temp2)}")
+                #print(f"Counter updated: {hex(temp2)}")
                 pos, counter = self.get_coded_int(input[input_pos:], 0)
                 res = [hex(t) for t in input[temp2:(temp2+ pos)]]
 
@@ -97,7 +97,7 @@ class Decompressor():
             #if (base_counter != counter) or (base_uncomp != uncomp_len):
             #    print(f'Byte Updated: {hex(temp)} - Uncomp: {uncomp_len} - Counter: {counter}')
 
-            print(f'Dest Pos: {hex(output_pos)} - Uncomp: {uncomp_len}')
+            #print(f'Dest Pos: {hex(output_pos)} - Uncomp: {uncomp_len}')
             for i in range(uncomp_len):
                 output[output_pos] = input[input_pos]
                 output_pos += 1
@@ -118,7 +118,7 @@ class Decompressor():
                 if (temp & 0x1) == 0:
                     t = input_pos
                     d_i = distance
-                    print(f'Compressed Pos DU: {hex(input_pos)}')
+
                     pos, distance = self.get_coded_int(input[input_pos:], distance)
                     t = [f'{ele:x}' for ele in input[input_pos:(input_pos + pos)]]
                     #print(f'Bytes: {" ".join(t)} - Distance: {distance}')
@@ -142,7 +142,7 @@ class Decompressor():
 
 
                 length += 1
-                print(f"Byte: {' '.join(all_bytes)} - Dist: {distance} - Length: {length}")
+                #print(f"Byte: {' '.join(all_bytes)} - Dist: {distance} - Length: {length}")
                 dist_dum.append((distance, length, temp))
                 pos = output_pos + distance
 
@@ -159,7 +159,7 @@ class Decompressor():
         dist_df.to_excel('../dist_dum.xlsx', index=False)
 
         #pandas.DataFrame(coded_int, )
-        print(f"Original file pos: {hex(input_pos)}")
+        #print(f"Original file pos: {hex(input_pos)}")
         with open(destination, 'wb') as d:
             decomp = bytes(output)
             d.write(decomp)

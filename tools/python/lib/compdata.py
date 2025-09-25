@@ -31,6 +31,8 @@ class CompData(FileIO):
         env["PATH"] = f"{python.as_posix()};{env['PATH']}"
         dec = str(paths["temp_files"] / 'DATA' / 'COMPDATA' / '0d.bin')
         new = str(paths["final_files"] / 'New_files' / 'DATA' / 'COMPDATA.BN')
+        (paths["final_files"] / 'New_files' / 'DATA').mkdir(parents=True, exist_ok=True)
+
         orig = str(paths["temp_files"] / 'DATA' / 'COMPDATA' / 'COMPDATA.BN')
         r = subprocess.run(
             [

@@ -99,14 +99,19 @@ def text_to_bytes(text:str, font_adjusted:bool):
     multi_regex = (HEX_TAG + "|" + COMMON_TAG + r"|(\n)")
     tokens = [sh for sh in re.split(multi_regex, text) if sh]
     output = b''
+    percent_found = False
+
+    dict_spec = {
+        "≥": b'\x3F\x18'
+    }
+    list_weird = []
 
     for t in tokens:
         # Hex literals
         if re.match(HEX_TAG, t):
             output += struct.pack("B", int(t[1:3], 16))
 
-        # Tags
-
+        # Control codes with the format of <XX> or <XX:XX>
         elif re.match(COMMON_TAG, t):
             tag, param, *_ = t[1:-1].split(":") + [None]
 
@@ -119,21 +124,51 @@ def text_to_bytes(text:str, font_adjusted:bool):
             output += bytes([tag_int])
             output += bytes([int(param,16)])
 
-        # Actual text
+        # Line Break
         elif t == "\n":
             output += b"\x0A"
 
         else:
             for c in t:
-                if c in PRINTABLE_CHARS:
 
-                    val = c.encode("cp932")
+                #Special Characters not in ASCII
+                if c in dict_spec.keys():
+                    output += dict_spec[c]
+
+                #ASCII characters
+                elif c in PRINTABLE_CHARS:
+
+                    val = b''
+                    if c < '@' and c != '%':
+
+                        #Skip if % sign to see if we don't find %s
+                        #%s is handled differently with the game and we dont want to add 0x3F
+                        if c == '%':
+                            percent_found = True
+
+                        else:
+                            val += b'\x3F'
+                            val += c.encode("cp932")
+
+                    elif percent_found:
+
+                        #If we dont have a %s pattern, we add our 0x3F special control code
+                        if c != 's':
+                            val += b'\x3F'
+
+                        val += c.encode("cp932")
+
+                    else:
+                        val += c.encode("cp932")
+
+
 
                     if not font_adjusted:
                         val = get_shift_equivalent(c)
 
                     output += val
 
+                #Shift-Jis
                 else:
 
                     if c in ijsonTblTags["tbl"].keys():
