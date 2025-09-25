@@ -35,6 +35,16 @@ class SRWZ():
         self.list_status_insertion: list[str] = ['Done']
         self.list_status_insertion.extend(insert_mask)
 
+        self.mips_ops = {
+            "043C": b'\x84\x24',
+            "053C": b'\xA5\x24',
+            "063C": b'\xC6\x24',
+            "113C": b'\x31\x26',
+            "123C": b'\x52\x26',
+            "143C": b'\x94\x26'
+
+        }
+
         self.init_project_json(project_file)
         self.init_archives_json()
         self.init_tbl_json()
@@ -507,10 +517,10 @@ class SRWZ():
 
         return pointers_offset, pointers_value
 
-    def get_MIPS_2nd(self, data:bytes, pos:int)->int:
+    def get_MIPS_2nd(self, data:bytes, pos:int, register_hex:str)->int:
         for i in range(0,15):
 
-            if data[pos:pos + 2] in [b'\x84\x24', b'\xA5\x24', b'\x52\x26', b'\xC6\x24']:
+            if data[pos:pos + 2] == self.mips_ops[register_hex]:
                 return pos - 2
             pos += 4
 
@@ -553,7 +563,7 @@ class SRWZ():
             if pos < size - 20:
                 hi = pos + slps_base
 
-                if hi == 0x38d9e8:
+                if hi == 0x35861C:
                     t = 2
 
                 res = self.analyze_branch_from_bytes(data, pos - 4, slps_base)
@@ -567,7 +577,7 @@ class SRWZ():
                 else:
                     pos = pos + 6
 
-                found_2nd_pos = self.get_MIPS_2nd(data, pos)
+                found_2nd_pos = self.get_MIPS_2nd(data, pos, register_hex)
 
                 if found_2nd_pos > -1:
                     pos = found_2nd_pos
@@ -592,7 +602,7 @@ class SRWZ():
     def update_MIPS_pointers_SLPS(self):
         tempmips = dict()
         base_possible = ['4400', '4300', '4200', '4100', '4500', '4600']
-        register_possible = ['043C', '053C', '063C', '123C']
+        register_possible = ['043C', '053C', '063C', '113C', '123C', '143C']
         slps_base = 0xFE580
 
         df = pandas.read_excel(self.paths['extracted_files'] / 'MIPS_Offset.xlsx', sheet_name='Offset')
@@ -716,8 +726,10 @@ class SRWZ():
             statusText = 'Done'
         else:
             statusText = 'To Do'
+
+        #etree.SubElement(entry_node, "Chapter")
         etree.SubElement(entry_node, "Status").text = statusText
-        etree.SubElement(entry_node, "Chapter").text = ''
+
 
     def patch_binaries(self):
         bin_path = self.paths["tools"] / "bin"
@@ -774,7 +786,14 @@ class SRWZ():
                         entry_node.find('EnglishText').text = translated[2]
                         entry_node.find('Status').text = translated[4]
                         entry_node.find('Notes').text = translated[5]
-                        entry_node.find('Chapter').text = translated[6]
+
+                        node = entry_node.find('Chapter')
+
+                        if node is not None:
+                            entry_node.find('Chapter').text = translated[6]
+                        else:
+                            etree.SubElement(entry_node, "Chapter").text = translated[6]
+
 
     def parse_entry(self, xml_node):
 
@@ -948,8 +967,8 @@ class SRWZ():
 
     def convert_font_properties(self):
         df = pd.read_excel(self.paths['font_updated'] / 'VWF_Properties.xlsx')
-        df = df.dropna(subset='Shift-JIS')
-        columns = ['Width_13', 'Width_0C', 'Width_Other1', 'Width_Other2']
+        df = df.dropna(subset='Ascii')
+        columns = ['Width_13', 'Width_0C', 'Width_00', 'Width_Other2']
 
         with FileIO(self.paths['font_updated'] / 'font_properties.bin', 'wb') as bin_file:
             for _, row in df[columns].iterrows():

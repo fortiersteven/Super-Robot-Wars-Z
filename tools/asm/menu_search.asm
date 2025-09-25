@@ -17,4 +17,13 @@
 	
 .org 0x00377900
 	li	$a0, 0x0C
+	
+.org 0x00377DC0
+	li 	$a0, 0x0C
+	
+	
+;Spirit Command alignment
+.org 0x0037766C
+	addiu	$a1, $s7, -0x25
+	
 .close

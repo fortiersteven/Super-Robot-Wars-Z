@@ -1,0 +1,18 @@
+.ps2
+.open __SLPS_PATH__, 0x00FE580
+
+.org 0x0038CBC8
+	li 	$a0, 0x0C
+	
+.org 0x0038CBEC
+	li  $a2, -0x11E
+.org 0x0038CC0C
+	li  $a2, -0x11E
+.org 0x0038CC30
+	li  $a2, -0x11E
+.org 0x0038CC54
+	li  $a2, -0x11E
+	
+.org 0x0038CD50
+	li  $a0, 0x0C
+.close
