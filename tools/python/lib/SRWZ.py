@@ -727,7 +727,7 @@ class SRWZ():
         else:
             statusText = 'To Do'
 
-        etree.SubElement(entry_node, "Chapter")
+        etree.SubElement(entry_node, "Chapter").text = "Uncategorized"
         etree.SubElement(entry_node, "Status").text = statusText
 
 
@@ -788,11 +788,10 @@ class SRWZ():
                         entry_node.find('Notes').text = translated[5]
 
                         node = entry_node.find('Chapter')
-
                         if node is not None:
-                            entry_node.find('Chapter').text = translated[6]
+                            entry_node.find('Chapter').text = translated[6] or 'Uncategorized'
                         else:
-                            etree.SubElement(entry_node, "Chapter").text = translated[6]
+                            etree.SubElement(entry_node, "Chapter").text = translated[6] or 'Uncategorized'
 
 
     def parse_entry(self, xml_node):
