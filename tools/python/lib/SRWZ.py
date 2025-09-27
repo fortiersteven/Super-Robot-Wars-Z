@@ -727,7 +727,7 @@ class SRWZ():
         else:
             statusText = 'To Do'
 
-        #etree.SubElement(entry_node, "Chapter")
+        etree.SubElement(entry_node, "Chapter")
         etree.SubElement(entry_node, "Status").text = statusText
 
 
