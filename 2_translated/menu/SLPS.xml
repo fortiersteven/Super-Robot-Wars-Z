@@ -2855,7 +2855,7 @@
       </EmbedOffset>
       <JapaneseText>防御率</JapaneseText>
       <EnglishText>Defense</EnglishText>
-      <Notes/>
+      <Notes>Technically defense rate</Notes>
       <Id>299</Id>
       <Chapter>Map Data</Chapter>
       <Status>Editing</Status>
@@ -2868,7 +2868,7 @@
       </EmbedOffset>
       <JapaneseText>回避率</JapaneseText>
       <EnglishText>Evasion</EnglishText>
-      <Notes/>
+      <Notes>Technically evasion rate</Notes>
       <Id>300</Id>
       <Chapter>Map Data</Chapter>
       <Status>Editing</Status>
@@ -2881,7 +2881,7 @@
       </EmbedOffset>
       <JapaneseText>ＨＰ回復率</JapaneseText>
       <EnglishText>HP Regen</EnglishText>
-      <Notes/>
+      <Notes>Technically recovery rate vs regen</Notes>
       <Id>301</Id>
       <Chapter>Map Data</Chapter>
       <Status>Editing</Status>
@@ -2894,7 +2894,7 @@
       </EmbedOffset>
       <JapaneseText>ＥＮ回復率</JapaneseText>
       <EnglishText>EN Regen</EnglishText>
-      <Notes/>
+      <Notes>Technically recovery rate vs regen</Notes>
       <Id>302</Id>
       <Chapter>Map Data</Chapter>
       <Status>Editing</Status>
@@ -5025,11 +5025,11 @@
         <lo>3824376,3824448</lo>
       </EmbedOffset>
       <JapaneseText>変化無し</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No Change</EnglishText>
       <Notes/>
       <Id>465</Id>
       <Chapter>Map Data</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
