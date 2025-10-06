@@ -2925,10 +2925,10 @@
       <PointerOffset>6428</PointerOffset>
       <JapaneseText>パーツをはずします。</JapaneseText>
       <EnglishText>Remove part(s).</EnglishText>
-      <Notes>In context, is this supposed to be "remove part" or "remove parts"?</Notes>
+      <Notes/>
       <Id>299</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6432</PointerOffset>
@@ -4034,21 +4034,21 @@ Quite rare.</EnglishText>
       <PointerOffset>8224</PointerOffset>
       <JapaneseText>レアなウィール</JapaneseText>
       <EnglishText>Rare Wheel</EnglishText>
-      <Notes>Is it one wheel or a set of wheels?</Notes>
+      <Notes/>
       <Id>412</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8252</PointerOffset>
       <JapaneseText>リフボード用のパーツ。
 職人お手製の超レアな一品もの。</JapaneseText>
-      <EnglishText>Part used on liftboards.
-A very rare part treasured by craftsmen.</EnglishText>
+      <EnglishText>Component for a liftboard.
+A very rare one treasured by builders.</EnglishText>
       <Notes>Is it one wheel or a set of wheels?</Notes>
       <Id>413</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8256</PointerOffset>
