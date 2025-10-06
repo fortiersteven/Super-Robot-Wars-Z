@@ -45,5 +45,6 @@ class Vt1(FileIO):
         with open(final_path, 'wb') as f:
             f.write(data)
 
+        final_offsets.append(len(data))
         return final_offsets
 
