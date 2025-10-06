@@ -2919,16 +2919,16 @@
       <Notes/>
       <Id>298</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6428</PointerOffset>
       <JapaneseText>パーツをはずします。</JapaneseText>
-      <EnglishText>Remove parts</EnglishText>
-      <Notes/>
+      <EnglishText>Remove part(s).</EnglishText>
+      <Notes>In context, is this supposed to be "remove part" or "remove parts"?</Notes>
       <Id>299</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>6432</PointerOffset>
@@ -2937,7 +2937,7 @@
       <Notes/>
       <Id>300</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6460</PointerOffset>
@@ -2946,7 +2946,7 @@
       <Notes/>
       <Id>301</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6464</PointerOffset>
@@ -2955,7 +2955,7 @@
       <Notes/>
       <Id>302</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6492</PointerOffset>
@@ -2964,7 +2964,7 @@
       <Notes/>
       <Id>303</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6496</PointerOffset>
@@ -2973,17 +2973,18 @@
       <Notes/>
       <Id>304</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6524</PointerOffset>
       <JapaneseText>移動力＋１
 運動性＋５</JapaneseText>
-      <EnglishText>Movement  +1, Mobility +5</EnglishText>
+      <EnglishText>Movement  +1
+Mobility +5</EnglishText>
       <Notes/>
       <Id>305</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6528</PointerOffset>
@@ -2992,7 +2993,7 @@
       <Notes/>
       <Id>306</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6556</PointerOffset>
@@ -3001,7 +3002,7 @@
       <Notes/>
       <Id>307</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6560</PointerOffset>
@@ -3010,7 +3011,7 @@
       <Notes/>
       <Id>308</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6588</PointerOffset>
@@ -3019,7 +3020,7 @@
       <Notes/>
       <Id>309</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6592</PointerOffset>
@@ -3028,7 +3029,7 @@
       <Notes/>
       <Id>310</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6620</PointerOffset>
@@ -3037,7 +3038,7 @@
       <Notes/>
       <Id>311</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6624</PointerOffset>
@@ -3046,7 +3047,7 @@
       <Notes/>
       <Id>312</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6652</PointerOffset>
@@ -3055,7 +3056,7 @@
       <Notes/>
       <Id>313</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6656</PointerOffset>
@@ -3064,17 +3065,17 @@
       <Notes/>
       <Id>314</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6684</PointerOffset>
       <JapaneseText>マップ兵器及び射程１以外の
 武器の射程＋１</JapaneseText>
-      <EnglishText>+1 range to all weapons that is not a MAP weapon nor a weapon of range 1</EnglishText>
+      <EnglishText>+1 range to all non-MAP weapons with a range greater than 1.</EnglishText>
       <Notes/>
       <Id>315</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6688</PointerOffset>
@@ -3083,7 +3084,7 @@
       <Notes/>
       <Id>316</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6716</PointerOffset>
@@ -3091,11 +3092,11 @@
 マップ兵器及び射程１以外の
 武器の射程＋１</JapaneseText>
       <EnglishText>Accuracy +20
-+1 range to all weapons that is not a MAP weapon nor a weapon of range 1</EnglishText>
++1 range to all non-MAP weapons with a range greater than 1.</EnglishText>
       <Notes/>
       <Id>317</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6720</PointerOffset>
@@ -3104,50 +3105,48 @@
       <Notes/>
       <Id>318</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6748</PointerOffset>
       <JapaneseText>移動力＋２　運動性・照準値＋２５
 マップ兵器及び
 射程１以外の武器の射程＋１</JapaneseText>
-      <EnglishText>Movement +2 Agility &amp; Accuracy +25
-+1 range to all weapons that is not a MAP weapon nor a weapon of range 1</EnglishText>
+      <EnglishText>Movement +2, Agility &amp; Accuracy +25
++1 range to all non-MAP weapons with a range greater than 1.</EnglishText>
       <Notes/>
       <Id>319</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6752</PointerOffset>
       <JapaneseText>チョバムアーマー</JapaneseText>
-      <EnglishText>Chobam Armor</EnglishText>
+      <EnglishText>Chobham Armor</EnglishText>
       <Notes/>
       <Id>320</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6780</PointerOffset>
       <JapaneseText>最大ＨＰ＋５００
 装甲＋１００</JapaneseText>
       <EnglishText>Max HP +500
-Armor +100
-</EnglishText>
+Armor +100</EnglishText>
       <Notes/>
       <Id>321</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6784</PointerOffset>
       <JapaneseText>ハイブリッドアーマー</JapaneseText>
-      <EnglishText>Hybrid Armor
-</EnglishText>
+      <EnglishText>Hybrid Armor</EnglishText>
       <Notes/>
       <Id>322</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6812</PointerOffset>
@@ -3158,7 +3157,7 @@ Armor +150</EnglishText>
       <Notes/>
       <Id>323</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6816</PointerOffset>
@@ -3167,7 +3166,7 @@ Armor +150</EnglishText>
       <Notes/>
       <Id>324</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6844</PointerOffset>
@@ -3178,7 +3177,7 @@ Armor +200</EnglishText>
       <Notes/>
       <Id>325</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6848</PointerOffset>
@@ -3187,17 +3186,17 @@ Armor +200</EnglishText>
       <Notes/>
       <Id>326</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6876</PointerOffset>
       <JapaneseText>自軍行動開始時にＥＮが
 最大値の１０％回復</JapaneseText>
-      <EnglishText>At the start of your army's turn your units' EN recovers by 10% of max</EnglishText>
+      <EnglishText>At the start of your turn, your units recover 10% of max EN.</EnglishText>
       <Notes/>
       <Id>327</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6880</PointerOffset>
@@ -3206,17 +3205,17 @@ Armor +200</EnglishText>
       <Notes/>
       <Id>328</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6908</PointerOffset>
       <JapaneseText>自軍行動開始時にＨＰが
 最大値の１０％回復</JapaneseText>
-      <EnglishText>At the start of your army's turn your units' HP recovers by 10% of max</EnglishText>
+      <EnglishText>At the start of your turn, your units recover 10% of max HP.</EnglishText>
       <Notes/>
       <Id>329</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6912</PointerOffset>
@@ -3225,19 +3224,19 @@ Armor +200</EnglishText>
       <Notes/>
       <Id>330</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6940</PointerOffset>
       <JapaneseText>全ての攻撃ダメージを
 １０００軽減するバリアを装備
 バリア使用時、ＥＮを５消費</JapaneseText>
-      <EnglishText>A barrier that reduces all attack damage by 1000
-5 EN is consumed each time the barrier is activated</EnglishText>
+      <EnglishText>A barrier that reduces incoming damage by 1000.
+5 EN is consumed each time the barrier is activated.</EnglishText>
       <Notes/>
       <Id>331</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6944</PointerOffset>
@@ -3246,17 +3245,17 @@ Armor +200</EnglishText>
       <Notes/>
       <Id>332</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6972</PointerOffset>
       <JapaneseText>気力１３０以上で、ユニットが
 分身（成功確率３０％）</JapaneseText>
-      <EnglishText>When your morale is 130 or higher, the unit gains after-images (trigger rate of 30%)</EnglishText>
+      <EnglishText>When morale is 130 or higher, the unit gains after-image (trigger rate of 30%).</EnglishText>
       <Notes/>
       <Id>333</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6976</PointerOffset>
@@ -3265,18 +3264,18 @@ Armor +200</EnglishText>
       <Notes/>
       <Id>334</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7004</PointerOffset>
       <JapaneseText>運動性＋２５　照準値＋２５
 クリティカル率＋２５　装甲＋２００</JapaneseText>
-      <EnglishText>Agility +25 Accuracy +25
-Critical Rate +25 Armor +200</EnglishText>
+      <EnglishText>Agility +25, Accuracy +25
+Critical Rate +25, Armor +200</EnglishText>
       <Notes/>
       <Id>335</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7008</PointerOffset>
@@ -3285,40 +3284,39 @@ Critical Rate +25 Armor +200</EnglishText>
       <Notes/>
       <Id>336</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7036</PointerOffset>
       <JapaneseText>運動性＋３０　照準値＋３０
 クリティカル率＋３０　装甲＋２５０</JapaneseText>
-      <EnglishText>Agility +30 Accuracy +30
-Critical Rate +30 Armor +250</EnglishText>
+      <EnglishText>Agility +30, Accuracy +30
+Critical Rate +30, Armor +250</EnglishText>
       <Notes/>
       <Id>337</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7040</PointerOffset>
       <JapaneseText>ミノフスキークラフト</JapaneseText>
-      <EnglishText>Minofsky Craft</EnglishText>
+      <EnglishText>Minovsky Craft</EnglishText>
       <Notes/>
       <Id>338</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7068</PointerOffset>
       <JapaneseText>機体・武器の地形適応を空Ｓにする
 戦艦以外のユニットは
 移動タイプ「空」を取得</JapaneseText>
-      <EnglishText>Changes unit/weapons' terrain rating for Sky  to S
-Non-battleship units gain movement type "Sky"
-</EnglishText>
+      <EnglishText>Changes terrain rating for Air to S for the unit and all weapons.
+Non-battleship units gain movement type "Air".</EnglishText>
       <Notes/>
       <Id>339</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7072</PointerOffset>
@@ -3327,17 +3325,17 @@ Non-battleship units gain movement type "Sky"
       <Notes/>
       <Id>340</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7100</PointerOffset>
       <JapaneseText>機体・武器の地形適応を
 宇宙Ｓにする</JapaneseText>
-      <EnglishText>Changes unit/weapons' terrain rating for Space  to S</EnglishText>
+      <EnglishText>Changes terrain rating for Space to S for the unit and all weapons.</EnglishText>
       <Notes/>
       <Id>341</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7104</PointerOffset>
@@ -3346,19 +3344,19 @@ Non-battleship units gain movement type "Sky"
       <Notes/>
       <Id>342</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7132</PointerOffset>
       <JapaneseText>機体・武器の地形適応を陸Ｓにする
 戦艦以外のユニットは
 移動タイプ「陸」を取得</JapaneseText>
-      <EnglishText>Changes unit/weapons' terrain rating for Ground  to S
-Non-battleship units gain movement type "Ground"</EnglishText>
+      <EnglishText>Changes terrain rating for Ground to S for the unit and all weapons.
+Non-battleship units gain movement type "Ground".</EnglishText>
       <Notes/>
       <Id>343</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7136</PointerOffset>
@@ -3367,20 +3365,19 @@ Non-battleship units gain movement type "Ground"</EnglishText>
       <Notes/>
       <Id>344</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7164</PointerOffset>
       <JapaneseText>機体・武器の地形適応を海Ｓにする
 戦艦以外のユニットは
 移動タイプ「水」を取得</JapaneseText>
-      <EnglishText>Changes unit/weapons' terrain rating for Sea  to S
-Non-battleship units gain movement type "Sea"
-</EnglishText>
+      <EnglishText>Changes terrain rating for Water to S for the unit and all weapons.
+Non-battleship units gain movement type "Water".</EnglishText>
       <Notes/>
       <Id>345</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7168</PointerOffset>
@@ -3389,17 +3386,17 @@ Non-battleship units gain movement type "Sea"
       <Notes/>
       <Id>346</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7196</PointerOffset>
       <JapaneseText>機体・武器の全ての地形適応を
 Ａにする</JapaneseText>
-      <EnglishText>Adapts the unit and weapons terrain rating to all As</EnglishText>
+      <EnglishText>Sets all terrain ratings to A for the unit and all weapons.</EnglishText>
       <Notes/>
       <Id>347</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7200</PointerOffset>
@@ -3408,17 +3405,17 @@ Non-battleship units gain movement type "Sea"
       <Notes/>
       <Id>348</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7228</PointerOffset>
       <JapaneseText>機体・武器の全ての地形適応を
 Ｓにする</JapaneseText>
-      <EnglishText>Adapts the unit and weapons terrain rating to all S's</EnglishText>
+      <EnglishText>Sets all terrain ratings to S for the unit and all weapons.</EnglishText>
       <Notes/>
       <Id>349</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7232</PointerOffset>
@@ -3427,20 +3424,20 @@ Non-battleship units gain movement type "Sea"
       <Notes/>
       <Id>350</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7260</PointerOffset>
       <JapaneseText>自機のＥＮを全回復
 使い捨て
 戦艦のみ隣接ユニットに使用可能</JapaneseText>
-      <EnglishText>Recover all EN from unit.
-Exhausted after use
-If battleship can be used on adjacent unit</EnglishText>
+      <EnglishText>Recharge unit's full EN.
+One-time use.
+Battleships can target adjacent units.</EnglishText>
       <Notes/>
       <Id>351</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7264</PointerOffset>
@@ -3449,20 +3446,20 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>352</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7292</PointerOffset>
       <JapaneseText>自機の弾薬を全回復
 使い捨て
 戦艦のみ隣接ユニットに使用可能</JapaneseText>
-      <EnglishText>Recover all ammo from unit.
-Exhausted after use
-If battleship can be used on adjacent unit</EnglishText>
+      <EnglishText>Reload unit's full ammo.
+One-time use.
+Battleships can target adjacent units.</EnglishText>
       <Notes/>
       <Id>353</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7296</PointerOffset>
@@ -3471,20 +3468,20 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>354</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7324</PointerOffset>
       <JapaneseText>自機のＨＰを全回復
 使い捨て
 戦艦のみ隣接ユニットに使用可能</JapaneseText>
-      <EnglishText>Fully recover unit's HP
-Exhausted after use
-If battleship can be used on adjacent unit</EnglishText>
+      <EnglishText>Recover unit's full HP.
+One-time use.
+Battleships can target adjacent units.</EnglishText>
       <Notes/>
       <Id>355</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7328</PointerOffset>
@@ -3493,20 +3490,20 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>356</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7356</PointerOffset>
       <JapaneseText>自機のＨＰ、ＥＮ、弾薬を全回復
 使い捨て
 戦艦のみ隣接ユニットに使用可能</JapaneseText>
-      <EnglishText>Recover all HP, EN, ammo from unit.
-Exhausted after use
-If battleship can be used on adjacent unit</EnglishText>
+      <EnglishText>Recover unit's full HP, EN, and ammo.
+One-time use.
+Battleships can target adjacent units.</EnglishText>
       <Notes/>
       <Id>357</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7360</PointerOffset>
@@ -3515,20 +3512,20 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>358</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7388</PointerOffset>
       <JapaneseText>メインパイロットのＳＰを３０回復
 使い捨て
 戦艦のみ隣接ユニットに使用可能</JapaneseText>
-      <EnglishText>Recover 30SP from main pilot
-Exhausted after use
-If battleship can be used on adjacent unit</EnglishText>
+      <EnglishText>Restore the main pilot's SP by 30.
+One-time use.
+Battleships can target adjacent units.</EnglishText>
       <Notes/>
       <Id>359</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7392</PointerOffset>
@@ -3537,20 +3534,20 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>360</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7420</PointerOffset>
       <JapaneseText>メインパイロットのＳＰを全回復
 使い捨て
 戦艦のみ隣接ユニットに使用可能</JapaneseText>
-      <EnglishText>Recover all  SP from main pilot
-Exhausted after use
-If battleship can be used on adjacent unit</EnglishText>
+      <EnglishText>Fully restore the main pilot's SP.
+One-time use.
+Battleships can target adjacent units.</EnglishText>
       <Notes/>
       <Id>361</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7424</PointerOffset>
@@ -3559,53 +3556,53 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>362</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7452</PointerOffset>
       <JapaneseText>出撃時に気力＋５</JapaneseText>
-      <EnglishText>+5 morale at launch</EnglishText>
+      <EnglishText>+5 morale at launch.</EnglishText>
       <Notes/>
       <Id>363</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7456</PointerOffset>
       <JapaneseText>ＦＡＩＴＨの証</JapaneseText>
-      <EnglishText>Proof of FAITH</EnglishText>
+      <EnglishText>Proof of Faith</EnglishText>
       <Notes/>
       <Id>364</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7484</PointerOffset>
       <JapaneseText>出撃時に気力＋１０</JapaneseText>
-      <EnglishText>+10 morale at launch</EnglishText>
+      <EnglishText>+10 morale at launch.</EnglishText>
       <Notes/>
       <Id>365</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7488</PointerOffset>
       <JapaneseText>堕天翅の翅</JapaneseText>
-      <EnglishText>Wing of the Shadow Angel</EnglishText>
+      <EnglishText>Shadow Angel's Wing</EnglishText>
       <Notes/>
       <Id>366</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7516</PointerOffset>
       <JapaneseText>メインパイロットのＳＰが
 毎ターン１０ポイント回復する</JapaneseText>
-      <EnglishText>Main pilot recovers 10SP each turn</EnglishText>
+      <EnglishText>The main pilot recovers 10 SP each turn.</EnglishText>
       <Notes/>
       <Id>367</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7520</PointerOffset>
@@ -3614,18 +3611,18 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>368</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7548</PointerOffset>
       <JapaneseText>出撃２ターン目から
 メインパイロットの気力が
 毎ターン＋３される</JapaneseText>
-      <EnglishText>Gain +3 morale each turn starting from turn 2</EnglishText>
+      <EnglishText>After the second turn, gain +3 morale each turn.</EnglishText>
       <Notes/>
       <Id>369</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7552</PointerOffset>
@@ -3634,36 +3631,37 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>370</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7580</PointerOffset>
       <JapaneseText>装備した小隊員は、戦闘時、
 小隊長の場合と同じく
 経験値・ＰＰを１００％入手</JapaneseText>
-      <EnglishText>Equipped squad member will gain 100% of experience &amp; PP during battle, just like the squad leader</EnglishText>
+      <EnglishText>When equipped, all squad members gain
+100% experience &amp; PP just like the squad leader.</EnglishText>
       <Notes/>
       <Id>371</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7584</PointerOffset>
       <JapaneseText>スクラップ（ＷＭ）</JapaneseText>
-      <EnglishText>Scrap (WM)</EnglishText>
+      <EnglishText>Scrap (Walker Machine)</EnglishText>
       <Notes/>
       <Id>372</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7612</PointerOffset>
       <JapaneseText>ブラッカリィの残骸。</JapaneseText>
-      <EnglishText>Broccoli Debris</EnglishText>
+      <EnglishText>Debris from the Brockary.</EnglishText>
       <Notes/>
       <Id>373</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7616</PointerOffset>
@@ -3672,76 +3670,76 @@ If battleship can be used on adjacent unit</EnglishText>
       <Notes/>
       <Id>374</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7644</PointerOffset>
       <JapaneseText>ウォーカーマシン用のコンピュータ。
 かなり高性能らしい。</JapaneseText>
-      <EnglishText>Computer for a Walker Machine
-Supposedly very high performance</EnglishText>
+      <EnglishText>Computer for a Walker Machine.
+Supposed to have very high performance.</EnglishText>
       <Notes/>
       <Id>375</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7648</PointerOffset>
       <JapaneseText>高性能ガソリンエンジン</JapaneseText>
-      <EnglishText>High performance gasoline engine</EnglishText>
+      <EnglishText>High-Performance Gasoline Engine</EnglishText>
       <Notes/>
       <Id>376</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7676</PointerOffset>
       <JapaneseText>大出力のウォーカーマシン用のエンジン。</JapaneseText>
-      <EnglishText>An engine for a high output Walker Machine</EnglishText>
+      <EnglishText>An engine for a high-output Walker Machine.</EnglishText>
       <Notes/>
       <Id>377</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7680</PointerOffset>
       <JapaneseText>スクラップ（ＯＭ）</JapaneseText>
-      <EnglishText>Scrap (OM)</EnglishText>
+      <EnglishText>Scrap (Overman)</EnglishText>
       <Notes/>
       <Id>378</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7708</PointerOffset>
       <JapaneseText>オーバーマンの残骸。
 かなりボロボロ。</JapaneseText>
-      <EnglishText>Scrap from an Overman
-Very worn down</EnglishText>
+      <EnglishText>Debris from an Overman.
+Very worn down.</EnglishText>
       <Notes/>
       <Id>379</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7712</PointerOffset>
       <JapaneseText>オーバーコート</JapaneseText>
-      <EnglishText>Over Coat</EnglishText>
+      <EnglishText>Overcoat</EnglishText>
       <Notes/>
       <Id>380</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7740</PointerOffset>
       <JapaneseText>オーバーマン用の外装。
 色は紫。</JapaneseText>
-      <EnglishText>Outerwear for an Overman
+      <EnglishText>Outerwear for an Overman.
 Purple.</EnglishText>
       <Notes/>
       <Id>381</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7744</PointerOffset>
@@ -3750,18 +3748,18 @@ Purple.</EnglishText>
       <Notes/>
       <Id>382</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7772</PointerOffset>
       <JapaneseText>謎のシステム。
 使用方法は不明。</JapaneseText>
-      <EnglishText>Mystery system
-Usage instructions unclear</EnglishText>
+      <EnglishText>Mystery system.
+Its functions are unknown.</EnglishText>
       <Notes/>
       <Id>383</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7776</PointerOffset>
@@ -3770,36 +3768,36 @@ Usage instructions unclear</EnglishText>
       <Notes/>
       <Id>384</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7804</PointerOffset>
       <JapaneseText>謎のＭＳ。
 コックピットが存在していない。</JapaneseText>
       <EnglishText>Mystery MS.
-Has no cockpit</EnglishText>
+Has no cockpit.</EnglishText>
       <Notes/>
       <Id>385</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7808</PointerOffset>
       <JapaneseText>慣性制御工学マニュアル</JapaneseText>
-      <EnglishText>Interia Control Science Manual</EnglishText>
+      <EnglishText>Inertia Control Manual</EnglishText>
       <Notes/>
       <Id>386</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7836</PointerOffset>
       <JapaneseText>慣性制御システムについての入門書。</JapaneseText>
-      <EnglishText>A primer for interia control systems</EnglishText>
+      <EnglishText>A primer for inertia control systems.</EnglishText>
       <Notes/>
       <Id>387</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7840</PointerOffset>
@@ -3808,16 +3806,16 @@ Has no cockpit</EnglishText>
       <Notes/>
       <Id>388</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7868</PointerOffset>
       <JapaneseText>大破したベクターアルファ。</JapaneseText>
-      <EnglishText>a highly damanged vector alpha</EnglishText>
+      <EnglishText>A heavily damaged Vector Alpha.</EnglishText>
       <Notes/>
       <Id>389</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7872</PointerOffset>
@@ -3826,37 +3824,37 @@ Has no cockpit</EnglishText>
       <Notes/>
       <Id>390</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7900</PointerOffset>
       <JapaneseText>強攻型アクエリオンを構成する
 ベクターマシン。</JapaneseText>
-      <EnglishText>A vector machine for the Assault type Aquarion</EnglishText>
+      <EnglishText>A Vector Machine for the Assault Type Aquarion.</EnglishText>
       <Notes/>
       <Id>391</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7904</PointerOffset>
       <JapaneseText>大口径バレル</JapaneseText>
-      <EnglishText>Large barrel</EnglishText>
+      <EnglishText>Large Barrel</EnglishText>
       <Notes/>
       <Id>392</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7932</PointerOffset>
       <JapaneseText>巨大な銃身。
 使用火器の種別は不明。</JapaneseText>
-      <EnglishText>A large gun
-Type of ammo used is unknown</EnglishText>
+      <EnglishText>A large gun.
+Type of ammo used is unknown.</EnglishText>
       <Notes/>
       <Id>393</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7936</PointerOffset>
@@ -3865,72 +3863,72 @@ Type of ammo used is unknown</EnglishText>
       <Notes/>
       <Id>394</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7964</PointerOffset>
       <JapaneseText>スーパーマイクロウェーブ
 受信用のパネル。</JapaneseText>
-      <EnglishText>A reception panel for super microwaves</EnglishText>
+      <EnglishText>A receptor panel for Super Microwaves.</EnglishText>
       <Notes/>
       <Id>395</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7968</PointerOffset>
       <JapaneseText>大容量エネルギーパック</JapaneseText>
-      <EnglishText>High capacity energy pack</EnglishText>
+      <EnglishText>High Capacity Energy Pack</EnglishText>
       <Notes/>
       <Id>396</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7996</PointerOffset>
       <JapaneseText>ビーム兵器用の大型カートリッジ。</JapaneseText>
-      <EnglishText>Large cartridge used for beam weaponry</EnglishText>
+      <EnglishText>Large cartridge used for beam weaponry.</EnglishText>
       <Notes/>
       <Id>397</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8000</PointerOffset>
       <JapaneseText>メガコンデンサー</JapaneseText>
-      <EnglishText>Mega condensor</EnglishText>
+      <EnglishText>Mega Condensor</EnglishText>
       <Notes/>
       <Id>398</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8028</PointerOffset>
       <JapaneseText>大出力ビーム兵器用の
 コンデンサー。</JapaneseText>
-      <EnglishText>A condensor used for a high-output beam weapon</EnglishText>
+      <EnglishText>A condensor used for a high-output beam weapon.</EnglishText>
       <Notes/>
       <Id>399</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8032</PointerOffset>
       <JapaneseText>光子力研究レポート</JapaneseText>
-      <EnglishText>Photon research report</EnglishText>
+      <EnglishText>Photon Research Report</EnglishText>
       <Notes/>
       <Id>400</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8060</PointerOffset>
       <JapaneseText>戦闘用スクランダー開発資料。</JapaneseText>
-      <EnglishText>A research paper on battlefield use scranders </EnglishText>
+      <EnglishText>A research paper about using Scranders in battle.</EnglishText>
       <Notes/>
       <Id>401</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8064</PointerOffset>
@@ -3939,18 +3937,18 @@ Type of ammo used is unknown</EnglishText>
       <Notes/>
       <Id>402</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8092</PointerOffset>
       <JapaneseText>寒冷地に生息するトカゲのくんせい。
 美味。</JapaneseText>
-      <EnglishText>Smoked lizard from the chilly region
-Tasty</EnglishText>
+      <EnglishText>The smoked meat of a lizard from a chilly region.
+Tasty.</EnglishText>
       <Notes/>
       <Id>403</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8096</PointerOffset>
@@ -3959,56 +3957,58 @@ Tasty</EnglishText>
       <Notes/>
       <Id>404</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8124</PointerOffset>
       <JapaneseText>ヤーパン発祥と言われる食物。
 独特のにおいがあるがかなり美味。</JapaneseText>
-      <EnglishText>Food said to have originated from Yapan
-Has a unique smell but quite tasty</EnglishText>
+      <EnglishText>Food said to have originated from Yapan.
+Has a unique smell, but is quite tasty.</EnglishText>
       <Notes/>
       <Id>405</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8128</PointerOffset>
       <JapaneseText>大トカゲのくんせい</JapaneseText>
-      <EnglishText>Smoked great lizard</EnglishText>
+      <EnglishText>Smoked Great Lizard</EnglishText>
       <Notes/>
       <Id>406</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8156</PointerOffset>
       <JapaneseText>温暖な気候の土地に生息する
 巨大トカゲのくんせい。すこぶる美味。</JapaneseText>
-      <EnglishText>The smoked meat of the giant lizards that inhabit the warmer climates.  Surprisingly tasty.</EnglishText>
+      <EnglishText>The smoked meat of a giant lizard from a warmer region.
+Surprisingly tasty.</EnglishText>
       <Notes/>
       <Id>407</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8160</PointerOffset>
       <JapaneseText>ｒａｙ＝ｏｕｔ創刊号</JapaneseText>
-      <EnglishText>Ray Out  Issue #1</EnglishText>
+      <EnglishText>ray=out Issue #1</EnglishText>
       <Notes/>
       <Id>408</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8188</PointerOffset>
       <JapaneseText>ゲッコーステイト編集の雑誌の
 創刊第一号。レアもの。</JapaneseText>
-      <EnglishText>First issue of the magainze edited by Gekko State.  Rare.</EnglishText>
+      <EnglishText>First issue of the magazine edited by Gekkostate.
+Rare.</EnglishText>
       <Notes/>
       <Id>409</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8192</PointerOffset>
@@ -4017,37 +4017,38 @@ Has a unique smell but quite tasty</EnglishText>
       <Notes/>
       <Id>410</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8220</PointerOffset>
       <JapaneseText>ラクス・クラインのサイン入りの
 音楽ディスク。かなりのレアもの。</JapaneseText>
-      <EnglishText>A music disc that contains the autograph of Lacus Clyne.  Quite rare</EnglishText>
+      <EnglishText>A music disc that contains the autograph of Lacus Clyne.
+Quite rare.</EnglishText>
       <Notes/>
       <Id>411</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8224</PointerOffset>
       <JapaneseText>レアなウィール</JapaneseText>
-      <EnglishText>Rare Veil</EnglishText>
-      <Notes/>
+      <EnglishText>Rare Wheel</EnglishText>
+      <Notes>Is it one wheel or a set of wheels?</Notes>
       <Id>412</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>8252</PointerOffset>
       <JapaneseText>リフボード用のパーツ。
 職人お手製の超レアな一品もの。</JapaneseText>
-      <EnglishText>A part used on Liftboards
-A very rare part part treasured by craftsmen</EnglishText>
-      <Notes/>
+      <EnglishText>Part used on liftboards.
+A very rare part treasured by craftsmen.</EnglishText>
+      <Notes>Is it one wheel or a set of wheels?</Notes>
       <Id>413</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>8256</PointerOffset>
@@ -4056,17 +4057,17 @@ A very rare part part treasured by craftsmen</EnglishText>
       <Notes/>
       <Id>414</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8284</PointerOffset>
       <JapaneseText>大人の女性にお似合いの
 新作アクセサリー。</JapaneseText>
-      <EnglishText>Newly released accessory fit for adult women</EnglishText>
+      <EnglishText>Newly released accessory women.</EnglishText>
       <Notes/>
       <Id>415</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8288</PointerOffset>
@@ -4075,19 +4076,19 @@ A very rare part part treasured by craftsmen</EnglishText>
       <Notes/>
       <Id>416</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8316</PointerOffset>
       <JapaneseText>女性用の化粧道具一式。
 少女から大人の女性まで
 幅広い世代に対応。</JapaneseText>
-      <EnglishText>Makeup for women
-Used across many generations from girls to adult women</EnglishText>
+      <EnglishText>Makeup for ladies.
+Used by generations of girls and women.</EnglishText>
       <Notes/>
       <Id>417</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8320</PointerOffset>
@@ -4096,7 +4097,7 @@ Used across many generations from girls to adult women</EnglishText>
       <Notes/>
       <Id>418</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8348</PointerOffset>
@@ -4107,27 +4108,27 @@ Precious in the depths of space.</EnglishText>
       <Notes/>
       <Id>419</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8352</PointerOffset>
       <JapaneseText>ホンコン土産のビデオ</JapaneseText>
-      <EnglishText>Video from Hong Kong</EnglishText>
+      <EnglishText>Hong Kong Video</EnglishText>
       <Notes/>
       <Id>420</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8380</PointerOffset>
       <JapaneseText>露店売りの怪しいビデオディスク。
 内容は不明。</JapaneseText>
-      <EnglishText>Strange looking video disc from a street vendor
-Contents unknown</EnglishText>
+      <EnglishText>Strange looking video disc from a street vendor.
+Contents unknown.</EnglishText>
       <Notes/>
       <Id>421</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8384</PointerOffset>
@@ -4136,38 +4137,38 @@ Contents unknown</EnglishText>
       <Notes/>
       <Id>422</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8412</PointerOffset>
       <JapaneseText>エマーン各地の観光名所のペナント。
 旅の記念品として人気？</JapaneseText>
-      <EnglishText>A souvenir pennant from the Emaan region
-Popular as travel souvenir?</EnglishText>
+      <EnglishText>A souvenir pennant from the Emaan region.
+Popular as a travel souvenir?</EnglishText>
       <Notes/>
       <Id>423</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8416</PointerOffset>
       <JapaneseText>チラム製のバイク</JapaneseText>
-      <EnglishText>Chillum Bike</EnglishText>
+      <EnglishText>Chiram Bike</EnglishText>
       <Notes/>
       <Id>424</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8444</PointerOffset>
       <JapaneseText>時空震動前からのベストセラーモデル。
 残念ながら骨董品扱い。</JapaneseText>
-      <EnglishText>A best seller model from before the space-time rift
-Unfortunately it's treated like an antique</EnglishText>
+      <EnglishText>A best-selling model from before the space-time rift.
+It's considered an antique now.</EnglishText>
       <Notes/>
       <Id>425</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8448</PointerOffset>
@@ -4176,16 +4177,16 @@ Unfortunately it's treated like an antique</EnglishText>
       <Notes/>
       <Id>426</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8476</PointerOffset>
       <JapaneseText>ダブルスペイザーの尾翼部分他。</JapaneseText>
       <EnglishText>Used at the tail of Double Spacer</EnglishText>
-      <Notes/>
+      <Notes>I have asked Woo to double check this. I'm not sure whether or not this is supposed to be the description for Super Alloy NZ.</Notes>
       <Id>427</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>8480</PointerOffset>
@@ -4194,7 +4195,7 @@ Unfortunately it's treated like an antique</EnglishText>
       <Notes/>
       <Id>428</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>8508,8540</PointerOffset>
@@ -4212,7 +4213,7 @@ Unfortunately it's treated like an antique</EnglishText>
       <Notes/>
       <Id>430</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -4224,7 +4225,7 @@ Unfortunately it's treated like an antique</EnglishText>
       <Notes/>
       <Id>431</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>207044,207048,207368,207372,207728,207732,207980,207984</PointerOffset>
@@ -4791,7 +4792,7 @@ Unfortunately it's treated like an antique</EnglishText>
       <Notes/>
       <Id>494</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>213704,213708,214280,214284,214892,214896,215540,215544,215756,215760</PointerOffset>
