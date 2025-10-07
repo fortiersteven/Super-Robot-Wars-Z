@@ -2528,8 +2528,8 @@
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3481364</hi>
-        <lo>3481372</lo>
+        <hi>3481364,3651224</hi>
+        <lo>3481372,3651232</lo>
       </EmbedOffset>
       <JapaneseText>資金</JapaneseText>
       <EnglishText>Funds</EnglishText>
@@ -2672,8 +2672,8 @@
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3507964,3508796,3523248,3525952,3713904,3715508,3715792,3719004,3719132,3725284,3741952,3736368,3736468,2838292,2838344,2838404,2838456,2847812,2847844,2847972,2848004</hi>
-        <lo>3507968,3508812,3523264,3525964,3713912,3715516,3715800,3719012,3719140,3725292,3741960,3736380,3736480,2838304,2838356,2838416,2838468,2847824,2847856,2847984,2848016</lo>
+        <hi>3507964,3508796,3523248,3525952,3651500,3657432,3713904,3715508,3715792,3719004,3719132,3725284,3741952,3736368,3736468,2838292,2838344,2838404,2838456,2847812,2847844,2847972,2848004</hi>
+        <lo>3507968,3508812,3523264,3525964,3651508,3657444,3713912,3715516,3715800,3719012,3719140,3725292,3741960,3736380,3736480,2838304,2838356,2838416,2838468,2847824,2847856,2847984,2848016</lo>
       </EmbedOffset>
       <JapaneseText>／</JapaneseText>
       <EnglishText/>
@@ -3129,6 +3129,127 @@
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
+        <hi>3646252</hi>
+        <lo>3646260</lo>
+      </EmbedOffset>
+      <JapaneseText>キャンセルするとマークが全てクリアされてしまいます。
+よろしいですか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3650988</hi>
+        <lo>3651000</lo>
+      </EmbedOffset>
+      <JapaneseText>被撃墜機体清算</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3651148,2845788</hi>
+        <lo>3651160,2845796</lo>
+      </EmbedOffset>
+      <JapaneseText>機体</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3651188</hi>
+        <lo>3651196</lo>
+      </EmbedOffset>
+      <JapaneseText>修理費</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3652220</hi>
+        <lo>3652228</lo>
+      </EmbedOffset>
+      <JapaneseText>＜ネゴシエーション＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3652248</hi>
+        <lo>3652256</lo>
+      </EmbedOffset>
+      <JapaneseText>ロジャーの特殊スキルによって、清算金額が０になりました。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3657732,3657812</hi>
+        <lo>3657744,3657824</lo>
+      </EmbedOffset>
+      <JapaneseText>隊</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3658340,3658572,2847180</hi>
+        <lo>3658348,3658580,2847196</lo>
+      </EmbedOffset>
+      <JapaneseText>（</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3658372,3658604,2847216</hi>
+        <lo>3658380,3658612,2847232</lo>
+      </EmbedOffset>
+      <JapaneseText>）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3658544</hi>
+        <lo>3658552</lo>
+      </EmbedOffset>
+      <JapaneseText>@&lt;color:31&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
         <hi>3719452,3719540,3719656</hi>
         <lo>3719460,3719548,3719664</lo>
       </EmbedOffset>
@@ -3369,46 +3490,10 @@
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>2845788</hi>
-        <lo>2845796</lo>
-      </EmbedOffset>
-      <JapaneseText>機体</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
         <hi>2845820,3721936</hi>
         <lo>2845828,3721948</lo>
       </EmbedOffset>
       <JapaneseText>小隊</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>2847180</hi>
-        <lo>2847196</lo>
-      </EmbedOffset>
-      <JapaneseText>（</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>2847216</hi>
-        <lo>2847232</lo>
-      </EmbedOffset>
-      <JapaneseText>）</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -3806,6 +3891,30 @@
         <lo>3535276</lo>
       </EmbedOffset>
       <JapaneseText>%s・%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3655088</hi>
+        <lo>3655104</lo>
+      </EmbedOffset>
+      <JapaneseText>獲得済</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3655124</hi>
+        <lo>3655140</lo>
+      </EmbedOffset>
+      <JapaneseText>未獲得</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
