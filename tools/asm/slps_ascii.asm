@@ -50,7 +50,7 @@ computeIndex:
 	isASCII:
 		
 		
-		li	$t0, 0x2A
+		li	$t0, 0x3F
 		bne   	$t4 ,$t0 ,regular
 		nop
 		
