@@ -139,7 +139,7 @@ def text_to_bytes(text:str, font_adjusted:bool):
                 elif c in PRINTABLE_CHARS:
 
                     val = b''
-                    if c < '@' and c != '%':
+                    if c >= '.' and c <= '?' and c != '%':
 
                         #Skip if % sign to see if we don't find %s
                         #%s is handled differently with the game and we dont want to add 0x3F

@@ -21,16 +21,16 @@
 	li 	$a0, 0x13
 	
 ;Move headers X Coord on the left for the first 2
-.org 0x003A6DF4
-	addiu	$s1, $s3, 0x59
+.org 0x003A6DF8
+	addiu	$s0, $s2, 0xEF
 	
 ;Move values X Coord on the left for the first 2 stats
 .org 0x003A6F2C
-	addiu 	$s6, $s2, 0x150
+	addiu 	$s6, $s2, 0x140
 	
 ;Move second set of headers X Coord on the left
 .org 0x003A6E48
-	addiu 	$s6, $s2, 0x1B6
+	addiu 	$s6, $s2, 0x1A6
 		
 .org 0x003A6F80
 	

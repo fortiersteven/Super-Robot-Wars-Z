@@ -129,7 +129,8 @@ if __name__ == "__main__":
 
     args = get_arguments()
 
-    insert_mask = ['Proofreading', 'Editing']
+    insert_mask = [args.with_proofreading, args.with_editing, args.with_problematic]
+    #insert_mask = ['Proofreading', 'Editing']
     robotwars = SRWZ(args.project.resolve(), insert_mask, args.only_changed)
     if args.action == "extract":
 
