@@ -10,7 +10,30 @@
 	
 .org 0x003A6B80
 	li	$a0, 0x13
+	
+;4 stats Defense, Evasion, HP, EN ...
+;Header Size
+.org 0x003A6DAC
+	li 	$a0, 0x13
+	
+;Value size
+.org 0x003A6F20
+	li 	$a0, 0x13
+	
+;Move headers X Coord on the left for the first 2
+.org 0x003A6DF8
+	addiu	$s0, $s2, 0xEF
+	
+;Move values X Coord on the left for the first 2 stats
+.org 0x003A6F2C
+	addiu 	$s6, $s2, 0x140
+	
+;Move second set of headers X Coord on the left
+.org 0x003A6E48
+	addiu 	$s6, $s2, 0x1A6
 		
+.org 0x003A6F80
+	
 ;Robot Name
 .org 0x003A6684	
 	li	$a0, 0x13

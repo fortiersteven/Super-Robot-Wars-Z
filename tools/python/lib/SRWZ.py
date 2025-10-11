@@ -718,7 +718,7 @@ class SRWZ():
 
         etree.SubElement(entry_node, "EnglishText")
         etree.SubElement(entry_node, "Notes")
-        etree.SubElement(entry_node, "Id").text = str(self.id)
+        #etree.SubElement(entry_node, "Id").text = str(self.id)
 
         self.id = self.id + 1
 
