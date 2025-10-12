@@ -306,7 +306,7 @@ class SRWZ():
             if 'd' in stage_file.stem and stage_file.stem != '0d':
                 st = Stage(stage_file)
                 print(f'File: {stage_file.stem}')
-                st.extract_all_blocks(path=self.paths['story_xml'] / f'{stage_file.stem}.txt')
+                st.extract_stage_XML(self.paths['story_xml'] / f'{stage_file.stem.replace('d','').zfill(3)}.xml')
 
     def extract_folder(self, folder:str):
 

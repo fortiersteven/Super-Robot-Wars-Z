@@ -1,0 +1,5524 @@
+<ScenarioText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>一太郎</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>勝平</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>千代錦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>甲児</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>源五郎</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>宇宙太</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ギャバン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ゲイン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ロラン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ソシエ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>桂</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ロジャー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>$n</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ゲイナー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アデット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>サラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>兵左衛門</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>梅江</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジロン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>恵子</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジョゼフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ブルメ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>チル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>エルチ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>シャイア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>大尉</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジャビー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>モーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アポロ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ジュン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>つぐみ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>マリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>？？？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>不動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>コトセット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ベロー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>グエン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>キエル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ガウリ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ガッハ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ティプトリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ママドゥ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>アキ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>香月</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>トッポ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>浜本</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ミチ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ブッチャー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ギッザー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>コナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>リーグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Section 1.1</Section>
+    <Entry>
+      <PointerOffset>6448</PointerOffset>
+      <JapaneseText>「戻れ、勝平！
+　みんなの出撃を待つんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6480</PointerOffset>
+      <JapaneseText>「うるせえ！
+　相手がガイゾックだったら
+　俺にやらせろってんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6512</PointerOffset>
+      <JapaneseText>「だからって一人で何が出来る！
+　せめて宇宙太と恵子と
+　協力して…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6544</PointerOffset>
+      <JapaneseText>「ガイゾックが来たみたいだ！
+　通信を切るぜ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6576</PointerOffset>
+      <JapaneseText>「お、おい！　勝平！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.2</Section>
+    <Entry>
+      <PointerOffset>6704</PointerOffset>
+      <JapaneseText>「毎度の偵察メカかよ！
+　こんな奴ら、俺と千代錦だけで
+　十分だぜ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6736</PointerOffset>
+      <JapaneseText>「ワン！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6768</PointerOffset>
+      <JapaneseText>「行くぜ、ガイゾック！
+　今日の俺は機嫌が悪いんだ！
+　容赦はしねえぞ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.3</Section>
+    <Entry>
+      <PointerOffset>6896</PointerOffset>
+      <JapaneseText>「やっと本隊が来やがったな！
+　待ちくたびれたぜ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6928</PointerOffset>
+      <JapaneseText>「いい加減にしろ、勝平！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.4</Section>
+    <Entry>
+      <PointerOffset>7056</PointerOffset>
+      <JapaneseText>「何やってんだよ、勝平！
+　お前一人で勝てると思ってるのか！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7088</PointerOffset>
+      <JapaneseText>「うるせえよ、甲児の兄ちゃん！
+　あんな奴ら相手にザンボット３を
+　出すまでもねえよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7120</PointerOffset>
+      <JapaneseText>「勝平…香月君達に会ったそうだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7152</PointerOffset>
+      <JapaneseText>「それは…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7184</PointerOffset>
+      <JapaneseText>「そこで何が起きたか、
+　だいたい想像出来る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7216</PointerOffset>
+      <JapaneseText>「お前は、まだ小さな事に
+　こだわっているのか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7248</PointerOffset>
+      <JapaneseText>「だってよ、父ちゃん！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7280</PointerOffset>
+      <JapaneseText>「言い訳は聞かん！
+　そんな奴にザンボット３を
+　預けるわけにはいかん！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7312</PointerOffset>
+      <JapaneseText>「宇宙太と恵子は
+　キング・ビアルで待機だ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7344</PointerOffset>
+      <JapaneseText>「りょ、了解！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7376</PointerOffset>
+      <JapaneseText>「くそっ！　くそおおおっ！
+　父ちゃんまで俺の気持ちを
+　全然わかってくれてないんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7408</PointerOffset>
+      <JapaneseText>「こうなったら一人でやってやる！
+　千代錦、覚悟を決めろよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7440</PointerOffset>
+      <JapaneseText>「ワン…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7472</PointerOffset>
+      <JapaneseText>（勝平…お前は…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7504</PointerOffset>
+      <JapaneseText>「どうする、請負人？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7536</PointerOffset>
+      <JapaneseText>「家族の問題は家族に任せるさ。
+　俺達は、あのガイゾックってのを
+　相手にするぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7568</PointerOffset>
+      <JapaneseText>「わかりました！
+　ヤーパンの天井の人達のためにも
+　頑張りましょう！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.5</Section>
+    <Entry>
+      <PointerOffset>7696</PointerOffset>
+      <JapaneseText>「この声って、もしかして…！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7728</PointerOffset>
+      <JapaneseText>「間違いありません！
+　堕天翅が来ます！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.6</Section>
+    <Entry>
+      <PointerOffset>7856</PointerOffset>
+      <JapaneseText>「おいおい！
+　堕天翅までシベリアに来るのかよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7888</PointerOffset>
+      <JapaneseText>「これはっ…！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7920</PointerOffset>
+      <JapaneseText>「どうしたんです、ロジャーさん！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7952</PointerOffset>
+      <JapaneseText>「いや…何でもない。
+　こちらは気にしないでくれ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7984</PointerOffset>
+      <JapaneseText>（どういう事だ…？
+　ビッグオーのモニターに一瞬、
+　あの化け物の情報が表示された…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8016</PointerOffset>
+      <JapaneseText>（ビッグオーの中には
+　あの堕天翅とやらの
+　メモリーが残されているのか…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.7</Section>
+    <Entry>
+      <PointerOffset>8144</PointerOffset>
+      <JapaneseText>「おいおい！
+　堕天翅までシベリアに来るのかよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>11</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8176</PointerOffset>
+      <JapaneseText>「これはっ…！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8208</PointerOffset>
+      <JapaneseText>「どうした、大将！
+　ビッグオーにトラブルか！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>13</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8240</PointerOffset>
+      <JapaneseText>「いや…何でもない。
+　こちらは気にしないでくれ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8272</PointerOffset>
+      <JapaneseText>（どういう事だ…？
+　ビッグオーのモニターに一瞬、
+　あの化け物の情報が表示された…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8304</PointerOffset>
+      <JapaneseText>（ビッグオーの中には
+　あの堕天翅とやらの
+　メモリーが残されているのか…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.8</Section>
+    <Entry>
+      <PointerOffset>8432</PointerOffset>
+      <JapaneseText>「皆さん、気をつけてください！
+　あの化け物は人間を狩るのが
+　目的です！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8464</PointerOffset>
+      <JapaneseText>「じゃあ、何か！？
+　あいつらの狙いは、あたしらの背後の
+　ヤーパンの天井かい！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8496</PointerOffset>
+      <JapaneseText>「だったら、ここを通すわけには
+　いかないわ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8528</PointerOffset>
+      <JapaneseText>「…あいつらを通したら、
+　ヤーパンの天井が狙われる…！
+　そんな事になったら…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8560</PointerOffset>
+      <JapaneseText>「各機、聞いたな！
+　絶対に堕天翅を通してはならん！
+　婆さん、最終防衛ラインを出せ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8592</PointerOffset>
+      <JapaneseText>「はいよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>18</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.9</Section>
+    <Entry>
+      <PointerOffset>8720</PointerOffset>
+      <JapaneseText>「堕天翅が、このラインに達したら、
+　止める術はない！
+　それを忘れるでないぞ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8752</PointerOffset>
+      <JapaneseText>「くそっ！
+　ガイゾックと堕天翅の両方を
+　相手にするのか！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8784</PointerOffset>
+      <JapaneseText>「ヤーパンの天井には
+　色んな人達が避難しているんだ！
+　通してなるかよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8816</PointerOffset>
+      <JapaneseText>「…俺が…俺達が負けたら
+　アキやミチや香月が…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8848</PointerOffset>
+      <JapaneseText>「勝平…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.10</Section>
+    <Entry>
+      <PointerOffset>8976</PointerOffset>
+      <JapaneseText>「また、あの声だ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>21</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9008</PointerOffset>
+      <JapaneseText>「まだ敵が来るのかよ！
+　勘弁して欲しいぜ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>22</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.11</Section>
+    <Entry>
+      <PointerOffset>9136</PointerOffset>
+      <JapaneseText>「何か重そうなのが出てきた！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>23</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9168</PointerOffset>
+      <JapaneseText>「ああいうのは
+　動きが鈍いって決まってる！
+　一斉砲撃で足止めするわよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.12</Section>
+    <Entry>
+      <PointerOffset>9296</PointerOffset>
+      <JapaneseText>「やだ！　全然、効いてない！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>25</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9328</PointerOffset>
+      <JapaneseText>「ふむ…大した装甲の持ち主だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>26</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9360</PointerOffset>
+      <JapaneseText>「感心している場合じゃありませんよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>27</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9392</PointerOffset>
+      <JapaneseText>「待ってください！
+　東の方向から何か来ます！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>28</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.13</Section>
+    <Entry>
+      <PointerOffset>9520</PointerOffset>
+      <JapaneseText>「アクエリオン！
+　って事は、アポロ達か！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9552</PointerOffset>
+      <JapaneseText>「また会ったな、ジロン！
+　堕天翅の相手は俺達に任せな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9584</PointerOffset>
+      <JapaneseText>「ま、任せろって、アポロ君…！
+　ぼ、僕達には無理だよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9616</PointerOffset>
+      <JapaneseText>「そ、そうよ！
+　私達、シミュレーターでしか
+　合体に成功してないんだから！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9648</PointerOffset>
+      <JapaneseText>「つべこべ言うんじゃねえよ！
+　お前らも不動のオッサンの
+　訓練受けてきたんだろうが！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9680</PointerOffset>
+      <JapaneseText>「こういうのは習うより慣れろだ！
+　覚悟を決めな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9712</PointerOffset>
+      <JapaneseText>「で、でも…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9744</PointerOffset>
+      <JapaneseText>「行くぞ！
+　ガタガタ抜かしてねえで
+　俺について来い！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.14</Section>
+    <Entry>
+      <PointerOffset>9872</PointerOffset>
+      <JapaneseText>「つぐみさん、どうしたんです！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9904</PointerOffset>
+      <JapaneseText>「だ、駄目！
+　やっぱり、私、出来ない…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9936</PointerOffset>
+      <JapaneseText>「このままじゃ胸がドキドキして
+　爆発しちゃう！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9968</PointerOffset>
+      <JapaneseText>「何言ってんだ、あの子…？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10000</PointerOffset>
+      <JapaneseText>「それより、今は
+　あの丸っこい堕天翅を止めなきゃ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10032</PointerOffset>
+      <JapaneseText>「まずいよ！
+　あいつ、動き出した！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.15</Section>
+    <Entry>
+      <PointerOffset>10160</PointerOffset>
+      <JapaneseText>「こんニャロー！
+　止まれ！　止まりやがれ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10192</PointerOffset>
+      <JapaneseText>「勝平！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10224</PointerOffset>
+      <JapaneseText>「お前を通しちまったら、
+　アキやミチ、ヤーパンの天井のみんなが
+　危ない目に遭うんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10256</PointerOffset>
+      <JapaneseText>「通してたまるかよっ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10288</PointerOffset>
+      <JapaneseText>「無理だ、勝平！
+　その機体じゃパワーが足りない！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10320</PointerOffset>
+      <JapaneseText>「んな事は、俺だってわかってらぁ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10352</PointerOffset>
+      <JapaneseText>「ならば、勝平君！
+　どうする！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10384</PointerOffset>
+      <JapaneseText>「太陽の兄ちゃん！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10416</PointerOffset>
+      <JapaneseText>「答えろ、勝平君！
+　君は自分の守りたいもののために
+　何をする！　何が出来る！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10448</PointerOffset>
+      <JapaneseText>「俺は…俺は…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10480</PointerOffset>
+      <JapaneseText>「迷ってんじゃねえ！
+　あいつらを好き放題させてたら、
+　全て飲み込まれちまうんだぞ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10512</PointerOffset>
+      <JapaneseText>「バロンみたいに…
+　俺のダチみたいにな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10544</PointerOffset>
+      <JapaneseText>「友達…。
+　アキ、ミチ、香月…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10576</PointerOffset>
+      <JapaneseText>「力を貸してくれ、宇宙太、恵子！
+　頼む！　俺と一緒に戦ってくれ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10608</PointerOffset>
+      <JapaneseText>「勝平！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10640</PointerOffset>
+      <JapaneseText>「二人共、発進だ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10672</PointerOffset>
+      <JapaneseText>「はい！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.16</Section>
+    <Entry>
+      <PointerOffset>10800</PointerOffset>
+      <JapaneseText>「勝平！　俺達が援護する！
+　早く合体しろ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10832</PointerOffset>
+      <JapaneseText>「全員でズングリを狙え！
+　少しでも足止めするんだ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.17</Section>
+    <Entry>
+      <PointerOffset>10960</PointerOffset>
+      <JapaneseText>「みんなが俺を助けてくれる…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10992</PointerOffset>
+      <JapaneseText>「当たり前だ！
+　戦ってるのは、お前一人じゃねえんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11024</PointerOffset>
+      <JapaneseText>「そうよ！
+　みんなが戦ってるのよ！
+　勝平と同じ想いで！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11056</PointerOffset>
+      <JapaneseText>「同じ想い…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11088</PointerOffset>
+      <JapaneseText>「行くぜ、宇宙太、恵子！
+　ザンボット・コンビネーション！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11120</PointerOffset>
+      <JapaneseText>「ワン！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11152</PointerOffset>
+      <JapaneseText>「ツー！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11184</PointerOffset>
+      <JapaneseText>「スリー！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.18</Section>
+    <Entry>
+      <PointerOffset>11312</PointerOffset>
+      <JapaneseText>「行け、ザンボット３！
+　フルパワーだ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.19</Section>
+    <Entry>
+      <PointerOffset>11440</PointerOffset>
+      <JapaneseText>「どうだ！
+　お前達がアキ達の所に行こうとしても
+　何度でも押し戻してやる！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11472</PointerOffset>
+      <JapaneseText>「あのガキ、やるじゃねえか！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11504</PointerOffset>
+      <JapaneseText>「凄い…！　凄い気迫だ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11536</PointerOffset>
+      <JapaneseText>「そうだ！
+　守りたいものがあるからこそ、
+　人は力を生み出せる！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11568</PointerOffset>
+      <JapaneseText>「不動司令！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11600</PointerOffset>
+      <JapaneseText>「あのオッサン、
+　どうして、ここにいるんだ！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11632</PointerOffset>
+      <JapaneseText>「つぐみさん、合体しましょう！
+　僕、あいつを倒す方法を
+　思いつきましたから！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11664</PointerOffset>
+      <JapaneseText>「で、でも…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11696</PointerOffset>
+      <JapaneseText>「では、ずっとそこで怯えていろ。
+　守りたいものも守れずにな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11728</PointerOffset>
+      <JapaneseText>「………」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11760</PointerOffset>
+      <JapaneseText>「つぐみ！
+　あいつらだって合体したんだ！
+　俺達だってやるぞ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11792</PointerOffset>
+      <JapaneseText>「で、でも…これ以上、ドキドキしたら
+　私…私…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11824</PointerOffset>
+      <JapaneseText>「その力を使うんです！
+　やりましょう、つぐみさん！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11856</PointerOffset>
+      <JapaneseText>「その力って…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11888</PointerOffset>
+      <JapaneseText>「僕…気づいてました。
+　つぐみさんの心拍が興奮で高まると
+　爆発現象を引き起こすって」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11920</PointerOffset>
+      <JapaneseText>「でも、その力が今、必要なんです！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11952</PointerOffset>
+      <JapaneseText>「ジュン君…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11984</PointerOffset>
+      <JapaneseText>「どうでもいいから早くしやがれ！
+　ヤーパンの天井には俺の友達が
+　いるんだぞ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12016</PointerOffset>
+      <JapaneseText>「行くぞ、つぐみ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12048</PointerOffset>
+      <JapaneseText>「は、はい！
+　私…やってみます！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.20</Section>
+    <Entry>
+      <PointerOffset>12176</PointerOffset>
+      <JapaneseText>「フォーメーション４９
+　『初めてのカタチ』！
+　念心…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12208</PointerOffset>
+      <JapaneseText>「合体！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12240</PointerOffset>
+      <JapaneseText>「ＧＯ！　アクエリオン！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.21</Section>
+    <Entry>
+      <PointerOffset>12368</PointerOffset>
+      <JapaneseText>「おおおおおおっ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12400</PointerOffset>
+      <JapaneseText>「あ…ああ…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12432</PointerOffset>
+      <JapaneseText>「凄い…凄過ぎますぅ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.22</Section>
+    <Entry>
+      <PointerOffset>12560</PointerOffset>
+      <JapaneseText>「ア、アクエリオン、ルナ〜！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.23</Section>
+    <Entry>
+      <PointerOffset>12688</PointerOffset>
+      <JapaneseText>「だ、駄目！
+　きちゃう…！　はあ…ああん！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12720</PointerOffset>
+      <JapaneseText>「つぐみさん！
+　僕の念写力でナビします！
+　あいつの内部に力を送り込んで！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12752</PointerOffset>
+      <JapaneseText>「はあん！　駄目ぇ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12784</PointerOffset>
+      <JapaneseText>「駄目じゃねえ！　行けえええっ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.24</Section>
+    <Entry>
+      <PointerOffset>12912</PointerOffset>
+      <JapaneseText>「やった！　やったよ、つぐみさん！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12944</PointerOffset>
+      <JapaneseText>「あ…ああ…しあわせ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12976</PointerOffset>
+      <JapaneseText>「合体は…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13008</PointerOffset>
+      <JapaneseText>「爆発だ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>34</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13040</PointerOffset>
+      <JapaneseText>「な、何なんだよ、あれは…！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13072</PointerOffset>
+      <JapaneseText>「いつもの事ながら
+　凄いですね、アクエリオンって…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13104</PointerOffset>
+      <JapaneseText>「よっしゃあ！
+　これで形勢逆転だ！
+　行くぜ、宇宙太、恵子！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13136</PointerOffset>
+      <JapaneseText>「へ…やっとチームワークってのが
+　わかったみたいだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13168</PointerOffset>
+      <JapaneseText>「あのアクエリオンも３人、
+　こっちも３人だからな！
+　負けてられねえよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13200</PointerOffset>
+      <JapaneseText>「そうね！
+　私達も頑張りましょう！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13232</PointerOffset>
+      <JapaneseText>「よし！　各機、攻勢に出るぞ！
+　異星人と堕天翅を叩くんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.25</Section>
+    <Entry>
+      <PointerOffset>13360</PointerOffset>
+      <JapaneseText>「ふう…何とか片付きましたか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13392</PointerOffset>
+      <JapaneseText>「エクソダスだからって
+　シベ鉄やセント・レーガンだけが
+　敵ってわけじゃないのね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>24</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13424</PointerOffset>
+      <JapaneseText>「今日は助かったぜ、アポロ。
+　礼を言わせてもらう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13456</PointerOffset>
+      <JapaneseText>「そんなもん要らねえよ。
+　堕天翅退治は俺達の役目だからな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13488</PointerOffset>
+      <JapaneseText>「ところで、お前達って
+　どこから来たんだ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>19</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13520</PointerOffset>
+      <JapaneseText>「日本です」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13552</PointerOffset>
+      <JapaneseText>「え！　ヤーパンから！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13584</PointerOffset>
+      <JapaneseText>「そう言や、お前らは
+　日本を目指してるんだよな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13616</PointerOffset>
+      <JapaneseText>「一つだけ教えてやる…。
+　日本は地獄だぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13648</PointerOffset>
+      <JapaneseText>「どういう意味だ、そりゃ！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13680</PointerOffset>
+      <JapaneseText>「それを知りたいんなら、
+　自分の目で確かめるんだな！
+　あばよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.26</Section>
+    <Entry>
+      <PointerOffset>13808</PointerOffset>
+      <JapaneseText>「行っちゃった…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13840</PointerOffset>
+      <JapaneseText>「相変わらずだな。
+　あの野郎のガラの悪さと唐突ぶりは」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13872</PointerOffset>
+      <JapaneseText>「あれ？　…いねえぞ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13904</PointerOffset>
+      <JapaneseText>「どうした、勝平？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13936</PointerOffset>
+      <JapaneseText>「いや…太陽の兄ちゃんが
+　いなくなっちまったんだよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13968</PointerOffset>
+      <JapaneseText>「戦闘中に勝平にアドバイスを
+　送ってくれた人ね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14000</PointerOffset>
+      <JapaneseText>（ありがとよ、兄ちゃん…。
+　俺、目が覚めた気分だぜ…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14032</PointerOffset>
+      <JapaneseText>「だが、シベリア平原まで
+　異星人や堕天翅が現れるとは…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>37</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14064</PointerOffset>
+      <JapaneseText>「…このような状況の中で
+　人と人が争っている場合では
+　ありません…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14096</PointerOffset>
+      <JapaneseText>「キエル・ハイム…？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>37</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14128</PointerOffset>
+      <JapaneseText>（もう一刻の猶予もありません…。
+　私はディアナに戻り、
+　全てを正さなければなりません…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.27</Section>
+    <Entry>
+      <PointerOffset>14256</PointerOffset>
+      <JapaneseText>「いかん！
+　防衛ラインを突破された！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>17</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14288</PointerOffset>
+      <JapaneseText>「こ、これじゃ
+　ヤーパンの天井の人達が
+　堕天翅にやられちまう！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.28</Section>
+    <Entry>
+      <PointerOffset>14448</PointerOffset>
+      <JapaneseText>「まただ…！
+　堕天翅と戦うとキングゲイナーの
+　動きが鋭くなっていく！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14480</PointerOffset>
+      <JapaneseText>「まるで僕の中の何かが
+　目覚めていくみたいだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14512</PointerOffset>
+      <JapaneseText>（どうなっている…？
+　ゲイナーの動き…まるで何かに
+　取り憑かれたかのようだ…！）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14544</PointerOffset>
+      <JapaneseText>「堕天翅…！
+　キングゲイナーの力を見せてやる！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.29</Section>
+    <Entry>
+      <PointerOffset>14672</PointerOffset>
+      <JapaneseText>「アキもミチも香月も見てろよ！
+　俺が戦わなかったら、お前達なんて
+　すぐにやられちまうんだからな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14704</PointerOffset>
+      <JapaneseText>「こいつらを俺一人で倒して
+　俺がどれだけ頑張ってるか、
+　あいつらに教えてやる！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.30</Section>
+    <Entry>
+      <PointerOffset>14832</PointerOffset>
+      <JapaneseText>「やるぞ、勝平！
+　絶対にあいつらをヤーパンの天井に
+　近づけるな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14864</PointerOffset>
+      <JapaneseText>「そんな事は言われなくても
+　わかってらぁ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14896</PointerOffset>
+      <JapaneseText>「お前達も頼むぜ！
+　力を合わせなけりゃ、ザンボットは
+　思い切り戦えねえんだからな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14928</PointerOffset>
+      <JapaneseText>「少しはチームワークが
+　わかったみたいね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14960</PointerOffset>
+      <JapaneseText>「うるせえよ！
+　行くぜ、宇宙太、恵子！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.31</Section>
+    <Entry>
+      <PointerOffset>15088</PointerOffset>
+      <JapaneseText>「不動のオッサンも見てんだ！
+　びびってんじゃねえぞ、
+　ジュン、つぐみ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15120</PointerOffset>
+      <JapaneseText>「わかってるよ、アポロ君！
+　僕を指導してくれたシリウス先輩や
+　ピエール先輩のためにも！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15152</PointerOffset>
+      <JapaneseText>「麗花先輩のためにも！
+　頑張ります！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15184</PointerOffset>
+      <JapaneseText>「な、何だか変なテンションだけど…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15216</PointerOffset>
+      <JapaneseText>「よくわからねえが、行くぜ！
+　堕天翅は俺達がぶっ飛ばすんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.32</Section>
+    <Entry>
+      <PointerOffset>15344</PointerOffset>
+      <JapaneseText>「よぉし！　今度は僕がヘッドだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>30</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15376</PointerOffset>
+      <JapaneseText>「頑張ろうね、ジュン君！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>31</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15408</PointerOffset>
+      <JapaneseText>「実戦はお前の大好きなゲームとは違うぜ！
+　抜かるんじゃねえぞ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>29</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15440</PointerOffset>
+      <JapaneseText>「何だよ、あいつもゲーム好きかよ！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15472</PointerOffset>
+      <JapaneseText>「メガネもかけてるし、
+　ゲイナー君と似てるわね…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.33</Section>
+    <Entry>
+      <PointerOffset>15600</PointerOffset>
+      <JapaneseText>（ホワイトドールの中には
+　堕天翅に関するデータがあった）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15632</PointerOffset>
+      <JapaneseText>（ブレイク・ザ・ワールドが起きる前の
+　僕達の世界に堕天翅がいたって
+　事なのか…？）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.34</Section>
+    <Entry>
+      <PointerOffset>15760</PointerOffset>
+      <JapaneseText>（なぜだ…？
+　なぜ、ビッグオーの中に
+　堕天翅のメモリーがある…？）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15792</PointerOffset>
+      <JapaneseText>（私の知らない何かが
+　ビッグオーと堕天翅の間にあるのか…？）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2.1</Section>
+    <Entry>
+      <PointerOffset>16384</PointerOffset>
+      <JapaneseText>ヤーパンの天井　教室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16416</PointerOffset>
+      <JapaneseText>ヤーパンの天井　教室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16448</PointerOffset>
+      <JapaneseText>ヤーパンの天井　教室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16608</PointerOffset>
+      <JapaneseText>　　　　〜ヤーパンの天井　ハイスクール〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16672</PointerOffset>
+      <JapaneseText>「どうした、ゲイナー？
+　目の下にクマ、出来てんぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16704</PointerOffset>
+      <JapaneseText>「…少し寝不足なんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16736</PointerOffset>
+      <JapaneseText>「昨日はエキデンと出撃で
+　大忙しだったのに眠れなかったの？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16768</PointerOffset>
+      <JapaneseText>「う、うん…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16800</PointerOffset>
+      <JapaneseText>「ゲイナーの兄ちゃんの事だ。
+　どうせ、またゲームして徹夜だったん
+　じゃないの」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16832</PointerOffset>
+      <JapaneseText>「どうして、勝平達が学校に？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16864</PointerOffset>
+      <JapaneseText>「おじいさんや花江おばさんに
+　少しでも勉強しておけって
+　言われたんです」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16896</PointerOffset>
+      <JapaneseText>「俺達も本来なら
+　学校に行ってなくちゃならない
+　年齢だしな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16928</PointerOffset>
+      <JapaneseText>「しっかしすげえよな、お前ら。
+　まだガキだってのに、立派に
+　戦ってんだもんな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16960</PointerOffset>
+      <JapaneseText>「ガキって言うなよ、リーゼントの兄ちゃん」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16992</PointerOffset>
+      <JapaneseText>「ま…俺達は睡眠学習装置で
+　メカの操縦や戦い方なんかを
+　学んだからな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17024</PointerOffset>
+      <JapaneseText>「ふうん…。
+　神ファミリーって、何か凄いんだね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17056</PointerOffset>
+      <JapaneseText>「いいなあ。
+　それがあれば、あたしもザンボット３の
+　操縦が出来たのね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17088</PointerOffset>
+      <JapaneseText>「まあな。
+　俺としちゃ、学校の勉強の方も
+　睡眠学習で済ませて欲しかったけどよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17120</PointerOffset>
+      <JapaneseText>「でも、教室でみんなで勉強するのって
+　楽しそうじゃないか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17152</PointerOffset>
+      <JapaneseText>「そうよ！
+　久々の学校なんだから、
+　張り切って授業を受けましょう！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17216</PointerOffset>
+      <JapaneseText>「うるさいよ、ガキ共！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17248</PointerOffset>
+      <JapaneseText>「どうして、アデット姐さんまで学校に！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17280</PointerOffset>
+      <JapaneseText>「それに何よ、その格好は！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17312</PointerOffset>
+      <JapaneseText>「先生様に向かって、何て口の利き方だい？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17344</PointerOffset>
+      <JapaneseText>「せ、先生って！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17376</PointerOffset>
+      <JapaneseText>「人生経験を買われて先生を頼まれたんだよ。
+　出撃のない日は授業をやってる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17408</PointerOffset>
+      <JapaneseText>「似合うぜ、アデット隊長。
+　いかにも女教師って感じだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17440</PointerOffset>
+      <JapaneseText>「ありがとうよ、宇宙太。
+　この衣装も支給されたのさ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17472</PointerOffset>
+      <JapaneseText>「さあ席につきな、坊ちゃん、嬢ちゃん！
+　今から授業を始めるよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17504</PointerOffset>
+      <JapaneseText>「…僕より早く部屋を出たと思ったら、
+　こんな事になるなんて…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17536</PointerOffset>
+      <JapaneseText>「何か言った、ゲイナー君？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17568</PointerOffset>
+      <JapaneseText>「い、いや…何も…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17632</PointerOffset>
+      <JapaneseText>「さてと、じゃあ地理の授業だ。
+　…例のブレイク・ザ・ワールドってので
+　世界は滅茶苦茶になったわけだけど…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17664</PointerOffset>
+      <JapaneseText>「そんなのＵＮでもニュースが流れてるから、
+　みんな知ってますって」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17696</PointerOffset>
+      <JapaneseText>「それに俺達、世界を旅してきたから
+　実際に目で見てるもんな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17728</PointerOffset>
+      <JapaneseText>「…ガキが偉っそうに…！
+　だったら、あんたらにシベリアの今ってのを
+　教えてやるよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17760</PointerOffset>
+      <JapaneseText>「シベリアの今…？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17792</PointerOffset>
+      <JapaneseText>「このシベリア…と言うより、
+　ガリア大陸は世界中の吹き溜まりに
+　なってんだよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17824</PointerOffset>
+      <JapaneseText>「エクソダスをしてる連中、
+　おかしな教えを信じてる連中、
+　家を焼かれて逃げてきた連中…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17856</PointerOffset>
+      <JapaneseText>「おまけに月の連中までやってきて
+　ごった煮状態だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17888</PointerOffset>
+      <JapaneseText>（ムーンレィスは物資不足に
+　苦しんでいたみたいだけど、
+　大丈夫なのかな…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17920</PointerOffset>
+      <JapaneseText>「でも、その人達…シベリアに来て
+　どうするつもりなんですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17952</PointerOffset>
+      <JapaneseText>「あちこちのドームポリスに
+　住み着いたり、季節に合わせて
+　移動したりしているんだろうさ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17984</PointerOffset>
+      <JapaneseText>「確かにシベリアは
+　新連邦もセント・レーガンを除きゃあ
+　無視しているも同然だが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18016</PointerOffset>
+      <JapaneseText>「だからといって、
+　住み易いとはお世辞にも言えない。
+　連中も苦労しているみたいだよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18048</PointerOffset>
+      <JapaneseText>「それでも、ここに流れてくる人達が
+　いるのね…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18144</PointerOffset>
+      <JapaneseText>「な、何！？　この振動は！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18176</PointerOffset>
+      <JapaneseText>「都市ユニットが
+　急ブレーキをかけたんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>36</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18208</PointerOffset>
+      <JapaneseText>「いったい何のために！？
+　何かにぶつかりそうになったの！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18272</PointerOffset>
+      <JapaneseText>「みんな、出動準備をしろ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18304</PointerOffset>
+      <JapaneseText>「何があったんです！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18336</PointerOffset>
+      <JapaneseText>「難民達のキャラバンが
+　ヤーパンの天井への搭乗を要求してきた。
+　向こうは力ずくも辞さない気らしい」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>7</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18368</PointerOffset>
+      <JapaneseText>「上等じゃないの！
+　向こうがその気なら、ちゃっちゃと
+　やっちまおうぜ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18400</PointerOffset>
+      <JapaneseText>「駄目だよ、勝平！
+　無闇に力を使っては大きな争いに
+　なるだけだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18432</PointerOffset>
+      <JapaneseText>「ロランさんの言う通りよ。
+　相手は困っている人達なんだから、
+　まずは話し合いで解決すべきよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>20</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18464</PointerOffset>
+      <JapaneseText>「わ、わかってるって！
+　俺が言ってんのは、向こうが
+　力ずくで来た場合の時だっての！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18496</PointerOffset>
+      <JapaneseText>「だが、もしもの場合もある。
+　各自はそれぞれの機体に搭乗し、
+　次の指示を待つんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>41</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18528</PointerOffset>
+      <JapaneseText>「わかりました…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18560</PointerOffset>
+      <JapaneseText>（難民の人達って
+　ムーンレィスだろうか…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18656</PointerOffset>
+      <JapaneseText>バッハクロン　ブリッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18688</PointerOffset>
+      <JapaneseText>バッハクロン　ブリッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18720</PointerOffset>
+      <JapaneseText>バッハクロン　ブリッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18848</PointerOffset>
+      <JapaneseText>「…では、あなた方、難民の皆さんは
+　あくまで次のドームポリスまでの
+　同乗のみを希望するのですな？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>42</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18880</PointerOffset>
+      <JapaneseText>「はい。
+　…あなた方がエクソダスをしている事は
+　存じ上げています」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18912</PointerOffset>
+      <JapaneseText>「我々には、そこまでの覚悟はありません。
+　ただ、ブリザードの季節ですので
+　少しでも安全な旅を送りたいのです」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18944</PointerOffset>
+      <JapaneseText>「…とは言われても…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>42</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18976</PointerOffset>
+      <JapaneseText>「五賢人…ここは私が代わりましょう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19008</PointerOffset>
+      <JapaneseText>「あなたは？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19040</PointerOffset>
+      <JapaneseText>「このエクソダスの専属ネゴシエイター、
+　ロジャー・スミスと申します」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19072</PointerOffset>
+      <JapaneseText>「私はティプトリー。
+　キャラバンのリーダーを務めています」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19104</PointerOffset>
+      <JapaneseText>「その服装…
+　あなたは《ヴォダラク》教徒ですね？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19136</PointerOffset>
+      <JapaneseText>「はい…。
+　ですが、私達のキャラバンは
+　教徒の集まりというわけではありません」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19168</PointerOffset>
+      <JapaneseText>「ヴォダラクを信奉しているのは、
+　私を含めて極少数の人間です」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19200</PointerOffset>
+      <JapaneseText>「ヴォダラク…。
+　旧塔州連邦軍が反体制組織として
+　取り締まっている教団か」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>44</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19232</PointerOffset>
+      <JapaneseText>「私達は、ただ自然の流れを
+　そのまま受け入れているだけであるのに
+　悲しい事です…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19264</PointerOffset>
+      <JapaneseText>「…わかりました。
+　あなた方の搭乗を認めましょう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19296</PointerOffset>
+      <JapaneseText>「ロ、ロジャーさん！
+　そんな簡単に決めてしまっては！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>42</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19328</PointerOffset>
+      <JapaneseText>「現在、ヤーパンの天井には
+　食糧を含む物資が潤沢にある。
+　彼らに売っても問題はないだろう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19360</PointerOffset>
+      <JapaneseText>「しかし、ごく少数とは言え
+　ヴォダラクの民を受け入れるのは
+　危険ではないのか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>44</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19392</PointerOffset>
+      <JapaneseText>「その逆だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19424</PointerOffset>
+      <JapaneseText>「ここで我々が彼らを受け入れれば、
+　ヤーパンの天井の名は反連邦組織に
+　知れ渡る事になる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19456</PointerOffset>
+      <JapaneseText>「なるほど。
+　反連邦の機運を高める事が
+　彼らに対する牽制になるという事か」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>37</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19488</PointerOffset>
+      <JapaneseText>「いい判断だ。
+　…黙ってたってセント・レーガンは来るんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19520</PointerOffset>
+      <JapaneseText>「多少のリスクを負ってでも
+　ヤーパンの天井、ここにありってのを
+　示すのは悪くない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19552</PointerOffset>
+      <JapaneseText>「ロジャーさんと請負人が
+　そこまで言われるのなら、
+　そうする事にしようかのう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>42</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19584</PointerOffset>
+      <JapaneseText>「ありがとうございます」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19616</PointerOffset>
+      <JapaneseText>「だが、忘れないでいただきたい。
+　あなた方の同乗を認めるのは
+　次のドームポリスまでです」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19648</PointerOffset>
+      <JapaneseText>「それ以上は余計なトラブルを招き、
+　下手をすれば共倒れになるでしょう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19680</PointerOffset>
+      <JapaneseText>「…旅の途中、内部での争いで崩壊した
+　エクソダスは珍しくない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19712</PointerOffset>
+      <JapaneseText>「そして、そのほとんどがストレスによる
+　些細な諍いが広がった結果だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19744</PointerOffset>
+      <JapaneseText>「はい…。
+　この過酷な自然は、時に人の持つ心を
+　苛んでいきますから…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19776</PointerOffset>
+      <JapaneseText>「ですが、よろしければ、
+　ドームポリス到着後の難民の受け入れ交渉も
+　私が担当しましょう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19808</PointerOffset>
+      <JapaneseText>「よろしいのですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19840</PointerOffset>
+      <JapaneseText>「あなた方の存在を利用させてもらう
+　お返しのようなものです。
+　気にしないでいただきたい」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19872</PointerOffset>
+      <JapaneseText>「やるもんだな、ネゴシエイター。
+　あんた、ただのペテン師じゃないんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19904</PointerOffset>
+      <JapaneseText>「私の使っているのは交渉術だ。
+　ペテン師の口上とは全くの別物であるのを
+　知ってもらおう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19936</PointerOffset>
+      <JapaneseText>「了解だ。
+　こちらの言い方が悪かったのは謝ろう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19968</PointerOffset>
+      <JapaneseText>「だが、請負人…。
+　彼らを受け入れておいて、エクソダスを
+　止められては笑い話にもならないぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20000</PointerOffset>
+      <JapaneseText>「わかっている。
+　そっちの方は俺の領分だ。
+　プロとして仕事はきちんとやるさ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20032</PointerOffset>
+      <JapaneseText>「そのプライド、信用に値するな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20128</PointerOffset>
+      <JapaneseText>都市ユニット内部</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20160</PointerOffset>
+      <JapaneseText>都市ユニット内部</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20192</PointerOffset>
+      <JapaneseText>都市ユニット内部</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20352</PointerOffset>
+      <JapaneseText>　　　　　〜ヤーパンの天井　居住区〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>45</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20416</PointerOffset>
+      <JapaneseText>「へえ…あのロジャーって人、
+　口ばっかりじゃなかったんだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20448</PointerOffset>
+      <JapaneseText>「でも、おかげで一時的に人が増えたんで、
+　あたし達まで街のパトロールに
+　駆り出される事になっちゃったじゃない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20480</PointerOffset>
+      <JapaneseText>「いいじゃないですか。
+　困ってる人達を追い出すのに比べれば、
+　この程度の事、我慢出来ますよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20512</PointerOffset>
+      <JapaneseText>「いつもの事だけど、
+　ロランの兄ちゃんってお人好しだよな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20544</PointerOffset>
+      <JapaneseText>「僕も月の人間だけど、
+　キエルお嬢様やソシエお嬢さんに
+　よくしてもらったからね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20576</PointerOffset>
+      <JapaneseText>「そういや…ロランの兄ちゃんは
+　ムーンレィスだったっけな…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20608</PointerOffset>
+      <JapaneseText>「どうしたの、勝平？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20640</PointerOffset>
+      <JapaneseText>「いいよな…。
+　月の…敵の人間だってのに
+　受け入れてもらって…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20672</PointerOffset>
+      <JapaneseText>「俺ん家なんか
+　街の人達に異星人の仲間だって
+　追い出されたようなものなのに…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20704</PointerOffset>
+      <JapaneseText>「勝平…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20736</PointerOffset>
+      <JapaneseText>「ワン！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20768</PointerOffset>
+      <JapaneseText>「どうしたの、千代錦？
+　向こうの方に誰かいるの？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20800</PointerOffset>
+      <JapaneseText>「あれは！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20896</PointerOffset>
+      <JapaneseText>「おい、勝平！
+　どこ行くんだよ！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20928</PointerOffset>
+      <JapaneseText>「難民の人達の中に知ってる人でも
+　いたのかな…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21024</PointerOffset>
+      <JapaneseText>都市ユニット屋上</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21056</PointerOffset>
+      <JapaneseText>都市ユニット屋上</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21088</PointerOffset>
+      <JapaneseText>都市ユニット屋上</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21248</PointerOffset>
+      <JapaneseText>　　　　　　〜ヤーパンの天井　屋上〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21312</PointerOffset>
+      <JapaneseText>「アキ、ミチ！　香月！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21344</PointerOffset>
+      <JapaneseText>「勝平…本当に勝平なの！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21376</PointerOffset>
+      <JapaneseText>「何だよ、お前ら！
+　どうしてシベリアなんかにいるんだよ！？
+　俺、びっくりしちまったぜ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21408</PointerOffset>
+      <JapaneseText>「…黙れ、勝平…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21440</PointerOffset>
+      <JapaneseText>「香月…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21472</PointerOffset>
+      <JapaneseText>「香月の兄ちゃん…この人、誰だい？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21504</PointerOffset>
+      <JapaneseText>「こいつは神ファミリーの人間…。
+　地球にガイゾックを呼び込んだ奴らだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21536</PointerOffset>
+      <JapaneseText>「俺やアキ達が
+　日本を追い出される事になったのは
+　こいつのおかげなんだよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21568</PointerOffset>
+      <JapaneseText>「しつこいぞ、香月！
+　ガイゾックが街を襲ったのは、
+　俺達神ファミリーのせいじゃねえ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21600</PointerOffset>
+      <JapaneseText>「何言ってやがる！
+　お前達がキング・ビアルやザンボットを　
+　掘り出したから奴らが来たんだろうが！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>49</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21632</PointerOffset>
+      <JapaneseText>「そうじゃねえよ！
+　ガイゾックは最初っから地球を
+　メチャクチャにするのが目的だったんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21664</PointerOffset>
+      <JapaneseText>「俺達は、奴らにそんな事をさせないために
+　ご先祖様の遺したザンボットで
+　戦ってるんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21696</PointerOffset>
+      <JapaneseText>「お前がどれだけ言い訳しようと
+　俺達は家を失い、結局こんな所まで
+　逃げてくるしかなかった…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21728</PointerOffset>
+      <JapaneseText>「アキ、ミチ…！
+　街を出てから何があったんだ！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21760</PointerOffset>
+      <JapaneseText>「…地球連邦から独立した日本には
+　ガイゾックとは別の敵が現れたの…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21792</PointerOffset>
+      <JapaneseText>「別の敵…？
+　異星人か！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21824</PointerOffset>
+      <JapaneseText>「わからない。
+　でも、あたし達がいた難民キャンプも
+　襲われて、メチャクチャになって…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21856</PointerOffset>
+      <JapaneseText>「でも、あたし達、そこで見たの…。
+　日本政府の人が家を失った人達を
+　無理矢理連れて行くのを…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21888</PointerOffset>
+      <JapaneseText>「な、何だよ、そりゃ…！
+　謎の敵が現れて、人がさらわれて…
+　いったいどうなってんだ！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21920</PointerOffset>
+      <JapaneseText>「あたし達だってわからないわ…！
+　…でも、怖くて、不安で
+　誰も信じられなくなって…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21952</PointerOffset>
+      <JapaneseText>「それで逃げ続けていたら、
+　結局日本を出て行くしかなかったの…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21984</PointerOffset>
+      <JapaneseText>「全ては神ファミリーのせいだ！
+　お前達さえいなければ、こんな事には
+　ならなかったんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22016</PointerOffset>
+      <JapaneseText>「香月さん！　キャラバンのみんなに
+　ここに勝平達がいる事を
+　知らせましょう！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>49</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22048</PointerOffset>
+      <JapaneseText>「神ファミリーに恨みを持ってる人達は
+　俺達以外にもいますから！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>49</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22080</PointerOffset>
+      <JapaneseText>「や、やめろ！
+　下手に騒ぎを起こせば、ここの人達まで
+　巻き込む事になっちまう！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22112</PointerOffset>
+      <JapaneseText>「確かにドームポリスに着く前に
+　面倒事を起こせば、こっちにも
+　いい事はねえ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22144</PointerOffset>
+      <JapaneseText>「わかってくれたのか、香月！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22176</PointerOffset>
+      <JapaneseText>「だが、お前達への恨みを
+　忘れたわけじゃねえ…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22208</PointerOffset>
+      <JapaneseText>「勝平！　俺達の前に
+　二度と顔を出すんじゃねえぞ！
+　もし現れたら、その時は…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22240</PointerOffset>
+      <JapaneseText>「父ちゃんや母ちゃんや街のみんなの仇だ！
+　その時は俺達がお前達を
+　滅茶苦茶にしてやるからな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>49</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22272</PointerOffset>
+      <JapaneseText>「………」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22304</PointerOffset>
+      <JapaneseText>「行くぜ、みんな。
+　一分一秒でも、こいつと同じ場所には
+　いたくはねえからな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>47</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22336</PointerOffset>
+      <JapaneseText>「勝平…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22368</PointerOffset>
+      <JapaneseText>「行くよ、ミチ。
+　あたし達も今夜の寝る場所を
+　見つけないと」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22400</PointerOffset>
+      <JapaneseText>「うん…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22528</PointerOffset>
+      <JapaneseText>「くそっ…くそおおおっ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22560</PointerOffset>
+      <JapaneseText>「あいつら、人の気も知らないで…！
+　くっそおおおおっ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22592</PointerOffset>
+      <JapaneseText>「ねえ、あんたさあ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22624</PointerOffset>
+      <JapaneseText>「何だよ、お前は！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22656</PointerOffset>
+      <JapaneseText>「そんなに怒鳴らなくてもいいだろ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22688</PointerOffset>
+      <JapaneseText>「おいらは戸田突太。
+　みんなはトッポって呼ぶけどね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22720</PointerOffset>
+      <JapaneseText>「お前、香月達の仲間か？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22752</PointerOffset>
+      <JapaneseText>「まあね。
+　おいら、シベリアに来てから
+　香月の兄ちゃん達と知り合ったけど…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22784</PointerOffset>
+      <JapaneseText>「いつもは面倒見のいい兄ちゃんが
+　あんなに怒ってたの、初めて見たよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22816</PointerOffset>
+      <JapaneseText>「ああ…あいつは自分の子分には
+　優しい奴だからな…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22848</PointerOffset>
+      <JapaneseText>「それよりさ、あんた、
+　あのザンボット３のパイロットなんだろ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22880</PointerOffset>
+      <JapaneseText>「あれって、昔、地球に来た異星人が
+　遺したロボットって本当？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22912</PointerOffset>
+      <JapaneseText>「その話、どこで聞いたんだよ！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22944</PointerOffset>
+      <JapaneseText>「ＵＮでだよ。
+　で、それに乗ってる人間も
+　異星人だって聞いたけど…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22976</PointerOffset>
+      <JapaneseText>「うるせえ！　俺は地球人だ！
+　でたらめを信じてるんじゃねえ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23008</PointerOffset>
+      <JapaneseText>「そこまでだ、勝平君。
+　八つ当たりはやめにしよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23040</PointerOffset>
+      <JapaneseText>「だ、誰だよ、あんた？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23072</PointerOffset>
+      <JapaneseText>「そうだな…。
+　人は僕をザ・ストームと呼んだり、
+　日輪の申し子と呼んだりする」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23104</PointerOffset>
+      <JapaneseText>「日輪…？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23136</PointerOffset>
+      <JapaneseText>「太陽の事だよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23168</PointerOffset>
+      <JapaneseText>「誰だか知らねえけど、
+　今の俺は気が立ってんだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23200</PointerOffset>
+      <JapaneseText>「ちょっかいかけてくるんなら
+　相手が大人でもやっちまうぜ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23232</PointerOffset>
+      <JapaneseText>「では、相手になろうか。
+　それで君の気が済むのなら」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23264</PointerOffset>
+      <JapaneseText>「え…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23296</PointerOffset>
+      <JapaneseText>「でも、僕を殴り倒しても
+　君の気は晴れない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23328</PointerOffset>
+      <JapaneseText>「心の闇を乗り越えるには
+　その闇に負けない光を見つける事だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23360</PointerOffset>
+      <JapaneseText>「何だよ、そりゃ！
+　訳のわからねえ事ばっかり
+　言ってんじゃねえよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23424</PointerOffset>
+      <JapaneseText>「緊急通信！？
+　イチ兄ちゃんからか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23456</PointerOffset>
+      <JapaneseText>「勝平、キング・ビアルに戻れ！
+　ガイゾックのものと思われる部隊が
+　ヤーパンの天井に接近してる！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23488</PointerOffset>
+      <JapaneseText>「くそ、あいつら！
+　こんな所まで来やがったのか！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23520</PointerOffset>
+      <JapaneseText>「いい機会だ！
+　俺が徹底的に叩き潰してやる！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23616</PointerOffset>
+      <JapaneseText>「行ってしまったか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23648</PointerOffset>
+      <JapaneseText>「じゃあ、おいらが代わって聞くけど、
+　兄ちゃんは何者なの？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23680</PointerOffset>
+      <JapaneseText>「通りすがりのおせっかいさ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23712</PointerOffset>
+      <JapaneseText>「どうして、さっきの兄ちゃんに
+　おせっかいを焼くのさ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23744</PointerOffset>
+      <JapaneseText>「彼の力になりたくて…
+　って説明じゃ足りないかな？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23776</PointerOffset>
+      <JapaneseText>（負けるなよ、勝平君。
+　気づいていないだろうが、君は
+　僕にはない多くの光を持っているんだから…）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>33</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2.2</Section>
+    <Entry>
+      <PointerOffset>24032</PointerOffset>
+      <JapaneseText>バンドック　ブリッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24064</PointerOffset>
+      <JapaneseText>バンドック　ブリッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24096</PointerOffset>
+      <JapaneseText>バンドック　ブリッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24256</PointerOffset>
+      <JapaneseText>　　　　　　〜バンドック　ブリッジ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>40</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24320</PointerOffset>
+      <JapaneseText>「…ほう、これが堕天翅なる者達の
+　データか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>51</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24352</PointerOffset>
+      <JapaneseText>「はい、奴らは地球上の各地に出現し、
+　人間をさらっている模様です」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24384</PointerOffset>
+      <JapaneseText>「ホッホッホ、太平洋の方は
+　アルデバロンとエルダーに任せたので、
+　暇つぶしに部隊を動かしてみたが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>51</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24416</PointerOffset>
+      <JapaneseText>「なかなかに面白い趣向を思いついたぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>51</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24448</PointerOffset>
+      <JapaneseText>「あの堕天翅共と手を結ぶのですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24480</PointerOffset>
+      <JapaneseText>「違う、違う！
+　…奴らが人間をさらって食料にするのも
+　下僕にするのも、どうでもいい」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>51</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24512</PointerOffset>
+      <JapaneseText>「我らガイゾックは
+　もっと実用的、かつ面白おかしい使い方を
+　させてもらおう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>51</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24544</PointerOffset>
+      <JapaneseText>「…と言いますと？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24576</PointerOffset>
+      <JapaneseText>「今はナイショ。
+　とにかく、お前達は人間共を
+　集めてくるのだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>51</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24608</PointerOffset>
+      <JapaneseText>「ギョイ、ブッチャー」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>52</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24736</PointerOffset>
+      <JapaneseText>黒ベタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24768</PointerOffset>
+      <JapaneseText>黒ベタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24800</PointerOffset>
+      <JapaneseText>黒ベタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24928</PointerOffset>
+      <JapaneseText>シベリア平原</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24960</PointerOffset>
+      <JapaneseText>シベリア平原</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24992</PointerOffset>
+      <JapaneseText>シベリア平原</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25120</PointerOffset>
+      <JapaneseText>「ありがとうございました、ロジャーさん。
+　ここからは我々のキャラバンだけで
+　ドームポリスを目指します」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25152</PointerOffset>
+      <JapaneseText>「いえ…私はドームポリスに
+　あなた方を受け入れてもらうための
+　交渉があります」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25184</PointerOffset>
+      <JapaneseText>「そこまでは、ご一緒させてもらいます」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>12</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25216</PointerOffset>
+      <JapaneseText>「では、そのお言葉に甘えさせて
+　いただきます」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>43</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25280</PointerOffset>
+      <JapaneseText>「かっこよかったぜ、勝平兄ちゃん！
+　おいら…兄ちゃんの事、
+　見直しちゃったな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25312</PointerOffset>
+      <JapaneseText>「ありがとうよ、トッポ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25344</PointerOffset>
+      <JapaneseText>「命懸けでおいら達を守ってくれた
+　勝平兄ちゃんにプレゼントだ！
+　はい！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25408</PointerOffset>
+      <JapaneseText>「勝平…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25440</PointerOffset>
+      <JapaneseText>「アキ、ミチ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25472</PointerOffset>
+      <JapaneseText>「あたし達、ドームポリスへ出発するの…。
+　だから、ここでお別れね…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25504</PointerOffset>
+      <JapaneseText>「本当は香月さんや浜本さん達も
+　誘ったんだけど…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25536</PointerOffset>
+      <JapaneseText>「いや、いいんだ…。
+　あいつらの気持ちもわかるからよ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25568</PointerOffset>
+      <JapaneseText>「勝平…あたし達もまだ
+　前みたいに笑えないけど…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25600</PointerOffset>
+      <JapaneseText>「勝平が頑張って戦ってるのは
+　わかったから…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25632</PointerOffset>
+      <JapaneseText>「お前ら…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25664</PointerOffset>
+      <JapaneseText>「元気でね、勝平…。
+　それじゃ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>46</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25696</PointerOffset>
+      <JapaneseText>「…また会えるといいね、勝平…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>50</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25792</PointerOffset>
+      <JapaneseText>「…ありがとよ、ブスペア…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25824</PointerOffset>
+      <JapaneseText>「何だよ！
+　勝平兄ちゃんの活躍を見たってのに
+　仲直りしないのかよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25856</PointerOffset>
+      <JapaneseText>「いいんだよ、トッポ。
+　…ありがとな、二人を連れてきてくれて」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25888</PointerOffset>
+      <JapaneseText>「ところで、お前はドームポリスへ
+　行かないのか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25920</PointerOffset>
+      <JapaneseText>「へへ…他に行く所が出来たんだよ。
+　おいらにゃ、でっかい夢があるからな。
+　また会おうな、勝平兄ちゃん」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>48</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25952</PointerOffset>
+      <JapaneseText>「ああ…お前も元気でな、トッポ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26016</PointerOffset>
+      <JapaneseText>「勝平…これでよかったのかな…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>32</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26048</PointerOffset>
+      <JapaneseText>「わからねえ…。
+　時間が経てば、いつかは心の傷も
+　癒えると思う…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26080</PointerOffset>
+      <JapaneseText>「今はそれを信じるしかねえ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26112</PointerOffset>
+      <JapaneseText>「いつか、あの子達も勝平と一緒に
+　笑える日が来ると思います」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26144</PointerOffset>
+      <JapaneseText>「勝平もそれを信じて
+　戦っていくんでしょうね…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26176</PointerOffset>
+      <JapaneseText>「…ロランもそうなの？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26208</PointerOffset>
+      <JapaneseText>「ロランも、いつかムーンレィスと
+　地球の人が仲良くなるって信じて
+　戦っているの？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26240</PointerOffset>
+      <JapaneseText>「はい…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26272</PointerOffset>
+      <JapaneseText>「でも、あたしはムーンレィスが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>10</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26304</PointerOffset>
+      <JapaneseText>「お嬢さんの気持ちもわかります。
+　旦那様がディアナ・カウンターの攻撃で
+　亡くなられたのは事実ですから…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26336</PointerOffset>
+      <JapaneseText>「でも、僕はそういうのを乗り越えて、
+　月と地球が手を取り合う日が来るって
+　信じたいんです…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26368</PointerOffset>
+      <JapaneseText>「………」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26400</PointerOffset>
+      <JapaneseText>「ロラン・セアック…。
+　後で私の部屋へ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26432</PointerOffset>
+      <JapaneseText>「は、はい。
+　何か御用ですか、キエルお嬢様？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26464</PointerOffset>
+      <JapaneseText>「…あなたに頼みがあります…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26560</PointerOffset>
+      <JapaneseText>アイアン・ギアー　個室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26592</PointerOffset>
+      <JapaneseText>アイアン・ギアー　個室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26624</PointerOffset>
+      <JapaneseText>アイアン・ギアー　個室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26752</PointerOffset>
+      <JapaneseText>「そんな…！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26784</PointerOffset>
+      <JapaneseText>「嘘や冗談の類ではありません。
+　あなたの目の前にいるのは
+　ノックスのキエル・ハイムではなく…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26816</PointerOffset>
+      <JapaneseText>「月のディアナ・ソレルです」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26848</PointerOffset>
+      <JapaneseText>「…おかしいとは感じていたんですよ、ずっと。
+　でも、どうしてこんな所にディアナ様が
+　いらっしゃるんですか…！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26880</PointerOffset>
+      <JapaneseText>「全ては私の戯れが招いた事です…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26912</PointerOffset>
+      <JapaneseText>「…あんなに尊敬し、憧れているディアナ様と
+　キエルお嬢様を…僕はずっと見分ける事が
+　出来なかったなんて…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26944</PointerOffset>
+      <JapaneseText>「ロラン・セアック…。
+　あなたが大切に思っているキエル・ハイムが
+　困難な局面に立っています」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26976</PointerOffset>
+      <JapaneseText>「キエルさんの命に関わる事に
+　なるかも知れないのです」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27008</PointerOffset>
+      <JapaneseText>「キエルお嬢様がソレイユに
+　いらっしゃるんですか…！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27040</PointerOffset>
+      <JapaneseText>「そうですよね…。
+　ここにディアナ様がいるなら、お嬢様は
+　ソレイユにいらっしゃるんだ…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27072</PointerOffset>
+      <JapaneseText>「そうなのです。
+　私の代わりをさせられて…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27104</PointerOffset>
+      <JapaneseText>「ですが、今日の異星人や堕天翅、
+　ディアナ・カウンターの略奪行為や
+　難民の方々の窮状を考えると…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27136</PointerOffset>
+      <JapaneseText>「もう、この状態を続けるわけには
+　いかないのです」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27168</PointerOffset>
+      <JapaneseText>「はい…続けられません」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27200</PointerOffset>
+      <JapaneseText>「それは月のためにも
+　地球のためにもなのです。
+　ロラン・セアック…力を貸しておくれ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>38</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27232</PointerOffset>
+      <JapaneseText>「僕に力…あるんでしょうか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>9</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2.3</Section>
+    <Entry>
+      <PointerOffset>27392</PointerOffset>
+      <JapaneseText>バザー会場</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27424</PointerOffset>
+      <JapaneseText>バザー会場</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27456</PointerOffset>
+      <JapaneseText>バザー会場</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27584</PointerOffset>
+      <JapaneseText>「…僕達のいない間に
+　ヤーパンの天井も少し変わったみたいだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27616</PointerOffset>
+      <JapaneseText>「世界が滅茶苦茶になったからね。
+　おかげで、ここにも色んなブツが
+　回ってきているみたいだよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27648</PointerOffset>
+      <JapaneseText>「アデット、ちょっと来てみなよ！
+　難民キャラバンの人達が
+　面白いものを持ちこんだみたいだよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27680</PointerOffset>
+      <JapaneseText>「あんたが面白いって言うからには
+　何かのマシンのパーツかい？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27712</PointerOffset>
+      <JapaneseText>「うん…グチャグチャに壊れてて
+　よくわからないけど、オーバーマンの
+　骨格みたい」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27744</PointerOffset>
+      <JapaneseText>「ふうん…でも、壊れてるんじゃ
+　すぐに使えるってもんでもなさそうだね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27776</PointerOffset>
+      <JapaneseText>「でも、確かに面白そうだ。
+　コトセットさん達も呼んでくるよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27808</PointerOffset>
+      <JapaneseText>「じゃあ、あたしは先に行って
+　ブツを押さえてるね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2.4</Section>
+    <Entry>
+      <PointerOffset>28096</PointerOffset>
+      <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28128</PointerOffset>
+      <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28160</PointerOffset>
+      <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>39</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28288</PointerOffset>
+      <JapaneseText>「う〜ん…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28320</PointerOffset>
+      <JapaneseText>「どうだ、コトセット…
+　このスクラップ、何かに使えるか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>8</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28352</PointerOffset>
+      <JapaneseText>「マッスルエンジンが装備されてるんだから、
+　オーバーマンの残骸なのは
+　間違いないんだろうけど…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28384</PointerOffset>
+      <JapaneseText>「ここまでぶっ壊れてちゃ
+　ちょっとやそっとじゃ、どうしようもない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28416</PointerOffset>
+      <JapaneseText>「確かに安かったかも知れないが、
+　これでは『安物買いの銭失い』だな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>54</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28448</PointerOffset>
+      <JapaneseText>「そうかぁ…。
+　キングゲイナーの予備パーツぐらいには
+　なると思ったんだけどな…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28480</PointerOffset>
+      <JapaneseText>「どうだい、コナちゃん。
+　せっかく買ったんだから、こいつを
+　レストアしてみないか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28512</PointerOffset>
+      <JapaneseText>「そうだね！
+　捨てるぐらいなら、やってみるよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28544</PointerOffset>
+      <JapaneseText>「…と言っても、こいつが
+　どんなオーバーマンだったかわからなきゃ
+　話にならないだろうがな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>35</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28576</PointerOffset>
+      <JapaneseText>「そっか…。
+　それを調べるところから始めなきゃね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28640</PointerOffset>
+      <JapaneseText>「う〜ん…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28672</PointerOffset>
+      <JapaneseText>「どうしたんです、アデット先生？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28704</PointerOffset>
+      <JapaneseText>「このスクラップ…。
+　どこかで見たような事があるような、
+　無いような…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28736</PointerOffset>
+      <JapaneseText>「もしかして、
+　もう物忘れするような歳なんですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28768</PointerOffset>
+      <JapaneseText>「あーっ！　横から余計な事、言うから
+　すっかりわからなくなっちまったよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28800</PointerOffset>
+      <JapaneseText>「じゃあ、何か思い出したら教えてよ。
+　参考になるかも知れないからさ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>53</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28832</PointerOffset>
+      <JapaneseText>「わかったよ。
+　その代わり、修復が上手くいったら、
+　あたしがこいつに乗せてもらうからね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28864</PointerOffset>
+      <JapaneseText>「さ、帰るよ、ゲイナー！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>15</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28896</PointerOffset>
+      <JapaneseText>「あれ？　アデット先生の家って
+　ゲイナー君と一緒の方向なの？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28928</PointerOffset>
+      <JapaneseText>「あ、ああ！　うん！
+　と、途中までは、そうなんだ！
+　途中までは！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>14</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28960</PointerOffset>
+      <JapaneseText>「…ヘンなゲイナー君…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>16</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</ScenarioText>

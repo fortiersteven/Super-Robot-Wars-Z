@@ -1,0 +1,4595 @@
+<ScenarioText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>メール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ランド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>デンゼル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>セツコ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>トビー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Chapter>Uncategorized</Chapter>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Section 1.1</Section>
+    <Entry>
+      <PointerOffset>7344</PointerOffset>
+      <JapaneseText>「出てきた、出てきた！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7376</PointerOffset>
+      <JapaneseText>「あっちの黒いモビルスーツの方は
+　３機で出撃してるのに…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7408</PointerOffset>
+      <JapaneseText>「オレンジ色のウォーカーマシンの方は
+　１機で出撃してるんだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7440</PointerOffset>
+      <JapaneseText>「今回の『トライバトルシステム』は、
+　最大３機の機体を１つの小隊として
+　出撃させる事が出来るんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7472</PointerOffset>
+      <JapaneseText>「その小隊の編成は
+　シナリオとシナリオの間の
+　インターミッションでやるんですよね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7504</PointerOffset>
+      <JapaneseText>「その通りだ。
+　ゲームを進めていけば、
+　インターミッションで小隊を編成したり…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7536</PointerOffset>
+      <JapaneseText>「編成した小隊複数の中から、
+　出撃させる小隊を選択したりするが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7568</PointerOffset>
+      <JapaneseText>「今回は練習という事で、
+　こちらで編成した小隊でプレイする」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7600</PointerOffset>
+      <JapaneseText>「大尉…私達はここで何をすれば
+　いいのでしょうか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7632</PointerOffset>
+      <JapaneseText>「『スーパーロボット大戦Ｚ』は、
+　シナリオ毎に用意された戦闘マップを
+　クリアしていく事で進んでいく」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7664</PointerOffset>
+      <JapaneseText>「マップは自分達の部隊のロボットを
+　『味方フェイズ』に動かし…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7696</PointerOffset>
+      <JapaneseText>「それが終わったら、
+　敵フェイズに敵が部隊を動かす。
+　その繰り返しだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7728</PointerOffset>
+      <JapaneseText>「味方フェイズで味方が…、
+　敵フェイズで敵が行動するんですね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7760</PointerOffset>
+      <JapaneseText>「で、具体的に何すればいいんだ？
+　敵をぶっ叩けばいいのか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7792</PointerOffset>
+      <JapaneseText>「ちょっと待て、修理屋さんよ。
+　敵さん、どこにもいないぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7824</PointerOffset>
+      <JapaneseText>「戦闘マップでやるべき事は、
+　『作戦目的』の勝利条件を
+　達成する事だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7856</PointerOffset>
+      <JapaneseText>「基本は敵を倒す事だが、
+　様々な勝利条件・敗北条件が
+　課せられるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7888</PointerOffset>
+      <JapaneseText>「んじゃ、その『作戦目的』ってのを
+　教えてくださいよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7920</PointerOffset>
+      <JapaneseText>「『作戦目的』は『全体コマンド』から
+　見る事が出来る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7952</PointerOffset>
+      <JapaneseText>「全体コマンド？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7984</PointerOffset>
+      <JapaneseText>「マップ上の何も乗っていないマスで
+　○ボタンを押すと、『全体コマンド』が
+　開かれるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8016</PointerOffset>
+      <JapaneseText>「今から操作をやってみるから、
+　マップ左上のコントローラを見ていろ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.2</Section>
+    <Entry>
+      <PointerOffset>8144</PointerOffset>
+      <JapaneseText>「なるほどね。
+　あれが全体コマンドか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8176</PointerOffset>
+      <JapaneseText>「『全体コマンド』は部隊全体の行動を
+　決定する際に使うものだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8208</PointerOffset>
+      <JapaneseText>「各小隊やロボットを操作するための
+　『個別コマンド』というものも
+　存在する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8240</PointerOffset>
+      <JapaneseText>「小隊にカーソルを当てて
+　○ボタンを押すと、『個別コマンド』が
+　開かれるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8272</PointerOffset>
+      <JapaneseText>「こんな具合だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.3</Section>
+    <Entry>
+      <PointerOffset>8400</PointerOffset>
+      <JapaneseText>「色々なコマンドがあるんですね。
+　使いこなせるか不安です…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8432</PointerOffset>
+      <JapaneseText>「心配する事はない。
+　各コマンドの使い方はゲーム中に
+　実際に使用すれば、理解出来る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8464</PointerOffset>
+      <JapaneseText>「さっきの話の『作戦目的』ってのは、
+　『全体コマンド』の中にあるんだよな。
+　早速見てみるか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.4</Section>
+    <Entry>
+      <PointerOffset>8592</PointerOffset>
+      <JapaneseText>「ガラバゴスって、
+　あっちのオレンジ色の
+　ウォーカーマシンだよね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8624</PointerOffset>
+      <JapaneseText>「あれの事ね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.5</Section>
+    <Entry>
+      <PointerOffset>8752</PointerOffset>
+      <JapaneseText>「あいつを操作して、
+　ポイントに移動させりゃいいんだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8784</PointerOffset>
+      <JapaneseText>「そういう事だ。
+　あの指定ポイントに到着させれば、
+　勝利条件達成だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.6</Section>
+    <Entry>
+      <PointerOffset>8912</PointerOffset>
+      <JapaneseText>「では、『移動』の個別コマンドを使用して、
+　指定ポイントを目指せ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8944</PointerOffset>
+      <JapaneseText>「なお、あちらのリック・ディアスは、
+　今回は行動する事は出来ないぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8976</PointerOffset>
+      <JapaneseText>「よし！　やってみっか！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9008</PointerOffset>
+      <JapaneseText>「小隊の行動は１フェイズに１回だけだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9040</PointerOffset>
+      <JapaneseText>「行動を終了すると、
+　そのフェイズは動けなくなるから、
+　注意するように」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9072</PointerOffset>
+      <JapaneseText>「それでは
+　ＬＥＳＳＯＮ１〜移動編〜の開始だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.7</Section>
+    <Entry>
+      <PointerOffset>9200</PointerOffset>
+      <JapaneseText>「ポイントからズレてるよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9232</PointerOffset>
+      <JapaneseText>「っと、失敗失敗！
+　ちょいと届かなかったかな？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9264</PointerOffset>
+      <JapaneseText>「心配するな。
+　敗北条件を満たしたわけではないから、
+　ゲームオーバーではない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9296</PointerOffset>
+      <JapaneseText>「だが、動かせる小隊がない以上、
+　『味方フェイズ』を
+　終了させなくてはならん」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9328</PointerOffset>
+      <JapaneseText>「そうしないとゲームが進まんからな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9360</PointerOffset>
+      <JapaneseText>「全体コマンドの中の『フェイズ終了』を
+　使うんですね？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9392</PointerOffset>
+      <JapaneseText>「そうだ。
+　味方フェイズにやる事が全て終わったら、
+　『フェイズ終了』を選ぶんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9424</PointerOffset>
+      <JapaneseText>「そうする事で敵フェイズが始まる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9456</PointerOffset>
+      <JapaneseText>「本来なら敵フェイズは敵の行動となるが、
+　今回は特別に敵がいないので、
+　すぐに味方フェイズになるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9488</PointerOffset>
+      <JapaneseText>「味方フェイズになれば、
+　またガラバゴスも行動出来るのね？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9520</PointerOffset>
+      <JapaneseText>「その通りだ。
+　次はしっかり頼むぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9552</PointerOffset>
+      <JapaneseText>「ＯＫ、遊びは終わりだ。
+　今度はばっちり決めようぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9584</PointerOffset>
+      <JapaneseText>「頼むぞ。
+　勝利条件をクリアしてくれないと
+　話が進まんからな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9616</PointerOffset>
+      <JapaneseText>「では、味方フェイズを終了するんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.8</Section>
+    <Entry>
+      <PointerOffset>9744</PointerOffset>
+      <JapaneseText>「よし、ミッションクリアだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9776</PointerOffset>
+      <JapaneseText>「フ…簡単すぎてあくびが出るぜ。
+　ふあ〜」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9808</PointerOffset>
+      <JapaneseText>「本当に出す人…いるんですね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9840</PointerOffset>
+      <JapaneseText>「移動について注意すべき事がある」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9872</PointerOffset>
+      <JapaneseText>「空を飛んでいる小隊は、
+　１マス移動する際にＥＮ（エネルギー）を
+　１消費する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9904</PointerOffset>
+      <JapaneseText>「また、空中にいる機体は
+　味方フェイズの始まりに
+　ＥＮを１０消費するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9936</PointerOffset>
+      <JapaneseText>「空を飛んでると
+　地形に邪魔されずに移動出来るが、
+　いい事ばかりじゃないんだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9968</PointerOffset>
+      <JapaneseText>「では、次のＬＥＳＳＯＮはこれだ。
+　作戦目的を見てもらおう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.9</Section>
+    <Entry>
+      <PointerOffset>10096</PointerOffset>
+      <JapaneseText>「前と同じかよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10128</PointerOffset>
+      <JapaneseText>「そうはいかんぞ。
+　指定ポイントはあそこだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.10</Section>
+    <Entry>
+      <PointerOffset>10256</PointerOffset>
+      <JapaneseText>「微妙に遠いな…。
+　まあ…２回に分けて進めばいいか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10288</PointerOffset>
+      <JapaneseText>「ちょっと待って。
+　作戦目的に『ＳＲポイント』ってのが
+　追加されてたよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10320</PointerOffset>
+      <JapaneseText>「本当か、そりゃ？
+　もう一度見せてくれよ、デンゼル大尉」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10352</PointerOffset>
+      <JapaneseText>「いいだろう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.11</Section>
+    <Entry>
+      <PointerOffset>10480</PointerOffset>
+      <JapaneseText>「本当だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10512</PointerOffset>
+      <JapaneseText>「『ＳＲポイント』とは何です？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10544</PointerOffset>
+      <JapaneseText>「『ＳＲ（スパロボ）ポイント』とは
+　勝利条件とは別にマップ毎に一つ用意された
+　課題だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10576</PointerOffset>
+      <JapaneseText>「その課題をクリアすれば、
+　『ＳＲポイント』がもらえるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10608</PointerOffset>
+      <JapaneseText>「そいつは
+　何かの役に立つんですかい？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10640</PointerOffset>
+      <JapaneseText>「獲得した時点でＰＰ…
+　パイロット養成に使うポイントが
+　マップ中の味方パイロットに２５ずつ入る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10672</PointerOffset>
+      <JapaneseText>「そいつはご機嫌だぜ！
+　じゃあ、絶対に取らないとな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10704</PointerOffset>
+      <JapaneseText>「だが、ポイントを獲得出来たという事は
+　凄腕のプレイヤーと判断され、
+　ゲームの難易度が上がっていくんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10736</PointerOffset>
+      <JapaneseText>「１マップに１つ設定されている
+　ＳＲポイントを全体の約８０％以上
+　取得すると、難易度はハードに…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10768</PointerOffset>
+      <JapaneseText>「３０％〜７９％でノーマル、
+　３０％未満でイージーになるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10800</PointerOffset>
+      <JapaneseText>「初心者は無理をして、
+　ＳＲポイントを集める必要はないぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10832</PointerOffset>
+      <JapaneseText>「つまり、腕に覚えのあるプレイヤーへの
+　挑戦状のようなものなんですね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10864</PointerOffset>
+      <JapaneseText>「では、ＳＲポイントについて
+　まとめてみよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.12</Section>
+    <Entry>
+      <PointerOffset>10992</PointerOffset>
+      <JapaneseText>「しかし、そうまで言われると
+　欲しくなるのが男ってもんだぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11024</PointerOffset>
+      <JapaneseText>「でも、あのガラバゴスの移動力じゃ、
+　１回の移動で指定ポイントまで
+　たどり着くのは無理だよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11056</PointerOffset>
+      <JapaneseText>「そういう時は『精神コマンド』を
+　使うんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11088</PointerOffset>
+      <JapaneseText>「精神コマンド？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11120</PointerOffset>
+      <JapaneseText>「精神コマンドは各パイロット毎に
+　設定されている特殊な力だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11152</PointerOffset>
+      <JapaneseText>「各パイロットの持つ精神ポイント、
+　通称『ＳＰ』を消費する事で使用出来、
+　様々な効果を発生させるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11184</PointerOffset>
+      <JapaneseText>「火事場の馬鹿力みたいなもんだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11216</PointerOffset>
+      <JapaneseText>「もっとぶっちゃけて言えば、
+　精神力の魔法みたいなもんなんだね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11248</PointerOffset>
+      <JapaneseText>「精神コマンドはパイロットのレベルが
+　低い内は限られたものしか
+　持っていないが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11280</PointerOffset>
+      <JapaneseText>「レベルアップしていくと、
+　新しい精神コマンドを徐々に覚えていき、
+　精神ポイントも上昇していくぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11312</PointerOffset>
+      <JapaneseText>「で、それが今回のＳＲポイントと
+　どう関係するんだ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11344</PointerOffset>
+      <JapaneseText>「わかった！
+　きっと精神コマンドを使えば、
+　指定ポイントまで１回で移動出来るのよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11376</PointerOffset>
+      <JapaneseText>「移動力を増やす精神コマンドが
+　あるって事だな。
+　一丁やってみるか！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.13</Section>
+    <Entry>
+      <PointerOffset>11504</PointerOffset>
+      <JapaneseText>「では、ＬＥＳＳＯＮ２のスタートだ。
+　…と言いたいところだが、
+　既にガラバゴスは行動済みだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11536</PointerOffset>
+      <JapaneseText>「味方フェイズを終了させるんだ。
+　そうしないとゲームが進まんぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11568</PointerOffset>
+      <JapaneseText>「全体コマンドの中の『フェイズ終了』を
+　使うんですね？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11600</PointerOffset>
+      <JapaneseText>「そうだ。
+　味方フェイズにやる事が全て終わったら、
+　『フェイズ終了』を選ぶんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11632</PointerOffset>
+      <JapaneseText>「そうする事で敵フェイズが始まる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11664</PointerOffset>
+      <JapaneseText>「本来なら敵フェイズは敵の行動となるが、
+　今回は特別に敵がいないので、
+　すぐに味方フェイズになるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11696</PointerOffset>
+      <JapaneseText>「味方フェイズになれば、
+　またガラバゴスも行動出来るのね？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11728</PointerOffset>
+      <JapaneseText>「その通りだ。
+　さあＬＥＳＳＯＮ２に挑戦するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11760</PointerOffset>
+      <JapaneseText>「ＯＫ、次も一発で決めてみせるぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11792</PointerOffset>
+      <JapaneseText>「では、味方フェイズを終了するんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.14</Section>
+    <Entry>
+      <PointerOffset>11920</PointerOffset>
+      <JapaneseText>「よし。
+　じゃあ、改めてプレイ開始だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11952</PointerOffset>
+      <JapaneseText>「ＳＲポイントを取得したければ、
+　精神コマンドを使うんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11984</PointerOffset>
+      <JapaneseText>「…でも、緊張して
+　操作ミスをしてしまいそうです…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12016</PointerOffset>
+      <JapaneseText>「うむ…確かに
+　不測の事態が起こる時もある。
+　ここは保険をかけておくべきだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12048</PointerOffset>
+      <JapaneseText>「保険…ですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12080</PointerOffset>
+      <JapaneseText>「そうだ。
+　何らかの事態でゲームをマップ中で
+　中断し、後で再開したり…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12112</PointerOffset>
+      <JapaneseText>「操作ミスなどをしてしまって
+　少し前に手順を戻したりしたい時のために
+　『途中セーブ』というコマンドがある」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12144</PointerOffset>
+      <JapaneseText>「そう言えば、そんな名前の奴が
+　全体コマンドにあったな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12176</PointerOffset>
+      <JapaneseText>「その『途中セーブ』を使えば、
+　現在の状態をメモリーカード（ＰＳ２）に
+　記録する事が出来るんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12208</PointerOffset>
+      <JapaneseText>「ただし、『途中セーブ』を行うと、
+　以前に保存していたデータは
+　上書きされて消えてしまうぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12240</PointerOffset>
+      <JapaneseText>「そして、ゲーム中に
+　Ｒ１・Ｒ２・Ｌ１・Ｌ２・ＳＴＡＲＴ・
+　ＳＥＬＥＣＴ（押し続け）ボタンで…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12272</PointerOffset>
+      <JapaneseText>「『途中セーブ』した状態に
+　戻る事が出来る。
+　これがクイックコンティニューだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12304</PointerOffset>
+      <JapaneseText>「要するにリセットだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12336</PointerOffset>
+      <JapaneseText>「って事は、中断してデータを取っておけば、
+　失敗する前に戻ってやり直しが
+　出来るわけか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12368</PointerOffset>
+      <JapaneseText>「本来はゲームを途中でやめる場合の
+　コマンドなのだがな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12400</PointerOffset>
+      <JapaneseText>「ただ、不測の事態もありうる以上、
+　まめに『途中セーブ』で、
+　状況をセーブする事を勧めるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.15</Section>
+    <Entry>
+      <PointerOffset>12528</PointerOffset>
+      <JapaneseText>「よし、ＬＥＳＳＯＮ２に挑戦だ。
+　ＳＲポイント、いただくぜ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.16</Section>
+    <Entry>
+      <PointerOffset>12656</PointerOffset>
+      <JapaneseText>「よし、ミッションクリアだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12688</PointerOffset>
+      <JapaneseText>「フ…簡単すぎてあくびが出るぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12720</PointerOffset>
+      <JapaneseText>「だったら、１回目で決めなさいよね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12752</PointerOffset>
+      <JapaneseText>「移動について注意すべき事がある」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12784</PointerOffset>
+      <JapaneseText>「空を飛んでいる小隊は
+　１マス移動する際にＥＮ（エネルギー）を
+　１消費する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12816</PointerOffset>
+      <JapaneseText>「また、空中にいる機体は
+　味方フェイズの始まりに
+　ＥＮを１０消費するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12848</PointerOffset>
+      <JapaneseText>「空を飛んでると
+　地形に邪魔されずに移動出来るが、
+　いい事ばかりじゃないんだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12880</PointerOffset>
+      <JapaneseText>「では、次のＬＥＳＳＯＮはこれだ。
+　作戦目的を見てもらおう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.17</Section>
+    <Entry>
+      <PointerOffset>13008</PointerOffset>
+      <JapaneseText>「前と同じかよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13040</PointerOffset>
+      <JapaneseText>「そうはいかんぞ。
+　指定ポイントはあそこだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.18</Section>
+    <Entry>
+      <PointerOffset>13168</PointerOffset>
+      <JapaneseText>「微妙に遠いな…。
+　まあ…２回に分けて進めばいいか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13200</PointerOffset>
+      <JapaneseText>「ちょっと待って。
+　作戦目的に『ＳＲポイント』ってのが
+　追加されてたよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13232</PointerOffset>
+      <JapaneseText>「本当か、そりゃ？
+　もう一度見せてくれよ、デンゼル大尉」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13264</PointerOffset>
+      <JapaneseText>「いいだろう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.19</Section>
+    <Entry>
+      <PointerOffset>13392</PointerOffset>
+      <JapaneseText>「本当だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13424</PointerOffset>
+      <JapaneseText>「『ＳＲポイント』とは何です？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13456</PointerOffset>
+      <JapaneseText>「『ＳＲ（スパロボ）ポイント』とは
+　勝利条件とは別にマップ毎に一つ用意された
+　課題だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13488</PointerOffset>
+      <JapaneseText>「その課題をクリアすれば、
+　『ＳＲポイント』がもらえるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13520</PointerOffset>
+      <JapaneseText>「そいつは
+　何かの役に立つんですかい？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13552</PointerOffset>
+      <JapaneseText>「獲得した時点でＰＰ…
+　パイロット養成に使うポイントが
+　マップ中の味方パイロットに２５ずつ入る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13584</PointerOffset>
+      <JapaneseText>「そいつはご機嫌だぜ！
+　じゃあ、絶対に取らないとな！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13616</PointerOffset>
+      <JapaneseText>「だが、ポイントを獲得出来たという事は
+　凄腕のプレイヤーと判断され、
+　ゲームの難易度が上がっていくんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13648</PointerOffset>
+      <JapaneseText>「１マップに１つ設定されている
+　ＳＲポイントを全体の約８０％以上
+　取得すると、難易度はハードに…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13680</PointerOffset>
+      <JapaneseText>「３０％〜７９％でノーマル、
+　３０％未満でイージーになるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13712</PointerOffset>
+      <JapaneseText>「初心者は無理をして、
+　ＳＲポイントを集める必要はないぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13744</PointerOffset>
+      <JapaneseText>「つまり、腕に覚えのあるプレイヤーへの
+　挑戦状のようなものなんですね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13776</PointerOffset>
+      <JapaneseText>「では、ＳＲポイントについて
+　まとめてみよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.20</Section>
+    <Entry>
+      <PointerOffset>13904</PointerOffset>
+      <JapaneseText>「しかし、そうまで言われると
+　欲しくなるのが男ってもんだぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13936</PointerOffset>
+      <JapaneseText>「でも、あのガラバゴスの移動力じゃ、
+　１回の移動で指定ポイントまで
+　たどり着くのは無理だよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13968</PointerOffset>
+      <JapaneseText>「そういう時は『精神コマンド』を
+　使うんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14000</PointerOffset>
+      <JapaneseText>「精神コマンド？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14032</PointerOffset>
+      <JapaneseText>「精神コマンドは各パイロット毎に
+　設定されている特殊な力だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14064</PointerOffset>
+      <JapaneseText>「各パイロットの持つ精神ポイント、
+　通称『ＳＰ』を消費する事で使用出来、
+　様々な効果を発生させるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14096</PointerOffset>
+      <JapaneseText>「火事場の馬鹿力みたいなもんだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14128</PointerOffset>
+      <JapaneseText>「もっとぶっちゃけて言えば、
+　精神力の魔法みたいなもんなんだね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14160</PointerOffset>
+      <JapaneseText>「精神コマンドはパイロットのレベルが
+　低い内は限られたものしか
+　持っていないが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14192</PointerOffset>
+      <JapaneseText>「レベルアップしていくと
+　新しい精神コマンドを徐々に覚えていき、
+　精神ポイントも上昇していくぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14224</PointerOffset>
+      <JapaneseText>「で、それが今回のＳＲポイントと
+　どう関係するんだ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14256</PointerOffset>
+      <JapaneseText>「わかった！
+　きっと精神コマンドを使えば、
+　指定ポイントまで１回で移動出来るのよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14288</PointerOffset>
+      <JapaneseText>「移動力を増やす精神コマンドが
+　あるって事だな。
+　一丁やってみるか！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.21</Section>
+    <Entry>
+      <PointerOffset>14416</PointerOffset>
+      <JapaneseText>「では、味方フェイズを終了するんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.22</Section>
+    <Entry>
+      <PointerOffset>14544</PointerOffset>
+      <JapaneseText>「よし。
+　じゃあ、改めてＬＥＳＳＯＮ２に行くか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14576</PointerOffset>
+      <JapaneseText>「ＳＲポイントを取得したければ、
+　精神コマンドを使うんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14608</PointerOffset>
+      <JapaneseText>「…でも、緊張して
+　操作ミスをしてしまいそうです…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14640</PointerOffset>
+      <JapaneseText>「うむ…確かに
+　不測の事態が起こる時もある。
+　ここは保険をかけておくべきだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14672</PointerOffset>
+      <JapaneseText>「保険…ですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14704</PointerOffset>
+      <JapaneseText>「そうだ。
+　何らかの事態でゲームをマップ中で
+　中断し、後で再開したり…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14736</PointerOffset>
+      <JapaneseText>「操作ミスなどをしてしまって
+　少し前に手順を戻したりしたい時のために
+　『途中セーブ』というコマンドがある」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14768</PointerOffset>
+      <JapaneseText>「そう言えば、そんな名前の奴が
+　全体コマンドにあったな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14800</PointerOffset>
+      <JapaneseText>「その『途中セーブ』を使えば、
+　現在の状態をメモリーカード（ＰＳ２）に
+　記録する事が出来るんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14832</PointerOffset>
+      <JapaneseText>「ただし、『途中セーブ』を行うと、
+　以前に保存していたデータは
+　上書きされて消えてしまうぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14864</PointerOffset>
+      <JapaneseText>「そして、ゲーム中に
+　Ｒ１・Ｒ２・Ｌ１・Ｌ２・ＳＴＡＲＴ、
+　ＳＥＬＥＣＴ（押し続け）ボタンで…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14896</PointerOffset>
+      <JapaneseText>「『途中セーブ』した状態に
+　戻る事が出来るぞ。
+　これがクイックコンティニューだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14928</PointerOffset>
+      <JapaneseText>「要するにリセットだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14960</PointerOffset>
+      <JapaneseText>「って事は、中断してデータを取っておけば
+　失敗する前に戻ってやり直しが
+　出来るわけか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14992</PointerOffset>
+      <JapaneseText>「本来はゲームを途中でやめる場合の
+　コマンドなのだがな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15024</PointerOffset>
+      <JapaneseText>「ただ、不測の事態もありうる以上、
+　まめに『途中セーブ』で、
+　状況をセーブする事を勧めるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.23</Section>
+    <Entry>
+      <PointerOffset>15152</PointerOffset>
+      <JapaneseText>「よし、ＬＥＳＳＯＮ２に挑戦だ。
+　ＳＲポイント、いただくぜ！！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.24</Section>
+    <Entry>
+      <PointerOffset>15280</PointerOffset>
+      <JapaneseText>「うまく行きましたね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15312</PointerOffset>
+      <JapaneseText>「これでＳＲポイントＧＥＴか。
+　まあ軽いもんだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15344</PointerOffset>
+      <JapaneseText>「ＳＲポイントの獲得条件は、
+　マップ毎に様々だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15376</PointerOffset>
+      <JapaneseText>「今回のように簡単なものもあれば、
+　様々な技能や攻略テクニックを
+　駆使する必要があるものもある」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15408</PointerOffset>
+      <JapaneseText>「…自分に出来るでしょうか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15440</PointerOffset>
+      <JapaneseText>「心配は要らん。
+　ＳＲポイントはゲームのクリアとは
+　無関係のものだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15472</PointerOffset>
+      <JapaneseText>「『スーパーロボット大戦』シリーズに
+　慣れたプレイヤー向けのオマケだと思え」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15504</PointerOffset>
+      <JapaneseText>「それにＳＲポイントを取り続ければ、
+　ゲームの難易度も上がるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15536</PointerOffset>
+      <JapaneseText>「攻略に自信のないプレイヤーや、
+　ストーリーをサクサク進めたいプレイヤーは
+　取らない方が快適だぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15568</PointerOffset>
+      <JapaneseText>「わかりました」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15600</PointerOffset>
+      <JapaneseText>「しかし、こんな風に移動だけしてりゃ、
+　いいってわけじゃないんだろ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15632</PointerOffset>
+      <JapaneseText>「その通りだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15664</PointerOffset>
+      <JapaneseText>「『スーパーロボット大戦Ｚ』は、
+　基本的には敵を倒していく事が
+　第一目的となる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15696</PointerOffset>
+      <JapaneseText>「つまり、戦闘こそが
+　最も重要な部分ってわけだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15728</PointerOffset>
+      <JapaneseText>「戦う覚悟は出来ています。
+　大尉…戦闘のレクチャーを
+　お願いします」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15760</PointerOffset>
+      <JapaneseText>「そう慌てるな、少尉。
+　それにお前一人が力んでも
+　戦いには勝てんぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15792</PointerOffset>
+      <JapaneseText>「戦いは『小隊』をうまく使う事こそが
+　重要になる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15824</PointerOffset>
+      <JapaneseText>「小隊…ですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15856</PointerOffset>
+      <JapaneseText>「小隊は最大３機で構成され、
+　小隊長を中心に３種のフォーメーションを
+　とる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15888</PointerOffset>
+      <JapaneseText>「これこそが『トライバトルシステム』だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15920</PointerOffset>
+      <JapaneseText>「トライバトルシステム…。
+　この『スーパーロボット大戦Ｚ』の
+　目玉ってわけね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15952</PointerOffset>
+      <JapaneseText>「トライ・フォーメーション
+　センター・フォーメーション、
+　ワイド・フォーメーション…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15984</PointerOffset>
+      <JapaneseText>「その３種のフォーメーションの特徴を
+　簡単に紹介するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.25</Section>
+    <Entry>
+      <PointerOffset>16112</PointerOffset>
+      <JapaneseText>「あれ？　届かなかった？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16144</PointerOffset>
+      <JapaneseText>「精神コマンドの『加速』を使えば、
+　ポイントに到着出来たはずなのに…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16176</PointerOffset>
+      <JapaneseText>「仕方ない。
+　今回は特別にＳＲポイントを
+　獲得させてやろう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.26</Section>
+    <Entry>
+      <PointerOffset>16304</PointerOffset>
+      <JapaneseText>「なるほどね。
+　ＳＲポイントを取ると、こうなるわけね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16336</PointerOffset>
+      <JapaneseText>「ＳＲポイントの獲得条件は、
+　マップ毎に様々だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16368</PointerOffset>
+      <JapaneseText>「今回のように簡単なものもあれば、
+　様々な技能や攻略テクニックを
+　駆使する必要があるものもある」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16400</PointerOffset>
+      <JapaneseText>「…自分に出来るでしょうか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16432</PointerOffset>
+      <JapaneseText>「心配は要らん。
+　ＳＲポイントはゲームのクリアとは
+　無関係のものだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16464</PointerOffset>
+      <JapaneseText>「『スーパーロボット大戦』シリーズに
+　慣れたプレイヤー向けのオマケだと思え」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16496</PointerOffset>
+      <JapaneseText>「それにＳＲポイントを取り続ければ、
+　ゲームの難易度も上がるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16528</PointerOffset>
+      <JapaneseText>「攻略に自信のないプレイヤーや
+　ストーリーをサクサク進めたいプレイヤーは
+　取らない方が快適だぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16560</PointerOffset>
+      <JapaneseText>「わかりました」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16592</PointerOffset>
+      <JapaneseText>「しかし、こんな風に移動だけしてりゃ、
+　いいってわけじゃないんだろ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16624</PointerOffset>
+      <JapaneseText>「その通りだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16656</PointerOffset>
+      <JapaneseText>「『スーパーロボット大戦Ｚ』は
+　基本的には敵を倒していく事が
+　第一目的となる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16688</PointerOffset>
+      <JapaneseText>「つまり、戦闘こそが
+　最も重要な部分ってわけだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16720</PointerOffset>
+      <JapaneseText>「戦う覚悟は出来ています。
+　大尉…戦闘のレクチャーを
+　お願いします」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16752</PointerOffset>
+      <JapaneseText>「そう慌てるな、少尉。
+　それにお前一人が力んでも
+　戦いには勝てんぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16784</PointerOffset>
+      <JapaneseText>「戦いは『小隊』をうまく使う事こそが
+　重要になる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16816</PointerOffset>
+      <JapaneseText>「小隊…ですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16848</PointerOffset>
+      <JapaneseText>「小隊は最大３機で構成され、
+　小隊長を中心に３種のフォーメーションを
+　とる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16880</PointerOffset>
+      <JapaneseText>「これこそが『トライバトルシステム』だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16912</PointerOffset>
+      <JapaneseText>「トライバトルシステム…。
+　この『スーパーロボット大戦Ｚ』の
+　目玉ってわけね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16944</PointerOffset>
+      <JapaneseText>「トライ・フォーメーション
+　センター・フォーメーション、
+　ワイド・フォーメーション…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16976</PointerOffset>
+      <JapaneseText>「その３種のフォーメーションの特徴を
+　簡単に紹介するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.27</Section>
+    <Entry>
+      <PointerOffset>17104</PointerOffset>
+      <JapaneseText>「敵が出た！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17136</PointerOffset>
+      <JapaneseText>「慌てなくていい、お嬢さん。
+　あれはガイダンス用のダミーの敵だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17168</PointerOffset>
+      <JapaneseText>「では、実際に戦闘しながら、
+　３種のフォーメーションを
+　説明するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17200</PointerOffset>
+      <JapaneseText>「はい！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17232</PointerOffset>
+      <JapaneseText>「まずはトライ・フォーメーションだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17264</PointerOffset>
+      <JapaneseText>「これは基本の隊形であり、
+　小隊を組んでいる場合、出撃時には
+　このフォーメーションをとっている」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.28</Section>
+    <Entry>
+      <PointerOffset>17392</PointerOffset>
+      <JapaneseText>「これがトライ・フォーメーションだ。
+　小隊長が前で戦い、小隊員は後方に
+　下がる形になる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17424</PointerOffset>
+      <JapaneseText>「このフォーメーションをとれば、
+　小隊員は基本的には攻撃に参加しないで、
+　防御や回避に専念するんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17456</PointerOffset>
+      <JapaneseText>「では、このフォーメーションでは
+　小隊長を一人で戦わせる事に
+　なってしまいますね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17488</PointerOffset>
+      <JapaneseText>「そういうわけではない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17520</PointerOffset>
+      <JapaneseText>「このトライ・フォーメーションは
+　小隊員を守る事ができると同時に、
+　特別な攻撃を使う事が出来る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17552</PointerOffset>
+      <JapaneseText>「その名も『トライチャージ』だ。
+　小隊「ガイダンス１」を操作して、
+　実際にやってみせよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.29</Section>
+    <Entry>
+      <PointerOffset>17680</PointerOffset>
+      <JapaneseText>「すげえ！　敵が一気に吹っ飛んだぜ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17712</PointerOffset>
+      <JapaneseText>「これが『トライチャージ』だ。
+　３機でトライ・フォーメーションを
+　組んだ時のみ使用出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17744</PointerOffset>
+      <JapaneseText>「各機それぞれに設定されている
+　トライチャージ兵器を使うんですね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17776</PointerOffset>
+      <JapaneseText>「トライ・フォーメーションの特徴を
+　まとめると、このようになる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.30</Section>
+    <Entry>
+      <PointerOffset>17904</PointerOffset>
+      <JapaneseText>「次にセンター・フォーメーションだ。
+　個別コマンドの『フォーメーション』で
+　隊形を変更するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.31</Section>
+    <Entry>
+      <PointerOffset>18032</PointerOffset>
+      <JapaneseText>「これがセンター・フォーメーションだ。
+　小隊長を中心に小隊員２名が
+　それをフォローする形だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18064</PointerOffset>
+      <JapaneseText>「このフォーメーションの特徴は、
+　敵１体に集中的に攻撃を仕掛ける事が
+　出来る事だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18096</PointerOffset>
+      <JapaneseText>「まず小隊員のネモ２機が
+　小隊攻撃を仕掛け、その後に小隊長の
+　リック・ディアスが攻撃するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18128</PointerOffset>
+      <JapaneseText>「では、やってみせよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.32</Section>
+    <Entry>
+      <PointerOffset>18256</PointerOffset>
+      <JapaneseText>「やったあ！　敵を撃墜した！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18288</PointerOffset>
+      <JapaneseText>「見ての通り、
+　１体の敵への集中攻撃ならば、
+　センター・フォーメーションが向いている」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.33</Section>
+    <Entry>
+      <PointerOffset>18416</PointerOffset>
+      <JapaneseText>「でも、敵さんも小隊を組んでるのに
+　３機で１機を攻撃ってのは、
+　もったいない時もあるだろうな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18448</PointerOffset>
+      <JapaneseText>「そういう時は
+　ワイド・フォーメーションがいいだろう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.34</Section>
+    <Entry>
+      <PointerOffset>18576</PointerOffset>
+      <JapaneseText>「これがワイド・フォーメーションだ。
+　小隊長と小隊員２名がそれぞれの敵を
+　攻撃するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18608</PointerOffset>
+      <JapaneseText>「相手が２体で、こっちが３体の場合は？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18640</PointerOffset>
+      <JapaneseText>「対応する相手がいない場合は、
+　その小隊員は待機という事になる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18672</PointerOffset>
+      <JapaneseText>「では、実際にやってみせよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.35</Section>
+    <Entry>
+      <PointerOffset>18800</PointerOffset>
+      <JapaneseText>「敵の小隊を一気に蹴散らしたい時には
+　このワイド・フォーメーションが
+　向いているぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.36</Section>
+    <Entry>
+      <PointerOffset>18928</PointerOffset>
+      <JapaneseText>「３種のフォーメーションの特徴を
+　まとめると、こうなるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.37</Section>
+    <Entry>
+      <PointerOffset>19056</PointerOffset>
+      <JapaneseText>「さっきから戦闘のやり方を見てたけど、
+　機体の武器性能のリストには
+　色んなマークが付いてたな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19088</PointerOffset>
+      <JapaneseText>「トライチャージ兵器には『ＴＲＩ』、
+　小隊攻撃に使用される武器には
+　『ＰＬＡ』が付いてましたね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19120</PointerOffset>
+      <JapaneseText>「え…どれどれ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.38</Section>
+    <Entry>
+      <PointerOffset>19248</PointerOffset>
+      <JapaneseText>「『ＡＬＬ』ってのもあるね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19280</PointerOffset>
+      <JapaneseText>「『ＡＬＬ』は全体攻撃用の武器だ。
+　敵小隊全機にダメージを与える事が
+　出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19312</PointerOffset>
+      <JapaneseText>「トライチャージは小隊の３機が
+　協力して行う攻撃だが、こちらは
+　１機の機体が単独で使うものだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19344</PointerOffset>
+      <JapaneseText>「では、使ってみせよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.39</Section>
+    <Entry>
+      <PointerOffset>19472</PointerOffset>
+      <JapaneseText>「こいつは凄いもんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19504</PointerOffset>
+      <JapaneseText>「あれが全体攻撃だ。
+　敵小隊全機にダメージを与えるのは、
+　トライチャージと同じだが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19536</PointerOffset>
+      <JapaneseText>「トライチャージと違い、
+　どのフォーメーションでも
+　使う事が出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19568</PointerOffset>
+      <JapaneseText>「ただし、ＡＬＬの武器は
+　敵小隊内の機体の数で与えるダメージが
+　減少する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19600</PointerOffset>
+      <JapaneseText>「敵が１機の時は１００％のダメージを
+　与える事が出来るが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19632</PointerOffset>
+      <JapaneseText>「敵が２機の時は８０％、
+　敵が３機の時は６０％に
+　ダメージが減少してしまうぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19664</PointerOffset>
+      <JapaneseText>「逆にトライチャージは
+　相手が何機でもダメージの減少は
+　起きないんですね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19696</PointerOffset>
+      <JapaneseText>「これまで紹介した以外の武器の種類として、
+　範囲内の敵全てにダメージを与える
+　『ＭＡＰ』…マップ兵器もあるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19728</PointerOffset>
+      <JapaneseText>「ゲームを進めながら、
+　それも試してみてくれ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19760</PointerOffset>
+      <JapaneseText>「色々な種類があるのね。
+　覚えられるかな…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19792</PointerOffset>
+      <JapaneseText>「そういう時のために虎の巻を用意した」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19824</PointerOffset>
+      <JapaneseText>「もしかして、シナリオデモでも説明した
+　例のあれっスか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19856</PointerOffset>
+      <JapaneseText>「その通り。
+　セレクトヘルプだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19888</PointerOffset>
+      <JapaneseText>「ゲーム中でわからないシステムや
+　用語が出てきた時には、マップ上でも
+　ＳＥＬＥＣＴを押すんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19920</PointerOffset>
+      <JapaneseText>「すると、ＨＥＬＰが表示されて、
+　様々な説明を見る事が出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19952</PointerOffset>
+      <JapaneseText>「ＳＥＬＥＣＴを押せば、
+　ＨＥＬＰが呼び出されるんですね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19984</PointerOffset>
+      <JapaneseText>「では、さっき話題に出た
+　武器性能リストでＨＥＬＰを
+　呼び出してみよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.40</Section>
+    <Entry>
+      <PointerOffset>20112</PointerOffset>
+      <JapaneseText>「武器性能リストだけでなく、
+　画面右下に『？ＳＥＬＥＣＴ』の表示が
+　ある所では、どこでも使えるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20144</PointerOffset>
+      <JapaneseText>「なお、『全体コマンド』や
+　『個別コマンド』が表示されている時も
+　セレクトヘルプは使用出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20176</PointerOffset>
+      <JapaneseText>「その場合は画面の下部に
+　コマンドの説明が出る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.41</Section>
+    <Entry>
+      <PointerOffset>20304</PointerOffset>
+      <JapaneseText>「これで困った時もバッチリだね！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20336</PointerOffset>
+      <JapaneseText>「わからない事はゲームの中で
+　一つ一つ学んでいきます」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20368</PointerOffset>
+      <JapaneseText>「その意気だ、少尉」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20400</PointerOffset>
+      <JapaneseText>「戦いの中で敵にダメージを与えたり、
+　敵を倒したりすれば、『経験値』が
+　得られる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20432</PointerOffset>
+      <JapaneseText>「経験値５００毎にキャラクターは
+　レベルアップし、能力が上昇したり、
+　新しい精神コマンドを覚えたりするぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20464</PointerOffset>
+      <JapaneseText>「また、敵を倒す事で『資金』や『ＰＰ』、
+　時には『強化パーツ』や『ＢＳ』も
+　入手出来る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20496</PointerOffset>
+      <JapaneseText>「それは何に使うんですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20528</PointerOffset>
+      <JapaneseText>「資金は機体や武器を改造する時に、
+　ＰＰはパイロットを養成する時に使う」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20560</PointerOffset>
+      <JapaneseText>「強化パーツは装備する事で
+　機体やパイロットの能力をアップさせ、
+　ＢＳはバザーで通貨として使用される」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20592</PointerOffset>
+      <JapaneseText>「それらはインターミッションで
+　使われるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20624</PointerOffset>
+      <JapaneseText>「インターミッションは
+　シナリオとシナリオの間に
+　あるんスよね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20656</PointerOffset>
+      <JapaneseText>「そこに行くためには、
+　マップをクリアしなきゃなんねえか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20688</PointerOffset>
+      <JapaneseText>「その通りだ。
+　では、ガイダンスの締めくくりだ。
+　実際に戦闘をしてみるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.42</Section>
+    <Entry>
+      <PointerOffset>20816</PointerOffset>
+      <JapaneseText>「ＬＥＳＳＯＮ３は実戦訓練だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20848</PointerOffset>
+      <JapaneseText>「訓練という事で敵は弱目の設定だが、
+　こちらが攻撃すれば反撃してくる。
+　気をつけろよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20880</PointerOffset>
+      <JapaneseText>「了解です」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20912</PointerOffset>
+      <JapaneseText>「みんな！　頑張ろうね！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.43</Section>
+    <Entry>
+      <PointerOffset>21040</PointerOffset>
+      <JapaneseText>「敵全滅、一丁あがりだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21072</PointerOffset>
+      <JapaneseText>「これで基本は一通りマスターしたと
+　言っていいだろう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21104</PointerOffset>
+      <JapaneseText>「後はシナリオを進めながら、
+　キャラクターと共にプレイヤー自身が
+　成長していけばいい」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21136</PointerOffset>
+      <JapaneseText>「でも、今回は勝てましたけど、
+　もっと難しいマップもあるんですよね…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21168</PointerOffset>
+      <JapaneseText>「心配は要らん。
+　ゲームオーバーになると、そのマップの
+　最初からやり直しになるが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21200</PointerOffset>
+      <JapaneseText>「ゲームオーバー前に稼いだ資金や経験値、
+　撃墜数やＰＰは持ち越しになっているぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21232</PointerOffset>
+      <JapaneseText>「つまり、レベルアップしてから
+　ゲームオーバーになると、再チャレンジは
+　レベルがアップした状態で始まるわけか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21264</PointerOffset>
+      <JapaneseText>「その通りだ。
+　だから、どんな難しいマップでも
+　何度か挑戦すれば必ずクリア出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.44</Section>
+    <Entry>
+      <PointerOffset>21392</PointerOffset>
+      <JapaneseText>「さらにゲームの攻略に役立つコツや
+　情報をまとめた『攻略Ｑ＆Ａ』も
+　存在する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21424</PointerOffset>
+      <JapaneseText>「それを読めば、
+　難しいマップを攻略する時の
+　参考になるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21456</PointerOffset>
+      <JapaneseText>「それはどうやって見るのですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21488</PointerOffset>
+      <JapaneseText>「タイトル画面で『ＬＩＢＲＡＲＹ』を
+　選択し、さらに『攻略Ｑ＆Ａ』を
+　選択するか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21520</PointerOffset>
+      <JapaneseText>「インターミッションで
+　『オプション』内の『ライブラリー』から
+　『攻略Ｑ＆Ａ』に進むんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.45</Section>
+    <Entry>
+      <PointerOffset>21648</PointerOffset>
+      <JapaneseText>「後は実戦で鍛えるだけだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21680</PointerOffset>
+      <JapaneseText>「何度も挑戦すればクリア出来る…。
+　私もそれを信じて頑張ってみます」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21712</PointerOffset>
+      <JapaneseText>「その意気だ。
+　では、これで戦闘マップの
+　ガイダンスを終了する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21744</PointerOffset>
+      <JapaneseText>「引き続き、インターミッションについて
+　解説するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.46</Section>
+    <Entry>
+      <PointerOffset>21872</PointerOffset>
+      <JapaneseText>「あ〜あ…全滅しちゃった」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21904</PointerOffset>
+      <JapaneseText>「本来なら敗北条件を満たしたという事で
+　ここでゲームオーバーになる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21936</PointerOffset>
+      <JapaneseText>「訓練なのにゲームオーバーに
+　なってしまうなんて…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21968</PointerOffset>
+      <JapaneseText>「これから戦っていけるのでしょうか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22000</PointerOffset>
+      <JapaneseText>「心配は要らん。
+　ゲームオーバーになると、そのマップの
+　最初からやり直しになるが…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22032</PointerOffset>
+      <JapaneseText>「ゲームオーバー前に稼いだ資金や経験値、
+　撃墜数やＰＰは、持ち越しになっているぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22064</PointerOffset>
+      <JapaneseText>「つまり、レベルアップしてから
+　ゲームオーバーになると、再チャレンジは
+　レベルがアップした状態で始まるわけか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22096</PointerOffset>
+      <JapaneseText>「その通りだ。
+　だから、どんな難しいマップでも
+　何度か挑戦すれば必ずクリア出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.47</Section>
+    <Entry>
+      <PointerOffset>22224</PointerOffset>
+      <JapaneseText>「さらにゲームの攻略に役立つコツや
+　情報をまとめた『攻略Ｑ＆Ａ』も
+　存在する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22256</PointerOffset>
+      <JapaneseText>「それを読めば、
+　難しいマップを攻略する時の
+　参考になるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22288</PointerOffset>
+      <JapaneseText>「それはどうやって見るのですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22320</PointerOffset>
+      <JapaneseText>「タイトル画面で『ＬＩＢＲＡＲＹ』を
+　選択し、さらに『攻略Ｑ＆Ａ』を
+　選択するか…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22352</PointerOffset>
+      <JapaneseText>「インターミッションで
+　『オプション』内の『ライブラリー』から
+　『攻略Ｑ＆Ａ』に進むんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 1.48</Section>
+    <Entry>
+      <PointerOffset>22480</PointerOffset>
+      <JapaneseText>「後は実戦で鍛えるだけだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22512</PointerOffset>
+      <JapaneseText>「何度も挑戦すればクリア出来る…。
+　私もそれを信じて頑張ってみます」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22544</PointerOffset>
+      <JapaneseText>「その意気だ。
+　では、これで戦闘マップの
+　ガイダンスを終了する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22576</PointerOffset>
+      <JapaneseText>「引き続き、インターミッションについて
+　解説するぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2.1</Section>
+    <Entry>
+      <PointerOffset>23264</PointerOffset>
+      <JapaneseText>作戦会議室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23296</PointerOffset>
+      <JapaneseText>作戦会議室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23328</PointerOffset>
+      <JapaneseText>作戦会議室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23456</PointerOffset>
+      <JapaneseText>「『スーパーロボット大戦Ｚ』の世界へ
+　ようこそ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23488</PointerOffset>
+      <JapaneseText>「自分が諸君らの教官役となる
+　デンゼル・ハマー大尉だ。
+　よろしく頼むぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23520</PointerOffset>
+      <JapaneseText>「まずは私の生徒達を紹介しよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23552</PointerOffset>
+      <JapaneseText>「トビー・ワトソン中尉だ。
+　デンゼル大尉の部下でもある。
+　よろしくな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23584</PointerOffset>
+      <JapaneseText>「同じくセツコ・オハラ少尉です。
+　新人ですが、よろしくお願いします」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23616</PointerOffset>
+      <JapaneseText>「私とトビー中尉とセツコ少尉は、
+　グローリー・スターというチームを
+　組んでいる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23648</PointerOffset>
+      <JapaneseText>「俺はランド・トラビス。
+　さすらいの修理屋ビーター・サービスを
+　やっている」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23680</PointerOffset>
+      <JapaneseText>「人呼んで『ザ・ヒート』だ。
+　よろしくな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23712</PointerOffset>
+      <JapaneseText>「あたしはパートナーの
+　メール・ビーターだよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23776</PointerOffset>
+      <JapaneseText>「よし…自己紹介は終わったな。
+　早速、『スーパーロボット大戦Ｚ』の
+　プレイの基本をレクチャーしよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23808</PointerOffset>
+      <JapaneseText>「質問です、大尉」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23840</PointerOffset>
+      <JapaneseText>「自分は『スーパーロボット大戦』シリーズを
+　プレイするのは初めてなのですが、
+　大丈夫でしょうか…？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23872</PointerOffset>
+      <JapaneseText>「問題ない。
+　私のレクチャーをきちんと聞けば、
+　すぐに一人前のプレイヤーになれる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23904</PointerOffset>
+      <JapaneseText>「は、はい！
+　精一杯頑張ります！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23968</PointerOffset>
+      <JapaneseText>「向こうは盛り上がってるが、
+　俺は他の『スーパーロボット大戦』を
+　ちょっとはプレイした事があるんでな…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24000</PointerOffset>
+      <JapaneseText>「そういうわけで、
+　ここは昼寝でもさせてもらうぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24032</PointerOffset>
+      <JapaneseText>「でも、大尉さんは
+　新システム『トライバトル』についても
+　教えてくれるって言ってるよ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24064</PointerOffset>
+      <JapaneseText>「トライバトル？
+　何だ、そりゃ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24096</PointerOffset>
+      <JapaneseText>「わからないなら聞いとこうよ。
+　その方がゲームを楽しめそうだしね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24160</PointerOffset>
+      <JapaneseText>「…これから何をやるんです、大尉？
+　マップに行って、戦闘ですか？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24192</PointerOffset>
+      <JapaneseText>「そう焦るな、トビー。
+　まずは『シナリオデモ』の進め方を
+　解説する」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24224</PointerOffset>
+      <JapaneseText>「シナリオデモ？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24256</PointerOffset>
+      <JapaneseText>「我々が会話をしている
+　このシーンの事だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24288</PointerOffset>
+      <JapaneseText>「既に知っての通り、ここは
+　○ボタンを押す事で会話が進められていく」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24320</PointerOffset>
+      <JapaneseText>「なお、Ｒ１ボタンと○ボタンを
+　同時に押すと、会話を早送りする事が
+　出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24352</PointerOffset>
+      <JapaneseText>「さらにＲ１ボタンとＳＴＡＲＴボタンを
+　同時に押すと会話が一気にスキップされて、
+　シナリオデモが終わるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24384</PointerOffset>
+      <JapaneseText>「っと！　ここで試したら、
+　せっかくの大尉殿のレクチャーが
+　終わっちまうな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24416</PointerOffset>
+      <JapaneseText>「え〜と…会話の早送りが何だっけ…？
+　あ〜！　メモ取っておけばよかった！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24448</PointerOffset>
+      <JapaneseText>「心配は要らんぞ、お嬢さん。
+　会話を聞き漏らした時は、
+　△ボタンを押すんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24480</PointerOffset>
+      <JapaneseText>「そうすれば『バックログ』が表示されて、
+　今までの会話をある程度さかのぼって
+　読む事が出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24512</PointerOffset>
+      <JapaneseText>「へえ、そいつは便利だ。
+　これで台詞を読み損なっても、
+　心配無しだな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24544</PointerOffset>
+      <JapaneseText>「では、セツコ少尉。
+　ここまでの操作方法をまとめてくれ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24576</PointerOffset>
+      <JapaneseText>「はい。
+　会話の進行は○ボタン…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24608</PointerOffset>
+      <JapaneseText>「早送りはＲ１ボタンと○ボタンの同時押し、
+　スキップはＲ１ボタンとＳＴＡＲＴボタンの
+　同時押し…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24640</PointerOffset>
+      <JapaneseText>「バックログの呼び出しは△ボタンです」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24672</PointerOffset>
+      <JapaneseText>「上出来だ。
+　なお、この操作はマップ中での会話も
+　同様だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24704</PointerOffset>
+      <JapaneseText>「やるじゃん、セツコ。
+　さすがは《グローリー・スター》の
+　新人だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24736</PointerOffset>
+      <JapaneseText>「あれ？　さっき会話の中の
+　《グローリー・スター》の部分の文字の色が
+　変わってたよ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24768</PointerOffset>
+      <JapaneseText>「よく気がついたな、お嬢さん」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24800</PointerOffset>
+      <JapaneseText>「あれは『キーワード』と言って、
+　その単語が出ている時に□ボタンを押すと、
+　説明ウインドが表示されるぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24832</PointerOffset>
+      <JapaneseText>「《グローリー・スター》。
+　…こういう時に□ボタンを押すと、
+　『グローリー・スター』の説明が出るんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24864</PointerOffset>
+      <JapaneseText>「《グローリー・スター》。
+　□ボタンを押して、試してみるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24896</PointerOffset>
+      <JapaneseText>「ＯＫ！　ばっちりだ！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24928</PointerOffset>
+      <JapaneseText>「よし、ではもう一つ会話を進める際に
+　便利な機能を教えよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25056</PointerOffset>
+      <JapaneseText>「うわ！　声が出た！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25088</PointerOffset>
+      <JapaneseText>「会話の中には先程のように音声が出る
+　イベント…通称『ＤＶＥ』がある」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25120</PointerOffset>
+      <JapaneseText>「このＤＶＥの最中に
+　ＳＴＡＲＴを押すと、音声が
+　カットできるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25152</PointerOffset>
+      <JapaneseText>「次の台詞は音声を出すから、
+　途中でカットしてみてくれ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25184</PointerOffset>
+      <JapaneseText>「この台詞が表示されている最中に
+　ＳＴＡＲＴボタンを押すと、音声が
+　カット出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25312</PointerOffset>
+      <JapaneseText>「へえ…便利な機能だな、こいつは」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25344</PointerOffset>
+      <JapaneseText>「では、ここまでの操作の説明を
+　まとめて見てみよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25376</PointerOffset>
+      <JapaneseText>「ＳＥＬＥＣＴボタンを押すと、
+　操作の一覧を見る事が出来るぞ。
+　ほら…こんな具合だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25408</PointerOffset>
+      <JapaneseText>「こんな機能もあるのか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25440</PointerOffset>
+      <JapaneseText>「これがセレクトヘルプだ。
+　シナリオデモだけでなく、
+　様々な場面で使用出来るぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25472</PointerOffset>
+      <JapaneseText>「『わからない時はＳＥＬＥＣＴボタン』。
+　これを忘れるな」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25504</PointerOffset>
+      <JapaneseText>「セレクトヘルプですね。
+　覚えておきます」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25536</PointerOffset>
+      <JapaneseText>「ここまでは会話の進め方をメインに
+　説明してきたが、これだけでは
+　ゲームをクリアする事は出来んぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25568</PointerOffset>
+      <JapaneseText>「では…？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25600</PointerOffset>
+      <JapaneseText>「そうだ。
+　次は戦闘マップの基本的な進め方を
+　レクチャーするぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25632</PointerOffset>
+      <JapaneseText>「いよいよ実戦か。
+　腕が鳴るってもんだぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Section 2.2</Section>
+    <Entry>
+      <PointerOffset>25824</PointerOffset>
+      <JapaneseText>作戦会議室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25856</PointerOffset>
+      <JapaneseText>作戦会議室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25888</PointerOffset>
+      <JapaneseText>作戦会議室</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>6</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26016</PointerOffset>
+      <JapaneseText>「ご苦労だった。
+　中々の健闘だったぞ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26048</PointerOffset>
+      <JapaneseText>「ま…朝飯前って奴ですよ。
+　で、ここがインターミッションですかい？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26080</PointerOffset>
+      <JapaneseText>「いや、違う。
+　インターミッションとはストーリー部分とは
+　別のパートとなる」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26112</PointerOffset>
+      <JapaneseText>「そこでは、ここまでのゲームのデータを
+　セーブしたり、次のシナリオのための
+　準備をしたりするんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26144</PointerOffset>
+      <JapaneseText>「さっき言ってた機体やパイロットの
+　パワーアップも、そのインターミッションで
+　やるってわけか」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26176</PointerOffset>
+      <JapaneseText>「インターミッションの各機能については
+　実際に触って、プレイしてもらうのが
+　一番だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26208</PointerOffset>
+      <JapaneseText>「もちろんセレクトヘルプも使えるから、
+　大いに活用して欲しい」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26240</PointerOffset>
+      <JapaneseText>「了解です」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26272</PointerOffset>
+      <JapaneseText>「最後に最も重要な小隊の編成についての
+　コツを教えよう」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26304</PointerOffset>
+      <JapaneseText>「そうか…。
+　マップに出撃する小隊を編成するのも
+　インターミッションなんですね」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26336</PointerOffset>
+      <JapaneseText>「その通りだ。
+　小隊は１〜３機で構成されるが
+　３機で組むのが基本だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26368</PointerOffset>
+      <JapaneseText>「その組み方には様々なコツがあるが、
+　一番基本となるのは好きな機体やパイロットで
+　組む事だ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26400</PointerOffset>
+      <JapaneseText>「そんなに大雑把でいいの…！？」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26432</PointerOffset>
+      <JapaneseText>「『スーパーロボット大戦Ｚ』は
+　好きなロボットやキャラクターを
+　活躍させるゲームだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26464</PointerOffset>
+      <JapaneseText>「多少効率が悪くとも、まずは自分の趣味や
+　好みでやってみればいい」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26496</PointerOffset>
+      <JapaneseText>「その上で機能性や効率を考慮した
+　調整を加えてみるんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26528</PointerOffset>
+      <JapaneseText>「一番大事なのは自分の意思なんですね…」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26560</PointerOffset>
+      <JapaneseText>「『スーパーロボット大戦Ｚ』の攻略には
+　絶対の答えはない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26592</PointerOffset>
+      <JapaneseText>「逆に言えば、どのようなやり方でも
+　地道にプレイすれば、確実にクリア出来る」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26624</PointerOffset>
+      <JapaneseText>「だから、悩んだ時は
+　自分の気持ちに正直にプレイすれば
+　いいんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26656</PointerOffset>
+      <JapaneseText>「その言葉を聞いたら、
+　何だか自信がつきました」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26688</PointerOffset>
+      <JapaneseText>「セレクトヘルプや攻略Ｑ＆Ａは
+　プレイヤーをきっと助けてくれる。
+　有効に活用するんだ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26720</PointerOffset>
+      <JapaneseText>「はい！」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26752</PointerOffset>
+      <JapaneseText>「おっし！　俺達も頑張るぜ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26816</PointerOffset>
+      <JapaneseText>「モニターの前の諸君」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26848</PointerOffset>
+      <JapaneseText>「このガイダンスシナリオは
+　広大な『スーパーロボット大戦Ｚ』の世界の
+　基本を紹介したに過ぎない」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26880</PointerOffset>
+      <JapaneseText>「ここからは君の目で全てを確かめてくれ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26912</PointerOffset>
+      <JapaneseText>「では、本編をプレイして
+　『スーパーロボット大戦Ｚ』を心行くまで
+　楽しんでくれ」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26944</PointerOffset>
+      <JapaneseText>「諸君らの健闘を期待している」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</ScenarioText>
