@@ -3,10 +3,12 @@ import os.path
 import pandas as pd
 
 from tools.python.lib.FileIO import FileIO
+from tools.python.lib.xml import XML
 from tools.python.lib.binary_extracted import text_to_bytes, bytes_to_text
 from io import BytesIO
 from pathlib import Path
 from typing import Union
+import lxml.etree as etree
 import struct
 
 class Stage(FileIO):
@@ -19,6 +21,8 @@ class Stage(FileIO):
         self.size = os.path.getsize(path)
         self.blocks_reference = []
         self.sections_start = []
+        self.speakers = {}
+        self.speaker_id = 1
 
 
     #Extract blocks at 0x90
@@ -36,14 +40,14 @@ class Stage(FileIO):
             self.read(6)
 
             if (final > 0):
-                print(f'Block Ref: {hex(final)}')
                 self.blocks_reference.append(final)
 
-    def extract_all_blocks(self, path:Path):
+    def extract_all_blocks(self):
         self.extract_blocks_reference()
         res = []
 
         story_text = ''
+        block_id = 1
         self.blocks_reference = self.blocks_reference[1:]
         for block_reference in self.blocks_reference:
             #block_reference = self.blocks_reference[1]
@@ -59,12 +63,15 @@ class Stage(FileIO):
                 #Direct String
                 if sections_count == 0:
                     speaker_text, text = self.extract_string()
+                    self.add_speaker(speaker_text, '')
+
                     res.append((speaker_text, text, -1, hex(block_reference)))
                     story_text += f'Speaker: {speaker_text}\n{text}\n\n'
 
                 #Section
                 else:
 
+                    section_id = 1
                     for i in range(sections_count):
                         #print(f'Pointer: {hex(self.tell())}')
                         section_start = self.read_uint32() - self.base_address
@@ -72,22 +79,33 @@ class Stage(FileIO):
                         if section_start > 0 and section_start < self.size:
                             #print(f'Section Start: {hex(section_start + 0x20)}')
                             section_text = self.extract_section_text(section_start + 0x20)
-                            text = '\n\n'.join([f'Speaker: {speaker}\n{text}' for speaker,text in section_text])
-                            res.extend(section_text)
-                            story_text += text
+                            #text = '\n\n'.join([f'Speaker: {speaker}\n{text}' for speaker,text in section_text])
+
+                            ele = {
+                                "Section": f'Section {block_id}.{section_id}',
+                                "Text": section_text
+                            }
+                            res.append(ele)
+                            section_id += 1
+
                         self.seek(pos + 4)
 
-        with open(path, 'w', encoding='utf-8') as f:
-            f.write(story_text)
 
-        #df = pd.DataFrame(res, columns=['Speaker','Text', 'Section', 'Block Ref'])
-        #df.to_excel(f'../{self.path.stem}.xlsx', index=False)
+            block_id += 1
+        return res
+
     def extract_sections_offset(self, start:int):
         self.seek(start)
 
     def extract_string(self):
         speaker_text, bytes1 = bytes_to_text(self, self.tell(), True)
         text, text_bytes = bytes_to_text(self)
+
+        #If text is empty then there's no speaker
+        if text == '':
+            text = speaker_text
+            speaker_text = ''
+
         return speaker_text, text
 
     def extract_section_text(self, start:int):
@@ -103,6 +121,7 @@ class Stage(FileIO):
             if struct_value >= 0x60: break
 
             self.seek(self.tell() + 12)
+            pointer_offset = self.tell()
             pointer_value = self.read_uint32()
 
             if pointer_value > self.base_address:
@@ -110,10 +129,11 @@ class Stage(FileIO):
                 self.seek(offset)
 
                 speaker_text, text = self.extract_string()
+                self.add_speaker(speaker_text, '')
                 #print(f'Speaker: {hex(offset)} - {speaker_text}')
                 #print(f'Offset: {hex(offset)} - {text}')
 
-                res.append((speaker_text, text))
+                res.append((speaker_text, text, pointer_offset))
             pos = pos + 32
 
         return res
@@ -145,6 +165,39 @@ class Stage(FileIO):
 
 
 
+    def add_speaker(self, speaker_text:str, pointer_offset:int):
 
+        if speaker_text not in self.speakers.keys():
+            self.speakers[speaker_text] = {
+                "PointerOffset": pointer_offset,
+                "Id": self.speaker_id
+            }
+
+            self.speaker_id += 1
+
+    def extract_stage_XML(self, xml_path:Path):
+
+        root = etree.Element("ScenarioText")
+        res = self.extract_all_blocks()
+
+        #Add Speakers Nodes
+        speakers_node = etree.SubElement(root, 'Speakers')
+        etree.SubElement(speakers_node, "Section").text = 'Speaker'
+        for speaker_text, node in self.speakers.items():
+            XML.create_node(speakers_node, speaker_text, node['PointerOffset'], id=node['Id'], speaker_id=-1)
+
+        #Add Sections Nodes
+        for node in res:
+            strings_node = etree.SubElement(root, 'Strings')
+            etree.SubElement(strings_node, "Section").text = node['Section']
+
+            for speaker, text, pointer_offset in node['Text']:
+                speaker_node = self.speakers[speaker]
+                XML.create_node(strings_node, text, pointer_offset,
+                                id=-1, speaker_id=speaker_node['Id'])
+
+        if len(res) > 0:
+            with open(xml_path, "wb") as xmlFile:
+                xmlFile.write(etree.tostring(root, encoding="UTF-8", pretty_print=True))
 
 
