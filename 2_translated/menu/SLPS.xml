@@ -3578,10 +3578,10 @@
         <lo>3516824</lo>
       </EmbedOffset>
       <JapaneseText>勝利条件</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Win Condition</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Operation End</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -3590,10 +3590,10 @@
         <lo>3516856</lo>
       </EmbedOffset>
       <JapaneseText>敗北条件</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lose Condition</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Operation End</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -3602,10 +3602,10 @@
         <lo>3516892</lo>
       </EmbedOffset>
       <JapaneseText>ＳＲポイント獲得条件</JapaneseText>
-      <EnglishText/>
+      <EnglishText>SR Point Condition</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Operation End</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4730,10 +4730,10 @@
         <lo>3895084</lo>
       </EmbedOffset>
       <JapaneseText>〜第%s話</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stage %s</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Operation End</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
