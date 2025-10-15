@@ -2684,8 +2684,8 @@
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3509356,3492072,3492144,3492184,3492224,3824416,3824488,3824528,3824568</hi>
-        <lo>3509364,3492084,3492156,3492196,3492236,3824428,3824500,3824540,3824580</lo>
+        <hi>3509356,3755404,3492072,3492144,3492184,3492224,3824416,3824488,3824528,3824568</hi>
+        <lo>3509364,3755412,3492084,3492156,3492196,3492236,3824428,3824500,3824540,3824580</lo>
       </EmbedOffset>
       <JapaneseText>％</JapaneseText>
       <EnglishText/>
@@ -2744,8 +2744,8 @@
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3524068,3727500,3742100,3742240,3736688</hi>
-        <lo>3524080,3727508,3742108,3742252,3736700</lo>
+        <hi>3524068,3727500,3742100,3742240,3736688,3755612</hi>
+        <lo>3524080,3727508,3742108,3742252,3736700,3755616</lo>
       </EmbedOffset>
       <JapaneseText>（　　　）</JapaneseText>
       <EnglishText/>
@@ -2768,8 +2768,8 @@
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3524444,3722240</hi>
-        <lo>3524456,3722248</lo>
+        <hi>3524444,3722240,3755224</hi>
+        <lo>3524456,3722248,3755240</lo>
       </EmbedOffset>
       <JapaneseText>ＥＮ</JapaneseText>
       <EnglishText>EN</EnglishText>
@@ -3244,7 +3244,7 @@
       <JapaneseText>@&lt;color:31&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Tactical Situation</Chapter>
+      <Chapter>Uncategorized</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3338,6 +3338,54 @@
         <lo>3728328</lo>
       </EmbedOffset>
       <JapaneseText>・照準値▼</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741492,2840132,2840420,2849968,2850368,3715880,3719368,3722484,3726808</hi>
+        <lo>3741508,2840140,2840432,2849976,2850380,3715892,3719380,3722496,3726820</lo>
+      </EmbedOffset>
+      <JapaneseText>空　陸　海　宇</JapaneseText>
+      <EnglishText>&lt;Sky&gt;　&lt;Ground&gt;　&lt;Water&gt;　&lt;Space&gt;</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3745344,3745028</hi>
+        <lo>3745360,3745060</lo>
+      </EmbedOffset>
+      <JapaneseText>武器名</JapaneseText>
+      <EnglishText>Weapon Name</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3745388,3745280</hi>
+        <lo>3745408,3745300</lo>
+      </EmbedOffset>
+      <JapaneseText>ＣＲＴ</JapaneseText>
+      <EnglishText>CRT</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3757328</hi>
+        <lo>3757336</lo>
+      </EmbedOffset>
+      <JapaneseText>＜援護設定＞　援護攻撃を選択します。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -3459,18 +3507,6 @@
       </EmbedOffset>
       <JapaneseText>あり</JapaneseText>
       <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>2840132,2840420,2849968,2850368,3715880,3719368,3722484,3726808</hi>
-        <lo>2840140,2840432,2849976,2850380,3715892,3719380,3722496,3726820</lo>
-      </EmbedOffset>
-      <JapaneseText>空　陸　海　宇</JapaneseText>
-      <EnglishText>空　陸　海　宇</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
       <Status>To Do</Status>
@@ -4074,7 +4110,7 @@
       <EnglishText>CQB</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4086,7 +4122,7 @@
       <EnglishText>RNG</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4098,7 +4134,7 @@
       <EnglishText>SKL</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4110,7 +4146,7 @@
       <EnglishText>DEF</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4122,19 +4158,19 @@
       <EnglishText>EVA</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3713692,3720040,3726080</hi>
-        <lo>3713700,3720052,3726088</lo>
+        <hi>3713692,3720040,3726080,3745244</hi>
+        <lo>3713700,3720052,3726088,3745260</lo>
       </EmbedOffset>
       <JapaneseText>命中</JapaneseText>
       <EnglishText>ACC</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4466,10 +4502,10 @@
         <lo>3735952</lo>
       </EmbedOffset>
       <JapaneseText>ＭＡＰ兵器（　　　）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MAP Weapon (          )         </EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4478,10 +4514,10 @@
         <lo>3736016</lo>
       </EmbedOffset>
       <JapaneseText>トライチャージ兵器（　　　）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tri-Charge Weapon (          )        </EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4490,10 +4526,10 @@
         <lo>3736076</lo>
       </EmbedOffset>
       <JapaneseText>全体攻撃武器（　　　）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All Attack Weapon (          )        </EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4502,10 +4538,10 @@
         <lo>3736132</lo>
       </EmbedOffset>
       <JapaneseText>ＰＬＡ攻撃武器（　　　）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>PLA Attack Weapon (          )        </EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4514,10 +4550,10 @@
         <lo>3736308</lo>
       </EmbedOffset>
       <JapaneseText>特殊攻撃武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special Weapon</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4526,10 +4562,10 @@
         <lo>3736404</lo>
       </EmbedOffset>
       <JapaneseText>移動後使用可能</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Usable after movement</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4538,10 +4574,10 @@
         <lo>3736508</lo>
       </EmbedOffset>
       <JapaneseText>ビーム兵器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beam Weapon</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4552,7 +4588,7 @@
       <JapaneseText>（　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Abilities</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4564,7 +4600,7 @@
       <JapaneseText>（　　）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Abilities</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4574,10 +4610,10 @@
         <lo>3737188,3753508</lo>
       </EmbedOffset>
       <JapaneseText>%s〜%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s〜%s</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4586,10 +4622,10 @@
         <lo>3737276</lo>
       </EmbedOffset>
       <JapaneseText>　１〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>　１〜</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4598,9 +4634,225 @@
         <lo>3737980</lo>
       </EmbedOffset>
       <JapaneseText>%sＬ</JapaneseText>
+      <EnglishText>%s Ｌ</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741104,3755300</hi>
+        <lo>3741116,3755312</lo>
+      </EmbedOffset>
+      <JapaneseText>弾数</JapaneseText>
+      <EnglishText>Ammo</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741140</hi>
+        <lo>3741152</lo>
+      </EmbedOffset>
+      <JapaneseText>消費ＥＮ</JapaneseText>
+      <EnglishText>EN Usage</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741176</hi>
+        <lo>3741188</lo>
+      </EmbedOffset>
+      <JapaneseText>必要気力</JapaneseText>
+      <EnglishText>Req. Morale</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741216</hi>
+        <lo>3741232</lo>
+      </EmbedOffset>
+      <JapaneseText>必要スキル</JapaneseText>
+      <EnglishText>Req. Skil</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741260</hi>
+        <lo>3741280</lo>
+      </EmbedOffset>
+      <JapaneseText>地形適応</JapaneseText>
+      <EnglishText>Terrain Mod.</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741316</hi>
+        <lo>3741340</lo>
+      </EmbedOffset>
+      <JapaneseText>特殊効果１</JapaneseText>
+      <EnglishText>Special Effect 1</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741368</hi>
+        <lo>3741376</lo>
+      </EmbedOffset>
+      <JapaneseText>特殊効果２</JapaneseText>
+      <EnglishText>Special Effect 2</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3741428</hi>
+        <lo>3741444</lo>
+      </EmbedOffset>
+      <JapaneseText>改造段階</JapaneseText>
+      <EnglishText>Upgrade Level</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3743148</hi>
+        <lo>3743156</lo>
+      </EmbedOffset>
+      <JapaneseText>分類</JapaneseText>
+      <EnglishText>Category</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3743192</hi>
+        <lo>3743200</lo>
+      </EmbedOffset>
+      <JapaneseText>名前</JapaneseText>
+      <EnglishText>Name</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3743240,3745084</hi>
+        <lo>3743248,3745100</lo>
+      </EmbedOffset>
+      <JapaneseText>種別</JapaneseText>
+      <EnglishText>Type</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3743288,3745120</hi>
+        <lo>3743300,3745132</lo>
+      </EmbedOffset>
+      <JapaneseText>属性</JapaneseText>
+      <EnglishText>Attr</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3743440</hi>
+        <lo>3743452</lo>
+      </EmbedOffset>
+      <JapaneseText>敵味方識別</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Abilities</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3743476</hi>
+        <lo>3743492</lo>
+      </EmbedOffset>
+      <JapaneseText>形式</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3745156,3755268</hi>
+        <lo>3745168,3755276</lo>
+      </EmbedOffset>
+      <JapaneseText>攻撃力</JapaneseText>
+      <EnglishText>PWR</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3745192</hi>
+        <lo>3745208</lo>
+      </EmbedOffset>
+      <JapaneseText>射程</JapaneseText>
+      <EnglishText>Range</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3755336</hi>
+        <lo>3755348</lo>
+      </EmbedOffset>
+      <JapaneseText>ＨＩＴ</JapaneseText>
+      <EnglishText>Hit</EnglishText>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3756372</hi>
+        <lo>3756404</lo>
+      </EmbedOffset>
+      <JapaneseText>援護攻撃　なし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Abilities</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4610,10 +4862,10 @@
         <lo>3820860</lo>
       </EmbedOffset>
       <JapaneseText>ー．</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ー．</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4622,10 +4874,10 @@
         <lo>3821064,3821080,3821096,3821112,3824172,3824188</lo>
       </EmbedOffset>
       <JapaneseText>ーーーー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ーーーー</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5086,8 +5338,8 @@
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3528004</hi>
-        <lo>3528008</lo>
+        <hi>3528004,3757352</hi>
+        <lo>3528008,3757356</lo>
       </EmbedOffset>
       <JapaneseText>：決定</JapaneseText>
       <EnglishText/>
@@ -5126,6 +5378,18 @@
         <lo>3528100</lo>
       </EmbedOffset>
       <JapaneseText>：ーーー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3757372</hi>
+        <lo>3757384</lo>
+      </EmbedOffset>
+      <JapaneseText>：武器選択</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
