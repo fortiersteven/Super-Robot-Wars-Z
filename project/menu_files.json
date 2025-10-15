@@ -571,7 +571,7 @@
                         {   "name": "Section 15",
                             "pointers_end": "0x6165B",
                             "pointers_start": "0x61300",
-                            "style": "P4",
+                            "style": "P",
                             "text_end": "0x7FEFF",
                             "text_start": "0x7E450",
                             "type": "pointer"}]}]
