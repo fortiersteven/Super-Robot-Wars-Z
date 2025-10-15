@@ -1,5 +1,6 @@
 import os.path
 import shutil
+from os.path import exists
 
 import pandas as pd
 
@@ -29,20 +30,24 @@ class CompData(FileIO):
         env = os.environ.copy()
         python = paths['tools'] / 'python'
         env["PATH"] = f"{python.as_posix()};{env['PATH']}"
-        dec = str(paths["temp_files"] / 'DATA' / 'COMPDATA' / '0d.bin')
-        new = str(paths["final_files"] / 'New_files' / 'DATA' / 'COMPDATA.BN')
+        dec = paths["temp_files"] / 'DATA' / 'COMPDATA' / '0d.bin'
+        new = paths["final_files"] / 'New_files' / 'DATA' / 'COMPDATA.BN'
         (paths["final_files"] / 'New_files' / 'DATA').mkdir(parents=True, exist_ok=True)
 
         orig = str(paths["temp_files"] / 'DATA' / 'COMPDATA' / 'COMPDATA.BN')
         r = subprocess.run(
             [
-                paths['tools'] / 'python' / 'Compressor.exe',
+                paths['tools'] / 'python' / 'CompressTool.exe',
                 "-c",
-                dec,
-                new,
-                original_file
+                str(dec),
+                "9"
             ],
             env=env
         )
+        comp = (dec.parent / '0d9.mwo')
+        if (dec.parent / 'COMPDATA.BN').exists():
+            (dec.parent / 'COMPDATA.BN').unlink()
+        comp.rename(dec.parent / 'COMPDATA.BN')
+        shutil.copy2(dec.parent / 'COMPDATA.BN', new)
 
 
