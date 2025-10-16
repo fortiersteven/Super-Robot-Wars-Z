@@ -1,61 +1,62 @@
 <ScenarioText>
+  <FriendlyName>Rand 1 - さすらいの修理屋</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <JapaneseText>ゲラバ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geraba</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <JapaneseText>ブレーカー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Breaker</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <JapaneseText>？？？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>???</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <JapaneseText>$n</JapaneseText>
-      <EnglishText/>
+      <EnglishText>$n</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <JapaneseText>メール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mel</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <JapaneseText>ガロード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Garrod</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <JapaneseText>ゲイン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gain</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <JapaneseText></JapaneseText>
@@ -80,21 +81,21 @@
       <PointerOffset>3120</PointerOffset>
       <JapaneseText>「これだけ脅せば、あのクソ生意気な小僧も
 　ガンダムを置いてくだろう」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If we make this much of a ruckus I'm sure that annoying kid will just leave the Gundam and run.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3152</PointerOffset>
       <JapaneseText>「そいつを持ち帰れば、
 　ホーラの兄貴も俺を褒めてくれるぜ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure Boss Holler's gonna be so pleased when I take this back!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -102,94 +103,96 @@
     <Entry>
       <PointerOffset>3280</PointerOffset>
       <JapaneseText>「な、何だ、この音は！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W, what is this noise!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3312</PointerOffset>
       <JapaneseText>「ゲラバの兄貴！
 　誰かがマイクを使う気らしいぜ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Geraba!  Someone's using the mic!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3344</PointerOffset>
       <JapaneseText>「通信機じゃなくて、マイクだぁ！？
 　いったい、どこのウマの骨が
 　演説をおっぱじめるって言うんだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A mic, not a communicator!?  What kind of old fart is choosing now as the time to give some kind of a speech!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3376</PointerOffset>
       <JapaneseText>「あ〜あ〜…ただ今、マイクのテスト中。
 　本日は晴天なり…
 　あめんぼあかいな、あいうえお…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah - Ah - Testing - Mic Testing.  Today's weather is clear...red stag beatle,  a b c d e...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3408</PointerOffset>
       <JapaneseText>「どこのどいつだ！？
 　ふざけやがって！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who is this!? Who's messing around!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3440</PointerOffset>
       <JapaneseText>「え〜…こちらは任せて安心、
 　誠実なサービスとスタッフの笑顔が売りの
 　さすらいの修理屋、ビーター・サービス…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ehhh - We are the reliable, friendly servicemen where sincerity and smiles is our motto.  
+We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3472</PointerOffset>
       <JapaneseText>「ビーター・サービス！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beater Service!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3504</PointerOffset>
       <JapaneseText>「当サービスではホバギーから
 　ランドシップまで、あらゆるマシンの
 　修理・改良を承ります…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We offer repair and upgrade services for all types of machinery, from hovercraft to landships...
+</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3536</PointerOffset>
       <JapaneseText>「ですが、私共の邪魔をされるのなら、
 　全力でぶっ潰してさしあげます」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However if you get in our way, we put all our efforts in crushing you.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -197,212 +200,212 @@
     <Entry>
       <PointerOffset>3664</PointerOffset>
       <JapaneseText>「このガンレオンでな！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With this Gunleon!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3696</PointerOffset>
       <JapaneseText>「や、やばいッスよ、アニキ！
 　あいつは！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>T, this is bad boss!  He's...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3728</PointerOffset>
       <JapaneseText>「何だ！？
 　あいつ、有名人か！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What!? Is he famous!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3760</PointerOffset>
       <JapaneseText>「フ…俺の名は
 　$F。
 　人呼んで…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmmph, My name is $F.  People call me...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3792</PointerOffset>
       <JapaneseText>「あいつはザ・クラッシャー！！
 　最悪の野郎ッスよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's the Crasher!! This guy is bad news!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3824</PointerOffset>
       <JapaneseText>「てめえ…その名で呼びやがったな！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why you...how dare you call me by that name!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3856</PointerOffset>
       <JapaneseText>「ど、どうして、
 　ザ・クラッシャーが俺達の相手を
 　するってんだよ！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W, why is the crasher aiming for us!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3888</PointerOffset>
       <JapaneseText>「二度も、その名で呼びやがったな！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Twice, twice you've called me by that name!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3920</PointerOffset>
       <JapaneseText>「ひ、ひいっ…！
 　ザ・クラッシャーが怒ってる！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H, hiii...! The crasher is angry!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3952</PointerOffset>
       <JapaneseText>「だから、その名で呼ぶんじゃねえ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I said, stop calling me by that name!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3984</PointerOffset>
       <JapaneseText>「お、終わりだ…。
 　俺達はザ・クラッシャーを
 　敵に回しちまった…！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>T, this is the end... We've made enemies of the the crasher!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4016</PointerOffset>
       <JapaneseText>「頼む…。
 　頼むから、その名前はやめてくれ…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please... Please...stop it with that name...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4048</PointerOffset>
       <JapaneseText>「あ〜あ…知らないよ。
 　ダーリンを、その名で呼んじゃうと…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aaaaaaahhh...I don't know.  People who call darling that tend to...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4080</PointerOffset>
       <JapaneseText>「ちきしょー！
 　ザ・クラッシャーだか何だか知らねえが、
 　邪魔をするなら叩き潰すまでだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damn it!  I don't know if he's the crasher or what, but if he's getting in our way then he's going to be crushed!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4112</PointerOffset>
       <JapaneseText>「行くぞ、ザ・クラッシャー！
 　てめえを倒して、ガンダムを
 　手に入れてやる！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, crasher!  I'm going to defeat you and take hold of the Gundam!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4144</PointerOffset>
       <JapaneseText>「よくも…よくも７回も、
 　あの名前で呼びやがったな…！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How dare...how dare you call me by that name 7 whole times...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4176</PointerOffset>
       <JapaneseText>「待った、ダーリン！
 　８回だよ、多分！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait Darling!  I think it was 8!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4208</PointerOffset>
       <JapaneseText>「ちょっと待った、ダンナに嬢ちゃん！
 　６回だって！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold on, sir and miss!  It's just 6 times!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4240</PointerOffset>
       <JapaneseText>「お前、数えてたのかよ！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've been counting!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4272</PointerOffset>
       <JapaneseText>「この際、細かい事にはこだわらねえ！
 　あの名前で俺を呼んだからには
 　てめえら、まとめて…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who cares about the details at this point!  Anyone who calls me by that name will be...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4304</PointerOffset>
       <JapaneseText>「解体だ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...dismantled!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -411,134 +414,134 @@
       <PointerOffset>4432</PointerOffset>
       <JapaneseText>「炎のモビルスーツ乗り、
 　ガロード・ラン参上！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is Garrod Ran, the fiery mobile suit rider!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4464</PointerOffset>
       <JapaneseText>「あのガキ、モビルスーツの操縦が
 　出来るのかよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That kid, he can actually operate a mobile suit!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4496</PointerOffset>
       <JapaneseText>「ガキだと思って、ナメんなよ！
 　こっちは、この程度の修羅場なら
 　何度もくぐってんだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't underestimate me thinking I'm just a kid!  I've survived these kinds of situations multiple times!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4528</PointerOffset>
       <JapaneseText>「やれんのか、腹ペコ小僧？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You good, hungry kid?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4560</PointerOffset>
       <JapaneseText>「オッサンの幼な妻が
 　飯をオゴってくれたからな。
 　問題無しだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your young wife treated me to a meal old man.  I'm all good!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4592</PointerOffset>
       <JapaneseText>「間違いを二つ訂正する。
 　まず一つ、俺はオッサンではなく
 　大人の男だ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've making two mistakes I need to correct.  First, I'm not an old man - just an adult.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4624</PointerOffset>
       <JapaneseText>「もう一つ、メールは俺のワイフじゃねえ。
 　そこんとこ間違えるなよ、小僧」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Second, Mel isn't my wife.  Don't make the same mistake again kid.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4656</PointerOffset>
       <JapaneseText>「まだ入籍してないもんね」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We haven't submitted the paper work yet.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4688</PointerOffset>
       <JapaneseText>「そういう問題じゃねえ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not the problem here!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4720</PointerOffset>
       <JapaneseText>「じゃあ、こっちも言わせてもらうぜ。
 　俺はガキでも、小僧でもねえ…
 　ガロード・ランだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fine, then let me say something. I'm not kid or a punk...I'm Garrod Ran!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4752</PointerOffset>
       <JapaneseText>「ＯＫだ、ガロード。
 　伝説のガンダムに乗ってる以上、
 　当てにさせてもらうぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>OK, Garrod. I'll be relying on you as long as riding the legendary Gundam.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4784</PointerOffset>
       <JapaneseText>「任せてくれ！
 　まずは飯代の分、働くぜ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leave it to me!  First, I'll pay off my meal!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4816</PointerOffset>
       <JapaneseText>「行くぜ、ブレーカー！
 　バルチャー退治で鍛えた腕と
 　ガンダムの力、見せてやる！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go, breakers!  I'll show you the skills I honed clearing vultures and the power of the Gundam!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -546,71 +549,71 @@
     <Entry>
       <PointerOffset>4944</PointerOffset>
       <JapaneseText>「く、くそおおおおおっ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D, daaamn iiiiit!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4976</PointerOffset>
       <JapaneseText>「安心しな。
 　命まで奪うつもりはねえよ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't worry.  I won't take your life.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5008</PointerOffset>
       <JapaneseText>「しっかし、オッサン…人望無いな。
 　手下はみんな、逃げちまったぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But man...you're not much of a leader.  All your underlings already ran off.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5040</PointerOffset>
       <JapaneseText>「やるぅ、ダーリン！
 　さっすがぁ、ラブラブ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Good job, Darling!  So proud of you, love love!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5072</PointerOffset>
       <JapaneseText>「るせえ、メール！
 　お前がくだらない事言ってると
 　いい女が寄り付かねえんだよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shut up Mel!  It's because you keep on saying gibberish that a good woman never comes my way!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5104</PointerOffset>
       <JapaneseText>「妻帯者が何言ってんのよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not something a married man should say!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5136</PointerOffset>
       <JapaneseText>「くそっ！　こうなりゃ、
 　腹いせにバザーをぶっ潰してやる！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fuck!  Fine, I'm just gonna crush the entire bazaar while at it!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -619,30 +622,30 @@
       <PointerOffset>5264</PointerOffset>
       <JapaneseText>「やべえ！
 　あいつ、まだ動けやがったか！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh man!  That guy can still move!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5296</PointerOffset>
       <JapaneseText>「あの野郎、ヤケクソかよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That idiot, he's gone wild!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5328</PointerOffset>
       <JapaneseText>「ホーラ一家に逆らった見せしめだ！
 　ほらよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is for resisting the Holler family!  Thank this!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -651,21 +654,21 @@
       <PointerOffset>5456</PointerOffset>
       <JapaneseText>「あ、あの距離から
 　正確に俺だけを狙って…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H, he aimed for me so accurately at that distance...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5488</PointerOffset>
       <JapaneseText>「うおおおおおおっ！！
 　とどめだあっ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>oooooooooh!! Gotcha!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -674,11 +677,12 @@
       <PointerOffset>5616</PointerOffset>
       <JapaneseText>「な、何が修理屋だ…。
 　お前は壊し屋…ザ・クラッシャーだ…！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Some R, Repairman...
+You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -687,40 +691,40 @@
       <PointerOffset>5744</PointerOffset>
       <JapaneseText>「捨て台詞が吐けるって事は
 　脱出したようだな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Given his yapping it seems like he managed to escape</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5776</PointerOffset>
       <JapaneseText>「あんの野郎！
 　よくも最後の最後まで、へらず口を！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why that!  Those incessant insults, all the way to the end!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5808</PointerOffset>
       <JapaneseText>「どうどう、ダーリン！
 　どうどう、どうどう、どうどう！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa whoa, Darling!  Whoa whoa whoa!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5840</PointerOffset>
       <JapaneseText>「俺は馬じゃねえっての！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not a horse!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -730,48 +734,48 @@
       <JapaneseText>「しかし、すげえ腕だぜ。
 　あの距離で正確に何連射も
 　ぶち込むなんて…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still, that was some skill.  To think someone could shoot multiple shots so accurately from that distance...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6000</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>......</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6032</PointerOffset>
       <JapaneseText>「ダーリン…もしかして、あの人って…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Darling...isn't he...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6064</PointerOffset>
       <JapaneseText>「シルエットマシン乗りの凄腕スナイパー…
 　あれが『黒いサザンクロス』か…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The sniper on top of a silhouette machine...that must be the "Black Southern Cross"...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6096</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>,,,,,</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -780,42 +784,42 @@
       <PointerOffset>6224</PointerOffset>
       <JapaneseText>「やるねえ！
 　見事な応急処置だ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nice! That was nice battlefield repair skills!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6256</PointerOffset>
       <JapaneseText>「伊達にさすらいの修理屋を
 　やってるわけじゃないのさ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're not called the wandering repairmen for nothing.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6288</PointerOffset>
       <JapaneseText>「ダメージは俺が修理する！
 　思いっきりやれ、ガロード！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll repair your damage!  Just give it your all, Garrod!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6320</PointerOffset>
       <JapaneseText>「おう！
 　俺だって、こんな所でやられるわけには
 　いかねえからな！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right!  I'm not going to get shot down in a place like this!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -824,21 +828,21 @@
       <PointerOffset>6448</PointerOffset>
       <JapaneseText>「行くぜ、ガンレオン！
 　ゴロツキ共は、まとめて解体だ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go Gunleon!  We're going to dismantle these thugs!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6480</PointerOffset>
       <JapaneseText>「やっちゃえ、ダーリン！
 　ゴー、ゴーッ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do it darling!  Go- go---!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -847,101 +851,101 @@
       <PointerOffset>6608</PointerOffset>
       <JapaneseText>「金がないから強奪とはよ！
 　悪党は頭の中身まで悪いようだぜ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To think you'd stoop to stealing just because you don't have enough money!  Bad guys have bad heads!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6640</PointerOffset>
       <JapaneseText>「ちいっ！　ザ・クラッシャー！
 　余計な事に首を突っ込んだのを
 　後悔させてやるぜ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grr, Crasher!  I'll make make you regret sticking your head where it doesn't belong!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6672</PointerOffset>
       <JapaneseText>「俺の通り名はザ・ヒートだ！
 　その名で呼ぶんじゃねえ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My nick name is The Heat!  Call me by that name!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6704</PointerOffset>
       <JapaneseText>「うるせえぞ、ザ・クラッシャー！
 　俺達の邪魔をするんなら、
 　叩き潰してやる！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shut up, "The Crasher"!  We'll crush you if you get in our way!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6736</PointerOffset>
       <JapaneseText>「…もしかして、
 　俺を怒らせるつもりで、わざと言ってる？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...are you doing this on purpose to try to get me angry?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6768</PointerOffset>
       <JapaneseText>「やっと、わかったか！
 　この単細胞が！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you finally caught on!  You simpleton!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6800</PointerOffset>
       <JapaneseText>「ええっ！　そうだったの！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whhhaaat! Really!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6832</PointerOffset>
       <JapaneseText>「さらにニブい奴がいる！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And another one!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6864</PointerOffset>
       <JapaneseText>「どうやら、てめえには解体すら
 　生ぬるいようだぜ…！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like dismantling isn't gonna be enough for you---!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6896</PointerOffset>
       <JapaneseText>「てめえは大解体だ！
 　ネジ一本まで分解してやるぜ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're in for a full disassembly! I'm going to break you down to each nail!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -951,21 +955,21 @@
       <JapaneseText>「訳わかんねえモンに巻き込まれて
 　ここまで来ちまったが、俺は絶対に
 　ティファの所に帰るんだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't really understand how that thing pulled me over here but I'm definitely gonna bet back to Tifa!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7056</PointerOffset>
       <JapaneseText>「そのためにも
 　こんな所でやられてたまるかよ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why I can't afford to die here!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -974,52 +978,52 @@
       <PointerOffset>7184</PointerOffset>
       <JapaneseText>「小僧！　そのガンダムを渡せば、
 　命だけは助けてやる！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kid!  I'll let you live if you hand over the Gundam!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7216</PointerOffset>
       <JapaneseText>「やだね！　こいつは俺とティファの
 　絆みたいなもんだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No way!  This serves as the bond between me and Tifa!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7248</PointerOffset>
       <JapaneseText>「それを売ろうとしたのは、
 　お前の方だろうが！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're the one who was trying to sell it in the first place!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7280</PointerOffset>
       <JapaneseText>「今は事情が変わったんだ！
 　俺はこのＧＸで、絶対にティファの所へ
 　帰るんだ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The situation's change!  I'm going to take this GX and head back to where Tifa is!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7312</PointerOffset>
       <JapaneseText>「オッサンみたいな悪党に、
 　こいつを渡すわけにはいかねえ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not going to hand this over to some old ass baddie like you!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1027,1024 +1031,1025 @@
     <Entry>
       <PointerOffset>7824</PointerOffset>
       <JapaneseText>バザー会場</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Marketplace</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7856</PointerOffset>
       <JapaneseText>バザー会場</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Marketplace</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7888</PointerOffset>
       <JapaneseText>バザー会場</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Marketplace</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8016</PointerOffset>
       <JapaneseText>「なあ、姉ちゃん…
 　さっきから言ってるだろ？
 　こいつは掘り出し物のお宝だって」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey Missy...it's like I said.  This is dug up treasure!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8048</PointerOffset>
       <JapaneseText>「う〜ん…あたしには
 　ただのカメラにしか見えないけど…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmmm...this looks like just a regular camera to me...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8080</PointerOffset>
       <JapaneseText>「何、言ってんの！
 　そのつぶらなおメメで、よく見てみ？
 　こいつはシベ鉄印の超高級品だぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W, what are you saying!  Take another look with them round eyes.  This is high end goods with markings of the Siberian Railroad!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8112</PointerOffset>
       <JapaneseText>「ほれ…ここにもロゴが入ってる」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>See...you can see the logo here as well.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8144</PointerOffset>
       <JapaneseText>「ホントだ…！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're right...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8176</PointerOffset>
       <JapaneseText>「連中はシベリアの辺りで
 　大規模な発掘調査をしてるって話だ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hear they're doing a big excavation around Siberia right now</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8208</PointerOffset>
       <JapaneseText>「で、そこで発見された大変動前の
 　ブツを修理して、民間におろしてるんだよ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And, they've been fixing up various finds from the pre-cataclysm days and selling it to the masses.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8240</PointerOffset>
       <JapaneseText>「ホントに！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8272</PointerOffset>
       <JapaneseText>「姉ちゃんも知っての通り、
 　大変動前の品の中には
 　かなりのお宝が混じってる時がある」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As you should know quite well, there's quite a few treasures mixed in pre-cataclysm goods.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8304</PointerOffset>
       <JapaneseText>「裏のルートで流れてきたんで、
 　今日のバザーに出そうと思ったんだが…
 　特別に売ってやるよ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I got it from a back channel and figured I'd put it out for sale in the bazaar...I'll give you a special price.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8336</PointerOffset>
       <JapaneseText>「それ…幾らなの？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So...how much?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8368</PointerOffset>
       <JapaneseText>「ブルーストーンなら２００、
 　金なら２００００だ。
 　これでも随分と負けてるんだぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>200 Bluestones or 20000 cash.  This is with the discount thrown in.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8400</PointerOffset>
       <JapaneseText>「じゃあ…買っちゃおうかな…。
 　カメラ、欲しかったし…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm...maybe I should buy it...I did want a camera...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8432</PointerOffset>
       <JapaneseText>「ちょっと待ったぁ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold it right there!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8496</PointerOffset>
       <JapaneseText>「ダーリン！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Darling!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8528</PointerOffset>
       <JapaneseText>「ったく、お前はよ…
 　せっかく稼いだ金を無駄使いする気か？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey you...are you trying to waste all the money we earned?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8560</PointerOffset>
       <JapaneseText>「無駄使いじゃないわよ！
 　思い出ノートに写真があった方が
 　わかりやすいじゃない！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not wasting it!  Don't you think it'd be nice to have pictures to go with our diaries!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8592</PointerOffset>
       <JapaneseText>「…姉ちゃん…こちら、どなた？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Missy...who's this?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8624</PointerOffset>
       <JapaneseText>「ごめんなさい。
 　うちの主人です」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sorry.  This is my husband.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8656</PointerOffset>
       <JapaneseText>「誰が主人だっ！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who are you calling husband!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8688</PointerOffset>
       <JapaneseText>「俺は$F。
 　さすらいの修理屋、ビーター・サービスの
 　サブリーダー…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am $F. The sub-leader of Beater Service, the wandering repairmen</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8720</PointerOffset>
       <JapaneseText>「人呼んで、ザ・ヒートってのは
 　俺の事だ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>People call me The Heat</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8752</PointerOffset>
       <JapaneseText>「ビーター・サービス…！？
 　じゃあ、あんたが噂のザ・クラ…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beater Service...!?  Then, you're the rumored The Cra...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8784</PointerOffset>
       <JapaneseText>「あぁん？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huuuh?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8816</PointerOffset>
       <JapaneseText>「い、いえ！　何でもありません！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N, no!  Nothing!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8848</PointerOffset>
       <JapaneseText>「とりあえず、見せてみろよ。
 　その掘り出し物のカメラって奴を」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyway, let me take a look.  This so called excavated camera.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8880</PointerOffset>
       <JapaneseText>「こいつは正真正銘のお宝ですって。
 　あっしも保証します！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is a true treasure.  I guarantee it!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8912</PointerOffset>
       <JapaneseText>「フン…メールは誤魔化せても
 　この俺は騙せねえな。
 　こいつは真っ赤なニセモノだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmmph - even if you can fool Mer you can't fool me.  This is a complete fake!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8944</PointerOffset>
       <JapaneseText>「え！　そんな！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What!  No way!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8976</PointerOffset>
       <JapaneseText>「何がシベ鉄のお墨付きだ！
 　スペルが『ＳＩＢＥＲＩＡ』に
 　なってるだろうが！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean Siberian Railroad markings!?  This is spelled SIBERIA!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9008</PointerOffset>
       <JapaneseText>「シベリアは『ＣＩＶＥＬＩＡ』だ！
 　ガソリンで顔洗って、出直して来い！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Siberia is spelled "Civelia"!  Go wash your face with gasoline and wake up!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9040</PointerOffset>
       <JapaneseText>「ちょ、ちょっと！　ダンナ！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H, hey! Sir!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9072</PointerOffset>
       <JapaneseText>「ボヤボヤしてると、俺のスパナが
 　火を噴くぞ、この野郎っ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My spanner's gonna breathe fire if you linger, you cheat!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9104</PointerOffset>
       <JapaneseText>「ひ、ひえぇぇぇぇぇっ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hi, hieeeeeeee!!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9200</PointerOffset>
       <JapaneseText>「フ…チンピラ詐欺師め、
 　俺にビビって、カメラを忘れていきやがったか」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmmph...that low life swindler.  He was so scared he left the camera here.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9232</PointerOffset>
       <JapaneseText>「メール、そんなガラクタは
 　とっとと捨てちまえ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mel, why don't you go ahead and throw this junk out.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9264</PointerOffset>
       <JapaneseText>「ダーリン…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Darling...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9296</PointerOffset>
       <JapaneseText>「何だ？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9328</PointerOffset>
       <JapaneseText>「シベリアのスペルは『ＳＩＢＥＲＩＡ』で
 　合ってるよ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Siberia is spelled "Siberia"</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9360</PointerOffset>
       <JapaneseText>「うぞ…！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No way!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9392</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>......</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9424</PointerOffset>
       <JapaneseText>「…それよりもだ！
 　俺も掘り出し物を見つけたぜ！
 　来いよ、メール！　こっちだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...anyway!  I also found excavated goods!  Come Mel, this way!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9520</PointerOffset>
       <JapaneseText>「まったく…何でも力押しなんだから…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sheesh...you're so forceful in everything...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9552</PointerOffset>
       <JapaneseText>「ごめんなさい、ブレーカーさん…。
 　今度、お会いしたらお代は払いますので
 　このカメラ、使わせてもらいます」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sorry Mr. Breaker...I'll pay you the next time I see you so hope you don't me using this camera.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9648</PointerOffset>
       <JapaneseText>バザー会場</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Marketplace</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9680</PointerOffset>
       <JapaneseText>バザー会場</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Marketplace</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9712</PointerOffset>
       <JapaneseText>バザー会場</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Marketplace</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9872</PointerOffset>
       <JapaneseText>　　　　　　　〜ゾラ　バザー会場〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>- Zora Bazaar Marketplace - </EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9936</PointerOffset>
       <JapaneseText>「さあさあ、お立会いの皆さん！
 　いよいよ、本邦初公開！
 　このバザーの目玉を発表するよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come come, welcome around! It's finally time to announce the debut!
+I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9968</PointerOffset>
       <JapaneseText>「小僧…その目玉ってのは、
 　お前の後ろでシートをかぶってる奴か？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey kid...by centerpiece you mean the thing behind you covered in sheets?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10000</PointerOffset>
       <JapaneseText>「その通り！
 　御目が高いね、オッサン！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Exactly!  You have good guys, old man!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10032</PointerOffset>
       <JapaneseText>「オ、オッサンだと…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>O, old man...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10064</PointerOffset>
       <JapaneseText>「シルエットマシンにしちゃデカいな…。
 　ウォーカーマシンか、モビルスーツって
 　ところか…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a bit too big to be a silhouette machine... It's either a walker machine or a mobile suit...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10096</PointerOffset>
       <JapaneseText>「どうせ、アメリア大陸から
 　一山当てようと、ボロモビルスーツを
 　持ち込んだんだろうぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He probably brought some junk mobile suit he found in Ameria</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10128</PointerOffset>
       <JapaneseText>「《イノセント》が消えちまったせいか、
 　この手の胡散臭い商売をする奴も
 　随分、増えたもんだな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>With the "Innocents" gone there's been quite a few swindlers out and bout recently.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10160</PointerOffset>
       <JapaneseText>「さっすが、海千山千のブレーカーの皆さん！
 　いい線、いってる！
 　確かに俺はアメリアの出だ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As expected from seasoned Breakers!  You have good eyes!  Indeed, I am from Ameria!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10192</PointerOffset>
       <JapaneseText>「だが、こいつはそこらのオンボロとは
 　一味も二味も違うぜ！
 　じゃあ、お披露目だ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, this is not some random garbage you see out and about!  It's time to make its debut!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10256</PointerOffset>
       <JapaneseText>「こ、こいつはまさか！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W, wait isn't that!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10288</PointerOffset>
       <JapaneseText>「ガンダム、売るよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am selling a Gundam!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10320</PointerOffset>
       <JapaneseText>「ガ、ガンダムって言やあ、
 　アメリアのモビルスーツの中じゃ
 　最高クラスの奴じゃねえか！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>G, Gundam.  You mean the top of the line mobile suit from Ameria!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10352</PointerOffset>
       <JapaneseText>「お、俺も噂で聞いた事がある！
 　ガンダムは３分で１２機のモビルスーツを
 　叩き落とすんだろ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I, I've heard of rumors of this!  I hear a Gundam can take out 12 mobile suits in just 3 minutes!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10384</PointerOffset>
       <JapaneseText>「ミサイルも一刀両断らしいぜ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It can also cut missles in half!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10416</PointerOffset>
       <JapaneseText>「俺の聞いた話じゃ、
 　たった一機でデカい戦争を止めたそうだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>From what I hear, a single unit can stop an entire war!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10448</PointerOffset>
       <JapaneseText>「いやいや！　ガンダムは悪魔のマシンで、
 　奴が通った後は草木一本、
 　生えないらしいぞ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No no!  Gundams are actually a machine of the devil - sucking all life from the land making the the areas it pass by completely barren!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10480</PointerOffset>
       <JapaneseText>「１５年前に南の空に降り注いだ
 　火の柱もガンダムの仕業だって聞いたぞ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hear that fire tower from the sky from the South 15 years ago is also the doings of a Gundam.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10512</PointerOffset>
       <JapaneseText>「そう！
 　そのまさかのガンダムが、あんた達の
 　目の前にあるんだ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes!  That Gundam is now right in front of you!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10544</PointerOffset>
       <JapaneseText>「小僧！　お前はどうやって、
 　このガンダムを手に入れたんだ！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey kid!  How in the world did you get a hold of a Gundam!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10576</PointerOffset>
       <JapaneseText>「そこらは聞くも涙、語るも涙の物語…。
 　って、まあ話すと長くなるんで、
 　そいつは後！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There is a long and tearful story behind that...but who cares about a sob story, let's talk about that later!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10608</PointerOffset>
       <JapaneseText>「俺も時間がないんだ！
 　さっさとセリに入るぜ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't have time!  Come come, let's talk numbers!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10640</PointerOffset>
       <JapaneseText>「ブルーストーンで２０００！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Blue Stone 2000!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10672</PointerOffset>
       <JapaneseText>「冗談はよしてくれよ！
 　天下のガンダムが、たった２０００かよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Give me a break!  The almighty Gundam, selling for just 2000!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10704</PointerOffset>
       <JapaneseText>「金で３０００００！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>300000 Gold!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10736</PointerOffset>
       <JapaneseText>「金で３２００００…いや、３３００００！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>320000 Gold...no, 330000!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10768</PointerOffset>
       <JapaneseText>「金で４０００００だ！
 　ブルーストーンなら４２００出す！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>400000 Gold!  If you want it in Blue Stones I'll pay 4200!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10800</PointerOffset>
       <JapaneseText>「こっちも生活がかかってんだ！
 　冷やかしなら、帰んな！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm trying to make a living here!  Go home if you're not serious!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10832</PointerOffset>
       <JapaneseText>「金なら６０００００！
 　それ以下じゃ売る気はないぜ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>600000 Gold!  I have no intention of selling any lower than that!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10864</PointerOffset>
       <JapaneseText>「ぬうう…小僧…！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nnnggg...this kid...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10896</PointerOffset>
       <JapaneseText>「どうします、ゲラバさん？
 　こいつを持ち帰れば、ホーラの兄貴も
 　大喜びだと思いますが…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What shall we do Geraba?  If we're able to take this back, Boss Holler's gonna be quite pleased...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10928</PointerOffset>
       <JapaneseText>「わかってる…！
 　こうなりゃ、やるしかねえな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know...!  Guess we gotta do what's gotta be done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10960</PointerOffset>
       <JapaneseText>「へへ…わかりやした。
 　じゃあ、地元の仲間を集めてきやす」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehe...Understood.  In that case I'll gather the local gang.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11024</PointerOffset>
       <JapaneseText>「さあ、他にいないのかい！
 　天下のガンダムが６０００００！
 　お買い得だよ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come on, isn't there anyone else!  The amazing Gundam on sale for 600000!  It's a steal!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11056</PointerOffset>
       <JapaneseText>「小僧、ちょいと見せてもらうぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey Kid, let me take a look.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11088</PointerOffset>
       <JapaneseText>「な、何だよ、あんた！
 　勝手にＧＸに触んな！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H, hey, who are you!  Don't go touching my GX!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11120</PointerOffset>
       <JapaneseText>「…確かに、いい機体だ。
 　だが、こいつ…ロクなメンテを
 　受けてないな？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...this is certainly a good machine.  However, this...has not been maintained properly at all, huh?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11152</PointerOffset>
       <JapaneseText>「…あんた、本職か？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...are you a pro?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11184</PointerOffset>
       <JapaneseText>「まあな…。
 　というわけで、こいつは俺が
 　５００で買ってやる」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Something like that...anyway, I'll take it off your hands for 500.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11216</PointerOffset>
       <JapaneseText>「んだ、そりゃ！？
 　最低で６０００００だって
 　言ったろうが！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Say what!? I told you that 600000 is the minimum!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11248</PointerOffset>
       <JapaneseText>「その代わり…こいつをきちんと仕上げて、
 　ついでにお前を雇ってやる。
 　どうせ、行く当ても仲間も無いんだろ？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But in return...I'll do a proper fix on it and even hire you and keep you around.  I bet you don't have any friends or a place to go anyway, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11280</PointerOffset>
       <JapaneseText>「え…？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wha...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11312</PointerOffset>
       <JapaneseText>「知ってるぜ。
 　お前…『跳ばされて』きたんだろ？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know your situation.  You...got 'thrown over' here, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11344</PointerOffset>
       <JapaneseText>「オッサン…何者だ？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Old man...who are you?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11376</PointerOffset>
       <JapaneseText>「オッサンじゃねえ。
 　俺は$F、
 　人、呼んで…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't call me old man.  I'm $F, people call me...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11504</PointerOffset>
       <JapaneseText>「な、何だぁ！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>S, say what!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11536</PointerOffset>
       <JapaneseText>「大変よ、ダーリン！
 　ブレーカーがウォーカーマシンを出して
 　襲ってきたわ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh no Darling!  The breakers gave gotten out their walker machines and have started attacking!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11568</PointerOffset>
       <JapaneseText>「お目当ては、そのガンダムみたい！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like they're after this Gundam!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11600</PointerOffset>
       <JapaneseText>「くそっ！　人のガンダムを
 　ただでくれてやるかよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damn it!  Like I'd just give away my Gundam for free!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11632</PointerOffset>
       <JapaneseText>「待ちな、腹ペコ小僧。
 　お前…この二、三日、飯もロクに
 　食ってないんだろ？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold up, starvin' marvin'.  I bet...you haven't been eating at all the past 2-3 days, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11664</PointerOffset>
       <JapaneseText>「あ、ああ…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y, yeah...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11696</PointerOffset>
       <JapaneseText>「こうして知り合ったのも何かの縁だ。
 　ここはオッサン…じゃなくて
 　この俺、$nこと…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This must be fate.  Just leave it to this old man...I mean, to me, $n..."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11728</PointerOffset>
       <JapaneseText>「さすらいの修理屋、ザ・ヒートに
 　任せときな！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...also known as the wandering repairman, "The Heat!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -2052,576 +2057,576 @@
     <Entry>
       <PointerOffset>11888</PointerOffset>
       <JapaneseText>バザーの町</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Town</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11920</PointerOffset>
       <JapaneseText>バザーの町</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Town</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11952</PointerOffset>
       <JapaneseText>バザーの町</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bazaar Town</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12080</PointerOffset>
       <JapaneseText>「バザーを守ってくれて
 　ありがとうございました！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you for saving the bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12112</PointerOffset>
       <JapaneseText>「礼を言われる程の事じゃない。
 　これから飯を食う場所を荒らされちゃ、
 　俺としても困ったんでね」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No need to thank me.  I'll be the one in trouble if the place I'm eating and staying gets all messed up.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12144</PointerOffset>
       <JapaneseText>「言うねえ、大将。
 　クールだぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nice words, captain.  Very cool.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12176</PointerOffset>
       <JapaneseText>「俺は$F、
 　さすらいの修理屋、ビーター・サービスの
 　サブリーダー…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm $F, the sub-leader of the wandering repairmen, Beater Service.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12208</PointerOffset>
       <JapaneseText>「通称、ザ・ヒートだ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nick name, The Heat.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12240</PointerOffset>
       <JapaneseText>（うお…暑苦しい…！）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>(whooa...so corny...!)</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12272</PointerOffset>
       <JapaneseText>（ザ・ヒート…名は体を表す…ね）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Heat...they say the name fits a person...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12304</PointerOffset>
       <JapaneseText>「あたしはメール・ビーター。
 　ビーター・サービスのリーダー代行…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Mel Beater.  I'll Beater Service leader's representative...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12336</PointerOffset>
       <JapaneseText>「ついでにダーリンのハニーです」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>as well as being darlin's honey.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12368</PointerOffset>
       <JapaneseText>「へえへえ…もう否定するのも疲れた。
 　あんたらもガキの冗談って事で
 　聞き流してくれ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my...I'm tired of denying it all the time.  Just chalk it up to a kid's wild fantasies and ignore what she says.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12400</PointerOffset>
       <JapaneseText>「了解だ。
 　…素敵な奥方をお持ちなようで
 　羨ましい事だ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Understood....You're a lucky man to have such a wonderful wife.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12432</PointerOffset>
       <JapaneseText>「ま…お上手！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh...such a way with words!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12464</PointerOffset>
       <JapaneseText>「…やれやれだぜ…ったく…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...oh my....jeez...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12496</PointerOffset>
       <JapaneseText>「意外に苦労してるみたいだな、
 　あんたって」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You have your own set of troubles, don't cha.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12528</PointerOffset>
       <JapaneseText>「冗談はさておき…
 　ああいった連中、ここらは多いのか？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leaving jokes aside...are there a lot of guys like them over here?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12560</PointerOffset>
       <JapaneseText>「まあな。
 　イノセントに雇われていた連中は
 　軒並み失業して、野盗になっちまったからな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah.  All the guys who were hired by Innocents lost their jobs and have gone feral.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12592</PointerOffset>
       <JapaneseText>「シベ鉄の管轄外は、どこも同じようだな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like everywhere's the same outside of what's under the watch of the Siberian Railroad.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12624</PointerOffset>
       <JapaneseText>「しかし、さすがの腕前だな、黒いサザンクロス。
 　噂以上だったぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Still, those were some nice moves, Black Southern Cross.  You're  even better than rumored.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12656</PointerOffset>
       <JapaneseText>「黒いサザンクロス？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Black Southern Cross?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12688</PointerOffset>
       <JapaneseText>「こっちのダンナの通り名だよ。
 　お前もウォーカーマシンに叩き込まれた
 　弾丸の跡を見ただろ？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's this guy's nick name.  You've seen the trace marks of the bullet that shot through the walker machine, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12720</PointerOffset>
       <JapaneseText>「なるほど！
 　十字でサザンクロスか！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see!  The cross mark is the southern cross!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12752</PointerOffset>
       <JapaneseText>「俺もそこそこは名が知られてるようだな。
 　…ゲイン・ビジョウだ。
 　ま…これも縁って事で、よろしくな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like I'm fairly well known around these parts myself....the name's Gain Bijou. Well...guess this is fated to be.  Nice to meet ya.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12784</PointerOffset>
       <JapaneseText>「で、有名人のあんたが、何の用だい？
 　まさか、ここらで《エクソダス》か？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, what's a famous guy like you doing here.  Wait, are you doing a &lt;Exodus&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12816</PointerOffset>
       <JapaneseText>「《エクソダス》？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Exodus&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12848</PointerOffset>
       <JapaneseText>「エクソダスを知らない…
 　ついでにガンダム乗り…。
 　って事は、お前…アメリア大陸の出か？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You don't know of exodus...and a Gundam pilot... Wait, are you...from the Ameria continent?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12880</PointerOffset>
       <JapaneseText>「まあな…。
 　と言っても、アメリアの南の方…
 　荒野の辺りの生まれだ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Something like that...to be clear I'm from the southern side of Ameria...the wilder parts.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12912</PointerOffset>
       <JapaneseText>「そうだ、ガロード！
 　あなたがこっちの大陸へ来た事情、
 　話してもらうわよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That reminds me, Garrod!  You need to tell us how you came over to this continent!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12944</PointerOffset>
       <JapaneseText>「事情って言っても…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if you ask why...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12976</PointerOffset>
       <JapaneseText>「そのためにご飯、おごってあげたんだから！
 　早く話しなさい！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's why I fed you out of my pocket!  Now, tell me!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13008</PointerOffset>
       <JapaneseText>「わ、わかった！
 　わかったから、落ち着けって！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>F, fine! I'll tell you so calm down!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13040</PointerOffset>
       <JapaneseText>「…言っておくがよ…
 　今から話す事は、俺が見たまんまだ。
 　信じられないって言っても知らないぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...let me first start...that I'm just sharing what I saw.  I don't care if you say that you don't believe me.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13072</PointerOffset>
       <JapaneseText>「ああ…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sure..</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13104</PointerOffset>
       <JapaneseText>「俺はその日、アメリア大陸の荒野で
 　ＧＸに乗って戦闘していた…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On that day I was on the wild plains of Ameria fighting on the GX...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13136</PointerOffset>
       <JapaneseText>「その時、妙な耳鳴りみたいなものがして…
 　目の前の世界がねじれ始めたんだ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Suddenly, there was a weird screeching sound by my ear...and the world around me felt like it was twisting around.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13168</PointerOffset>
       <JapaneseText>「世界がねじれた？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The world was twisting?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13200</PointerOffset>
       <JapaneseText>「俺だって、よくわからねえよ…。
 　だけど、俺はどうやら、それに巻き込まれて
 　ここに跳ばされちまったみたいなんだ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't quite understand it myself...but I somehow got caught up in that and got thrown over here.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13232</PointerOffset>
       <JapaneseText>「ダーリン…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Darling...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13264</PointerOffset>
       <JapaneseText>「…ガロード、お前が巻き込まれた
 　ねじれみたいなもんだが、他にそんな話を
 　聞いた事はないか？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Garrod, the thing that you said you got sucked into - have you heard of anyone else talking about experiencing the same thing?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13296</PointerOffset>
       <JapaneseText>「いや…見た事も聞いた事もない」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No...I haven't seen it again or heard from anyone.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13328</PointerOffset>
       <JapaneseText>「そうか…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13360</PointerOffset>
       <JapaneseText>「で、俺は何とか
 　ここがガリア大陸だって突き止めたんで、
 　アメリアに帰ろうと思ったんだけど…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyway, I somehow found myself on the continent of Gaia so was trying to figure out a good way to get back..</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13392</PointerOffset>
       <JapaneseText>「金も無く、行き倒れ寸前までいったんで…
 　ガンダムを売ろうと考えたのか？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And since you had no money or a place to go...you decided to sell the Gundam?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13424</PointerOffset>
       <JapaneseText>「それしか方法がなかったからな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That was the only option I had.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13456</PointerOffset>
       <JapaneseText>「丁度いい…。
 　俺の見込んだ通りだ、少年」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is good timing...you're exactly the type of guy I've been looking for, kid.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13488</PointerOffset>
       <JapaneseText>「え…？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13520</PointerOffset>
       <JapaneseText>「ガロードって言ったな。
 　アメリアの近くまで俺が案内してやるぜ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You said your name is Garrod?  I'll take you up to Ameria.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13552</PointerOffset>
       <JapaneseText>「ホ、ホントかよ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>R, really!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13584</PointerOffset>
       <JapaneseText>「俺は嘘はつかんよ。
 　無論、まったくの御奉仕というわけには
 　いかないがな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I do not tell lies.  Of course, I'm not going to do this entirely for free.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13616</PointerOffset>
       <JapaneseText>「やる！　何でもやる！
 　帰れるんなら、俺、何でもやるぜ！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll do it!  I'll do anything!  I'll do anything to get back!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13648</PointerOffset>
       <JapaneseText>「ＯＫだ。
 　これで契約は成立だな」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>OK.  In that case we have a deal.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13680</PointerOffset>
       <JapaneseText>「おいおい…何にも知らない子供相手に
 　請け負いか？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey hey...what are you doing pressuring a clueless kid?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13712</PointerOffset>
       <JapaneseText>「そうじゃないさ。
 　ちょいと今度の仕事はデカくなりそうなんでね。
 　頼れる助っ人を探していたんだ」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not it.  I'm working a big job right now and I need some guys that I can trust.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13744</PointerOffset>
       <JapaneseText>「$n、ついでと言っては何だが、
 　俺の仕事を手伝ってくれないか？
 　お前の修理屋の腕が欲しい」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>$n, how about you also get in on my job?  I want your skills as a repairman.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13776</PointerOffset>
       <JapaneseText>「黒いサザンクロスの手伝いって事は…！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You want us to help the Black Southern Cross...!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13808</PointerOffset>
       <JapaneseText>「エクソダスの請け負いか…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To help undertake an Exodus I bet...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </ScenarioText>
