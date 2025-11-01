@@ -241,7 +241,9 @@ LAB_00139BE8_Improved:
 	nop
 	
 	;Path Shift-Jis (so that we add 2 bytes on a0)
-	addiu	$a0, $a0, 0x1
+	addiu	$a0, $a0, 0x2
+	j 		0x139C04
+	nop
 	
 	rs2_isAscii:
 	
@@ -287,7 +289,7 @@ LAB_00390290:
 ;a1: param used for text address but we can reuse it 
 LAB_Adjust_PB:
 	lh		$v1, 0xa0($s4)
-	addiu 	$v1, $v1, -0x3
+	addiu 	$v1, $v1, -0x5
 	sh     	$v1, 0xa0($s4)
 	jal 	0x1A0980
 	nop 
@@ -324,6 +326,11 @@ LAB_Adjust_PB:
 	nop
 	nop
 	nop
+	
+; Draw Weapon Alternate - Adjust PB icon symbol
+.org 0x390460
+	jal		LAB_Adjust_PB
+	
     
 	
 	

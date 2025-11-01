@@ -1,6 +1,7 @@
 .relativeinclude on
 .include "slps_ascii.asm"
 .include "menu_tactical.asm"
+.include "menu_operation.asm"
 .include "menu_map.asm"
 .include "menu_agil.asm"
 .include "menu_weapons_info.asm"
