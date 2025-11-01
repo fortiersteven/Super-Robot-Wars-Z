@@ -206,7 +206,7 @@
       <EnglishText>Unit Info</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3342452</PointerOffset>
@@ -214,7 +214,7 @@
       <EnglishText>Pilot Info</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3342456</PointerOffset>
@@ -222,7 +222,7 @@
       <EnglishText>Mech Info</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3342460</PointerOffset>
@@ -230,7 +230,7 @@
       <EnglishText>Weapon Info</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -2676,10 +2676,10 @@
         <lo>3507968,3508812,3523264,3525964,3651508,3657444,3713912,3715516,3715800,3719012,3719140,3725292,3741960,3736380,3736480,2838304,2838356,2838416,2838468,2847824,2847856,2847984,2848016</lo>
       </EmbedOffset>
       <JapaneseText>／</JapaneseText>
-      <EnglishText/>
+      <EnglishText>/</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4502,10 +4502,10 @@
         <lo>3735952</lo>
       </EmbedOffset>
       <JapaneseText>ＭＡＰ兵器（　　　）</JapaneseText>
-      <EnglishText>MAP Weapon (          )         </EnglishText>
+      <EnglishText>MAP Attack (       )</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4514,10 +4514,10 @@
         <lo>3736016</lo>
       </EmbedOffset>
       <JapaneseText>トライチャージ兵器（　　　）</JapaneseText>
-      <EnglishText>Tri-Charge Weapon (          )        </EnglishText>
+      <EnglishText>Tri-Charge Attack (       )</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4526,10 +4526,10 @@
         <lo>3736076</lo>
       </EmbedOffset>
       <JapaneseText>全体攻撃武器（　　　）</JapaneseText>
-      <EnglishText>All Attack Weapon (          )        </EnglishText>
+      <EnglishText>All Attack (       )</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4538,10 +4538,10 @@
         <lo>3736132</lo>
       </EmbedOffset>
       <JapaneseText>ＰＬＡ攻撃武器（　　　）</JapaneseText>
-      <EnglishText>PLA Attack Weapon (          )        </EnglishText>
+      <EnglishText>PLA Attack (       )</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4550,10 +4550,10 @@
         <lo>3736308</lo>
       </EmbedOffset>
       <JapaneseText>特殊攻撃武器</JapaneseText>
-      <EnglishText>Special Weapon</EnglishText>
+      <EnglishText>Special Attack</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4565,7 +4565,7 @@
       <EnglishText>Usable after movement</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4577,7 +4577,7 @@
       <EnglishText>Beam Weapon</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4586,10 +4586,10 @@
         <lo>3736652</lo>
       </EmbedOffset>
       <JapaneseText>（　）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>（　）</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4598,10 +4598,10 @@
         <lo>3736676</lo>
       </EmbedOffset>
       <JapaneseText>（　　）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>（　　）</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4745,7 +4745,7 @@
       <EnglishText>Category</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4757,7 +4757,7 @@
       <EnglishText>Name</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
