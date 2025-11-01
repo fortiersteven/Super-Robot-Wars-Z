@@ -6,7 +6,7 @@
       <JapaneseText>ここまでのゲームデータをセーブします。</JapaneseText>
       <EnglishText>Your game data will be saved up to this point</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -14,7 +14,7 @@
       <JapaneseText>よろしいですか？</JapaneseText>
       <EnglishText>Is this okay</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -22,7 +22,7 @@
       <JapaneseText>ゲームデータのセーブを終了しました。</JapaneseText>
       <EnglishText>Saving completed</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -30,7 +30,7 @@
       <JapaneseText>このままゲームを続けますか？</JapaneseText>
       <EnglishText>Do you want to continue playing</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@
       <JapaneseText>上書きします。よろしいですか？</JapaneseText>
       <EnglishText>It will be overwritten, are you sure?</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
   </Strings>
@@ -4432,7 +4432,7 @@
       <JapaneseText>能力</JapaneseText>
       <EnglishText>Ability</EnglishText>
       <Notes/>
-      <Chapter>Abilities</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -4852,7 +4852,7 @@
       <JapaneseText>変形</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4900,7 +4900,7 @@
       <JapaneseText>フォーメーション</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4912,7 +4912,7 @@
       <JapaneseText>精神</JapaneseText>
       <EnglishText>Spirit</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
