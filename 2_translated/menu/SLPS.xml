@@ -1615,18 +1615,18 @@
     <Entry>
       <PointerOffset>3350328</PointerOffset>
       <JapaneseText>無効</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3350332,3350336</PointerOffset>
       <JapaneseText>有効</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3350352</PointerOffset>
@@ -1639,10 +1639,10 @@
     <Entry>
       <PointerOffset>3350356</PointerOffset>
       <JapaneseText>自機中心型</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Centered on Self</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3350360</PointerOffset>
@@ -4790,10 +4790,10 @@
         <lo>3743452</lo>
       </EmbedOffset>
       <JapaneseText>敵味方識別</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enemies Only</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4802,10 +4802,10 @@
         <lo>3743492</lo>
       </EmbedOffset>
       <JapaneseText>形式</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Type</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>

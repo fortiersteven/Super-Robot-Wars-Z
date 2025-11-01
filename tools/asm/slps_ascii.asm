@@ -286,7 +286,7 @@ LAB_00390290:
 ;a1: param used for text address but we can reuse it 
 LAB_Adjust_PB:
 	lh		$v1, 0xa0($s4)
-	addiu 	$v1, $v1, 0x10
+	addiu 	$v1, $v1, -0x3
 	sh     	$v1, 0xa0($s4)
 	jal 	0x1A0980
 	nop 

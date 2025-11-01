@@ -41,6 +41,23 @@
 .org 	0x392148
 	addiu 	$s6, $v1, 0xC6
 	
+; MAP strings
+; Move X Coord for Enemies Only
+.org 	0x391ED4
+	addiu 	$a2, $s8, 0x128
+	
+; Move X Coord for Type
+.org 	0x391EFC
+	addiu 	$a2, $s8, 0x1B8
+	
+; Move X Coord for Centered on Self
+.org 	0x3921E8
+	addiu 	$a1, $s8, 0x1E4
+	
+; Move X Coord for Yes/No valid
+.org 	0x3921BC
+	addiu 	$a1, $s8, 0x190
+	
 ; Write Close-range
 .org 	0x390078
 	lui        v0,0x736F		;os
