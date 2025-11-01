@@ -282,7 +282,16 @@ LAB_00390290:
 	; Go back to original code
 	j 		0x3902A8
 	
-	
+;ao: param used for texture id
+;a1: param used for text address but we can reuse it 
+LAB_Adjust_PB:
+	lh		$v1, 0xa0($s4)
+	addiu 	$v1, $v1, 0x10
+	sh     	$v1, 0xa0($s4)
+	jal 	0x1A0980
+	nop 
+	j 	 	0x390468
+		
 	
 ; Adjust Read_String2 to go over 0x3F thing
 ; t0 = 0x34
@@ -314,6 +323,11 @@ LAB_00390290:
 	nop
 	nop
 	nop
+	
+; Draw Weapon Alternate - Adjust PB icon symbol
+.org 0x390460
+	jal		LAB_Adjust_PB
+	
     
 	
 	
