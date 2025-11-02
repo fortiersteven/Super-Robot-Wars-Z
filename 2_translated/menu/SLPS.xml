@@ -6,7 +6,7 @@
       <JapaneseText>ここまでのゲームデータをセーブします。</JapaneseText>
       <EnglishText>Your game data will be saved up to this point</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -14,23 +14,23 @@
       <JapaneseText>よろしいですか？</JapaneseText>
       <EnglishText>Is this okay</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332904</PointerOffset>
       <JapaneseText>ゲームデータのセーブを終了しました。</JapaneseText>
-      <EnglishText>Saving completed</EnglishText>
+      <EnglishText>Game Data Save completed</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332908</PointerOffset>
       <JapaneseText>このままゲームを続けますか？</JapaneseText>
-      <EnglishText>Do you want to continue playing</EnglishText>
+      <EnglishText>Do you wish to continue playing?</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -38,7 +38,7 @@
       <JapaneseText>上書きします。よろしいですか？</JapaneseText>
       <EnglishText>It will be overwritten, are you sure?</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
   </Strings>
@@ -2423,7 +2423,7 @@
         <lo>3480004</lo>
       </EmbedOffset>
       <JapaneseText>味方部隊／</JapaneseText>
-      <EnglishText>Allied／</EnglishText>
+      <EnglishText>Ally Squads／</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -2435,7 +2435,7 @@
         <lo>3480084</lo>
       </EmbedOffset>
       <JapaneseText>敵部隊</JapaneseText>
-      <EnglishText>Enemy</EnglishText>
+      <EnglishText>Enemy Squads</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -2447,8 +2447,7 @@
         <lo>3480164</lo>
       </EmbedOffset>
       <JapaneseText>味方部隊</JapaneseText>
-      <EnglishText>Allied
-</EnglishText>
+      <EnglishText>Ally Squads</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -2460,7 +2459,7 @@
         <lo>3480244</lo>
       </EmbedOffset>
       <JapaneseText>／敵部隊</JapaneseText>
-      <EnglishText>／Enemy</EnglishText>
+      <EnglishText>／Enemy Squads</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -4430,9 +4429,9 @@
         <lo>3725764,3477808</lo>
       </EmbedOffset>
       <JapaneseText>能力</JapaneseText>
-      <EnglishText>Ability</EnglishText>
+      <EnglishText>Stats</EnglishText>
       <Notes/>
-      <Chapter>Abilities</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -4850,10 +4849,10 @@
         <lo>3477392,3477444</lo>
       </EmbedOffset>
       <JapaneseText>変形</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Transform</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Command Menu</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4898,10 +4897,10 @@
         <lo>3477640</lo>
       </EmbedOffset>
       <JapaneseText>フォーメーション</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Formation</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Command Menu</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4912,7 +4911,7 @@
       <JapaneseText>精神</JapaneseText>
       <EnglishText>Spirit</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5006,7 +5005,7 @@
         <lo>3482412,3482520</lo>
       </EmbedOffset>
       <JapaneseText>部隊表</JapaneseText>
-      <EnglishText>Team Lists</EnglishText>
+      <EnglishText>Squad List</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -5042,7 +5041,7 @@
         <lo>3482664,3482704</lo>
       </EmbedOffset>
       <JapaneseText>一括フォーメーション</JapaneseText>
-      <EnglishText>Formation</EnglishText>
+      <EnglishText>Batch Formation</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -5054,7 +5053,7 @@
         <lo>3482748</lo>
       </EmbedOffset>
       <JapaneseText>システム</JapaneseText>
-      <EnglishText>Options</EnglishText>
+      <EnglishText>System</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -5066,7 +5065,7 @@
         <lo>3482784</lo>
       </EmbedOffset>
       <JapaneseText>途中セーブ</JapaneseText>
-      <EnglishText>Save</EnglishText>
+      <EnglishText>Pause</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
