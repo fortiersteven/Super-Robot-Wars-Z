@@ -4,7 +4,7 @@
     <Entry>
       <PointerOffset>3332896</PointerOffset>
       <JapaneseText>ここまでのゲームデータをセーブします。</JapaneseText>
-      <EnglishText>Your game data will be saved up to this point</EnglishText>
+      <EnglishText>Your game data will be saved up to this point.</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -12,7 +12,7 @@
     <Entry>
       <PointerOffset>3332900</PointerOffset>
       <JapaneseText>よろしいですか？</JapaneseText>
-      <EnglishText>Is this okay</EnglishText>
+      <EnglishText>Is this okay?</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -2810,7 +2810,7 @@
       <JapaneseText>フェイズを終了します。よろしいですか？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Command Menu</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2820,10 +2820,10 @@
         <lo>3528860</lo>
       </EmbedOffset>
       <JapaneseText>行動終了していない小隊が</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are </EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Command Menu</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2832,10 +2832,10 @@
         <lo>3528908</lo>
       </EmbedOffset>
       <JapaneseText>小隊あります。</JapaneseText>
-      <EnglishText/>
+      <EnglishText> squads that have not completed movement.</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Command Menu</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2844,10 +2844,10 @@
         <lo>3528932</lo>
       </EmbedOffset>
       <JapaneseText>フェイズを終了しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you wish to end the phase?</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Command Menu</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5149,10 +5149,10 @@
         <lo>3507764</lo>
       </EmbedOffset>
       <JapaneseText>いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Command Menu</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5161,10 +5161,10 @@
         <lo>3507756</lo>
       </EmbedOffset>
       <JapaneseText>はい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Command Menu</Chapter>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </MenuText>
