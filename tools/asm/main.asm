@@ -4,7 +4,7 @@
 .include "menu_map.asm"
 .include "menu_agil.asm"
 .include "menu_operation.asm"
-;.include "menu_command.asm"
+.include "menu_command.asm"
 ;.include "menu_agility.asm"
 ;.include "menu_search.asm"
 ;.include "menu_unit_info.asm"
