@@ -1,13 +1,14 @@
 <ScenarioText>
+  <FriendlyName>Loran Int 1.</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
       <JapaneseText>ロラン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Loran </EnglishText>
       <Notes/>
       <Id>1</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -15,20 +16,20 @@
     <Entry>
       <PointerOffset>1424</PointerOffset>
       <JapaneseText>「あれ…」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1456</PointerOffset>
       <JapaneseText>「落ちてくる…！？」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm falling...!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -36,11 +37,11 @@
     <Entry>
       <PointerOffset>1584</PointerOffset>
       <JapaneseText>「うわあぁぁぁぁぁっ！！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whooooooaaaaaaaa!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </ScenarioText>
