@@ -2423,7 +2423,7 @@
         <lo>3480004</lo>
       </EmbedOffset>
       <JapaneseText>味方部隊／</JapaneseText>
-      <EnglishText>Ally Squads／</EnglishText>
+      <EnglishText>Allies／</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -2435,7 +2435,7 @@
         <lo>3480084</lo>
       </EmbedOffset>
       <JapaneseText>敵部隊</JapaneseText>
-      <EnglishText>Enemy Squads</EnglishText>
+      <EnglishText>Enemies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -2447,7 +2447,7 @@
         <lo>3480164</lo>
       </EmbedOffset>
       <JapaneseText>味方部隊</JapaneseText>
-      <EnglishText>Ally Squads</EnglishText>
+      <EnglishText>Allies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -2459,7 +2459,7 @@
         <lo>3480244</lo>
       </EmbedOffset>
       <JapaneseText>／敵部隊</JapaneseText>
-      <EnglishText>／Enemy Squads</EnglishText>
+      <EnglishText>／Enemies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -5005,7 +5005,7 @@
         <lo>3482412,3482520</lo>
       </EmbedOffset>
       <JapaneseText>部隊表</JapaneseText>
-      <EnglishText>Squad List</EnglishText>
+      <EnglishText>Squads</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -5017,7 +5017,7 @@
         <lo>3482580</lo>
       </EmbedOffset>
       <JapaneseText>作戦目的</JapaneseText>
-      <EnglishText>Battle Objective</EnglishText>
+      <EnglishText>Objective</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -5029,7 +5029,7 @@
         <lo>3482616</lo>
       </EmbedOffset>
       <JapaneseText>戦況報告</JapaneseText>
-      <EnglishText>Combat Report</EnglishText>
+      <EnglishText>Report</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -5041,7 +5041,7 @@
         <lo>3482664,3482704</lo>
       </EmbedOffset>
       <JapaneseText>一括フォーメーション</JapaneseText>
-      <EnglishText>Batch Formation</EnglishText>
+      <EnglishText>Formations</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
@@ -5065,7 +5065,7 @@
         <lo>3482784</lo>
       </EmbedOffset>
       <JapaneseText>途中セーブ</JapaneseText>
-      <EnglishText>Pause</EnglishText>
+      <EnglishText>Suspend</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Editing</Status>
