@@ -299,14 +299,29 @@ class SRWZ():
                 #print(f'File index: {i} at offset: {hex(offsets[i])} cannot be decompressed')
 
     def extract_stages_text(self):
-
+        self.paths['story_original'].mkdir(parents=True, exist_ok=True)
+        funct = self.extract_stages_functions()
         for stage_file in (self.paths['extracted_files'] / 'DATA' / 'STAGE').iterdir():
 
             #Only file that are decompressed
             if 'd' in stage_file.stem and stage_file.stem != '0d':
                 st = Stage(stage_file)
                 print(f'File: {stage_file.stem}')
-                st.extract_stage_XML(self.paths['story_xml'] / f'{stage_file.stem.replace('d','').zfill(3)}.xml')
+                st.extract_conditions(funct[int(stage_file.stem.replace('d', ''))])
+                name = f'{stage_file.stem.replace('d','').zfill(3)}.xml'
+                st.extract_stage_XML(original_path=self.paths['story_original'] / name,
+                                     translated_path=self.paths['story_xml'] / name, keep_translations=True)
+
+    def extract_stages_functions(self):
+        start = 0x2FF0B0
+        end = 0x2FF3E7
+        functions = []
+        with FileIO(self.paths['original_files'] / self.main_exe_name) as slps:
+            slps.seek(start)
+
+            while slps.tell() < end:
+                functions.append(slps.read_uint32())
+        return functions
 
     def extract_folder(self, folder:str):
 

@@ -9,6 +9,7 @@ from io import BytesIO
 from pathlib import Path
 from typing import Union
 import lxml.etree as etree
+import re
 import struct
 
 class Stage(FileIO):
@@ -175,7 +176,7 @@ class Stage(FileIO):
 
             self.speaker_id += 1
 
-    def extract_stage_XML(self, xml_path:Path):
+    def extract_stage_XML(self, original_path:Path, translated_path:Path, keep_translations:bool=True):
 
         root = etree.Element("ScenarioText")
         res = self.extract_all_blocks()
@@ -186,6 +187,14 @@ class Stage(FileIO):
         for speaker_text, node in self.speakers.items():
             XML.create_node(speakers_node, speaker_text, node['PointerOffset'], id=node['Id'], speaker_id=-1)
 
+        #Add Conditions
+        for condition_label, value in self.conditions_data.items():
+            strings_node = etree.SubElement(root, 'Strings')
+            etree.SubElement(strings_node, "Section").text = condition_label
+
+            for condition_entry in value:
+                XML.create_node(strings_node, condition_entry['text'], condition_entry['pointer_offset'],
+                                id=-1, speaker_id=-1)
         #Add Sections Nodes
         for node in res:
             strings_node = etree.SubElement(root, 'Strings')
@@ -196,8 +205,133 @@ class Stage(FileIO):
                 XML.create_node(strings_node, text, pointer_offset,
                                 id=-1, speaker_id=speaker_node['Id'])
 
+
         if len(res) > 0:
-            with open(xml_path, "wb") as xmlFile:
+
+            if keep_translations:
+                self.copy_translations(root_original=root,
+                                            translated_path=translated_path)
+
+            with open(original_path, "wb") as xmlFile:
                 xmlFile.write(etree.tostring(root, encoding="UTF-8", pretty_print=True))
+
+
+
+    def find_conditions_pointers(self, func_offset:int):
+
+        patterns = {'b05222ac':'_Victory Conditions', 'b85222ac':'_Defeat Condtions', 'c05222ac':'SR Conditions'}
+        print(hex(func_offset))
+        start = func_offset - self.base_address
+        data = self.read_at(start, 200)
+        res = {}
+        for pattern, condition in patterns.items():
+            pattern = re.compile(bytes.fromhex(pattern))
+            curpos = 0
+
+            pos = 0
+
+            while True:
+                m = pattern.search(data[curpos:])  # search next occurence
+                if m is None: break  # no more could be found: exit loop
+
+                pos = curpos + m.start() + start
+                curpos += m.end()
+
+                #conditions lo/hi
+                self.seek(pos - 3*4)
+                lo = self.tell()
+                print(f'LO: {hex(lo + self.base_address)}')
+
+                lo_value = self.read_uint16()
+                self.read(2)
+
+                hi_value = self.read_int16()
+                table = (lo_value << 16) + hi_value
+                print(f'{condition}: {hex(table)}')
+                res[condition] = table
+
+        return res
+
+    def extract_conditions(self, func_offset:int):
+
+        conditions = {}
+        res = self.find_conditions_pointers(func_offset)
+
+        for condition_label, base_pointer_offset in res.items():
+            self.seek(base_pointer_offset - self.base_address)
+            conditions[condition_label] = []
+            pointer_offset = self.tell()
+
+            for i in range(2):
+
+                self.seek(pointer_offset)
+                value = self.read_uint32()
+
+                if value > 0:
+                    offset = value - self.base_address
+                    text, bytes_value = bytes_to_text(self, offset)
+                    conditions[condition_label].append({"pointer_offset": pointer_offset, "text": text})
+                    pointer_offset = pointer_offset + 4
+
+        self.conditions_data = conditions
+
+
+    def copy_translations(self, root_original, translated_path: Path):
+
+        if translated_path.exists():
+
+            original_entries = {entry_node.find('JapaneseText').text: (section.find('Section').text,) +
+                                                                       self.parse_entry(entry_node) for section in
+                                root_original.findall('Strings') for entry_node in section.findall('Entry')}
+
+            tree = etree.parse(translated_path)
+            root_translated = tree.getroot()
+            translated_entries = {entry_node.find('JapaneseText').text:
+                                      self.parse_entry(entry_node) for section in
+                                  root_translated.xpath(".//Strings | .//Speakers") for entry_node in section.findall('Entry')}
+
+
+            for entry_node in root_original.iter('Entry'):
+
+                jap_text = entry_node.find('JapaneseText').text
+
+                if jap_text in translated_entries:
+
+                    translated = translated_entries[jap_text]
+
+                    if translated[2] is not None:
+                        entry_node.find('EnglishText').text = translated[1]
+                        entry_node.find('Status').text = translated[3]
+                        entry_node.find('Notes').text = translated[4]
+
+                        node = entry_node.find('Chapter')
+                        if node is not None:
+                            entry_node.find('Chapter').text = translated[5] or 'Uncategorized'
+                        else:
+                            etree.SubElement(entry_node, "Chapter").text = translated[6] or 'Uncategorized'
+
+            friendly_node = root_translated.find('FriendlyName')
+            if friendly_node is not None:
+                friendly = etree.Element("FriendlyName")
+                friendly.text = friendly_node.text
+                root_original.insert(0, friendly)
+
+
+    def parse_entry(self, xml_node):
+
+        jap_text = xml_node.find('JapaneseText').text
+        eng_text = xml_node.find('EnglishText').text
+        status = xml_node.find('Status').text
+        notes = xml_node.find('Notes').text
+        chapter_node = xml_node.find('Chapter')
+        chapter = ''
+
+        if chapter_node is not None:
+            chapter = chapter_node.text
+
+        final_text = eng_text or jap_text or ''
+        return jap_text, eng_text, final_text, status, notes, chapter
+
+
 
 
