@@ -51,6 +51,63 @@
     </Entry>
   </Speakers>
   <Strings>
+    <Section>_Victory Conditions</Section>
+    <Entry>
+      <PointerOffset>21632</PointerOffset>
+      <JapaneseText>ランドを指定ポイントへ移動させる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21636</PointerOffset>
+      <JapaneseText>敵の全滅</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_Defeat Condtions</Section>
+    <Entry>
+      <PointerOffset>21640</PointerOffset>
+      <JapaneseText>なし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21644</PointerOffset>
+      <JapaneseText>味方の全滅</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_SR Conditions</Section>
+    <Entry>
+      <PointerOffset>21648</PointerOffset>
+      <JapaneseText>なし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21652</PointerOffset>
+      <JapaneseText>１回の移動で勝利条件を達成する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
     <Section>Section 1.1</Section>
     <Entry>
       <PointerOffset>4272</PointerOffset>

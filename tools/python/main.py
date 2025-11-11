@@ -140,6 +140,9 @@ if __name__ == "__main__":
         elif args.file_type == "Menu":
             robotwars.extract_all_menus()
 
+        elif args.file_type == "Menu":
+            robotwars.extract_all_menus()
+
         elif args.file_type == "All":
             robotwars.extract_all_menus()
             robotwars.extract_stages_text()

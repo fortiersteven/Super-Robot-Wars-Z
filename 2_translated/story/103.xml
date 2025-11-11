@@ -587,6 +587,47 @@
     </Entry>
   </Speakers>
   <Strings>
+    <Section>_Victory Conditions</Section>
+    <Entry>
+      <PointerOffset>29408</PointerOffset>
+      <JapaneseText>エマーン艦の撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29412</PointerOffset>
+      <JapaneseText>イシュキック・コマンダーⅡ（ロベルト）の撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_Defeat Condtions</Section>
+    <Entry>
+      <PointerOffset>29416</PointerOffset>
+      <JapaneseText>味方戦艦の撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_SR Conditions</Section>
+    <Entry>
+      <PointerOffset>29424</PointerOffset>
+      <JapaneseText>５ターン以内にマップをクリアする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
     <Section>Section 1.1</Section>
     <Entry>
       <PointerOffset>7936</PointerOffset>

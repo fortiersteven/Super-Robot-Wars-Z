@@ -219,7 +219,7 @@ class Stage(FileIO):
 
     def find_conditions_pointers(self, func_offset:int):
 
-        patterns = {'b05222ac':'_Victory Conditions', 'b85222ac':'_Defeat Condtions', 'c05222ac':'SR Conditions'}
+        patterns = {'b05222ac':'_Victory Conditions', 'b85222ac':'_Defeat Condtions', 'c05222ac':'_SR Conditions'}
         print(hex(func_offset))
         start = func_offset - self.base_address
         data = self.read_at(start, 200)

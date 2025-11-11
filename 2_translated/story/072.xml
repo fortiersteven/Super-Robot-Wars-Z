@@ -515,6 +515,47 @@
     </Entry>
   </Speakers>
   <Strings>
+    <Section>_Victory Conditions</Section>
+    <Entry>
+      <PointerOffset>27680</PointerOffset>
+      <JapaneseText>ガルダ級のＨＰを２０００以下にする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_Defeat Condtions</Section>
+    <Entry>
+      <PointerOffset>27688</PointerOffset>
+      <JapaneseText>味方戦艦の撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27692</PointerOffset>
+      <JapaneseText>ガルダ級の撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_SR Conditions</Section>
+    <Entry>
+      <PointerOffset>27696</PointerOffset>
+      <JapaneseText>６ターン以内に勝利条件を達成する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
     <Section>Section 1.1</Section>
     <Entry>
       <PointerOffset>8608</PointerOffset>

@@ -523,6 +523,63 @@
     </Entry>
   </Speakers>
   <Strings>
+    <Section>_Victory Conditions</Section>
+    <Entry>
+      <PointerOffset>38512</PointerOffset>
+      <JapaneseText>ブラン、ネオ、ロザミアの撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38516</PointerOffset>
+      <JapaneseText>マヒロー（スエッソン）の撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_Defeat Condtions</Section>
+    <Entry>
+      <PointerOffset>38520</PointerOffset>
+      <JapaneseText>味方戦艦の撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38524</PointerOffset>
+      <JapaneseText>:、カミーユ、いずれかの撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_SR Conditions</Section>
+    <Entry>
+      <PointerOffset>38536</PointerOffset>
+      <JapaneseText>５ターン以内に勝利条件を達成する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38540</PointerOffset>
+      <JapaneseText>なし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
     <Section>Section 1.1</Section>
     <Entry>
       <PointerOffset>9376</PointerOffset>

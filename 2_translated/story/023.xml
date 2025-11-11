@@ -164,6 +164,55 @@
     </Entry>
   </Speakers>
   <Strings>
+    <Section>_Victory Conditions</Section>
+    <Entry>
+      <PointerOffset>14208</PointerOffset>
+      <JapaneseText>敵の全滅。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_Defeat Condtions</Section>
+    <Entry>
+      <PointerOffset>14216</PointerOffset>
+      <JapaneseText>グローマの撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14220</PointerOffset>
+      <JapaneseText>桂の撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_SR Conditions</Section>
+    <Entry>
+      <PointerOffset>14232</PointerOffset>
+      <JapaneseText>３ターン以内に敵を全滅させる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14236</PointerOffset>
+      <JapaneseText>なし</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
     <Section>Section 1.1</Section>
     <Entry>
       <PointerOffset>3408</PointerOffset>
