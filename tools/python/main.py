@@ -129,11 +129,9 @@ if __name__ == "__main__":
 
     args = get_arguments()
 
-    insert_mask = [args.with_proofreading, args.with_editing, args.with_problematic]
-    #insert_mask = ['Proofreading', 'Editing']
-    robotwars = SRWZ(args.project.resolve(), insert_mask, args.only_changed)
-    if args.action == "extract":
 
+    if args.action == "extract":
+        robotwars = SRWZ(args.project.resolve(), insert_mask=[])
         if args.file_type == "Iso":
             robotwars.extract_iso(game_iso=args.iso)
             robotwars.extract_all_archives()
@@ -142,11 +140,16 @@ if __name__ == "__main__":
         elif args.file_type == "Menu":
             robotwars.extract_all_menus()
 
-        elif args.file_type == "All":
+        elif args.file_type == "Menu":
             robotwars.extract_all_menus()
 
-    elif args.action =="insert":
+        elif args.file_type == "All":
+            robotwars.extract_all_menus()
+            robotwars.extract_stages_text()
 
+    elif args.action =="insert":
+        insert_mask = [args.with_proofreading, args.with_editing, args.with_problematic]
+        robotwars = SRWZ(args.project.resolve(), insert_mask, args.only_changed)
         if args.file_type == "Menu":
             shutil.copytree(robotwars.paths["original_files"], robotwars.paths["final_files"] / "New_files", dirs_exist_ok=True)
             robotwars.pack_all_menu()
