@@ -95,13 +95,13 @@
 .org 0x39251C
 	addiu 	a2, s4, 0x1E
 	
-; Move Type Label
+; Move Class Label
 .org 0x392540
 	addiu 	a2, s4, 0x11F
 	
-; Move Attr Label
+; Move Type Label
 .org 0x392564
-	addiu 	a2, s4, 0x15C
+	addiu 	a2, s4, 0x15A
 
 ; Move Atk PWR Label	
 .org 0x392588

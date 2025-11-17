@@ -1647,26 +1647,26 @@
     <Entry>
       <PointerOffset>3350360</PointerOffset>
       <JapaneseText>着弾点指定型</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Blast Radius</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3350364</PointerOffset>
       <JapaneseText>直線探索型</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Straight Line</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3350368</PointerOffset>
       <JapaneseText>方向指定型</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Directional</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -4765,7 +4765,7 @@
         <lo>3743248,3745100</lo>
       </EmbedOffset>
       <JapaneseText>種別</JapaneseText>
-      <EnglishText>Type</EnglishText>
+      <EnglishText>Class</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
       <Status>Proofreading</Status>
@@ -4777,7 +4777,7 @@
         <lo>3743300,3745132</lo>
       </EmbedOffset>
       <JapaneseText>属性</JapaneseText>
-      <EnglishText>Attr</EnglishText>
+      <EnglishText>Type</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
       <Status>Proofreading</Status>
