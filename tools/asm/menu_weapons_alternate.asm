@@ -15,8 +15,8 @@
 .org 	0x391E14
 	addiu 	$a2, $s0, 0x1C
 	
-.org 	0x391E40
-	addiu 	$a2, $s0, 0x22
+.org 	0x391E3C
+	addiu 	$a2, $s0, 0x1D
 	
 ; Remove icon
 .org 	0x39208C
