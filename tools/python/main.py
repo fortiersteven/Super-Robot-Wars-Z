@@ -141,7 +141,7 @@ if __name__ == "__main__":
         elif args.file_type == "Menu":
             robotwars.extract_all_menus()
 
-        elif args.file_type == "All":
+        elif args.file_type == "Menu":
             robotwars.extract_all_menus()
 
     elif args.action =="insert":
