@@ -27402,18 +27402,18 @@ It's considered an antique now.</EnglishText>
     <Entry>
       <PointerOffset>397808,397816</PointerOffset>
       <JapaneseText>格闘武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Close-Range Attack</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>397824,397832</PointerOffset>
       <JapaneseText>射撃武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ranged Attack</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>397840,397968</PointerOffset>
@@ -27595,9 +27595,26 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398084</PointerOffset>
+      <JapaneseText>〜【編入】機体選択〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398088</PointerOffset>
       <JapaneseText>トライチャージ使用可能　小隊攻撃使用不可
 援護防御使用可能　対全体攻撃で小隊員の防御・回避にプラス補正</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398092</PointerOffset>
+      <JapaneseText>小隊攻撃は敵一機を集中攻撃（小隊員の攻撃力５０％）　援護防御使用可能
+バリアが小隊全機に適用　対全体攻撃で小隊長の防御にプラス補正</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27621,8 +27638,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398116</PointerOffset>
+      <JapaneseText>最大ＥＮ＋１０％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398120</PointerOffset>
       <JapaneseText>運動性＋１０％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398124</PointerOffset>
+      <JapaneseText>照準値＋１０％</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27637,8 +27670,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398132</PointerOffset>
+      <JapaneseText>移動力＋１</JapaneseText>
+      <EnglishText>Movement  +１</EnglishText>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398136</PointerOffset>
       <JapaneseText>特殊能力　ジャミング機能　付与</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398140</PointerOffset>
+      <JapaneseText>機体・武器の地形適応【空】を全てＳにする</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27653,8 +27702,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398148</PointerOffset>
+      <JapaneseText>機体・武器の地形適応【海】を全てＳにする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398152</PointerOffset>
       <JapaneseText>機体・武器の地形適応【宇】を全てＳにする</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398156</PointerOffset>
+      <JapaneseText>バリア・アーマー発動時の消費ＥＮを０にする</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27669,7 +27734,15 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>398168,398192,398408,398440,398448,398472,398520,398536,398560,398568,398584,398608,398632,398656,398752</PointerOffset>
+      <PointerOffset>398164</PointerOffset>
+      <JapaneseText>全ての武器のクリティカル補正＋１０％</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398168,398192,398372,398408,398440,398448,398452,398472,398492,398508,398520,398524,398536,398548,398556,398560,398568,398572,398584,398596,398608,398620,398632,398652,398656,398668,398732,398752,398828</PointerOffset>
       <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -27685,8 +27758,32 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398180</PointerOffset>
+      <JapaneseText>〜【フル改造ボーナス（武器射程）】〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398196</PointerOffset>
+      <JapaneseText>：決定</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398200</PointerOffset>
       <JapaneseText>：選択</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398204</PointerOffset>
+      <JapaneseText>：検索</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27701,8 +27798,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398212</PointerOffset>
+      <JapaneseText>：戻る</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398216</PointerOffset>
       <JapaneseText>：切換</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398220</PointerOffset>
+      <JapaneseText>：設定終了</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27717,8 +27830,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398228</PointerOffset>
+      <JapaneseText>：発進</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398232</PointerOffset>
       <JapaneseText>：マップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398236</PointerOffset>
+      <JapaneseText>：小隊</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27733,8 +27862,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398244</PointerOffset>
+      <JapaneseText>：マーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398248</PointerOffset>
       <JapaneseText>：一覧</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398252</PointerOffset>
+      <JapaneseText>：通常</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27749,8 +27894,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398260</PointerOffset>
+      <JapaneseText>：基本曲</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398264</PointerOffset>
       <JapaneseText>：全ランダム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398268</PointerOffset>
+      <JapaneseText>：メインＰ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27765,8 +27926,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398276</PointerOffset>
+      <JapaneseText>：ーー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398280</PointerOffset>
       <JapaneseText>：ーーー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398284</PointerOffset>
+      <JapaneseText>：ーーーー</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27801,8 +27978,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398308</PointerOffset>
+      <JapaneseText>機体性能強化・武器攻撃力アップを行います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398312</PointerOffset>
       <JapaneseText>機体に専用の換装パーツを装備させます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398316</PointerOffset>
+      <JapaneseText>機体に強化パーツを装備させます。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27817,8 +28010,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398324,398340</PointerOffset>
+      <JapaneseText>精神コマンドや特殊技能・能力を検索します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398328</PointerOffset>
       <JapaneseText>パイロット一覧から能力を表示します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398332</PointerOffset>
+      <JapaneseText>パイロットの能力強化や技能修得を行います。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27841,6 +28050,14 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398348</PointerOffset>
+      <JapaneseText>小隊の編成内容を変更します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398352</PointerOffset>
       <JapaneseText>強化パーツや機体の売買を行います。</JapaneseText>
       <EnglishText/>
@@ -27849,8 +28066,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398356</PointerOffset>
+      <JapaneseText>各種設定を行います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398360</PointerOffset>
       <JapaneseText>セーブ・ロードを行います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398364</PointerOffset>
+      <JapaneseText>機体系の操作を行います。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27873,8 +28106,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398380</PointerOffset>
+      <JapaneseText>ＥＸハードモードでは養成は出来ません。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398384</PointerOffset>
       <JapaneseText>ベーシックオーダー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398388</PointerOffset>
+      <JapaneseText>バランスオーダー</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27889,8 +28138,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398396</PointerOffset>
+      <JapaneseText>パイロット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398400</PointerOffset>
       <JapaneseText>機体</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398404</PointerOffset>
+      <JapaneseText>ランダム</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27906,8 +28171,25 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398420</PointerOffset>
+      <JapaneseText>指定した小隊を残して、他の小隊を
+バランスよく再編成します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398424,398456</PointerOffset>
       <JapaneseText>小隊員から連想されるキーワードで設定します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398428</PointerOffset>
+      <JapaneseText>小隊長の名前から設定します。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27922,6 +28204,22 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398436</PointerOffset>
+      <JapaneseText>各小隊ごとに上記の中から自動的に選択し設定します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398460</PointerOffset>
+      <JapaneseText>小隊内のパイロット名から設定します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398464</PointerOffset>
       <JapaneseText>小隊内の機体の名前から設定します。</JapaneseText>
       <EnglishText/>
@@ -27930,8 +28228,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398468</PointerOffset>
+      <JapaneseText>上記の中から自動的に選択し設定します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398480</PointerOffset>
       <JapaneseText>上記の方針に沿って、　　　　　　を</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398484</PointerOffset>
+      <JapaneseText>行ないます。方針を選択してください。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27954,6 +28268,14 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398500</PointerOffset>
+      <JapaneseText>小隊名を変更します。設定項目を選択してください。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398504</PointerOffset>
       <JapaneseText>任意の小隊</JapaneseText>
       <EnglishText/>
@@ -27970,8 +28292,32 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398516</PointerOffset>
+      <JapaneseText>設定項目を選択してください。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398528</PointerOffset>
       <JapaneseText>＜戦闘アニメ終了時にＢＧＭを継続して再生します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398532</PointerOffset>
+      <JapaneseText>＜戦闘アニメ終了時にＢＧＭをマップ曲に戻します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398540</PointerOffset>
+      <JapaneseText>＜戦闘アニメ時に再生する曲を部隊ＢＧＭにします。＞</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -27994,8 +28340,32 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398564</PointerOffset>
+      <JapaneseText>＜クイックコマンドを設定します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398576</PointerOffset>
       <JapaneseText>＜ソート・サブ情報の位置を記憶します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398580</PointerOffset>
+      <JapaneseText>＜ソート・サブ情報の位置を記憶しません。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398588</PointerOffset>
+      <JapaneseText>＜ゲーム中にアナログコントローラが振動します。＞</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28018,6 +28388,22 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398604</PointerOffset>
+      <JapaneseText>＜マップに区切り線を表示しません。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398612</PointerOffset>
+      <JapaneseText>＜画面の上下左右に従ってカーソルが移動します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398616</PointerOffset>
       <JapaneseText>＜マップのマスに沿ってカーソルが移動します。＞</JapaneseText>
       <EnglishText/>
@@ -28034,6 +28420,22 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398628</PointerOffset>
+      <JapaneseText>＜カーソルの移動時、目的地まで直接ジャンプします。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398636</PointerOffset>
+      <JapaneseText>＜ピースの移動スピードを遅めに設定します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398640</PointerOffset>
       <JapaneseText>＜ピースの移動スピードを普通に設定します。＞</JapaneseText>
       <EnglishText/>
@@ -28042,8 +28444,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398644</PointerOffset>
+      <JapaneseText>＜ピースの移動スピードを速めに設定します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398648</PointerOffset>
       <JapaneseText>＜部隊名を変更します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398660</PointerOffset>
+      <JapaneseText>＜援護防御に入れる機体がいたら入ります。＞</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28066,6 +28484,14 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398676</PointerOffset>
+      <JapaneseText>センター・フォーメーション</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398680</PointerOffset>
       <JapaneseText>ワイド・フォーメーション</JapaneseText>
       <EnglishText/>
@@ -28076,6 +28502,14 @@ It's considered an antique now.</EnglishText>
     <Entry>
       <PointerOffset>398688</PointerOffset>
       <JapaneseText>トライ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398692</PointerOffset>
+      <JapaneseText>センター</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28114,6 +28548,14 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398724</PointerOffset>
+      <JapaneseText>＜母艦出撃＞　並び替える母艦を指定します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398728</PointerOffset>
       <JapaneseText>＜母艦出撃＞　入れ替える母艦／場所を指定します。</JapaneseText>
       <EnglishText/>
@@ -28130,8 +28572,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398740</PointerOffset>
+      <JapaneseText>＜出撃選択＞　並び替える小隊を指定します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398744</PointerOffset>
       <JapaneseText>＜出撃選択＞　入れ替える小隊／場所を指定します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398748</PointerOffset>
+      <JapaneseText>＜強制出撃＞　マップの確認を行います。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28156,8 +28614,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398772</PointerOffset>
+      <JapaneseText>〜【第３軍部隊表】機体選択〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398776</PointerOffset>
       <JapaneseText>〜【第４軍部隊表】機体選択〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398780</PointerOffset>
+      <JapaneseText>〜【敵部隊表】機体選択〜</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28172,8 +28646,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398788</PointerOffset>
+      <JapaneseText>〜【第３軍部隊表】小隊選択〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398792</PointerOffset>
       <JapaneseText>〜【第４軍部隊表】小隊選択〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398796</PointerOffset>
+      <JapaneseText>〜【敵部隊表】小隊選択〜</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28188,6 +28678,14 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398804</PointerOffset>
+      <JapaneseText>〜『　　　：センター』小隊指定〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398808</PointerOffset>
       <JapaneseText>〜『　　　　：ワイド』小隊指定〜</JapaneseText>
       <EnglishText/>
@@ -28196,8 +28694,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398812</PointerOffset>
+      <JapaneseText>〜【撃墜数・各】機体確認〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398816</PointerOffset>
       <JapaneseText>〜【被撃墜機体】機体確認〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398820</PointerOffset>
+      <JapaneseText>〜『発進リスト』小隊選択〜</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28230,8 +28744,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398844</PointerOffset>
+      <JapaneseText>＜ゲームデータライブラリーを観閲します。＞</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398848</PointerOffset>
       <JapaneseText>システム設定</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398852</PointerOffset>
+      <JapaneseText>ライブラリー</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28246,8 +28776,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398868</PointerOffset>
+      <JapaneseText>ゲーム中に登場したキャラクターのデータを閲覧出来ます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398872</PointerOffset>
       <JapaneseText>ゲーム中に登場した特殊な用語の解説を閲覧出来ます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398876</PointerOffset>
+      <JapaneseText>ゲーム中に使用されたＢＧＭを聴く事が出来ます。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28262,8 +28808,24 @@ It's considered an antique now.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset>398884</PointerOffset>
+      <JapaneseText>ゲーム攻略のコツや豆知識を閲覧出来ます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
       <PointerOffset>398888</PointerOffset>
       <JapaneseText>〜さすらいの修理屋〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398892</PointerOffset>
+      <JapaneseText>〜ザ・ライトスタッフ〜</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -28274,6 +28836,16 @@ It's considered an antique now.</EnglishText>
       <JapaneseText>荒廃した大地でパートナーと共に修理屋を営む男。
 「ザ・ヒート」を自称する豪放磊落な熱血漢であるが、
 暑苦しいのが珠にキズ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>398900</PointerOffset>
+      <JapaneseText>新型機のテストパイロットを務める地球連邦軍の兵士。
+気弱で何事にも消極的であるが、生真面目な性格で
+自分の任務を懸命に果たそうとする。</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>

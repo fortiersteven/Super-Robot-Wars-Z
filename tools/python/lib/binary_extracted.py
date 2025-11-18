@@ -102,10 +102,13 @@ def text_to_bytes(text:str, font_adjusted:bool):
     percent_found = False
 
     dict_spec = {
-        "≥": b'\x3F\x18'
+        "≥": b'\x3F\x18',
+        "Sky": b'\x81\xEC',
+        "Ground": b'\x81\xED',
+        "Water": b'\x81\xEE',
+        "Space": b'\x81\xEF'
     }
     list_weird = []
-
     for t in tokens:
         # Hex literals
         if re.match(HEX_TAG, t):
@@ -115,14 +118,20 @@ def text_to_bytes(text:str, font_adjusted:bool):
         elif re.match(COMMON_TAG, t):
             tag, param, *_ = t[1:-1].split(":") + [None]
 
-            #Known control codes
-            if tag in ['width', 'color', 'space', 'height']:
-                tag_int = ijsonTblTags['tags'][tag]
-            else:
-                tag_int = int(tag, 16)
+            # Tags like <XX>
+            if tag in dict_spec.keys():
+                output += dict_spec[tag]
 
-            output += bytes([tag_int])
-            output += bytes([int(param,16)])
+            # Tags like <XX:XX>
+            else:
+                #Known control codes
+                if tag in ['width', 'color', 'space', 'height']:
+                    tag_int = ijsonTblTags['tags'][tag]
+                else:
+                    tag_int = int(tag, 16)
+
+                output += bytes([tag_int])
+                output += bytes([int(param,16)])
 
         # Line Break
         elif t == "\n":
