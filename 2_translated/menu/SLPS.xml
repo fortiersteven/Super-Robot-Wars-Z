@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset>3332896</PointerOffset>
       <JapaneseText>ここまでのゲームデータをセーブします。</JapaneseText>
-      <EnglishText>Your game data will be saved up to this point.</EnglishText>
+      <EnglishText>Your progress up to this point will be saved.</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332900</PointerOffset>
@@ -15,15 +15,15 @@
       <EnglishText>Is this okay?</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332904</PointerOffset>
       <JapaneseText>ゲームデータのセーブを終了しました。</JapaneseText>
-      <EnglishText>Game Data Save completed</EnglishText>
+      <EnglishText>Finished saving the game data.</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332908</PointerOffset>
@@ -31,7 +31,7 @@
       <EnglishText>Do you wish to continue playing?</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332912</PointerOffset>
@@ -39,7 +39,7 @@
       <EnglishText>It will be overwritten, are you sure?</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -2426,7 +2426,7 @@
       <EnglishText>Allies／</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2438,7 +2438,7 @@
       <EnglishText>Enemies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2450,7 +2450,7 @@
       <EnglishText>Allies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2462,7 +2462,7 @@
       <EnglishText>／Enemies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2510,7 +2510,7 @@
       <EnglishText>Turns</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2522,7 +2522,7 @@
       <EnglishText>BS</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2534,7 +2534,7 @@
       <EnglishText>Funds</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2823,7 +2823,7 @@
       <EnglishText>There are </EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2832,10 +2832,10 @@
         <lo>3528908</lo>
       </EmbedOffset>
       <JapaneseText>小隊あります。</JapaneseText>
-      <EnglishText> squads that have not completed movement.</EnglishText>
+      <EnglishText> squads that can still take action.</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2847,7 +2847,7 @@
       <EnglishText>Do you wish to end the phase?</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4432,7 +4432,7 @@
       <EnglishText>Stats</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4852,7 +4852,7 @@
       <EnglishText>Transform</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4900,7 +4900,7 @@
       <EnglishText>Formation</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4912,7 +4912,7 @@
       <EnglishText>Spirit</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4984,7 +4984,7 @@
       <EnglishText>End Phase</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4996,7 +4996,7 @@
       <EnglishText>Search</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5008,7 +5008,7 @@
       <EnglishText>Squads</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5020,7 +5020,7 @@
       <EnglishText>Objective</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5032,7 +5032,7 @@
       <EnglishText>Report</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5044,7 +5044,7 @@
       <EnglishText>Formations</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5056,7 +5056,7 @@
       <EnglishText>System</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5068,7 +5068,7 @@
       <EnglishText>Suspend</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5152,7 +5152,7 @@
       <EnglishText>No</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5164,7 +5164,7 @@
       <EnglishText>Yes</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </MenuText>
