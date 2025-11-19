@@ -37,6 +37,10 @@
 .org 0x3586C8
 	addiu 	$v0, $s0, 0x1C
 	
+; Adjust / position
+.org 0x358A54
+	addiu 	$a1, $v0, -0x6
+	
 .org 0x35995C
 	li 	$v1, 0x5C
 	
