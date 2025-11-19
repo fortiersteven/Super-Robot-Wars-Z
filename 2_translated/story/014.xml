@@ -204,6 +204,56 @@
     </Entry>
   </Speakers>
   <Strings>
+    <Section>_Victory Conditions</Section>
+    <Entry>
+      <PointerOffset>21072</PointerOffset>
+      <JapaneseText>敵の全滅。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_Defeat Condtions</Section>
+    <Entry>
+      <PointerOffset>21080</PointerOffset>
+      <JapaneseText>いずれかの味方ユニットの撃墜。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21084</PointerOffset>
+      <JapaneseText>味方の全滅。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>_SR Conditions</Section>
+    <Entry>
+      <PointerOffset>21088</PointerOffset>
+      <JapaneseText>？？？</JapaneseText>
+      <EnglishText>???</EnglishText>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21092</PointerOffset>
+      <JapaneseText>アデットのドゴッゾを撃墜する。
+なお、アデット機はＨＰ３０００以下で後退する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
     <Section>Section 1.1</Section>
     <Entry>
       <PointerOffset>2832</PointerOffset>
@@ -1567,7 +1617,7 @@ Let's aim for the leader unit!</EnglishText>
     <Entry>
       <PointerOffset>9744</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>......</EnglishText>
+      <EnglishText>,,,,,,</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2026,7 +2076,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
     <Entry>
       <PointerOffset>11856</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>......</EnglishText>
+      <EnglishText>,,,,,,</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
