@@ -3565,10 +3565,10 @@
         <lo>3472780,3472896</lo>
       </EmbedOffset>
       <JapaneseText>第%s話『</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stage %s『</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4984,7 +4984,7 @@
       <EnglishText>Stage %s</EnglishText>
       <Notes/>
       <Chapter>Operation End</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
