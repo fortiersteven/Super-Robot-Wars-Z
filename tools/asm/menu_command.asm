@@ -31,11 +31,11 @@
 	
 ; Move Yes position
 .org 0x35867C
-	addiu 	$v0, $s0, -0x1C
+	addiu 	$v0, $s0, -0x24
 	
 ; Move No position
 .org 0x3586C8
-	addiu 	$v0, $s0, 0x1C
+	addiu 	$v0, $s0, 0x14
 	
 ; Adjust / position
 .org 0x358A54
