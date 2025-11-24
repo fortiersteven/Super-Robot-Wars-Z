@@ -241,7 +241,7 @@
       <EnglishText>Move</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3310004</PointerOffset>
@@ -399,7 +399,7 @@
       <EnglishText>Move</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3309236</PointerOffset>
@@ -1204,10 +1204,10 @@
     <Entry>
       <PointerOffset>3129136</PointerOffset>
       <JapaneseText>補給</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Supply</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Command Menu</Chapter>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3129144</PointerOffset>
@@ -1532,6 +1532,14 @@
     <Entry>
       <PointerOffset>3348300</PointerOffset>
       <JapaneseText>特殊能力</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3348308</PointerOffset>
+      <JapaneseText>小隊ボーナス</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
