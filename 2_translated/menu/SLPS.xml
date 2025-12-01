@@ -1513,7 +1513,7 @@ Cannot stack.</EnglishText>
       <JapaneseText>精神コマンド</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Search</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1521,7 +1521,7 @@ Cannot stack.</EnglishText>
       <JapaneseText>特殊スキル</JapaneseText>
       <EnglishText>Skills</EnglishText>
       <Notes/>
-      <Chapter>Abilities</Chapter>
+      <Chapter>Search</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -1529,13 +1529,21 @@ Cannot stack.</EnglishText>
       <JapaneseText>隊長効果</JapaneseText>
       <EnglishText>Cpt Effect</EnglishText>
       <Notes/>
-      <Chapter>Abilities</Chapter>
+      <Chapter>Search</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3348300</PointerOffset>
       <JapaneseText>特殊能力</JapaneseText>
       <EnglishText>Special Abilities</EnglishText>
+      <Notes/>
+      <Chapter>Search</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3348308</PointerOffset>
+      <JapaneseText>小隊ボーナス</JapaneseText>
+      <EnglishText>Squadron Bonus</EnglishText>
       <Notes/>
       <Chapter>Search</Chapter>
       <Status>Editing</Status>
@@ -2418,6 +2426,25 @@ Cannot stack.</EnglishText>
     </Entry>
   </Strings>
   <Strings>
+    <Section>Search</Section>
+    <Entry>
+      <PointerOffset>3341488</PointerOffset>
+      <JapaneseText>？？？？</JapaneseText>
+      <EnglishText>????</EnglishText>
+      <Notes/>
+      <Chapter>Spirit Command</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3342232</PointerOffset>
+      <JapaneseText>ーーーーー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
     <Section>MIPS PTR TEXT</Section>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -3131,6 +3158,30 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
+        <hi>3626528,3626624</hi>
+        <lo>3626536,3626632</lo>
+      </EmbedOffset>
+      <JapaneseText>＜検索結果確認＞　所持機体を確認します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3635368,3532160</hi>
+        <lo>3635388,3532172</lo>
+      </EmbedOffset>
+      <JapaneseText>【一一一一】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
         <hi>3646252</hi>
         <lo>3646260</lo>
       </EmbedOffset>
@@ -3708,18 +3759,6 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3532160</hi>
-        <lo>3532172</lo>
-      </EmbedOffset>
-      <JapaneseText>【一一一一】</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
         <hi>3532248</hi>
         <lo>3532260</lo>
       </EmbedOffset>
@@ -3929,6 +3968,30 @@ Cannot stack.</EnglishText>
         <lo>3535276</lo>
       </EmbedOffset>
       <JapaneseText>%s・%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3635180,3636712,3637876,3639116,3640412,3641724</hi>
+        <lo>3635216,3636740,3637904,3639144,3640440,3641752</lo>
+      </EmbedOffset>
+      <JapaneseText>効果</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3635252</hi>
+        <lo>3635264</lo>
+      </EmbedOffset>
+      <JapaneseText>対象</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
@@ -4854,7 +4917,7 @@ Cannot stack.</EnglishText>
       <JapaneseText>援護攻撃　なし</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Abilities</Chapter>
+      <Chapter>Uncategorized</Chapter>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4962,7 +5025,7 @@ Cannot stack.</EnglishText>
       <JapaneseText>小隊ボーナス</JapaneseText>
       <EnglishText>Squadron Bonus</EnglishText>
       <Notes/>
-      <Chapter>Search</Chapter>
+      <Chapter>Uncategorized</Chapter>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5380,6 +5443,42 @@ Cannot stack.</EnglishText>
         <lo>3528100</lo>
       </EmbedOffset>
       <JapaneseText>：ーーー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3626552,3626672</hi>
+        <lo>3626556,3626676</lo>
+      </EmbedOffset>
+      <JapaneseText>：終了</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3626572,3626692</hi>
+        <lo>3626584,3626704</lo>
+      </EmbedOffset>
+      <JapaneseText>：検索結果に戻る</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Uncategorized</Chapter>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset></PointerOffset>
+      <EmbedOffset>
+        <hi>3626648</hi>
+        <lo>3626652</lo>
+      </EmbedOffset>
+      <JapaneseText>：精神コマンドへ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
