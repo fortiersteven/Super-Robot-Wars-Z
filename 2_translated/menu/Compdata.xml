@@ -22555,7 +22555,7 @@ It's considered an antique now.</EnglishText>
     <Entry>
       <PointerOffset>395264</PointerOffset>
       <JapaneseText>＜指定した精神コマンドの所持者を検索します＞</JapaneseText>
-      <EnglishText>&lt;Searches for pilots who have this Spirit Command&gt;</EnglishText>
+      <EnglishText>~ Searches for pilots who have this Spirit Command ~</EnglishText>
       <Notes/>
       <Chapter>Search</Chapter>
       <Status>Editing</Status>
@@ -22563,7 +22563,7 @@ It's considered an antique now.</EnglishText>
     <Entry>
       <PointerOffset>395268</PointerOffset>
       <JapaneseText>＜指定した特殊スキルの所持者を検索します＞</JapaneseText>
-      <EnglishText>&lt;Searches for pilots who have this Special Skill&gt;</EnglishText>
+      <EnglishText>~ Searches for pilots who have this Special Skill ~</EnglishText>
       <Notes/>
       <Chapter>Search</Chapter>
       <Status>Editing</Status>
@@ -22571,7 +22571,7 @@ It's considered an antique now.</EnglishText>
     <Entry>
       <PointerOffset>395272</PointerOffset>
       <JapaneseText>＜指定した隊長効果の所持者を検索します＞</JapaneseText>
-      <EnglishText>&lt;Searches for pilots who have this Leader Bonus&gt;</EnglishText>
+      <EnglishText>~ Searches for pilots who have this Leader Bonus ~</EnglishText>
       <Notes/>
       <Chapter>Search</Chapter>
       <Status>Editing</Status>
@@ -22579,7 +22579,7 @@ It's considered an antique now.</EnglishText>
     <Entry>
       <PointerOffset>395276</PointerOffset>
       <JapaneseText>＜指定した特殊能力の所持機体を検索します＞</JapaneseText>
-      <EnglishText>&lt;Searches for units that have this Special Ability&gt;</EnglishText>
+      <EnglishText>~ Searches for units that have this Special Ability ~</EnglishText>
       <Notes/>
       <Chapter>Search</Chapter>
       <Status>Editing</Status>
@@ -22587,7 +22587,7 @@ It's considered an antique now.</EnglishText>
     <Entry>
       <PointerOffset>395280</PointerOffset>
       <JapaneseText>＜指定した小隊ボーナスの所持機体を検索します＞</JapaneseText>
-      <EnglishText>&lt;Searches for units that have this Squadron Bonus&gt;</EnglishText>
+      <EnglishText>~ Searches for units that have this Squadron Bonus ~</EnglishText>
       <Notes/>
       <Chapter>Search</Chapter>
       <Status>Editing</Status>
@@ -22603,7 +22603,7 @@ It's considered an antique now.</EnglishText>
     <Entry>
       <PointerOffset>395292</PointerOffset>
       <JapaneseText>〜【検索】条件選択〜</JapaneseText>
-      <EnglishText>-[Search] Condition Select-</EnglishText>
+      <EnglishText>~ [Search] Condition Select ~</EnglishText>
       <Notes/>
       <Chapter>Search</Chapter>
       <Status>Editing</Status>
