@@ -9,7 +9,7 @@
 .include "menu_bazaar_purchase.asm"
 .include "menu_command.asm"
 ;.include "menu_agility.asm"
-;.include "menu_search.asm"
+.include "menu_search.asm"
 ;.include "menu_unit_info.asm"
 ;.include "menu_pilot_info.asm"
 ;.include "menu_select_scenario.asm"
