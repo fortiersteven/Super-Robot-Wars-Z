@@ -68,4 +68,7 @@
 .org 0x350818
 	li 	$a1, 0x66
 	
+.org 0x3512FC
+	li 	$a2, -0x10
+	
 .close
