@@ -1553,8 +1553,16 @@ Cannot stack.</EnglishText>
       <JapaneseText>小隊ボーナス</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Search</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3348308</PointerOffset>
+      <JapaneseText>小隊ボーナス</JapaneseText>
+      <EnglishText>Squadron Bonus</EnglishText>
+      <Notes/>
+      <Chapter>Search</Chapter>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -2846,7 +2854,7 @@ Cannot stack.</EnglishText>
         <lo>3528800</lo>
       </EmbedOffset>
       <JapaneseText>フェイズを終了します。よろしいですか？</JapaneseText>
-      <EnglishText>The phase will end.  Are you sure?</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5067,7 +5075,7 @@ Cannot stack.</EnglishText>
         <lo>3476280,3477216</lo>
       </EmbedOffset>
       <JapaneseText>搭載</JapaneseText>
-      <EnglishText>Ride</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5079,7 +5087,7 @@ Cannot stack.</EnglishText>
         <lo>3476324,3477864</lo>
       </EmbedOffset>
       <JapaneseText>待機</JapaneseText>
-      <EnglishText>Wait</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5091,7 +5099,7 @@ Cannot stack.</EnglishText>
         <lo>3476664,3476716</lo>
       </EmbedOffset>
       <JapaneseText>攻撃</JapaneseText>
-      <EnglishText>Attack</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5103,7 +5111,7 @@ Cannot stack.</EnglishText>
         <lo>3476784,3476836</lo>
       </EmbedOffset>
       <JapaneseText>空中</JapaneseText>
-      <EnglishText>Ascend</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5115,7 +5123,7 @@ Cannot stack.</EnglishText>
         <lo>3476904,3476956</lo>
       </EmbedOffset>
       <JapaneseText>地上</JapaneseText>
-      <EnglishText>Descend</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5139,7 +5147,7 @@ Cannot stack.</EnglishText>
         <lo>3477160</lo>
       </EmbedOffset>
       <JapaneseText>発進</JapaneseText>
-      <EnglishText>Launch</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5151,7 +5159,7 @@ Cannot stack.</EnglishText>
         <lo>3477272</lo>
       </EmbedOffset>
       <JapaneseText>修理</JapaneseText>
-      <EnglishText>Repair</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5163,7 +5171,7 @@ Cannot stack.</EnglishText>
         <lo>3477328</lo>
       </EmbedOffset>
       <JapaneseText>補給</JapaneseText>
-      <EnglishText>Supply</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5187,7 +5195,7 @@ Cannot stack.</EnglishText>
         <lo>3477496</lo>
       </EmbedOffset>
       <JapaneseText>分離</JapaneseText>
-      <EnglishText>Split</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5199,7 +5207,7 @@ Cannot stack.</EnglishText>
         <lo>3477544</lo>
       </EmbedOffset>
       <JapaneseText>合体</JapaneseText>
-      <EnglishText>Combine</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
@@ -5211,7 +5219,7 @@ Cannot stack.</EnglishText>
         <lo>3477592</lo>
       </EmbedOffset>
       <JapaneseText>パーツ</JapaneseText>
-      <EnglishText>Parts</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Proofreading</Status>
