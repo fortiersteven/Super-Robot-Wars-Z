@@ -7,7 +7,7 @@
 .include "menu_weapons_info.asm"
 .include "menu_weapons_alternate.asm"
 .include "menu_bazaar_purchase.asm"
-;.include "menu_command.asm"
+.include "menu_command.asm"
 ;.include "menu_agility.asm"
 .include "menu_search.asm"
 ;.include "menu_unit_info.asm"
