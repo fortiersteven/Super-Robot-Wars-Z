@@ -63,4 +63,9 @@
 	
 .org 0x351A28
 	addiu 	$v1, $v1, 0x2
+	
+; Adjust size of Command Overlay / Bubble around text
+.org 0x350818
+	li 	$a1, 0x66
+	
 .close
