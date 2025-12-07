@@ -2,15 +2,43 @@
 .open __SLPS_PATH__, 0x00FE580
 
 ; Unit Info, Pilot Info size ...
-.org 0x0038A404
-	li  a0, 0xC
+.org 0x38A404
+	li  $a0, 0xC
+
+; Pilot Name size
+.org 0x38AAC8
+	li 	$a0, 0xC
 	
-.org 0x0038A94C
-	li  a0, 0xC
+; Mech Name size
+.org 0x38AFC4
+	li	$a0, 0xC 
 	
-.org 0x0038B314
-	li  a0, 0x13
+; LV / Will / SP Label
+.org 0x38A94C
+	li  $a0, 0xC
 	
+; LV / Will / SP Values
+.org 0x38AB54
+	li  $a0, 0xC
+	
+; Reduce 6 Stats Label
+.org 0x38A9DC
+	li	$a0, 0x13
+
+; Reduce 6 Stats Values
+.org 0x38AC18
+	li	$a0, 0x13
+	
+; Reduce 4 Stats Label size
+.org 0x38B06C
+	li	$a0, 0x13
+	
+; Reduce 4 Stats Values 
+.org 0x38B118
+	li 	$a0, 0x13
+	
+.org 0x38AF3C
+	li 	$a0, 0x13
 	
 .org 0x0038A4DC
 	addiu v1,v1,-0xD8
@@ -54,10 +82,55 @@
 .org 0x0038B880
 	addiu 	$s2, $s2, 0x8
 	
-	
 .org 0x0038B844
 	addiu 	$s2, $v0, 0x15
 
+; Skills displayed size
+.org 0x38B4D4
+	li	$a0, 0x13
+	
+; Skills Start X
+.org 0x38B568
+	li	$a3, 0x8E
+	
+; Parts / Abilities displayed size
+.org 0x38B74C
+	li 	$a0, 0x13
+
+; Abilities Start Y
+.org 0x38B76C
+	li 	$s2, 0x18
+	
+; Adjust Abilities Start X
+.org 0x38B7BC
+	li 	$a3, 0x8E
+	
+.org 0x38B854
+	li 	$a1, 0x8E
+	
+	
+; Space between Abilities
+.org 0x38B7F4
+	addiu	$s2, $s2, 0x8
+	
+; Adjust the code so that the ------ line for Abilities Y coord 
+; is calculated using 8 instead of 10
+.org 0x38B838
+	sll		$v0, $v1, 3
+	nop
+	nop
+
+; Parts Start X
+.org 0x38B8C0
+	li	$a3, 0x8E
+
+; Parts Start Y
+.org 0x38B89C
+	li 	$s2, 0x45
+	
+; Space between Parts
+.org 0x38B8D8
+	addiu	$s2, $s2, 0x8
 ;Moving Stats name 0x20 to the left
 ;.org 0x003A6DF8
 ;	addiu	s0, s2, 0x10A			
@@ -74,34 +147,16 @@
 ;.org 0x003A6F80
 ;	addiu	s2, s2, 0x210	
 	
-; Reduce 6 Stats size
-.org 0x0038A9DC
-	li	a0, 0x13
+
 	
-; Reduce 4 Stats size
-.org 0x0038B06C
-	li	a0, 0x13
+
 	
-.org 0x0038AC18
-	li	a0, 0x13
+
 	
 	
 .org 0x0038BA94
 	li	$a3, 0x0
-; Pilot Face Size
-;.org 0x0038A8AC
-;	addiu t2, zero, 0x28
 
-; Pilot X Coord	
-;.org 0x0038A9F8
-;	addiu a3,zero,-0x110
-
-; Stats Color
-;.org 0x0038A8AC
-;	addiu a0,zero,0x9
-	
-;.org 0x0038AA18
-;	li a2, -0xB8
 	
 	
 .close
