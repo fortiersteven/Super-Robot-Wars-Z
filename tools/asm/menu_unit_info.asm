@@ -5,6 +5,10 @@
 .org 0x38A404
 	li  $a0, 0xC
 
+; Unit Info, Pilot Info, X position offset
+;.org 0x0038A4DC
+;	addiu v1,v1,-0xD8
+	
 ; Pilot Name size
 .org 0x38AAC8
 	li 	$a0, 0xC
@@ -21,6 +25,22 @@
 .org 0x38AB54
 	li  $a0, 0xC
 	
+
+	
+; Reduce 4 Stats Label size
+.org 0x38B06C
+	li	$a0, 0x13
+	
+; Reduce 4 Stats Values 
+.org 0x38B118
+	li 	$a0, 0x0C
+	
+.org 0x38AF3C
+	li 	$a0, 0x13
+	
+
+;Adjust 6 Stats positions
+
 ; Reduce 6 Stats Label
 .org 0x38A9DC
 	li	$a0, 0x13
@@ -29,39 +49,31 @@
 .org 0x38AC18
 	li	$a0, 0x13
 	
-; Reduce 4 Stats Label size
-.org 0x38B06C
-	li	$a0, 0x13
 	
-; Reduce 4 Stats Values 
-.org 0x38B118
-	li 	$a0, 0x13
-	
-.org 0x38AF3C
-	li 	$a0, 0x13
-	
-.org 0x0038A4DC
-	addiu v1,v1,-0xD8
-	
+; Adjust first 2 labels	
 .org 0x0038A9F8
-	li 	$a2, -0xA9
+	li 	$a2, -0xAC
 	
 .org 0x0038AA18
-	li 	$a2, -0xA9
+	li 	$a2, -0xAC
 	
+; Adjust 2 next labels
 .org 0x0038AA3C
-	li  $a2, -0x5F
+	li  $a2, -0x4E
 	
 .org 0x0038AA60
-	li  $a2, -0x5F
-	
+	li  $a2, -0x4E
+
+; Last 2 labels	
 .org 0x0038AA84
-	li  $a2, 0xB
+	li  $a2, 0x8
 	
 .org 0x0038AAA8
-	li  $a2, 0xB
+	li  $a2, 0x8
 	
 ;Adjust Skills / Abilities / Parts displaying
+;0xBDBD44 for size of the rectangle
+;0xBDBD40 for X position
 
 ;Adjust size to 0xC
 .org 0x0038B44C
@@ -91,7 +103,7 @@
 	
 ; Skills Start X
 .org 0x38B568
-	li	$a3, 0x8E
+	li	$a3, 0x8A
 	
 ; Parts / Abilities displayed size
 .org 0x38B74C
@@ -103,10 +115,10 @@
 	
 ; Adjust Abilities Start X
 .org 0x38B7BC
-	li 	$a3, 0x8E
+	li 	$a3, 0x8A
 	
 .org 0x38B854
-	li 	$a1, 0x8E
+	li 	$a1, 0x8A
 	
 	
 ; Space between Abilities
@@ -122,7 +134,7 @@
 
 ; Parts Start X
 .org 0x38B8C0
-	li	$a3, 0x8E
+	li	$a3, 0x8A
 
 ; Parts Start Y
 .org 0x38B89C
