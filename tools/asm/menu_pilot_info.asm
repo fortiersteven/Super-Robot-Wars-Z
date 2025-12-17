@@ -43,8 +43,8 @@
 
 	
 ;Terrain type
-.org 0x0038DDC4
-	li 	$a0, 0x13
+;.org 0x0038DDC4
+;	li 	$a0, 0x0D
 	
 .org 0x0038DE34
 	li 	$a0, 0x13
@@ -76,18 +76,22 @@
 .org 0x0038DFE8
 	li 	$a0, 0x13
 	
+; Spirit Command X position
+.org 0x38DFCC
+	li 	$a2, -0x58
+	
 ; Spirit Command Adjust (  ) X Position
 .org 0x38E090
-	li 	$a1, -0xC
+	li 	$a1, -0x6
 	
 ; Spirit Command Adjust Y Position
-.org 0x0038DFF8
+.org 0x38DFF8
 	li 	$s3, 0x16
 	
 ; Skills Adjust Y Position 
-
 .org 0x38DEF0
 	li 	$s4, 0x16
+	
 ;.org 0x0038D6A0
 ;	li a3, -0x28
 
