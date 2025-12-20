@@ -118,10 +118,10 @@
         <lo>3522368,3524348</lo>
       </EmbedOffset>
       <JapaneseText>小隊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Squad</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3333268</PointerOffset>
@@ -1546,6 +1546,22 @@ Cannot stack.</EnglishText>
       <EnglishText>Squadron Bonus</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3348308</PointerOffset>
+      <JapaneseText>小隊ボーナス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Chapter>Search</Chapter>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3348308</PointerOffset>
+      <JapaneseText>小隊ボーナス</JapaneseText>
+      <EnglishText>Squadron Bonus</EnglishText>
+      <Notes/>
+      <Chapter>Search</Chapter>
       <Status>Editing</Status>
     </Entry>
   </Strings>
@@ -3606,10 +3622,10 @@ Cannot stack.</EnglishText>
         <lo>2845828,3721948</lo>
       </EmbedOffset>
       <JapaneseText>小隊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Squad</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4662,10 +4678,10 @@ Cannot stack.</EnglishText>
         <lo>3722428</lo>
       </EmbedOffset>
       <JapaneseText>タイプ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Type</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4674,10 +4690,10 @@ Cannot stack.</EnglishText>
         <lo>3723836,3505368</lo>
       </EmbedOffset>
       <JapaneseText>強化パーツ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Parts</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4686,10 +4702,10 @@ Cannot stack.</EnglishText>
         <lo>3723868</lo>
       </EmbedOffset>
       <JapaneseText>特殊能力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Abilities</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -4698,10 +4714,10 @@ Cannot stack.</EnglishText>
         <lo>3725024</lo>
       </EmbedOffset>
       <JapaneseText>撃墜数</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Total Kills</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Chapter>Abilities</Chapter>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>

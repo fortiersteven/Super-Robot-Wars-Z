@@ -12,6 +12,7 @@
 .include "menu_search.asm"
 .include "menu_unit_info.asm"
 .include "menu_unit_info_2.asm"
-;.include "menu_pilot_info.asm"
+.include "menu_pilot_info.asm"
+.include "menu_pilot_mech.asm"
 ;.include "menu_select_scenario.asm"
 ;.include "menu_parts_reinfor.asm"
