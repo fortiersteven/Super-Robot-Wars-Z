@@ -11,6 +11,7 @@
 ;.include "menu_agility.asm"
 .include "menu_search.asm"
 .include "menu_unit_info.asm"
+.include "menu_unit_info_2.asm"
 .include "menu_pilot_info.asm"
 .include "menu_mech_info.asm"
 ;.include "menu_select_scenario.asm"
