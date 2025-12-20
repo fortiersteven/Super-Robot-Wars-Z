@@ -291,11 +291,7 @@
     <Entry>
       <PointerOffset>29376</PointerOffset>
       <JapaneseText>いずれかの味方ユニットの撃墜。</JapaneseText>
-<<<<<<< Updated upstream
       <EnglishText>Any allied unit shot down</EnglishText>
-=======
-      <EnglishText>Lose an allied unit</EnglishText>
->>>>>>> Stashed changes
       <Notes/>
       <Chapter>Uncategorized</Chapter>
       <Status>Editing</Status>
@@ -303,11 +299,7 @@
     <Entry>
       <PointerOffset>29380</PointerOffset>
       <JapaneseText>アイアン・ギアーの撃墜。</JapaneseText>
-<<<<<<< Updated upstream
-      <EnglishText>Iron Gear shot down</EnglishText>
-=======
       <EnglishText>Lose the Iron Gear</EnglishText>
->>>>>>> Stashed changes
       <Notes/>
       <Chapter>Uncategorized</Chapter>
       <Status>Editing</Status>
@@ -327,11 +319,7 @@
       <PointerOffset>29388</PointerOffset>
       <JapaneseText>５ターン味方フェイズ以内に全ての敵を撃墜し、
 最後にラッシュロッドを撃墜する。</JapaneseText>
-<<<<<<< Updated upstream
-      <EnglishText>Shoot down all enemies by the end of the allied phase of turn 5, with Rushrod being shot down last.</EnglishText>
-=======
       <EnglishText>Defeat all enemy units by the end of the allied phase of Turn 5, with Rushrod being defeated last.</EnglishText>
->>>>>>> Stashed changes
       <Notes/>
       <Chapter>Uncategorized</Chapter>
       <Status>Editing</Status>
