@@ -94,6 +94,15 @@ def get_shift_equivalent(character:str):
         return (b + base + 1).to_bytes(2, 'big')
 
 
+def encode_cp932(c:str):
+    try:
+        val = c.encode("cp932")
+
+    except:
+        print(f'String {c} is not able to convert to cp932')
+        val = b''
+
+    return val
 
 def text_to_bytes(text:str, font_adjusted:bool):
     multi_regex = (HEX_TAG + "|" + COMMON_TAG + r"|(\n)")
@@ -157,7 +166,7 @@ def text_to_bytes(text:str, font_adjusted:bool):
 
                         else:
                             val += b'\x3F'
-                            val += c.encode("cp932")
+                            val += encode_cp932(c)
 
                     elif percent_found:
 
@@ -165,10 +174,10 @@ def text_to_bytes(text:str, font_adjusted:bool):
                         if c != 's':
                             val += b'\x3F'
 
-                        val += c.encode("cp932")
+                        val += encode_cp932(c)
 
                     else:
-                        val += c.encode("cp932")
+                        val += encode_cp932(c)
 
 
 
@@ -185,6 +194,6 @@ def text_to_bytes(text:str, font_adjusted:bool):
                         output += b
                     else:
                         c = c.replace("\u200b", "")
-                        output += c.encode("cp932")
+                        output += encode_cp932(c)
 
     return output
