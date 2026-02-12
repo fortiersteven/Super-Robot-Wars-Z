@@ -19,6 +19,7 @@ import lxml.etree as etree
 from tools.python.lib.FileIO import FileIO
 from tools.python.lib.stage import Stage
 from tools.python.lib.compdata import CompData
+from tools.python.lib.kurodata import Kurodata
 from tools.python.lib.vt1 import Vt1
 from tools.python.lib.decompressor import Decompressor
 from tools.python.lib.binary_extracted import text_to_bytes, bytes_to_text
@@ -763,6 +764,9 @@ class SRWZ():
         etree.SubElement(entry_node, "Chapter").text = "Uncategorized"
         etree.SubElement(entry_node, "Status").text = statusText
 
+    def pack_kurodata(self):
+        kuro = Kurodata()
+        kuro.copy_new_files(self.paths['images_updated'], self.paths['final_files'] / 'New_files' / 'KURODATA')
 
     def patch_binaries(self):
         bin_path = self.paths["tools"] / "bin"

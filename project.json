@@ -12,6 +12,7 @@
         "menu_xml":        "./2_translated/menu/",
         "story_xml":       "./2_translated/story/",
         "font_updated":    "./2_translated/font",
+		"images_updated":  "./2_translated/images",
         "final_files":     "./3_patched/",
         "temp_files":      "./3_patched/patched_temp/",
         "game_builds":     "./4_builds/",
