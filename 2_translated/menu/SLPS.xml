@@ -612,7 +612,7 @@
     <Entry>
       <PointerOffset>3128664</PointerOffset>
       <JapaneseText>「必中」「ひらめき」が同時にかかる。</JapaneseText>
-      <EnglishText>Casts "Bullseye" and "Flash" at once.</EnglishText>
+      <EnglishText>Casts "Bullseye" and "Flash" simultaneously. </EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -636,7 +636,7 @@
     <Entry>
       <PointerOffset>3128680</PointerOffset>
       <JapaneseText>一戦闘だけ敵の攻撃を完全に回避する。</JapaneseText>
-      <EnglishText>Completely evades an enemy's attack for once.</EnglishText>
+      <EnglishText>Completely evades an attack a single time.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -660,7 +660,7 @@
     <Entry>
       <PointerOffset>3128696</PointerOffset>
       <JapaneseText>一戦闘だけ受けるダメージを１０にする。</JapaneseText>
-      <EnglishText>Received damage becomes 10 for once.</EnglishText>
+      <EnglishText>Receive only 10 damage from the next attack.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -789,7 +789,7 @@
       <PointerOffset>3128792</PointerOffset>
       <JapaneseText>敵にとどめを刺さずに、ＨＰを１０だけ残す。
 自分より技量の低い相手にのみ有効。</JapaneseText>
-      <EnglishText>A fatal attack will only leave the enemy at 10 HP.
+      <EnglishText>A fatal attack will leave the enemy at 10 HP.
 Only works when the opponent has a lower Skill stat than the caster.
 </EnglishText>
       <Notes/>
@@ -840,7 +840,7 @@ Only works when the opponent has a lower Skill stat than the caster.
       <PointerOffset>3128824</PointerOffset>
       <JapaneseText>サイズ差、ユニット数によるＡＬＬ攻撃のダメージ減少と、
 相手の防御に関する特殊能力・スキルを無効化する。</JapaneseText>
-      <EnglishText>Ignores damage reduction due to size difference, squadron formations, or Special Abilites and Special Skills.</EnglishText>
+      <EnglishText>Ignores damage reduction from to size differences, squadron formations, Special Abilites, and Special Skills.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -865,7 +865,7 @@ Only works when the opponent has a lower Skill stat than the caster.
       <PointerOffset>3128840</PointerOffset>
       <JapaneseText>一度だけ小隊移動力を＋２。
 移動するまで効果は継続。</JapaneseText>
-      <EnglishText>+2 movement range to squadron for once.</EnglishText>
+      <EnglishText>+2 movement range to squadron for one movement.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -890,7 +890,7 @@ Only works when the opponent has a lower Skill stat than the caster.
       <PointerOffset>3128856</PointerOffset>
       <JapaneseText>一度だけ小隊移動力を＋４。
 移動するまで効果は継続。</JapaneseText>
-      <EnglishText>+4 movement range for squadron for once.</EnglishText>
+      <EnglishText>+4 movement range for squadron for one movement.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -914,7 +914,7 @@ Only works when the opponent has a lower Skill stat than the caster.
     <Entry>
       <PointerOffset>3128872</PointerOffset>
       <JapaneseText>一度だけ敵に与えるダメージが２倍になる。</JapaneseText>
-      <EnglishText>x2 damage dealt for once.</EnglishText>
+      <EnglishText>Next attack by the caster will deal x2 damage.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -930,7 +930,7 @@ Only works when the opponent has a lower Skill stat than the caster.
     <Entry>
       <PointerOffset>3128888</PointerOffset>
       <JapaneseText>一度だけ敵に与えるダメージが２．５倍になる。</JapaneseText>
-      <EnglishText>x2.5 damage dealt for once.</EnglishText>
+      <EnglishText>Next attack by the caster will deal x2.5 damage.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -955,7 +955,7 @@ Only works when the opponent has a lower Skill stat than the caster.
       <PointerOffset>3128904</PointerOffset>
       <JapaneseText>自小隊の行動回数を一回増やす。
 重ねがけは無効。</JapaneseText>
-      <EnglishText>+1 action count for squadron.
+      <EnglishText>+1 action count for this squadron.
 Cannot stack.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
@@ -973,7 +973,7 @@ Cannot stack.</EnglishText>
       <PointerOffset>3128920</PointerOffset>
       <JapaneseText>「加速」「必中」「ひらめき」「熱血」「気合」
 「努力」「幸運」が同時にかかる。</JapaneseText>
-      <EnglishText>Casts "Accel", "Bullseye", "Flash", "Valor", "Spirit", "Gain", "Luck" all at once.</EnglishText>
+      <EnglishText>Casts "Accel", "Bullseye", "Flash", "Valor", "Spirit", "Gain", "Luck" simultaneously.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -990,7 +990,7 @@ Cannot stack.</EnglishText>
       <PointerOffset>3128936</PointerOffset>
       <JapaneseText>「加速」「必中」「不屈」「熱血」「気合」「直撃」が
 同時にかかる。</JapaneseText>
-      <EnglishText>Casts "Accel", "Bullseye", "Persist", "Valor", "Spirit", "Pierce" all at once.</EnglishText>
+      <EnglishText>Casts "Accel", "Bullseye", "Persist", "Valor", "Spirit", "Pierce" simultaneously.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -1006,7 +1006,7 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset>3128952</PointerOffset>
       <JapaneseText>気力を１０上げる。</JapaneseText>
-      <EnglishText>+10 Morale to unit.</EnglishText>
+      <EnglishText>+10 Morale to caster.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -1022,7 +1022,7 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset>3128968</PointerOffset>
       <JapaneseText>気力を３０上げる。</JapaneseText>
-      <EnglishText>+30 Morale to unit.</EnglishText>
+      <EnglishText>+30 Morale to caster</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -1079,7 +1079,7 @@ Cannot stack.</EnglishText>
       <PointerOffset>3129016</PointerOffset>
       <JapaneseText>１ターンの間、指定した敵小隊の攻撃力と防御力を
 １０％ダウンさせる。</JapaneseText>
-      <EnglishText>For 1 turn, -10% defense and attack damage  for selected enemy squadron.</EnglishText>
+      <EnglishText>For 1 turn, -10% defense and attack damage for selected enemy squadron.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -1151,7 +1151,7 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset>3129080</PointerOffset>
       <JapaneseText>指定した味方小隊全機のＨＰを全回復させる。</JapaneseText>
-      <EnglishText>Fully restores HP for selected ally squadron,</EnglishText>
+      <EnglishText>Fully restores HP for selected ally squadron.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
@@ -1232,7 +1232,7 @@ Cannot stack.</EnglishText>
       <PointerOffset>3129160</PointerOffset>
       <JapaneseText>指定した味方小隊全パイロットの気力を１０上げて、
 「祝福」「応援」「友情」をかける。</JapaneseText>
-      <EnglishText>Casts "Spirit", "Bless", "Gain", "Friendship" on selected ally squadron.</EnglishText>
+      <EnglishText>Casts "Spirit", "Bless", "Gain", "Friendship" simultaneously on selected ally squadron.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Editing</Status>
