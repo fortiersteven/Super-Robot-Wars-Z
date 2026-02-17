@@ -208,10 +208,10 @@
     <Entry>
       <PointerOffset>21072</PointerOffset>
       <JapaneseText>敵の全滅。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy all enemy units.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -219,18 +219,18 @@
     <Entry>
       <PointerOffset>21080</PointerOffset>
       <JapaneseText>いずれかの味方ユニットの撃墜。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destruction of any allied unit.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>21084</PointerOffset>
       <JapaneseText>味方の全滅。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destruction of all allied units.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -247,10 +247,11 @@
       <PointerOffset>21092</PointerOffset>
       <JapaneseText>アデットのドゴッゾを撃墜する。
 なお、アデット機はＨＰ３０００以下で後退する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy Adette's Dogozzo.
+Or, force Adette's unit to retreat by bringing it down below 3000HP</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -80,10 +80,10 @@
     <Entry>
       <PointerOffset>13920</PointerOffset>
       <JapaneseText>ゲラバの撃墜。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy Geraba's unit.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -91,10 +91,10 @@
     <Entry>
       <PointerOffset>13928</PointerOffset>
       <JapaneseText>いずれかの味方ユニットの撃墜。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destruction of any friendly unit.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -103,10 +103,10 @@
       <PointerOffset>13936</PointerOffset>
       <JapaneseText>４ターン味方フェイズ以内に
 ゲラバを含む全ての敵を撃墜する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy all enemy units including Geraba's before turn 4's allied phase.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
