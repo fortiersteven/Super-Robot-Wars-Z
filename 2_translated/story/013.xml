@@ -8,7 +8,7 @@
       <Notes/>
       <Id>1</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ブレーカー</JapaneseText>
@@ -16,7 +16,7 @@
       <Notes/>
       <Id>2</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>？？？</JapaneseText>
@@ -24,7 +24,7 @@
       <Notes/>
       <Id>3</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>$n</JapaneseText>
@@ -32,7 +32,7 @@
       <Notes/>
       <Id>4</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>メール</JapaneseText>
@@ -40,7 +40,7 @@
       <Notes/>
       <Id>5</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ガロード</JapaneseText>
@@ -48,7 +48,7 @@
       <Notes/>
       <Id>6</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ゲイン</JapaneseText>
@@ -56,7 +56,7 @@
       <Notes/>
       <Id>7</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText></JapaneseText>
@@ -80,10 +80,10 @@
     <Entry>
       <PointerOffset>13920</PointerOffset>
       <JapaneseText>ゲラバの撃墜。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy Geraba's unit.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -91,10 +91,10 @@
     <Entry>
       <PointerOffset>13928</PointerOffset>
       <JapaneseText>いずれかの味方ユニットの撃墜。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destruction of any friendly unit.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -103,10 +103,10 @@
       <PointerOffset>13936</PointerOffset>
       <JapaneseText>４ターン味方フェイズ以内に
 ゲラバを含む全ての敵を撃墜する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy all enemy units including Geraba's before turn 4's allied phase.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -119,7 +119,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3152</PointerOffset>
@@ -129,7 +129,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -141,7 +141,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3312</PointerOffset>
@@ -151,7 +151,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3344</PointerOffset>
@@ -162,7 +162,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3376</PointerOffset>
@@ -173,7 +173,7 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3408</PointerOffset>
@@ -183,7 +183,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3440</PointerOffset>
@@ -195,7 +195,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3472</PointerOffset>
@@ -204,7 +204,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3504</PointerOffset>
@@ -216,7 +216,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3536</PointerOffset>
@@ -226,7 +226,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -238,7 +238,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3696</PointerOffset>
@@ -248,7 +248,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3728</PointerOffset>
@@ -258,7 +258,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3760</PointerOffset>
@@ -269,7 +269,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3792</PointerOffset>
@@ -279,7 +279,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3824</PointerOffset>
@@ -288,7 +288,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3856</PointerOffset>
@@ -299,7 +299,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3888</PointerOffset>
@@ -308,7 +308,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3920</PointerOffset>
@@ -318,7 +318,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3952</PointerOffset>
@@ -327,7 +327,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3984</PointerOffset>
@@ -338,7 +338,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4016</PointerOffset>
@@ -348,7 +348,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4048</PointerOffset>
@@ -358,7 +358,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4080</PointerOffset>
@@ -369,7 +369,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4112</PointerOffset>
@@ -380,7 +380,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4144</PointerOffset>
@@ -390,7 +390,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4176</PointerOffset>
@@ -400,7 +400,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4208</PointerOffset>
@@ -410,7 +410,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4240</PointerOffset>
@@ -419,7 +419,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4272</PointerOffset>
@@ -430,7 +430,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4304</PointerOffset>
@@ -439,7 +439,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -452,7 +452,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4464</PointerOffset>
@@ -462,7 +462,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4496</PointerOffset>
@@ -473,7 +473,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4528</PointerOffset>
@@ -482,7 +482,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4560</PointerOffset>
@@ -493,7 +493,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4592</PointerOffset>
@@ -504,7 +504,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4624</PointerOffset>
@@ -514,7 +514,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4656</PointerOffset>
@@ -523,7 +523,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4688</PointerOffset>
@@ -532,7 +532,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4720</PointerOffset>
@@ -543,7 +543,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4752</PointerOffset>
@@ -554,7 +554,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4784</PointerOffset>
@@ -564,7 +564,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4816</PointerOffset>
@@ -575,7 +575,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -587,7 +587,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4976</PointerOffset>
@@ -597,7 +597,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5008</PointerOffset>
@@ -607,7 +607,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5040</PointerOffset>
@@ -617,7 +617,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5072</PointerOffset>
@@ -628,7 +628,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5104</PointerOffset>
@@ -637,7 +637,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5136</PointerOffset>
@@ -647,7 +647,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -660,7 +660,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5296</PointerOffset>
@@ -669,7 +669,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5328</PointerOffset>
@@ -679,7 +679,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -692,7 +692,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5488</PointerOffset>
@@ -702,7 +702,7 @@ We are the wandering repairmen, Beater Service...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -716,7 +716,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -729,7 +729,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5776</PointerOffset>
@@ -739,7 +739,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5808</PointerOffset>
@@ -749,7 +749,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5840</PointerOffset>
@@ -758,7 +758,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -772,7 +772,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6000</PointerOffset>
@@ -781,7 +781,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6032</PointerOffset>
@@ -790,7 +790,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6064</PointerOffset>
@@ -800,7 +800,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6096</PointerOffset>
@@ -809,7 +809,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -822,7 +822,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6256</PointerOffset>
@@ -832,7 +832,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6288</PointerOffset>
@@ -842,7 +842,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6320</PointerOffset>
@@ -853,7 +853,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -866,7 +866,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6480</PointerOffset>
@@ -876,7 +876,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -889,7 +889,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6640</PointerOffset>
@@ -900,7 +900,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6672</PointerOffset>
@@ -910,7 +910,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6704</PointerOffset>
@@ -921,7 +921,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6736</PointerOffset>
@@ -931,7 +931,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6768</PointerOffset>
@@ -941,7 +941,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6800</PointerOffset>
@@ -950,7 +950,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6832</PointerOffset>
@@ -959,7 +959,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6864</PointerOffset>
@@ -969,7 +969,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6896</PointerOffset>
@@ -979,7 +979,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -993,7 +993,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7056</PointerOffset>
@@ -1003,7 +1003,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1016,7 +1016,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7216</PointerOffset>
@@ -1026,7 +1026,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7248</PointerOffset>
@@ -1036,7 +1036,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7280</PointerOffset>
@@ -1047,7 +1047,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7312</PointerOffset>
@@ -1057,7 +1057,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1069,7 +1069,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7856</PointerOffset>
@@ -1078,7 +1078,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7888</PointerOffset>
@@ -1087,7 +1087,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8016</PointerOffset>
@@ -1098,7 +1098,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8048</PointerOffset>
@@ -1108,7 +1108,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8080</PointerOffset>
@@ -1119,7 +1119,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8112</PointerOffset>
@@ -1128,7 +1128,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8144</PointerOffset>
@@ -1137,7 +1137,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8176</PointerOffset>
@@ -1147,7 +1147,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8208</PointerOffset>
@@ -1157,7 +1157,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8240</PointerOffset>
@@ -1166,7 +1166,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8272</PointerOffset>
@@ -1177,7 +1177,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8304</PointerOffset>
@@ -1188,7 +1188,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8336</PointerOffset>
@@ -1197,7 +1197,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8368</PointerOffset>
@@ -1208,7 +1208,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8400</PointerOffset>
@@ -1218,7 +1218,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8432</PointerOffset>
@@ -1227,7 +1227,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8496</PointerOffset>
@@ -1236,7 +1236,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8528</PointerOffset>
@@ -1246,7 +1246,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8560</PointerOffset>
@@ -1257,7 +1257,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8592</PointerOffset>
@@ -1266,7 +1266,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8624</PointerOffset>
@@ -1276,7 +1276,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8656</PointerOffset>
@@ -1285,7 +1285,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8688</PointerOffset>
@@ -1296,7 +1296,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8720</PointerOffset>
@@ -1306,7 +1306,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8752</PointerOffset>
@@ -1316,7 +1316,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8784</PointerOffset>
@@ -1325,7 +1325,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8816</PointerOffset>
@@ -1334,7 +1334,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8848</PointerOffset>
@@ -1344,7 +1344,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8880</PointerOffset>
@@ -1354,7 +1354,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8912</PointerOffset>
@@ -1365,7 +1365,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8944</PointerOffset>
@@ -1374,7 +1374,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8976</PointerOffset>
@@ -1385,7 +1385,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9008</PointerOffset>
@@ -1395,7 +1395,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9040</PointerOffset>
@@ -1404,7 +1404,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9072</PointerOffset>
@@ -1414,7 +1414,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9104</PointerOffset>
@@ -1423,7 +1423,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9200</PointerOffset>
@@ -1433,7 +1433,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9232</PointerOffset>
@@ -1443,7 +1443,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9264</PointerOffset>
@@ -1452,7 +1452,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9296</PointerOffset>
@@ -1461,7 +1461,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9328</PointerOffset>
@@ -1471,7 +1471,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9360</PointerOffset>
@@ -1480,7 +1480,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9392</PointerOffset>
@@ -1489,7 +1489,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9424</PointerOffset>
@@ -1500,7 +1500,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9520</PointerOffset>
@@ -1509,7 +1509,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9552</PointerOffset>
@@ -1520,7 +1520,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9648</PointerOffset>
@@ -1529,7 +1529,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9680</PointerOffset>
@@ -1538,7 +1538,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9712</PointerOffset>
@@ -1547,7 +1547,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9872</PointerOffset>
@@ -1556,7 +1556,7 @@ You're a junker...the crusher...!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9936</PointerOffset>
@@ -1568,7 +1568,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9968</PointerOffset>
@@ -1578,7 +1578,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10000</PointerOffset>
@@ -1588,7 +1588,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10032</PointerOffset>
@@ -1597,7 +1597,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10064</PointerOffset>
@@ -1608,7 +1608,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10096</PointerOffset>
@@ -1619,7 +1619,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10128</PointerOffset>
@@ -1630,7 +1630,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10160</PointerOffset>
@@ -1641,7 +1641,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10192</PointerOffset>
@@ -1652,7 +1652,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10256</PointerOffset>
@@ -1661,7 +1661,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10288</PointerOffset>
@@ -1670,7 +1670,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10320</PointerOffset>
@@ -1681,7 +1681,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10352</PointerOffset>
@@ -1692,7 +1692,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10384</PointerOffset>
@@ -1701,7 +1701,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10416</PointerOffset>
@@ -1711,7 +1711,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10448</PointerOffset>
@@ -1722,7 +1722,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10480</PointerOffset>
@@ -1732,7 +1732,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10512</PointerOffset>
@@ -1743,7 +1743,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10544</PointerOffset>
@@ -1753,7 +1753,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10576</PointerOffset>
@@ -1764,7 +1764,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10608</PointerOffset>
@@ -1774,7 +1774,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10640</PointerOffset>
@@ -1783,7 +1783,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10672</PointerOffset>
@@ -1793,7 +1793,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10704</PointerOffset>
@@ -1802,7 +1802,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10736</PointerOffset>
@@ -1811,7 +1811,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10768</PointerOffset>
@@ -1821,7 +1821,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10800</PointerOffset>
@@ -1831,7 +1831,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10832</PointerOffset>
@@ -1841,7 +1841,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10864</PointerOffset>
@@ -1850,7 +1850,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10896</PointerOffset>
@@ -1861,7 +1861,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10928</PointerOffset>
@@ -1871,7 +1871,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10960</PointerOffset>
@@ -1881,7 +1881,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11024</PointerOffset>
@@ -1892,7 +1892,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11056</PointerOffset>
@@ -1901,7 +1901,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11088</PointerOffset>
@@ -1911,7 +1911,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11120</PointerOffset>
@@ -1922,7 +1922,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11152</PointerOffset>
@@ -1931,7 +1931,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11184</PointerOffset>
@@ -1942,7 +1942,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11216</PointerOffset>
@@ -1953,7 +1953,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11248</PointerOffset>
@@ -1964,7 +1964,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11280</PointerOffset>
@@ -1973,7 +1973,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11312</PointerOffset>
@@ -1983,7 +1983,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11344</PointerOffset>
@@ -1992,7 +1992,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11376</PointerOffset>
@@ -2003,7 +2003,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11504</PointerOffset>
@@ -2012,7 +2012,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11536</PointerOffset>
@@ -2023,7 +2023,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11568</PointerOffset>
@@ -2032,7 +2032,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11600</PointerOffset>
@@ -2042,7 +2042,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11632</PointerOffset>
@@ -2053,7 +2053,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11664</PointerOffset>
@@ -2062,7 +2062,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11696</PointerOffset>
@@ -2073,7 +2073,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11728</PointerOffset>
@@ -2083,7 +2083,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -2095,7 +2095,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11920</PointerOffset>
@@ -2104,7 +2104,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11952</PointerOffset>
@@ -2113,7 +2113,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12080</PointerOffset>
@@ -2123,7 +2123,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12112</PointerOffset>
@@ -2134,7 +2134,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12144</PointerOffset>
@@ -2144,7 +2144,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12176</PointerOffset>
@@ -2155,7 +2155,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12208</PointerOffset>
@@ -2164,7 +2164,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12240</PointerOffset>
@@ -2173,7 +2173,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12272</PointerOffset>
@@ -2182,7 +2182,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12304</PointerOffset>
@@ -2192,7 +2192,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12336</PointerOffset>
@@ -2201,7 +2201,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12368</PointerOffset>
@@ -2212,7 +2212,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12400</PointerOffset>
@@ -2223,7 +2223,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12432</PointerOffset>
@@ -2232,7 +2232,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12464</PointerOffset>
@@ -2241,7 +2241,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12496</PointerOffset>
@@ -2251,7 +2251,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12528</PointerOffset>
@@ -2261,7 +2261,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12560</PointerOffset>
@@ -2272,7 +2272,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12592</PointerOffset>
@@ -2281,7 +2281,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12624</PointerOffset>
@@ -2291,7 +2291,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12656</PointerOffset>
@@ -2300,7 +2300,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12688</PointerOffset>
@@ -2311,7 +2311,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12720</PointerOffset>
@@ -2321,7 +2321,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12752</PointerOffset>
@@ -2332,7 +2332,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12784</PointerOffset>
@@ -2342,7 +2342,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12816</PointerOffset>
@@ -2351,7 +2351,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12848</PointerOffset>
@@ -2362,7 +2362,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12880</PointerOffset>
@@ -2373,7 +2373,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12912</PointerOffset>
@@ -2384,7 +2384,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12944</PointerOffset>
@@ -2393,7 +2393,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12976</PointerOffset>
@@ -2403,7 +2403,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13008</PointerOffset>
@@ -2413,7 +2413,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13040</PointerOffset>
@@ -2424,7 +2424,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13072</PointerOffset>
@@ -2433,7 +2433,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13104</PointerOffset>
@@ -2443,7 +2443,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13136</PointerOffset>
@@ -2453,7 +2453,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13168</PointerOffset>
@@ -2462,7 +2462,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13200</PointerOffset>
@@ -2473,7 +2473,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13232</PointerOffset>
@@ -2482,7 +2482,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13264</PointerOffset>
@@ -2493,7 +2493,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13296</PointerOffset>
@@ -2502,7 +2502,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13328</PointerOffset>
@@ -2511,7 +2511,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13360</PointerOffset>
@@ -2522,7 +2522,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13392</PointerOffset>
@@ -2532,7 +2532,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13424</PointerOffset>
@@ -2541,7 +2541,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13456</PointerOffset>
@@ -2551,7 +2551,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13488</PointerOffset>
@@ -2560,7 +2560,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13520</PointerOffset>
@@ -2570,7 +2570,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13552</PointerOffset>
@@ -2579,7 +2579,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13584</PointerOffset>
@@ -2590,7 +2590,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13616</PointerOffset>
@@ -2600,7 +2600,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13648</PointerOffset>
@@ -2610,7 +2610,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13680</PointerOffset>
@@ -2620,7 +2620,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13712</PointerOffset>
@@ -2631,7 +2631,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13744</PointerOffset>
@@ -2642,7 +2642,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13776</PointerOffset>
@@ -2651,7 +2651,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13808</PointerOffset>
@@ -2660,7 +2660,7 @@ I will be introducing the centerpiece of this bazaar!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
 </ScenarioText>

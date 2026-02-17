@@ -16,7 +16,7 @@
       <Notes/>
       <Id>2</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>メール</JapaneseText>
@@ -24,7 +24,7 @@
       <Notes/>
       <Id>3</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ヤッサバ</JapaneseText>
@@ -32,7 +32,7 @@
       <Notes/>
       <Id>4</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ジャボリ</JapaneseText>
@@ -40,7 +40,7 @@
       <Notes/>
       <Id>5</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>エンゲ</JapaneseText>
@@ -48,7 +48,7 @@
       <Notes/>
       <Id>6</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ケジナン</JapaneseText>
@@ -56,7 +56,7 @@
       <Notes/>
       <Id>7</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>アナ</JapaneseText>
@@ -64,7 +64,7 @@
       <Notes/>
       <Id>8</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ゲイナー</JapaneseText>
@@ -72,7 +72,7 @@
       <Notes/>
       <Id>9</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>アデット</JapaneseText>
@@ -80,7 +80,7 @@
       <Notes/>
       <Id>10</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ゲイン</JapaneseText>
@@ -88,7 +88,7 @@
       <Notes/>
       <Id>11</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>サラ</JapaneseText>
@@ -96,7 +96,7 @@
       <Notes/>
       <Id>12</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ガウリ</JapaneseText>
@@ -104,7 +104,7 @@
       <Notes/>
       <Id>13</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ベロー</JapaneseText>
@@ -112,7 +112,7 @@
       <Notes/>
       <Id>14</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText></JapaneseText>
@@ -136,7 +136,7 @@
       <Notes/>
       <Id>17</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>　</JapaneseText>
@@ -152,7 +152,7 @@
       <Notes/>
       <Id>19</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>リュボフ</JapaneseText>
@@ -160,7 +160,7 @@
       <Notes/>
       <Id>20</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>リンクス</JapaneseText>
@@ -168,7 +168,7 @@
       <Notes/>
       <Id>21</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ガッハ</JapaneseText>
@@ -176,7 +176,7 @@
       <Notes/>
       <Id>22</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>ペルハァ</JapaneseText>
@@ -184,7 +184,7 @@
       <Notes/>
       <Id>23</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>シトラン</JapaneseText>
@@ -192,7 +192,7 @@
       <Notes/>
       <Id>24</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <JapaneseText>マンマン</JapaneseText>
@@ -200,7 +200,7 @@
       <Notes/>
       <Id>25</Id>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -208,10 +208,10 @@
     <Entry>
       <PointerOffset>21072</PointerOffset>
       <JapaneseText>敵の全滅。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy all enemy units.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -219,18 +219,18 @@
     <Entry>
       <PointerOffset>21080</PointerOffset>
       <JapaneseText>いずれかの味方ユニットの撃墜。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destruction of any allied unit.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>21084</PointerOffset>
       <JapaneseText>味方の全滅。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destruction of all allied units.</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -241,16 +241,17 @@
       <EnglishText>???</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>21092</PointerOffset>
       <JapaneseText>アデットのドゴッゾを撃墜する。
 なお、アデット機はＨＰ３０００以下で後退する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Destroy Adette's Dogozzo.
+Or, force Adette's unit to retreat by bringing it down below 3000HP</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -264,7 +265,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>2864</PointerOffset>
@@ -275,7 +276,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -289,7 +290,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3024</PointerOffset>
@@ -298,7 +299,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3056</PointerOffset>
@@ -308,7 +309,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3088</PointerOffset>
@@ -319,7 +320,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3120</PointerOffset>
@@ -328,7 +329,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3152</PointerOffset>
@@ -337,7 +338,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -351,7 +352,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3312</PointerOffset>
@@ -362,7 +363,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3344</PointerOffset>
@@ -373,7 +374,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3376</PointerOffset>
@@ -383,7 +384,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3408</PointerOffset>
@@ -394,7 +395,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -408,7 +409,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3568</PointerOffset>
@@ -417,7 +418,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3600</PointerOffset>
@@ -428,7 +429,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3632</PointerOffset>
@@ -439,7 +440,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3664</PointerOffset>
@@ -449,7 +450,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3696</PointerOffset>
@@ -459,7 +460,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3728</PointerOffset>
@@ -469,7 +470,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3760</PointerOffset>
@@ -479,7 +480,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3792</PointerOffset>
@@ -489,7 +490,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3824</PointerOffset>
@@ -498,7 +499,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3856</PointerOffset>
@@ -507,7 +508,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3888</PointerOffset>
@@ -518,7 +519,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3920</PointerOffset>
@@ -527,7 +528,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3952</PointerOffset>
@@ -537,7 +538,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3984</PointerOffset>
@@ -546,7 +547,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4016</PointerOffset>
@@ -557,7 +558,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4048</PointerOffset>
@@ -567,7 +568,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -580,7 +581,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4208</PointerOffset>
@@ -589,7 +590,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4240</PointerOffset>
@@ -598,7 +599,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -611,7 +612,7 @@ Those are the Dome living units.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4400</PointerOffset>
@@ -623,7 +624,7 @@ What's the name of that Overman?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4432</PointerOffset>
@@ -632,7 +633,7 @@ What's the name of that Overman?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4464</PointerOffset>
@@ -641,7 +642,7 @@ What's the name of that Overman?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4496</PointerOffset>
@@ -652,7 +653,7 @@ What's the name of that Overman?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4528</PointerOffset>
@@ -662,7 +663,7 @@ What's the name of that Overman?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4560</PointerOffset>
@@ -671,7 +672,7 @@ What's the name of that Overman?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -683,7 +684,7 @@ What's the name of that Overman?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4720</PointerOffset>
@@ -695,7 +696,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4752</PointerOffset>
@@ -704,7 +705,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>4784</PointerOffset>
@@ -714,7 +715,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -726,7 +727,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -738,7 +739,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5072</PointerOffset>
@@ -748,7 +749,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5104</PointerOffset>
@@ -758,7 +759,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5136</PointerOffset>
@@ -769,7 +770,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5168</PointerOffset>
@@ -778,7 +779,7 @@ We're not going to let you go if you're trying to Exodus!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -792,7 +793,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5328</PointerOffset>
@@ -802,7 +803,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5360</PointerOffset>
@@ -813,7 +814,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5392</PointerOffset>
@@ -823,7 +824,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5424</PointerOffset>
@@ -834,7 +835,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5456</PointerOffset>
@@ -844,7 +845,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5488</PointerOffset>
@@ -853,7 +854,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5520</PointerOffset>
@@ -863,7 +864,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5552</PointerOffset>
@@ -874,7 +875,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5584</PointerOffset>
@@ -883,7 +884,7 @@ Is that haired unit ours?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5616</PointerOffset>
@@ -894,7 +895,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5648</PointerOffset>
@@ -903,7 +904,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -916,7 +917,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5808</PointerOffset>
@@ -926,7 +927,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>5840</PointerOffset>
@@ -937,7 +938,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -950,7 +951,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6000</PointerOffset>
@@ -960,7 +961,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6032</PointerOffset>
@@ -971,7 +972,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6064</PointerOffset>
@@ -982,7 +983,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6096</PointerOffset>
@@ -991,7 +992,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6128</PointerOffset>
@@ -1001,7 +1002,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6160</PointerOffset>
@@ -1011,7 +1012,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1024,7 +1025,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6320</PointerOffset>
@@ -1035,7 +1036,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1049,7 +1050,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1063,7 +1064,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6608</PointerOffset>
@@ -1074,7 +1075,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1088,7 +1089,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6768</PointerOffset>
@@ -1098,7 +1099,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6800</PointerOffset>
@@ -1107,7 +1108,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6832</PointerOffset>
@@ -1118,7 +1119,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1132,7 +1133,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>6992</PointerOffset>
@@ -1142,7 +1143,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7024</PointerOffset>
@@ -1153,7 +1154,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7056</PointerOffset>
@@ -1164,7 +1165,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1177,7 +1178,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7216</PointerOffset>
@@ -1187,7 +1188,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1200,7 +1201,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7376</PointerOffset>
@@ -1210,7 +1211,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1224,7 +1225,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7536</PointerOffset>
@@ -1233,7 +1234,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1247,7 +1248,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7696</PointerOffset>
@@ -1257,7 +1258,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1271,7 +1272,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7856</PointerOffset>
@@ -1281,7 +1282,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7888</PointerOffset>
@@ -1292,7 +1293,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7920</PointerOffset>
@@ -1303,7 +1304,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>7952</PointerOffset>
@@ -1313,7 +1314,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1325,7 +1326,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8592</PointerOffset>
@@ -1334,7 +1335,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8624</PointerOffset>
@@ -1343,7 +1344,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8784</PointerOffset>
@@ -1352,7 +1353,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8848</PointerOffset>
@@ -1363,7 +1364,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8880</PointerOffset>
@@ -1374,7 +1375,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8912</PointerOffset>
@@ -1385,7 +1386,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8944</PointerOffset>
@@ -1395,7 +1396,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>8976</PointerOffset>
@@ -1405,7 +1406,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9008</PointerOffset>
@@ -1415,7 +1416,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9040</PointerOffset>
@@ -1426,7 +1427,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9072</PointerOffset>
@@ -1437,7 +1438,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9104</PointerOffset>
@@ -1447,7 +1448,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9136</PointerOffset>
@@ -1458,7 +1459,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9168</PointerOffset>
@@ -1469,7 +1470,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9200</PointerOffset>
@@ -1480,7 +1481,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9232</PointerOffset>
@@ -1491,7 +1492,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9264</PointerOffset>
@@ -1501,7 +1502,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9296</PointerOffset>
@@ -1512,7 +1513,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9328</PointerOffset>
@@ -1523,7 +1524,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9360</PointerOffset>
@@ -1534,7 +1535,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9392</PointerOffset>
@@ -1545,7 +1546,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9424</PointerOffset>
@@ -1555,7 +1556,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9456</PointerOffset>
@@ -1565,7 +1566,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9488</PointerOffset>
@@ -1576,7 +1577,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9520</PointerOffset>
@@ -1585,7 +1586,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9552</PointerOffset>
@@ -1594,7 +1595,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9616</PointerOffset>
@@ -1603,7 +1604,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9648</PointerOffset>
@@ -1612,7 +1613,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9744</PointerOffset>
@@ -1621,7 +1622,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9776</PointerOffset>
@@ -1630,7 +1631,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9808</PointerOffset>
@@ -1639,7 +1640,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9840</PointerOffset>
@@ -1648,7 +1649,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9872</PointerOffset>
@@ -1658,7 +1659,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9904</PointerOffset>
@@ -1667,7 +1668,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9936</PointerOffset>
@@ -1677,7 +1678,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>9968</PointerOffset>
@@ -1686,7 +1687,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10000</PointerOffset>
@@ -1695,7 +1696,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10032</PointerOffset>
@@ -1704,7 +1705,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10096</PointerOffset>
@@ -1714,7 +1715,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10192</PointerOffset>
@@ -1724,7 +1725,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10224</PointerOffset>
@@ -1734,7 +1735,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10256</PointerOffset>
@@ -1744,7 +1745,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10352</PointerOffset>
@@ -1753,7 +1754,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10384</PointerOffset>
@@ -1762,7 +1763,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10416</PointerOffset>
@@ -1771,7 +1772,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10576</PointerOffset>
@@ -1780,7 +1781,7 @@ Let's aim for the leader unit!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10640</PointerOffset>
@@ -1792,7 +1793,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10672</PointerOffset>
@@ -1801,7 +1802,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10704</PointerOffset>
@@ -1811,7 +1812,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10736</PointerOffset>
@@ -1822,7 +1823,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10768</PointerOffset>
@@ -1832,7 +1833,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10800</PointerOffset>
@@ -1842,7 +1843,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10832</PointerOffset>
@@ -1851,7 +1852,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10864</PointerOffset>
@@ -1861,7 +1862,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10896</PointerOffset>
@@ -1871,7 +1872,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10928</PointerOffset>
@@ -1882,7 +1883,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10960</PointerOffset>
@@ -1893,7 +1894,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>10992</PointerOffset>
@@ -1904,7 +1905,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11024</PointerOffset>
@@ -1915,7 +1916,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11056</PointerOffset>
@@ -1924,7 +1925,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11088</PointerOffset>
@@ -1935,7 +1936,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11120</PointerOffset>
@@ -1946,7 +1947,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11152</PointerOffset>
@@ -1956,7 +1957,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11184</PointerOffset>
@@ -1965,7 +1966,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11216</PointerOffset>
@@ -1975,7 +1976,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11312</PointerOffset>
@@ -1984,7 +1985,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11344</PointerOffset>
@@ -1993,7 +1994,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11376</PointerOffset>
@@ -2002,7 +2003,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11536</PointerOffset>
@@ -2011,7 +2012,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11600</PointerOffset>
@@ -2021,7 +2022,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11632</PointerOffset>
@@ -2032,7 +2033,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11728</PointerOffset>
@@ -2041,7 +2042,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11760</PointerOffset>
@@ -2052,7 +2053,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11792</PointerOffset>
@@ -2062,7 +2063,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11824</PointerOffset>
@@ -2071,7 +2072,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11856</PointerOffset>
@@ -2080,7 +2081,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11888</PointerOffset>
@@ -2091,7 +2092,7 @@ They're preparing a huge float!  Oh! There's an even bigger one that way!</Engli
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11920</PointerOffset>
@@ -2103,7 +2104,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11952</PointerOffset>
@@ -2113,7 +2114,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>11984</PointerOffset>
@@ -2122,7 +2123,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12016</PointerOffset>
@@ -2131,7 +2132,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12144</PointerOffset>
@@ -2141,7 +2142,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12176</PointerOffset>
@@ -2150,7 +2151,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12208</PointerOffset>
@@ -2159,7 +2160,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12240</PointerOffset>
@@ -2168,7 +2169,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12272</PointerOffset>
@@ -2179,7 +2180,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12304</PointerOffset>
@@ -2188,7 +2189,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12336</PointerOffset>
@@ -2197,7 +2198,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12368</PointerOffset>
@@ -2206,7 +2207,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12400</PointerOffset>
@@ -2215,7 +2216,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12432</PointerOffset>
@@ -2224,7 +2225,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12464</PointerOffset>
@@ -2233,7 +2234,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12496</PointerOffset>
@@ -2242,7 +2243,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12592</PointerOffset>
@@ -2251,7 +2252,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12624</PointerOffset>
@@ -2260,7 +2261,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12656</PointerOffset>
@@ -2269,7 +2270,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12816</PointerOffset>
@@ -2278,7 +2279,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12880</PointerOffset>
@@ -2288,7 +2289,7 @@ Medailles's residence.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12912</PointerOffset>
@@ -2299,7 +2300,7 @@ That's just a projection!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12944</PointerOffset>
@@ -2310,7 +2311,7 @@ That's just a projection!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>12976</PointerOffset>
@@ -2320,7 +2321,7 @@ That's just a projection!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13008</PointerOffset>
@@ -2332,7 +2333,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13040</PointerOffset>
@@ -2342,7 +2343,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13072</PointerOffset>
@@ -2352,7 +2353,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13104</PointerOffset>
@@ -2362,7 +2363,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13136</PointerOffset>
@@ -2373,7 +2374,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13168</PointerOffset>
@@ -2384,7 +2385,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13264</PointerOffset>
@@ -2393,7 +2394,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13296</PointerOffset>
@@ -2402,7 +2403,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13328</PointerOffset>
@@ -2412,7 +2413,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13360</PointerOffset>
@@ -2423,7 +2424,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13392</PointerOffset>
@@ -2432,7 +2433,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13424</PointerOffset>
@@ -2442,7 +2443,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13456</PointerOffset>
@@ -2453,7 +2454,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13552</PointerOffset>
@@ -2463,7 +2464,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13584</PointerOffset>
@@ -2473,7 +2474,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13616</PointerOffset>
@@ -2483,7 +2484,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13648</PointerOffset>
@@ -2493,7 +2494,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13680</PointerOffset>
@@ -2504,7 +2505,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13712</PointerOffset>
@@ -2514,7 +2515,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13744</PointerOffset>
@@ -2524,7 +2525,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13776</PointerOffset>
@@ -2534,7 +2535,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13808</PointerOffset>
@@ -2545,7 +2546,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13840</PointerOffset>
@@ -2554,7 +2555,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13936</PointerOffset>
@@ -2563,7 +2564,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>13968</PointerOffset>
@@ -2572,7 +2573,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14000</PointerOffset>
@@ -2581,7 +2582,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14160</PointerOffset>
@@ -2590,7 +2591,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14192</PointerOffset>
@@ -2599,7 +2600,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14224</PointerOffset>
@@ -2610,7 +2611,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14256</PointerOffset>
@@ -2621,7 +2622,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14288</PointerOffset>
@@ -2632,7 +2633,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14320</PointerOffset>
@@ -2644,7 +2645,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14352</PointerOffset>
@@ -2653,7 +2654,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14384</PointerOffset>
@@ -2662,7 +2663,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14480</PointerOffset>
@@ -2671,7 +2672,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14512</PointerOffset>
@@ -2680,7 +2681,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14544</PointerOffset>
@@ -2689,7 +2690,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14672</PointerOffset>
@@ -2698,7 +2699,7 @@ For example...that side street...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14704</PointerOffset>
@@ -2710,7 +2711,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14736</PointerOffset>
@@ -2719,7 +2720,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14800</PointerOffset>
@@ -2728,7 +2729,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14832</PointerOffset>
@@ -2738,7 +2739,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14864</PointerOffset>
@@ -2748,7 +2749,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14896</PointerOffset>
@@ -2757,7 +2758,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14928</PointerOffset>
@@ -2766,7 +2767,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>14960</PointerOffset>
@@ -2775,7 +2776,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15056</PointerOffset>
@@ -2784,7 +2785,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15088</PointerOffset>
@@ -2793,7 +2794,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15120</PointerOffset>
@@ -2802,7 +2803,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15280</PointerOffset>
@@ -2811,7 +2812,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15344</PointerOffset>
@@ -2821,7 +2822,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15376</PointerOffset>
@@ -2831,7 +2832,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15408</PointerOffset>
@@ -2841,7 +2842,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15440</PointerOffset>
@@ -2850,7 +2851,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15472</PointerOffset>
@@ -2859,7 +2860,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15504</PointerOffset>
@@ -2868,7 +2869,7 @@ There's probably some reason behind it.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15568</PointerOffset>
@@ -2879,7 +2880,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15696</PointerOffset>
@@ -2888,7 +2889,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15728</PointerOffset>
@@ -2897,7 +2898,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15760</PointerOffset>
@@ -2907,7 +2908,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15824</PointerOffset>
@@ -2917,7 +2918,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15856</PointerOffset>
@@ -2926,7 +2927,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15888</PointerOffset>
@@ -2936,7 +2937,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15920</PointerOffset>
@@ -2945,7 +2946,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15952</PointerOffset>
@@ -2955,7 +2956,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>15984</PointerOffset>
@@ -2964,7 +2965,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16016</PointerOffset>
@@ -2975,7 +2976,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16048</PointerOffset>
@@ -2984,7 +2985,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16080</PointerOffset>
@@ -2993,7 +2994,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16112</PointerOffset>
@@ -3003,7 +3004,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16144</PointerOffset>
@@ -3013,7 +3014,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16176</PointerOffset>
@@ -3022,7 +3023,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16272</PointerOffset>
@@ -3032,7 +3033,7 @@ Something's under the floor!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16304</PointerOffset>
@@ -3044,7 +3045,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16336</PointerOffset>
@@ -3053,7 +3054,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16432</PointerOffset>
@@ -3062,7 +3063,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16464</PointerOffset>
@@ -3071,7 +3072,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16496</PointerOffset>
@@ -3082,7 +3083,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16528</PointerOffset>
@@ -3091,7 +3092,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16560</PointerOffset>
@@ -3102,7 +3103,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16592</PointerOffset>
@@ -3111,7 +3112,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -3123,7 +3124,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16880</PointerOffset>
@@ -3132,7 +3133,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>16912</PointerOffset>
@@ -3141,7 +3142,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17040</PointerOffset>
@@ -3152,7 +3153,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17072</PointerOffset>
@@ -3161,7 +3162,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17104</PointerOffset>
@@ -3172,7 +3173,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17136</PointerOffset>
@@ -3181,7 +3182,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17168</PointerOffset>
@@ -3192,7 +3193,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17200</PointerOffset>
@@ -3202,7 +3203,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17232</PointerOffset>
@@ -3212,7 +3213,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17264</PointerOffset>
@@ -3223,7 +3224,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17296</PointerOffset>
@@ -3234,7 +3235,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17328</PointerOffset>
@@ -3245,7 +3246,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17360</PointerOffset>
@@ -3255,7 +3256,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17392</PointerOffset>
@@ -3264,7 +3265,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17424</PointerOffset>
@@ -3275,7 +3276,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17456</PointerOffset>
@@ -3285,7 +3286,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17488</PointerOffset>
@@ -3295,7 +3296,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17520</PointerOffset>
@@ -3305,7 +3306,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17552</PointerOffset>
@@ -3316,7 +3317,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17616</PointerOffset>
@@ -3327,7 +3328,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17648</PointerOffset>
@@ -3338,7 +3339,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17680</PointerOffset>
@@ -3347,7 +3348,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17712</PointerOffset>
@@ -3357,7 +3358,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17744</PointerOffset>
@@ -3367,7 +3368,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17776</PointerOffset>
@@ -3378,7 +3379,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17872</PointerOffset>
@@ -3387,7 +3388,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17904</PointerOffset>
@@ -3396,7 +3397,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>17936</PointerOffset>
@@ -3405,7 +3406,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18096</PointerOffset>
@@ -3414,7 +3415,7 @@ I...I am the princess' dedicated tutor Lioubov Smettana.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18160</PointerOffset>
@@ -3425,7 +3426,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18192</PointerOffset>
@@ -3436,7 +3437,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18224</PointerOffset>
@@ -3445,7 +3446,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18256</PointerOffset>
@@ -3455,7 +3456,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18288</PointerOffset>
@@ -3464,7 +3465,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18320</PointerOffset>
@@ -3474,7 +3475,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18352</PointerOffset>
@@ -3483,7 +3484,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18384</PointerOffset>
@@ -3492,7 +3493,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18416</PointerOffset>
@@ -3502,7 +3503,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18448</PointerOffset>
@@ -3512,7 +3513,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18480</PointerOffset>
@@ -3522,7 +3523,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18512</PointerOffset>
@@ -3532,7 +3533,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18544</PointerOffset>
@@ -3542,7 +3543,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18576</PointerOffset>
@@ -3553,7 +3554,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18608</PointerOffset>
@@ -3562,7 +3563,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18640</PointerOffset>
@@ -3573,7 +3574,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18672</PointerOffset>
@@ -3583,7 +3584,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18704</PointerOffset>
@@ -3593,7 +3594,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18736</PointerOffset>
@@ -3604,7 +3605,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18768</PointerOffset>
@@ -3614,7 +3615,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18800</PointerOffset>
@@ -3625,7 +3626,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18832</PointerOffset>
@@ -3636,7 +3637,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18864</PointerOffset>
@@ -3646,7 +3647,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18896</PointerOffset>
@@ -3657,7 +3658,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18928</PointerOffset>
@@ -3667,7 +3668,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18960</PointerOffset>
@@ -3676,7 +3677,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>18992</PointerOffset>
@@ -3685,7 +3686,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19024</PointerOffset>
@@ -3695,7 +3696,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19056</PointerOffset>
@@ -3705,7 +3706,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19088</PointerOffset>
@@ -3714,7 +3715,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19120</PointerOffset>
@@ -3724,7 +3725,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19152</PointerOffset>
@@ -3733,7 +3734,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19248</PointerOffset>
@@ -3743,7 +3744,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19280</PointerOffset>
@@ -3754,7 +3755,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19312</PointerOffset>
@@ -3764,7 +3765,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19344</PointerOffset>
@@ -3775,7 +3776,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19376</PointerOffset>
@@ -3786,7 +3787,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19408</PointerOffset>
@@ -3796,7 +3797,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19440</PointerOffset>
@@ -3805,7 +3806,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19472</PointerOffset>
@@ -3816,7 +3817,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19504</PointerOffset>
@@ -3826,7 +3827,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19536</PointerOffset>
@@ -3835,7 +3836,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19568</PointerOffset>
@@ -3845,7 +3846,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19600</PointerOffset>
@@ -3856,7 +3857,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19632</PointerOffset>
@@ -3867,7 +3868,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19664</PointerOffset>
@@ -3878,7 +3879,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19696</PointerOffset>
@@ -3889,7 +3890,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19728</PointerOffset>
@@ -3898,7 +3899,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19760</PointerOffset>
@@ -3909,7 +3910,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19792</PointerOffset>
@@ -3920,7 +3921,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19824</PointerOffset>
@@ -3930,7 +3931,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>19856</PointerOffset>
@@ -3940,7 +3941,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -3952,7 +3953,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20048</PointerOffset>
@@ -3961,7 +3962,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20080</PointerOffset>
@@ -3970,7 +3971,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20208</PointerOffset>
@@ -3981,7 +3982,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20240</PointerOffset>
@@ -3992,7 +3993,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20272</PointerOffset>
@@ -4001,7 +4002,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20304</PointerOffset>
@@ -4011,7 +4012,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -4023,7 +4024,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20624</PointerOffset>
@@ -4032,7 +4033,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20656</PointerOffset>
@@ -4041,7 +4042,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20784</PointerOffset>
@@ -4052,7 +4053,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20816</PointerOffset>
@@ -4063,7 +4064,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>20848</PointerOffset>
@@ -4074,7 +4075,7 @@ Well done.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
-      <Status>Editing</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
 </ScenarioText>
