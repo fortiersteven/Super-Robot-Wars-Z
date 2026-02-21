@@ -7,7 +7,7 @@
       <EnglishText>Your progress up to this point will be saved.</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332900</PointerOffset>
@@ -15,7 +15,7 @@
       <EnglishText>Is this okay?</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332904</PointerOffset>
@@ -23,7 +23,7 @@
       <EnglishText>Finished saving the game data.</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332908</PointerOffset>
@@ -31,7 +31,7 @@
       <EnglishText>Do you wish to continue playing?</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3332912</PointerOffset>
@@ -39,7 +39,7 @@
       <EnglishText>It will be overwritten, are you sure?</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -241,7 +241,7 @@
       <EnglishText>Move</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3310004</PointerOffset>
@@ -399,7 +399,7 @@
       <EnglishText>Move</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3309236</PointerOffset>
@@ -612,7 +612,7 @@
     <Entry>
       <PointerOffset>3128664</PointerOffset>
       <JapaneseText>「必中」「ひらめき」が同時にかかる。</JapaneseText>
-      <EnglishText>Casts "Bullseye" and "Flash" at once.</EnglishText>
+      <EnglishText>Casts "Bullseye" and "Flash" simultaneously. </EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -636,7 +636,7 @@
     <Entry>
       <PointerOffset>3128680</PointerOffset>
       <JapaneseText>一戦闘だけ敵の攻撃を完全に回避する。</JapaneseText>
-      <EnglishText>Completely evades an enemy's attack for once.</EnglishText>
+      <EnglishText>Completely evades an attack a single time.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -660,7 +660,7 @@
     <Entry>
       <PointerOffset>3128696</PointerOffset>
       <JapaneseText>一戦闘だけ受けるダメージを１０にする。</JapaneseText>
-      <EnglishText>Received damage becomes 10 for once.</EnglishText>
+      <EnglishText>Receive only 10 damage from the next attack.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -789,7 +789,7 @@
       <PointerOffset>3128792</PointerOffset>
       <JapaneseText>敵にとどめを刺さずに、ＨＰを１０だけ残す。
 自分より技量の低い相手にのみ有効。</JapaneseText>
-      <EnglishText>A fatal attack will only leave the enemy at 10 HP.
+      <EnglishText>A fatal attack will leave the enemy at 10 HP.
 Only works when the opponent has a lower Skill stat than the caster.
 </EnglishText>
       <Notes/>
@@ -840,7 +840,7 @@ Only works when the opponent has a lower Skill stat than the caster.
       <PointerOffset>3128824</PointerOffset>
       <JapaneseText>サイズ差、ユニット数によるＡＬＬ攻撃のダメージ減少と、
 相手の防御に関する特殊能力・スキルを無効化する。</JapaneseText>
-      <EnglishText>Ignores damage reduction due to size difference, squadron formations, or Special Abilites and Special Skills.</EnglishText>
+      <EnglishText>Ignores damage reduction from to size differences, squadron formations, Special Abilites, and Special Skills.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -865,7 +865,7 @@ Only works when the opponent has a lower Skill stat than the caster.
       <PointerOffset>3128840</PointerOffset>
       <JapaneseText>一度だけ小隊移動力を＋２。
 移動するまで効果は継続。</JapaneseText>
-      <EnglishText>+2 movement range to squadron for once.</EnglishText>
+      <EnglishText>+2 movement range to squadron for one movement.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -890,7 +890,7 @@ Only works when the opponent has a lower Skill stat than the caster.
       <PointerOffset>3128856</PointerOffset>
       <JapaneseText>一度だけ小隊移動力を＋４。
 移動するまで効果は継続。</JapaneseText>
-      <EnglishText>+4 movement range for squadron for once.</EnglishText>
+      <EnglishText>+4 movement range for squadron for one movement.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -914,7 +914,7 @@ Only works when the opponent has a lower Skill stat than the caster.
     <Entry>
       <PointerOffset>3128872</PointerOffset>
       <JapaneseText>一度だけ敵に与えるダメージが２倍になる。</JapaneseText>
-      <EnglishText>x2 damage dealt for once.</EnglishText>
+      <EnglishText>Next attack by the caster will deal x2 damage.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -930,7 +930,7 @@ Only works when the opponent has a lower Skill stat than the caster.
     <Entry>
       <PointerOffset>3128888</PointerOffset>
       <JapaneseText>一度だけ敵に与えるダメージが２．５倍になる。</JapaneseText>
-      <EnglishText>x2.5 damage dealt for once.</EnglishText>
+      <EnglishText>Next attack by the caster will deal x2.5 damage.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -955,7 +955,7 @@ Only works when the opponent has a lower Skill stat than the caster.
       <PointerOffset>3128904</PointerOffset>
       <JapaneseText>自小隊の行動回数を一回増やす。
 重ねがけは無効。</JapaneseText>
-      <EnglishText>+1 action count for squadron.
+      <EnglishText>+1 action count for this squadron.
 Cannot stack.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
@@ -973,7 +973,7 @@ Cannot stack.</EnglishText>
       <PointerOffset>3128920</PointerOffset>
       <JapaneseText>「加速」「必中」「ひらめき」「熱血」「気合」
 「努力」「幸運」が同時にかかる。</JapaneseText>
-      <EnglishText>Casts "Accel", "Bullseye", "Flash", "Valor", "Spirit", "Gain", "Luck" all at once.</EnglishText>
+      <EnglishText>Casts "Accel", "Bullseye", "Flash", "Valor", "Spirit", "Gain", "Luck" simultaneously.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -990,7 +990,7 @@ Cannot stack.</EnglishText>
       <PointerOffset>3128936</PointerOffset>
       <JapaneseText>「加速」「必中」「不屈」「熱血」「気合」「直撃」が
 同時にかかる。</JapaneseText>
-      <EnglishText>Casts "Accel", "Bullseye", "Persist", "Valor", "Spirit", "Pierce" all at once.</EnglishText>
+      <EnglishText>Casts "Accel", "Bullseye", "Persist", "Valor", "Spirit", "Pierce" simultaneously.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -1006,7 +1006,7 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset>3128952</PointerOffset>
       <JapaneseText>気力を１０上げる。</JapaneseText>
-      <EnglishText>+10 Morale to unit.</EnglishText>
+      <EnglishText>+10 Morale to caster.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -1022,7 +1022,7 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset>3128968</PointerOffset>
       <JapaneseText>気力を３０上げる。</JapaneseText>
-      <EnglishText>+30 Morale to unit.</EnglishText>
+      <EnglishText>+30 Morale to caster</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -1079,7 +1079,7 @@ Cannot stack.</EnglishText>
       <PointerOffset>3129016</PointerOffset>
       <JapaneseText>１ターンの間、指定した敵小隊の攻撃力と防御力を
 １０％ダウンさせる。</JapaneseText>
-      <EnglishText>For 1 turn, -10% defense and attack damage  for selected enemy squadron.</EnglishText>
+      <EnglishText>For 1 turn, -10% defense and attack damage for selected enemy squadron.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -1151,7 +1151,7 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset>3129080</PointerOffset>
       <JapaneseText>指定した味方小隊全機のＨＰを全回復させる。</JapaneseText>
-      <EnglishText>Fully restores HP for selected ally squadron,</EnglishText>
+      <EnglishText>Fully restores HP for selected ally squadron.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -1209,8 +1209,8 @@ Cannot stack.</EnglishText>
       <JapaneseText>補給</JapaneseText>
       <EnglishText>Supply</EnglishText>
       <Notes/>
-      <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Chapter>Spirit Command</Chapter>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset>3129144</PointerOffset>
@@ -1232,7 +1232,7 @@ Cannot stack.</EnglishText>
       <PointerOffset>3129160</PointerOffset>
       <JapaneseText>指定した味方小隊全パイロットの気力を１０上げて、
 「祝福」「応援」「友情」をかける。</JapaneseText>
-      <EnglishText>Casts "Spirit", "Bless", "Gain", "Friendship" on selected ally squadron.</EnglishText>
+      <EnglishText>Casts "Spirit", "Bless", "Gain", "Friendship" simultaneously on selected ally squadron.</EnglishText>
       <Notes/>
       <Chapter>Spirit Command</Chapter>
       <Status>Translated</Status>
@@ -1535,22 +1535,6 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset>3348300</PointerOffset>
       <JapaneseText>特殊能力</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Search</Chapter>
-      <Status>Translated</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>3348308</PointerOffset>
-      <JapaneseText>小隊ボーナス</JapaneseText>
-      <EnglishText>Squadron Bonus</EnglishText>
-      <Notes/>
-      <Chapter>Search</Chapter>
-      <Status>Translated</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>3348308</PointerOffset>
-      <JapaneseText>小隊ボーナス</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Chapter>Search</Chapter>
@@ -2483,7 +2467,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Allies／</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2495,7 +2479,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Enemies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2507,7 +2491,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Allies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2519,7 +2503,7 @@ Cannot stack.</EnglishText>
       <EnglishText>／Enemies</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2567,7 +2551,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Turns</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2579,7 +2563,7 @@ Cannot stack.</EnglishText>
       <EnglishText>BS</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2591,7 +2575,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Funds</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2687,7 +2671,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Move</EnglishText>
       <Notes/>
       <Chapter>Abilities</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -2865,7 +2849,7 @@ Cannot stack.</EnglishText>
         <lo>3528800</lo>
       </EmbedOffset>
       <JapaneseText>フェイズを終了します。よろしいですか？</JapaneseText>
-      <EnglishText>The phase will end.  Are you sure?</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -4183,186 +4167,6 @@ Cannot stack.</EnglishText>
     <Entry>
       <PointerOffset></PointerOffset>
       <EmbedOffset>
-        <hi>3676764</hi>
-        <lo>3676792</lo>
-      </EmbedOffset>
-      <JapaneseText>〜『　%s　』機体指定〜</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3677372</hi>
-        <lo>3677400</lo>
-      </EmbedOffset>
-      <JapaneseText>〜『　%s　』小隊指定〜</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3678948</hi>
-        <lo>3678984</lo>
-      </EmbedOffset>
-      <JapaneseText>『%s』　</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3679056</hi>
-        <lo>3679068</lo>
-      </EmbedOffset>
-      <JapaneseText>味方の機体を選択します。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3679080</hi>
-        <lo>3679092</lo>
-      </EmbedOffset>
-      <JapaneseText>敵の機体を選択します。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3679104</hi>
-        <lo>3679116</lo>
-      </EmbedOffset>
-      <JapaneseText>そんなコマンドあったのね？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3679128</hi>
-        <lo>3679140</lo>
-      </EmbedOffset>
-      <JapaneseText>味方の小隊を選択します。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3679160</hi>
-        <lo>3679172</lo>
-      </EmbedOffset>
-      <JapaneseText>敵の小隊を選択します。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3696176,3696192</hi>
-        <lo>3696188,3696204</lo>
-      </EmbedOffset>
-      <JapaneseText>　　　　　　　　　　　　　　　　　</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3698088</hi>
-        <lo>3698096</lo>
-      </EmbedOffset>
-      <JapaneseText>〜【精神コマンド】選択指定〜</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3698136</hi>
-        <lo>3698148</lo>
-      </EmbedOffset>
-      <JapaneseText>〜【ＯＴＨＥＲＳコマンド】〜</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3707728,3707776,3707824</hi>
-        <lo>3707744,3707792,3707840</lo>
-      </EmbedOffset>
-      <JapaneseText>一</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3707732</hi>
-        <lo>3707740</lo>
-      </EmbedOffset>
-      <JapaneseText>空</JapaneseText>
-      <EnglishText>&lt;Sky&gt;</EnglishText>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>Translated</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3707780</hi>
-        <lo>3707788</lo>
-      </EmbedOffset>
-      <JapaneseText>陸</JapaneseText>
-      <EnglishText>&lt;Ground&gt;</EnglishText>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>Translated</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
-        <hi>3707828</hi>
-        <lo>3707836</lo>
-      </EmbedOffset>
-      <JapaneseText>水</JapaneseText>
-      <EnglishText>&lt;Water&gt;</EnglishText>
-      <Notes/>
-      <Chapter>Uncategorized</Chapter>
-      <Status>Translated</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset></PointerOffset>
-      <EmbedOffset>
         <hi>3712672</hi>
         <lo>3712684</lo>
       </EmbedOffset>
@@ -4753,7 +4557,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Stats</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5244,7 +5048,7 @@ Cannot stack.</EnglishText>
       <JapaneseText>小隊ボーナス</JapaneseText>
       <EnglishText>Squadron Bonus</EnglishText>
       <Notes/>
-      <Chapter>Uncategorized</Chapter>
+      <Chapter>Search</Chapter>
       <Status>Translated</Status>
     </Entry>
     <Entry>
@@ -5269,7 +5073,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Stage %s</EnglishText>
       <Notes/>
       <Chapter>Operation End</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5278,7 +5082,7 @@ Cannot stack.</EnglishText>
         <lo>3476280,3477216</lo>
       </EmbedOffset>
       <JapaneseText>搭載</JapaneseText>
-      <EnglishText>Ride</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5290,7 +5094,7 @@ Cannot stack.</EnglishText>
         <lo>3476324,3477864</lo>
       </EmbedOffset>
       <JapaneseText>待機</JapaneseText>
-      <EnglishText>Wait</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5302,7 +5106,7 @@ Cannot stack.</EnglishText>
         <lo>3476664,3476716</lo>
       </EmbedOffset>
       <JapaneseText>攻撃</JapaneseText>
-      <EnglishText>Attack</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5314,7 +5118,7 @@ Cannot stack.</EnglishText>
         <lo>3476784,3476836</lo>
       </EmbedOffset>
       <JapaneseText>空中</JapaneseText>
-      <EnglishText>Ascend</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5326,7 +5130,7 @@ Cannot stack.</EnglishText>
         <lo>3476904,3476956</lo>
       </EmbedOffset>
       <JapaneseText>地上</JapaneseText>
-      <EnglishText>Descend</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5350,7 +5154,7 @@ Cannot stack.</EnglishText>
         <lo>3477160</lo>
       </EmbedOffset>
       <JapaneseText>発進</JapaneseText>
-      <EnglishText>Launch</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5362,7 +5166,7 @@ Cannot stack.</EnglishText>
         <lo>3477272</lo>
       </EmbedOffset>
       <JapaneseText>修理</JapaneseText>
-      <EnglishText>Repair</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5374,7 +5178,7 @@ Cannot stack.</EnglishText>
         <lo>3477328</lo>
       </EmbedOffset>
       <JapaneseText>補給</JapaneseText>
-      <EnglishText>Supply</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5398,7 +5202,7 @@ Cannot stack.</EnglishText>
         <lo>3477496</lo>
       </EmbedOffset>
       <JapaneseText>分離</JapaneseText>
-      <EnglishText>Split</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5410,7 +5214,7 @@ Cannot stack.</EnglishText>
         <lo>3477544</lo>
       </EmbedOffset>
       <JapaneseText>合体</JapaneseText>
-      <EnglishText>Combine</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5422,7 +5226,7 @@ Cannot stack.</EnglishText>
         <lo>3477592</lo>
       </EmbedOffset>
       <JapaneseText>パーツ</JapaneseText>
-      <EnglishText>Parts</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Chapter>Command Menu</Chapter>
       <Status>Edited</Status>
@@ -5521,7 +5325,7 @@ Cannot stack.</EnglishText>
       <EnglishText>End Phase</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5533,7 +5337,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Search</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5545,7 +5349,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Squads</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5557,7 +5361,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Objective</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5569,7 +5373,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Report</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5581,7 +5385,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Formations</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5593,7 +5397,7 @@ Cannot stack.</EnglishText>
       <EnglishText>System</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
@@ -5605,7 +5409,7 @@ Cannot stack.</EnglishText>
       <EnglishText>Suspend</EnglishText>
       <Notes/>
       <Chapter>Command Menu</Chapter>
-      <Status>Edited</Status>
+      <Status>Translated</Status>
     </Entry>
     <Entry>
       <PointerOffset></PointerOffset>
