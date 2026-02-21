@@ -19,6 +19,7 @@ import lxml.etree as etree
 from tools.python.lib.FileIO import FileIO
 from tools.python.lib.stage import Stage
 from tools.python.lib.compdata import CompData
+from tools.python.lib.kurodata import Kurodata
 from tools.python.lib.vt1 import Vt1
 from tools.python.lib.decompressor import Decompressor
 from tools.python.lib.binary_extracted import text_to_bytes, bytes_to_text
@@ -419,13 +420,18 @@ class SRWZ():
                 else:
                     emb[offset] = [pair["HI"], pair["LO"]]
 
-        for section in [sect for sect in file_def['sections'] if "pointers_start" in sect.keys()]:
+        for section in [sect for sect in file_def['sections'] if "pointers_start" in sect.keys() or "pointers_alone" in sect.keys()]:
             max_len = 0
-            pointers_start = int(section["pointers_start"], 16)
-            pointers_end = int(section["pointers_end"], 16)
+
 
             # Extract Pointers list out of the file
-            pointers_offset, pointers_value = self.get_style_pointers(f, (pointers_start, pointers_end), base_offset,
+            pointers_offset = []
+            if 'pointers_alone' in section.keys():
+                pointers_offset, pointers_value = self.get_pointers_alone(f, section["pointers_alone"], base_offset)
+            else:
+                pointers_start = int(section["pointers_start"], 16)
+                pointers_end = int(section["pointers_end"], 16)
+                pointers_offset, pointers_value = self.get_style_pointers(f, (pointers_start, pointers_end), base_offset,
                                                                       section['style'])
 
             # Make a list, we also merge the emb pointers with the
@@ -708,6 +714,19 @@ class SRWZ():
 
         return pointers_offset, pointers_value
 
+    def get_pointers_alone(self, file: FileIO, pointers_alone, base_offset: int):
+
+        res_offset = []
+        res_value = []
+        for pointer_offset in pointers_alone:
+            offset = int(pointer_offset, 16)
+            file.seek(offset)
+            value = file.read_uint32()
+            res_offset.append(offset)
+            res_value.append(value - base_offset)
+
+        return res_offset, res_value
+
     def create_node_XML(self, root, list_informations, section, max_len=0) -> None:
         strings_node = etree.SubElement(root, 'Strings')
         etree.SubElement(strings_node, 'Section').text = section
@@ -745,6 +764,9 @@ class SRWZ():
         etree.SubElement(entry_node, "Chapter").text = "Uncategorized"
         etree.SubElement(entry_node, "Status").text = statusText
 
+    def pack_kurodata(self):
+        kuro = Kurodata()
+        kuro.copy_new_files(self.paths['images_updated'], self.paths['final_files'] / 'New_files' / 'KURODATA')
 
     def patch_binaries(self):
         bin_path = self.paths["tools"] / "bin"

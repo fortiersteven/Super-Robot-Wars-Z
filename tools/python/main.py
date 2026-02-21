@@ -151,6 +151,7 @@ if __name__ == "__main__":
             shutil.copytree(robotwars.paths["original_files"], robotwars.paths["final_files"] / "New_files", dirs_exist_ok=True)
             robotwars.pack_all_menu()
             robotwars.pack_compdata()
+            robotwars.pack_kurodata()
             robotwars.pack_font()
             robotwars.patch_binaries()
             robotwars.update_slps_offsets()
