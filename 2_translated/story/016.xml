@@ -299,7 +299,7 @@
     <Entry>
       <PointerOffset>29380</PointerOffset>
       <JapaneseText>アイアン・ギアーの撃墜。</JapaneseText>
-      <EnglishText>Lose the Iron Gear</EnglishText>
+      <EnglishText>Iron Gear destroyed</EnglishText>
       <Notes/>
       <Chapter>Uncategorized</Chapter>
       <Status>Translated</Status>
@@ -331,7 +331,7 @@
       <PointerOffset>3632</PointerOffset>
       <JapaneseText>「月は出てるな。
 　これでサテライトキャノンも使えるぜ」</JapaneseText>
-      <EnglishText>The moon is out.  That means I can use the satellite cannon.</EnglishText>
+      <EnglishText>The moon is out. That means I can use the Satellite Cannon.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -341,7 +341,7 @@
       <PointerOffset>3664</PointerOffset>
       <JapaneseText>（遠く離れてるけど、ＧＸには
 　ティファの心が込められてるからな）</JapaneseText>
-      <EnglishText>(We may be far apart, but the GX has Tifa's soul inside it)</EnglishText>
+      <EnglishText>(We may be far apart, but the GX has Tifa's spirit within it.)</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -353,7 +353,7 @@
     <Entry>
       <PointerOffset>3792</PointerOffset>
       <JapaneseText>「$n、本当に敵が来るのか？」</JapaneseText>
-      <EnglishText>$n, The enemy is really coming?</EnglishText>
+      <EnglishText>$n, the enemy really is coming?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -371,7 +371,7 @@
     <Entry>
       <PointerOffset>3856</PointerOffset>
       <JapaneseText>「そんな適当でいいのかよ！」</JapaneseText>
-      <EnglishText>You think we can trust that!</EnglishText>
+      <EnglishText>You think we can trust that?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -382,7 +382,7 @@
       <JapaneseText>「でも、シベ鉄の隊長が
 　ヤーパンの天井に忍び込んできた以上、
 　向こうの作戦は始まっています」</JapaneseText>
-      <EnglishText>Still, just knowing that the capatain of the Siberian Rail has snuck into Yapan's Ceiling is enough to signal that their operation is under way.</EnglishText>
+      <EnglishText>Still, just knowing that the Captain of the Siberian Railroad has snuck into Yapan's Ceiling is evidence enough that their operation is underway.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -402,7 +402,7 @@
       <PointerOffset>3952</PointerOffset>
       <JapaneseText>「そう！　それだよ、少年！
 　解説、サンキューだ！」</JapaneseText>
-      <EnglishText>Right!  Exactly right my boy!  Thank you for backing me up!</EnglishText>
+      <EnglishText>Right! Exactly right, my boy! Thank you for backing me up!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -423,7 +423,7 @@
       <PointerOffset>4016</PointerOffset>
       <JapaneseText>「とりあえず出撃したのは
 　無駄じゃなかったようだぜ！」</JapaneseText>
-      <EnglishText>Anyway, looks like we came out for a good reason!</EnglishText>
+      <EnglishText>Anyway, looks like our deployment won't be wasted!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -435,7 +435,7 @@
     <Entry>
       <PointerOffset>4144</PointerOffset>
       <JapaneseText>「結構な数がいるみたいだよ！」</JapaneseText>
-      <EnglishText>Looks like there's quite a few coming!</EnglishText>
+      <EnglishText>Seems like there's quite a few coming!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -446,7 +446,7 @@
       <JapaneseText>「あの様子じゃ、シベ鉄の連中は
 　雇ったブレーカーの全部を
 　ぶつけてきたようだな」</JapaneseText>
-      <EnglishText>Looks like they've pulled every single Breaker they've hired around these parts over here.</EnglishText>
+      <EnglishText>I'm betting they've called in every single Breaker they've hired around these parts.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -457,7 +457,7 @@
       <JapaneseText>「サラ、ベロー！
 　俺達はフォーメーションで戦うぞ。
 　訓練通りやれば、出来るはずだ！」</JapaneseText>
-      <EnglishText>Sara, Bello!  Let's fight in formation.  Just follow what we practiced!</EnglishText>
+      <EnglishText>Sara, Bello! Let's fight in formation. Just do what we practiced!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -467,7 +467,7 @@
       <PointerOffset>4240</PointerOffset>
       <JapaneseText>「わかりました、ガウリ隊長！
 　大丈夫よね、ベローも！」</JapaneseText>
-      <EnglishText>Understood Captain Gauri!  You good to go, Bello?</EnglishText>
+      <EnglishText>Understood, Captain Gauri! You good to go, Bello?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -477,7 +477,7 @@
       <PointerOffset>4272</PointerOffset>
       <JapaneseText>「ちょ、ちょっと待った…！
 　ええと…」</JapaneseText>
-      <EnglishText>W, wait a sec...! Ummm...</EnglishText>
+      <EnglishText>W-Wait a sec...! Ummm...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -488,9 +488,9 @@
       <JapaneseText>「ベロー選択」
 「１．フォーメーションの説明を受ける」
 「２．フォーメーションの説明を受けない」</JapaneseText>
-      <EnglishText>Bello's Decision
-1. Listen to explanation on formations
-2. Skip explanation on formations</EnglishText>
+      <EnglishText>Bello's decision
+1. Listen to the explanation on formations
+2. Skip the explanation on formations</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -504,7 +504,7 @@
       <JapaneseText>「ガウリ隊長！
 　念のためって事で、もう一度
 　説明をお願いします！」</JapaneseText>
-      <EnglishText>Captain Gauri!  Just you explain it one more time just in case?</EnglishText>
+      <EnglishText>Captain Gauri! Could you explain it one more time, just in case?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -515,7 +515,7 @@
       <JapaneseText>「よく聞けよ。
 　機動兵器は３機編成の小隊を組めば、
 　３つのフォーメーションを使う事が出来る」</JapaneseText>
-      <EnglishText>Listen up.  If we line up 3 units together we gain access to 3 different formations.</EnglishText>
+      <EnglishText>Listen up. If we line up 3 units together, we gain access to 3 different formations.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -526,7 +526,7 @@
       <JapaneseText>「すなわち…トライ・フォーメーション、
 　センター・フォーメーション、
 　ワイド・フォーメーションだ」</JapaneseText>
-      <EnglishText>They're called...Tri-formation, Center formation, and Wide formation.</EnglishText>
+      <EnglishText>They're called...Tri Formation, Center Formation, and Wide Formation.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -537,7 +537,7 @@
       <JapaneseText>「トライ・フォーメーションでは
 　小隊員は後方に下がり、小隊長の
 　バックアップを務める」</JapaneseText>
-      <EnglishText>Tri-formation is where the squadmates step back and back up the squad leader.</EnglishText>
+      <EnglishText>Tri Formation is where the squadmates stay back and back up the squad leader.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -548,7 +548,7 @@
       <JapaneseText>「このフォーメーションでは
 　３機の同時攻撃であるトライチャージを
 　使用する事が出来る」</JapaneseText>
-      <EnglishText>In this formation you are able to use the Tri-charge attack which has all 3 units attack at once.</EnglishText>
+      <EnglishText>In this formation, you're able to use the Tri-Charge attack, which has all 3 units attack simultaneously.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -559,7 +559,7 @@
       <JapaneseText>「いわゆる全体攻撃は、敵小隊が
 　複数の機体で構成されていると
 　与えるダメージが減少してしまうが…」</JapaneseText>
-      <EnglishText>A regular all unit attack does less damage if there are multiple units in the opponent's squad...</EnglishText>
+      <EnglishText>A regular All Unit attack does less damage if there are multiple units in the opponent's squad...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -570,7 +570,7 @@
       <JapaneseText>「トライチャージは
 　敵の数が何機だろうとお構いなしで
 　ダメージを与える事が出来るぞ」</JapaneseText>
-      <EnglishText>But in the case of a Tri-charge, it does the same amount of damage no matter how many units there are in the opposing squad.</EnglishText>
+      <EnglishText>But in the case of a Tri-Charge, it does the same amount of damage no matter how many units there are in the opposing squad.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -581,7 +581,7 @@
       <JapaneseText>「なお、基本として
 　出撃時には、このフォーメーションを
 　使用する」</JapaneseText>
-      <EnglishText>That's why this is the default formation when we first launch in a mission.</EnglishText>
+      <EnglishText>That's why this is the default formation when we first launch on a mission.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -591,7 +591,7 @@
       <PointerOffset>4720</PointerOffset>
       <JapaneseText>「今もトライ・フォーメーションって
 　わけね」</JapaneseText>
-      <EnglishText>So we're in a Tri-formation right now.</EnglishText>
+      <EnglishText>So we're in a Tri Formation right now.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -602,7 +602,7 @@
       <JapaneseText>「センター・フォーメーションは
 　小隊員を牽制に使い、隊の攻撃を
 　敵の一体に集中させるものだ」</JapaneseText>
-      <EnglishText>In a Center formation all squad member center fire into a single enemy unit.</EnglishText>
+      <EnglishText>In a Center Formation, all squad member focus fire onto a single enemy unit.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -613,7 +613,7 @@
       <JapaneseText>「一方、ワイド・フォーメーションは
 　隊の各機がそれぞれの敵を攻撃する
 　ものだ」</JapaneseText>
-      <EnglishText>Meanwhile in wide formation, each unit attacks a different enemy in the squad.</EnglishText>
+      <EnglishText>Meanwhile, in Wide Formation, each unit attacks a different enemy in the squad.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -624,7 +624,7 @@
       <JapaneseText>「つまり、単機が相手ならセンター、
 　複数の機体がいる小隊にはワイドが
 　都合いいってわけですね」</JapaneseText>
-      <EnglishText>I see, so if there's only one enemy then use center, and if there are many units use wide.</EnglishText>
+      <EnglishText>I see, so if there's only one enemy, then use Center, and if there are many units, use Wide.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -635,7 +635,7 @@
       <JapaneseText>「どのフォーメーションも
 　それぞれに特徴があるが、
 　後は実戦の中で覚えていけばいい」</JapaneseText>
-      <EnglishText>Each formation has their merits , you should experience it yourselves as you engage in live battles.</EnglishText>
+      <EnglishText>Each formation has their merits, you should experience it yourselves while you engage in live battles.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -646,7 +646,7 @@
       <JapaneseText>「今回の敵は単機で行動している。
 　センター・フォーメーションで
 　攻撃を集中させるのが得策だろう」</JapaneseText>
-      <EnglishText>The enemy here are in single unit squads.  Let's use center formation to focus fire.</EnglishText>
+      <EnglishText>The enemy here are in single unit squads. Let's use Center Formation to focus fire.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -666,7 +666,7 @@
       <JapaneseText>「当然、単独で戦う俺達は
 　フォーメーションは関係ないって
 　わけね」</JapaneseText>
-      <EnglishText>And of course, formations don't matter for people like us who are fighting alone.</EnglishText>
+      <EnglishText>And of course, formations don't matter for people like us, who are fighting alone.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -676,7 +676,7 @@
       <PointerOffset>4976</PointerOffset>
       <JapaneseText>「ジロン達はシベ鉄の隊長を追ってる！
 　俺達だけで敵を片付けるぞ！」</JapaneseText>
-      <EnglishText>Jiron and the others are chasing after the Siberian RR capatain!  We'll need to crush these guys ourselves!</EnglishText>
+      <EnglishText>Jiron and the others are chasing after the Siberian Railroad Captain! We'll need to stop these guys ourselves!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -687,7 +687,7 @@
       <JapaneseText>「気合を入れろよ、ゲラバ！
 　ここであいつらを倒せば、俺達を
 　ケジナン新隊長が取り立ててくれる！」</JapaneseText>
-      <EnglishText>Get ready Geraba! We'll be made men by the new captain Kejinan if we can get these guys!</EnglishText>
+      <EnglishText>Get ready, Geraba! We'll be made men thanks to our new Captain, Kejinan, but only if we can win this one!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -696,7 +696,7 @@
     <Entry>
       <PointerOffset>5040</PointerOffset>
       <JapaneseText>「わかったぜ、ホーラのアニキ！」</JapaneseText>
-      <EnglishText>Got it, boss Holler!</EnglishText>
+      <EnglishText>Got it, Boss Holler!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -706,7 +706,7 @@
       <PointerOffset>5072</PointerOffset>
       <JapaneseText>「くっ…ランドシップがない以上、
 　キャプテンだとは言えん…！」</JapaneseText>
-      <EnglishText>Knng...guess I can't get them to call me captain without a landship to call home...!</EnglishText>
+      <EnglishText>Knng...guess I can't get them to call me Captain without a landship to call home...!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -717,7 +717,7 @@
       <JapaneseText>「だが、忍耐と屈辱とも
 　これでさらばだ！　そして、
 　今日からが俺の栄光の始まりだ！！」</JapaneseText>
-      <EnglishText>But these days of hiding in shame is over!  I will regain glory starting today!</EnglishText>
+      <EnglishText>But these days of hiding in shame are over! I will regain glory starting today!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -730,7 +730,7 @@
       <PointerOffset>5232</PointerOffset>
       <JapaneseText>「ＯＫ！　問題無しだ！
 　訓練の成果を見せるぜ！」</JapaneseText>
-      <EnglishText>Ok!  No problems!  Let's see the outcomes of your training!</EnglishText>
+      <EnglishText>Ok! No problem! Let's see the outcome of your training!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -741,7 +741,7 @@
       <JapaneseText>「当然、単独で戦う俺達は
 　フォーメーションは関係ないって
 　わけね」</JapaneseText>
-      <EnglishText>And of course, formations don't matter for people like us who are fighting alone.</EnglishText>
+      <EnglishText>And of course, formations don't matter for people like us, who are fighting alone.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -751,7 +751,7 @@
       <PointerOffset>5296</PointerOffset>
       <JapaneseText>「ジロン達はシベ鉄の隊長を追ってる！
 　俺達だけで敵を片付けるぞ！」</JapaneseText>
-      <EnglishText>Jiron and the others are chasing after the Siberian RR capatain!  We'll need to crush these guys ourselves!</EnglishText>
+      <EnglishText>Jiron and the others are chasing after the Siberian Railroad Captain! We'll need to stop these guys ourselves!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -762,7 +762,7 @@
       <JapaneseText>「気合を入れろよ、ゲラバ！
 　ここであいつらを倒せば、俺達を
 　ケジナン新隊長が取り立ててくれる！」</JapaneseText>
-      <EnglishText>Get ready Geraba! We'll be made men by the new captain Kejinan if we can get these guys!</EnglishText>
+      <EnglishText>Get ready, Geraba! We'll be made men thanks to our new Captain, Kejinan, but only if we can win this one!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -771,7 +771,7 @@
     <Entry>
       <PointerOffset>5360</PointerOffset>
       <JapaneseText>「わかったぜ、ホーラのアニキ！」</JapaneseText>
-      <EnglishText>Got it, boss Holler!</EnglishText>
+      <EnglishText>Got it, Boss Holler!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -781,7 +781,7 @@
       <PointerOffset>5392</PointerOffset>
       <JapaneseText>「くっ…ランドシップがない以上、
 　キャプテンだとは言えん…！」</JapaneseText>
-      <EnglishText>Knng...guess I can't get them to call me captain without a landship to call home...!</EnglishText>
+      <EnglishText>Knng...guess I can't get them to call me Captain without a landship to call home...!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -792,7 +792,7 @@
       <JapaneseText>「だが、忍耐と屈辱とも
 　これでさらばだ！　そして、
 　今日からが俺の栄光の始まりだ！！」</JapaneseText>
-      <EnglishText>But these days of hiding in shame is over!  I will regain glory starting today!</EnglishText>
+      <EnglishText>But these days of hiding in shame are over! I will regain glory starting today!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -806,7 +806,7 @@
       <JapaneseText>（まだか、ゲイン…！
 　長期戦に持ち込まれたら、
 　こっちはちょいとヤバいぜ…！）</JapaneseText>
-      <EnglishText>(C'mon, Gain...!  If we get into a drawn out fight we're not going to be faring that well...!)</EnglishText>
+      <EnglishText>(C'mon, Gain...! If we get into a drawn-out fight we're going to be sitting ducks...!)</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -828,7 +828,7 @@
       <PointerOffset>5712</PointerOffset>
       <JapaneseText>「お待たせ、みんな！
 　アイアン・ギアー、ただ今到着よ！」</JapaneseText>
-      <EnglishText>Thanks for waiting everyone!  The Iron Gear is here!</EnglishText>
+      <EnglishText>Thanks for waiting, everyone! The Iron Gear is here!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -838,7 +838,7 @@
       <PointerOffset>5744</PointerOffset>
       <JapaneseText>「待った、エルチお嬢さん！
 　シベ鉄の隊長はどうしたんだ！？」</JapaneseText>
-      <EnglishText>Hold up, miss Elchi!  Where's the Siberian rail captain!?</EnglishText>
+      <EnglishText>Hold up, Miss Elchi! Where's the Siberian Railroad Captain?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -848,7 +848,7 @@
       <PointerOffset>5776</PointerOffset>
       <JapaneseText>「それならジロンとゲインが
 　格納庫で捕まえたはずよ」</JapaneseText>
-      <EnglishText>Jiron and Gain managed to corner him in the hanger.</EnglishText>
+      <EnglishText>Jiron and Gain managed to corner him in the hangar.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -859,7 +859,7 @@
       <JapaneseText>「あの…お嬢さん。
 　その格納庫で騒ぎが起きてる
 　みたいなんですけど…」</JapaneseText>
-      <EnglishText>Ummm...miss.  There seems to be something happening by the hanger...</EnglishText>
+      <EnglishText>Ummm...Miss. There seems to be something happening by the hangar...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -873,7 +873,7 @@
       <JapaneseText>「アイアン・ギアーから
 　シベ鉄のオーバーマンが
 　出てきた！」</JapaneseText>
-      <EnglishText>The Siberian RR Overman just came out of the Iron Gear!</EnglishText>
+      <EnglishText>The Siberian Railroad Overman just came out of the Iron Gear!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -884,7 +884,7 @@
       <JapaneseText>「ちいっ！
 　こちらを囮にして、ヤッサバの
 　迎えが来ていたのか！」</JapaneseText>
-      <EnglishText>Damn!  Looks like these were bait to get Yassaba's support in position!</EnglishText>
+      <EnglishText>Damn! Looks like these grunts were bait to get Yassaba's support in position!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -896,7 +896,7 @@
     <Entry>
       <PointerOffset>6096</PointerOffset>
       <JapaneseText>「すまん！　ヤッサバを逃がした！」</JapaneseText>
-      <EnglishText>Sorry guys!  Yassaba managed to escape!</EnglishText>
+      <EnglishText>Sorry, guys! Yassaba managed to escape!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -906,7 +906,7 @@
       <PointerOffset>6128</PointerOffset>
       <JapaneseText>「見ろ、ゲイン！
 　奴の様子がおかしいぞ！」</JapaneseText>
-      <EnglishText>Look Gain!  He's acting weird!</EnglishText>
+      <EnglishText>Look, Gain! He's acting weird!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -919,7 +919,7 @@
       <PointerOffset>6256</PointerOffset>
       <JapaneseText>「命拾いしたぜ。
 　よくやった、ケジナン」</JapaneseText>
-      <EnglishText>You saved my life.  Good job, Kejinan.</EnglishText>
+      <EnglishText>You saved my life. Good job, Kejinan.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -930,7 +930,7 @@
       <JapaneseText>「…黙れよ。
 　今日から、このラッシュロッドは
 　俺のオーバーマンだ」</JapaneseText>
-      <EnglishText>...shut up.   Starting today the Rushrod is my Overman.</EnglishText>
+      <EnglishText>...Shut up.  Starting today, the Rushrod belongs to me.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -940,7 +940,7 @@
       <PointerOffset>6320</PointerOffset>
       <JapaneseText>「ケジナン、てめえ！
 　俺を裏切る気か！？」</JapaneseText>
-      <EnglishText>Kejinan, why you---!  You're betraying me!?</EnglishText>
+      <EnglishText>Kejinan, why you--! You're betraying me?!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -951,7 +951,7 @@
       <JapaneseText>「あんたの死体を持って帰りゃ、
 　俺が自動的に隊長になれる。
 　だから、あんたはここで死んでもらうのさ」</JapaneseText>
-      <EnglishText>If I head back with your corpse I'll automatically become the new capatian.  So you'll have to die here for me.</EnglishText>
+      <EnglishText>If I head back with your corpse, I'll automatically become the new Captain. So you'll have to die here for me!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -969,7 +969,7 @@
     <Entry>
       <PointerOffset>6416</PointerOffset>
       <JapaneseText>「待て！　か、金を…金を払う！」</JapaneseText>
-      <EnglishText>Wait! I, I'll give you money!</EnglishText>
+      <EnglishText>Wait! I-I'll give you money!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -980,7 +980,7 @@
       <JapaneseText>「俺がいつも大金を持ち歩いているのは
 　知ってるだろう？
 　それを全部やる！」</JapaneseText>
-      <EnglishText>You know I carry a ton of cash around me right? I'll give that all to you!</EnglishText>
+      <EnglishText>You know I carry a ton of cash on me, right? I'll give it all to you!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1000,7 +1000,7 @@
       <JapaneseText>「見逃してくれたら、
 　もう二度とお前の前に姿は
 　出さねえ！」</JapaneseText>
-      <EnglishText>If you let me go I'll never show up in your face ever again!</EnglishText>
+      <EnglishText>If you let me go, I'll never show my face ever again!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1011,7 +1011,7 @@
       <JapaneseText>「…いいだろう。
 　コックピットを開けるから、
 　金を出しな」</JapaneseText>
-      <EnglishText>...very well.  I'll open the the cockpit so that you can handover the money.</EnglishText>
+      <EnglishText>...Very well. I'll open the the cockpit so that you can hand over my money.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1024,7 +1024,7 @@
       <PointerOffset>6672</PointerOffset>
       <JapaneseText>「たんまり持ってんだな…！
 　これも隊長の特権って奴か？」</JapaneseText>
-      <EnglishText>This is a buttload of cash...!  One of the many benefits of being captain?</EnglishText>
+      <EnglishText>This is a buttload of cash...! One of the many benefits of being Captain, right?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1034,7 +1034,7 @@
       <PointerOffset>6704</PointerOffset>
       <JapaneseText>「ほぉれ、ケジナン！
 　金だ！　受け取れ！！」</JapaneseText>
-      <EnglishText>Here, Kejinan!  Take all this money!!</EnglishText>
+      <EnglishText>Here, Kejinan! Take all this money!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1044,7 +1044,7 @@
       <PointerOffset>6736</PointerOffset>
       <JapaneseText>「あ！　こら！
 　そんな風に札束を投げたら！」</JapaneseText>
-      <EnglishText>Uh, hey!  Don't go throwing bills around like that!</EnglishText>
+      <EnglishText>Uh, hey! Don't go throwing bills around like that!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1058,7 +1058,7 @@
       <JapaneseText>「ラグ！　お金だ！
 　あのオーバーマン、お金を
 　ばら撒いてるよ！」</JapaneseText>
-      <EnglishText>Ragu!  It's cashThat Overman is raining cash!</EnglishText>
+      <EnglishText>Ragu! It's cash! That Overman is raining cash!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1069,7 +1069,7 @@
       <JapaneseText>「どんな事情だろうと
 　こりゃ見逃せないね！
 　行くよ、ブルメ、ダイク！」</JapaneseText>
-      <EnglishText>I don't know what's going on but we can't ignore this! Let's go, Bulme, Dike!</EnglishText>
+      <EnglishText>I don't know what's going on, but we can't ignore this! Let's go, Bulme, Dike!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1078,7 +1078,7 @@
     <Entry>
       <PointerOffset>6928</PointerOffset>
       <JapaneseText>「了解！　あの金はいただきだ！」</JapaneseText>
-      <EnglishText>Roger!  That money is ours!</EnglishText>
+      <EnglishText>Roger! That money is ours!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1099,7 +1099,7 @@
     <Entry>
       <PointerOffset>7088</PointerOffset>
       <JapaneseText>「おわっと！　お、落ちる！！」</JapaneseText>
-      <EnglishText>Nooo! I, it's falling!!</EnglishText>
+      <EnglishText>Nooo! I-It's falling!!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1130,7 +1130,7 @@
     <Entry>
       <PointerOffset>7280</PointerOffset>
       <JapaneseText>「ああ、俺のオーバーマンが…！」</JapaneseText>
-      <EnglishText>Nooo, my Overman...!</EnglishText>
+      <EnglishText>My Overmaaaaan...!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1150,7 +1150,7 @@
       <PointerOffset>7344</PointerOffset>
       <JapaneseText>「オーバーマンは
 　力ある男にのみ許されるんだ！！」</JapaneseText>
-      <EnglishText>An Overman is meant for strong men only!!</EnglishText>
+      <EnglishText>Overmen are intended only for the strongest of men!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1183,7 +1183,7 @@
       <JapaneseText>「ケジナン！
 　俺を殺そうとしたからには
 　覚悟は出来てるんだろうな！」</JapaneseText>
-      <EnglishText>Kejinan!  I hope you're prepared for the fallout now that you've tried to kill me!</EnglishText>
+      <EnglishText>Kejinan! I hope you're prepared for the fallout of trying and failing to kill me!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1194,7 +1194,7 @@
       <JapaneseText>「ち、違うんです、隊長！
 　俺は…あのホーラの野郎に
 　そそのかされて！！」</JapaneseText>
-      <EnglishText>N, no, Captain! I uh...Holler put me up to it!!</EnglishText>
+      <EnglishText>N-No, Captain! I, uh...Holler put me up to it!!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1203,7 +1203,7 @@
     <Entry>
       <PointerOffset>7600</PointerOffset>
       <JapaneseText>「な、何を言ってやがる！」</JapaneseText>
-      <EnglishText>W, what are you saying!</EnglishText>
+      <EnglishText>W-What are you saying?!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1214,7 +1214,7 @@
       <JapaneseText>「ヤッサバを殺る間、ピープルを
 　足止めしとけって言ったのは
 　お前だろうが！」</JapaneseText>
-      <EnglishText>You're the one that told me to buy time against the others while you're killing Yassaba!</EnglishText>
+      <EnglishText>You're the one that told me to stall everyone else so you could kill Yassaba!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1224,7 +1224,7 @@
       <PointerOffset>7664</PointerOffset>
       <JapaneseText>「黙れ、田舎モンが！
 　そのタレ目で嘘をつく気かよ！」</JapaneseText>
-      <EnglishText>Shut up you bumpkin!  Stop lying with your droopy-ass eyes!!</EnglishText>
+      <EnglishText>Shut up, you bumpkin! Stop lying with your droopy-ass eyes!!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1235,7 +1235,7 @@
       <JapaneseText>「何だと、ガニ股！
 　所詮、貴様は隊長の器じゃ
 　ないんだよ！！」</JapaneseText>
-      <EnglishText>What, you crab legged bastard!  You were never meant to be captain to begin with!</EnglishText>
+      <EnglishText>What, you crab legged bastard?! You were never meant to be Captain to begin with!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1255,7 +1255,7 @@
       <JapaneseText>「この際、どうでもいい！
 　ホーラ、ケジナン！　死にたくなけりゃ、
 　命懸けで戦え！」</JapaneseText>
-      <EnglishText>It doesn't matter at this point! Holler, Kejinan!  Fight like your life depends on it if you don't want to die!</EnglishText>
+      <EnglishText>It doesn't matter at this point! Holler, Kejinan! Fight like your life depends on it, because it does!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1265,7 +1265,7 @@
       <PointerOffset>7792</PointerOffset>
       <JapaneseText>「ピープルの連中を片付けたら
 　お前らの馬鹿を許してやる！」</JapaneseText>
-      <EnglishText>If you're able to crush the People then I'll forgive you assholes!</EnglishText>
+      <EnglishText>If you're able to destroy these people, then I'll forgive you assholes!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1274,7 +1274,7 @@
     <Entry>
       <PointerOffset>7824</PointerOffset>
       <JapaneseText>「りょ、了解です！」</JapaneseText>
-      <EnglishText>Y, yes sir!</EnglishText>
+      <EnglishText>Y-Yes sir!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1286,7 +1286,7 @@
     <Entry>
       <PointerOffset>7952</PointerOffset>
       <JapaneseText>「どけ！　このドゴッゾは俺が操縦する！」</JapaneseText>
-      <EnglishText>Move! I'm taking over this Dogozzo!</EnglishText>
+      <EnglishText>Move! I'm taking this Dogozzo!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1296,7 +1296,7 @@
       <PointerOffset>7984</PointerOffset>
       <JapaneseText>「よくわかんないけど、
 　役者が揃ったみたいだな…！」</JapaneseText>
-      <EnglishText>Not sure what just happened but seems like we're finally ready to fight...!!</EnglishText>
+      <EnglishText>Not sure what just happened, but seems like everyone's finally ready to fight...!!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1305,7 +1305,7 @@
     <Entry>
       <PointerOffset>8016</PointerOffset>
       <JapaneseText>「お互い、総力戦ってわけか…！」</JapaneseText>
-      <EnglishText>So it's going to be a front-on battle...!</EnglishText>
+      <EnglishText>So it's going to be a head-on battle...!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1316,7 +1316,7 @@
       <JapaneseText>「その通りだ！
 　髪の毛付きオーバーマン！
 　黒いサザンクロス！」</JapaneseText>
-      <EnglishText>Exactly!  Haired Overman!  Blacked Southern Cross!</EnglishText>
+      <EnglishText>Exactly! Haired Overman! Black Southern Cross!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1356,7 +1356,7 @@
     <Entry>
       <PointerOffset>8176</PointerOffset>
       <JapaneseText>「う、うん…」</JapaneseText>
-      <EnglishText>O, okay...</EnglishText>
+      <EnglishText>O-Okay...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1367,7 +1367,7 @@
       <JapaneseText>「俺はやる…！　やるぞ！！
 　邪魔者共を全て倒し、俺の力を
 　認めさせてやる！！」</JapaneseText>
-      <EnglishText>I'll do it...! I'll do it all!  I'll crush those in my way and have you all admire my strength!</EnglishText>
+      <EnglishText>I'll do it...! I'll do it all! I'll annihilate the lot of you! You'll have no choice but to admire my power!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1386,7 +1386,7 @@
       <PointerOffset>8272</PointerOffset>
       <JapaneseText>「そっちがその気なら、
 　受けて立つわよ！」</JapaneseText>
-      <EnglishText>We'll take you on if that's what you want!</EnglishText>
+      <EnglishText>We'll take you on, if that's what you want!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1396,7 +1396,7 @@
       <PointerOffset>8304</PointerOffset>
       <JapaneseText>「シベリア鉄道…！
 　決着をつけてやる…！」</JapaneseText>
-      <EnglishText>Siberian Rail...! This is the end...!</EnglishText>
+      <EnglishText>Siberian Railroad...! This is the end...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1409,7 +1409,7 @@
       <PointerOffset>8432</PointerOffset>
       <JapaneseText>「あのオーバーマンは、もう戦えない！
 　勝負ありだ！！」</JapaneseText>
-      <EnglishText>That Overman can't fight anymore!  The match is over!!</EnglishText>
+      <EnglishText>That Overman can't fight anymore! The match is over!!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1418,7 +1418,7 @@
     <Entry>
       <PointerOffset>8464</PointerOffset>
       <JapaneseText>「隊長を倒した以上、俺達の勝ちだ！！」</JapaneseText>
-      <EnglishText>This is our win with the captain defeated!!</EnglishText>
+      <EnglishText>This is our win, now that the Captain's defeated!!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1427,7 +1427,7 @@
     <Entry>
       <PointerOffset>8496</PointerOffset>
       <JapaneseText>「お、おじちゃん…！」</JapaneseText>
-      <EnglishText>U, uncle...!</EnglishText>
+      <EnglishText>U-Uncle...!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1451,7 +1451,7 @@
       <JapaneseText>「おじちゃん！
 　止められないの？
 　時間、止められないの！？」</JapaneseText>
-      <EnglishText>Uncle! Can't you stop it?  Can you stop time!?</EnglishText>
+      <EnglishText>Uncle! Can't you stop it? Can you stop time?!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1482,7 +1482,7 @@
       <PointerOffset>8752</PointerOffset>
       <JapaneseText>「くうっ…帰る場所なんて
 　あるわけないだろう…！」</JapaneseText>
-      <EnglishText>Knng...what home do I have to head to...!</EnglishText>
+      <EnglishText>Knng...what home do I have to return to...?!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1492,7 +1492,7 @@
       <PointerOffset>8784</PointerOffset>
       <JapaneseText>「私と一緒にエクソダスすれば
 　いいじゃない」</JapaneseText>
-      <EnglishText>You can Exodus with me then.</EnglishText>
+      <EnglishText>You can Exodus with me, then.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1501,7 +1501,7 @@
     <Entry>
       <PointerOffset>8816</PointerOffset>
       <JapaneseText>「エクソダスだと！？」</JapaneseText>
-      <EnglishText>An Exodus!?</EnglishText>
+      <EnglishText>An Exodus?!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1512,7 +1512,7 @@
       <JapaneseText>「インダスって、すっごく広い川があって、
 　象とかサイとかが水浴びしてるんだって！
 　私の故郷なの…」</JapaneseText>
-      <EnglishText>Indus has wide rivers filled with elephants and rhinos!  That's my home...</EnglishText>
+      <EnglishText>Indus has wide rivers filled with elephants and rhinos! That's my home...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1533,7 +1533,7 @@
     <Entry>
       <PointerOffset>9008</PointerOffset>
       <JapaneseText>「あいつ、まだ動けるの！？」</JapaneseText>
-      <EnglishText>He can still move!?</EnglishText>
+      <EnglishText>He can still move?!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1553,7 +1553,7 @@
       <JapaneseText>「やめろ…！
 　あれには人質の女の子も
 　乗っている」</JapaneseText>
-      <EnglishText>Wait...!  He has a girl hostage inside.</EnglishText>
+      <EnglishText>Wait...! He has a girl hostage.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1562,7 +1562,7 @@
     <Entry>
       <PointerOffset>9104</PointerOffset>
       <JapaneseText>「それに、もう奴に抵抗する力はない」</JapaneseText>
-      <EnglishText>Besides, it doesn't look like he can fight.</EnglishText>
+      <EnglishText>Besides, it doesn't look like he can fight anymore.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1583,7 +1583,7 @@
     <Entry>
       <PointerOffset>9264</PointerOffset>
       <JapaneseText>「…少し甘いんじゃない？」</JapaneseText>
-      <EnglishText>...aren't you getting too soft here?</EnglishText>
+      <EnglishText>...Aren't you getting too soft, here?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1612,7 +1612,7 @@
       <PointerOffset>9360</PointerOffset>
       <JapaneseText>「人質の女の子を
 　泣かすわけにはいかないからなあ」</JapaneseText>
-      <EnglishText>I can't have the hostage girl crying on now, can I?</EnglishText>
+      <EnglishText>I can't have the hostage girl crying, now can I?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1631,7 +1631,7 @@
       <PointerOffset>9424</PointerOffset>
       <JapaneseText>「ま…ちょいと訳ありって事さ。
 　敵さんの方もな」</JapaneseText>
-      <EnglishText>Well...guess our enemy has his own set of reasons.</EnglishText>
+      <EnglishText>Well...guess our enemy has his reasons.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1641,7 +1641,7 @@
       <PointerOffset>9456</PointerOffset>
       <JapaneseText>「…だからって、こういうのは
 　納得出来ませんよ」</JapaneseText>
-      <EnglishText>...still, that doesn't justify this situation.</EnglishText>
+      <EnglishText>...Still, that doesn't justify this course of action.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1651,7 +1651,7 @@
       <PointerOffset>9488</PointerOffset>
       <JapaneseText>「でも、これで当分の間は
 　シベ鉄の連中も大人しくしてそうね」</JapaneseText>
-      <EnglishText>But this should mean that we won't hear from the Siberian Rail for a while.</EnglishText>
+      <EnglishText>But this should mean that we won't hear from the Siberian Railroad for a while.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1661,7 +1661,7 @@
       <PointerOffset>9520</PointerOffset>
       <JapaneseText>「そうだな。
 　では、俺達の勝利って事で…！」</JapaneseText>
-      <EnglishText>You're right.  That means this is our win...!</EnglishText>
+      <EnglishText>You're right. That means this is a win for us...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1670,7 +1670,7 @@
     <Entry>
       <PointerOffset>9552</PointerOffset>
       <JapaneseText>「ガウリ隊、えいっえいっおーっ！！」</JapaneseText>
-      <EnglishText>Gauri Squad, Yip yip hooray!!</EnglishText>
+      <EnglishText>Gauri Squad, hip hip hooray!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1688,7 +1688,7 @@
     <Entry>
       <PointerOffset>9616</PointerOffset>
       <JapaneseText>「おーっ！」</JapaneseText>
-      <EnglishText>Yay!</EnglishText>
+      <EnglishText>Woo!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1712,7 +1712,7 @@
       <JapaneseText>「くっそおおっ！
 　覚えてろよ、ジロン！！
 　俺は必ず戻ってくるぞーっ！！」</JapaneseText>
-      <EnglishText>Damn it! Just you wait Jiron! I'll come back!!</EnglishText>
+      <EnglishText>Damn it! Just you wait, Jiron! I'll be back!!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1726,7 +1726,7 @@
       <JapaneseText>「凄いわね…。
 　爆発前だってのに、あれだけ
 　台詞が言えるのって…」</JapaneseText>
-      <EnglishText>Amazing...! His unit's about to explode and he can still rattle off all those lines...</EnglishText>
+      <EnglishText>Amazing...! His unit's about to explode, but he can still rattle off all those lines...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1736,7 +1736,7 @@
       <PointerOffset>9936</PointerOffset>
       <JapaneseText>「あいつのやられ役っぷりは、
 　年季が入ってるからな」</JapaneseText>
-      <EnglishText>His speeches when he loses has been around a long while now.</EnglishText>
+      <EnglishText>He's been doing that for a while, now, trying to give speeches whenever he loses.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1750,7 +1750,7 @@
       <JapaneseText>「ぐ、ぐぞおおっ！
 　シベリアに来ても、結局俺達、
 　こんな役かよ！！」</JapaneseText>
-      <EnglishText>Knn, damn it!  Our position hasn't changed at all even in Siberia!!</EnglishText>
+      <EnglishText>Knn, damn it! Our position hasn't changed at all, even in Siberia!!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1773,7 +1773,7 @@
       <JapaneseText>「あわれだな…。
 　ゾラにいりゃ、泣いても
 　鼻水はツララにならなかったろうによ」</JapaneseText>
-      <EnglishText>So sad...if he stayed in Zola he could've at least avoided his snot icing up.</EnglishText>
+      <EnglishText>So sad...if he stayed in Zola, he could've at least avoided his snot freezing up.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1787,7 +1787,7 @@
       <JapaneseText>「い、いけねえ！
 　このまま脱出しても、ヤッサバ隊長に
 　半殺しにされる！」</JapaneseText>
-      <EnglishText>O, oh shit!  Even if I escape Capatain Yassaba's going to kill me!</EnglishText>
+      <EnglishText>O-Oh shit! Even if I escape, Capatain Yassaba's going to kill me!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1798,7 +1798,7 @@
       <JapaneseText>「こ、こうなったら、隊長が
 　帰還しねえのを祈るしかねえ！
 　頼むぜ、ヤーパン！！」</JapaneseText>
-      <EnglishText>I, In that case I'll just have to pray that the capatain doesn't come back at all!  Please Yapan!</EnglishText>
+      <EnglishText>I-In that case, I'll just have to pray that the Captain doesn't come back at all! Come on, Yapan!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1812,7 +1812,7 @@
       <JapaneseText>「ヤ、ヤッサバ隊長！
 　俺はケジナンの口車に乗せられた
 　だけですーっ！！」</JapaneseText>
-      <EnglishText>C, Captain Yassaba! We were just tricked by Kejinan's wild plans!!</EnglishText>
+      <EnglishText>C-Captain Yassaba! We were tricked by Kejinan and his wild plans, that's all!!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1835,7 +1835,7 @@
       <PointerOffset>10672</PointerOffset>
       <JapaneseText>「エンゲの野郎！
 　我が身可愛さに俺を売る気かよ！！」</JapaneseText>
-      <EnglishText>That idiot Enge!  He's selling me out to save himself!!</EnglishText>
+      <EnglishText>That idiot Enge! He's selling me out to save himself!!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1846,7 +1846,7 @@
       <JapaneseText>「こうなりゃ俺はやるしかねえ！
 　行くぜ、ヤーパン！
 　俺のために死んでくれ！！」</JapaneseText>
-      <EnglishText>I have no other choice!  Let's do it yapan!  Die for my glory!</EnglishText>
+      <EnglishText>I have no other choice! Let's do it, Yapan! Die for my glory!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1860,7 +1860,7 @@
       <JapaneseText>「こ、こんなシベリアの片田舎で
 　終わるなんてイヤーッ！
 　脱出します！」</JapaneseText>
-      <EnglishText>I, I'm not going to die in the middle of nowhere in Siberia!  I'm getting out of here!</EnglishText>
+      <EnglishText>I-I'm not going to die in the middle of nowhere in Siberia! I'm getting out of here!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1874,7 +1874,7 @@
       <JapaneseText>「何言ってんのさ！
 　だから、あたし達だって
 　エクソダスしてるのよ！」</JapaneseText>
-      <EnglishText>What's he saying!  We're in the middle of an Exodus ourselves!</EnglishText>
+      <EnglishText>What's he saying?! We're in the middle of an Exodus ourselves!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1885,7 +1885,7 @@
       <JapaneseText>「やめときな。
 　シベ鉄にとっちゃ、ドームのピープルは
 　金を貢ぐ働きアリみたいなもんなのさ」</JapaneseText>
-      <EnglishText>It's no use.  For the Railroad, the People of the dome are basically worker ants whose job is to make them money.</EnglishText>
+      <EnglishText>It's no use. To the Railroad, the people of the dome are basically worker ants whose job is to make them money.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1896,7 +1896,7 @@
       <JapaneseText>「だから、連中はエクソダスを許さない。
 　そして、そのシステムによって、
 　人が死のうと意にも介さないのさ…」</JapaneseText>
-      <EnglishText>That's why they won't allow others to Exodus.  That's the system that leads to them not caring who lives or dies...</EnglishText>
+      <EnglishText>That's why they won't allow others to Exodus. And it's a system that leads to them not caring who lives or dies...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1910,7 +1910,7 @@
       <JapaneseText>「ザ・クラッシャー！
 　今日こそは、お前の方をぶっ壊して
 　やるぜ！！」</JapaneseText>
-      <EnglishText>The Crasher!  You'll be the one being crushed this time around!!</EnglishText>
+      <EnglishText>The Crasher! You'll be the one being crashed this time around!!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1921,7 +1921,7 @@
       <JapaneseText>「毎度々々、わざわざ俺を
 　怒らせてくれるが、それも今日で最後…！
 　耳かっぽじって聞けよ！！」</JapaneseText>
-      <EnglishText>This is the last time I'm going to tolerate you pissing me off calling me that...!  Spread your ear holes and listen up!</EnglishText>
+      <EnglishText>That's the last time I'm going to tolerate you pissing me off...! Empty your ears and listen up!!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1932,7 +1932,7 @@
       <JapaneseText>「俺の通り名はザ・ヒートだ！
 　覚えられねえってんなら、
 　てめえはネジ一本まで解体だ！！」</JapaneseText>
-      <EnglishText>My nick name is The Heat!  If you can't remember that then you deserve to have all your screws be dismantled! </EnglishText>
+      <EnglishText>My nickname is The Heat! If you can't remember that, then you deserve to have all your screws removed! </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1943,7 +1943,7 @@
       <JapaneseText>「うるせえっ！
 　そんなんだからザ・クラッシャーって
 　呼ばれるんだろうが！！」</JapaneseText>
-      <EnglishText>Shut up!  That's why we call your The Crasher!!</EnglishText>
+      <EnglishText>Shut up! This is why we call you The Crasher!!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1956,7 +1956,7 @@
       <PointerOffset>11376</PointerOffset>
       <JapaneseText>「ガンダムのガキ！　今日こそ
 　その機体を手に入れてやる！」</JapaneseText>
-      <EnglishText>Gundam kid!  I'll be taking that machine this time!</EnglishText>
+      <EnglishText>Gundam kid! I'll be taking that machine this time!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1977,7 +1977,7 @@
       <JapaneseText>「それに占いの結果じゃ、
 　俺はティファにまた会えるんだ！
 　こんな所でやられるかよ！！」</JapaneseText>
-      <EnglishText>Besides, the fortune said that I'm going to be meeting Tifa again! I'm not dying here!!</EnglishText>
+      <EnglishText>Besides, my fortune said that I'm going to be meeting Tifa again! I'm not dying here!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -1991,7 +1991,7 @@
       <JapaneseText>「サラ、ベロー！
 　フォーメーションでの戦闘の極意は
 　３人の息を合わせる事だ！」</JapaneseText>
-      <EnglishText>Sara, Bello!  The most important thing for formation fighting is for all of us to be in sync!</EnglishText>
+      <EnglishText>Sara, Bello! The most important thing for formation fighting is for all of us to be in sync!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2002,7 +2002,7 @@
       <JapaneseText>「了解です、隊長！
 　ガウリ隊の力、シベ鉄に
 　見せてやりましょう！」</JapaneseText>
-      <EnglishText>Roger captain!  Let's show the Siberian Rail what Gauri squad can do!</EnglishText>
+      <EnglishText>Roger, Captain! Let's show the Siberian Railroad what Gauri Squad can do!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2044,7 +2044,7 @@
       <JapaneseText>「髪の毛付きのオーバーマン！
 　お前を倒して、俺は俺の強さの証を
 　立てる！」</JapaneseText>
-      <EnglishText>Haired Overman!  I'll defeat you and prove  my strength to you all!</EnglishText>
+      <EnglishText>Haired Overman! I'll destroy you and prove my strength to everyone watching!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2074,7 +2074,7 @@
       <JapaneseText>「エクソダスをする連中も
 　俺の前に立ち塞がる奴も
 　みんな、みーんな！　叩き潰す！！」</JapaneseText>
-      <EnglishText>I'll crush everyone and anyone who dares Exodus or get in my way!!</EnglishText>
+      <EnglishText>I'll obliterate everyone and anyone who dares Exodus or get in my way!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2097,7 +2097,7 @@
       <PointerOffset>12080</PointerOffset>
       <JapaneseText>「黒いサザンクロス！
 　てめえ、人の話を聞いてやがったな！」</JapaneseText>
-      <EnglishText>Black Southern Cross!  You've been eavesdropping on me!?</EnglishText>
+      <EnglishText>Black Southern Cross! You've been eavesdropping on me?!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2108,7 +2108,7 @@
       <JapaneseText>「…だが、同情は無しだ。
 　俺は請負人として、このエクソダス…
 　必ず成功させる！」</JapaneseText>
-      <EnglishText>...But there's no room for sympathy.  As a contractor I will make...this Exodus succeed!</EnglishText>
+      <EnglishText>...But there's no room for sympathy. As a contractor, I will make...this Exodus succeed!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2118,7 +2118,7 @@
       <PointerOffset>12144</PointerOffset>
       <JapaneseText>「そうはさせねえ！
 　俺の意地と誇りに懸けても！！」</JapaneseText>
-      <EnglishText>No you won't! I'm staking my will and pride on the line to stop you!!</EnglishText>
+      <EnglishText>No you won't! I'm putting my will and pride on the line to stop you!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2131,7 +2131,7 @@
       <PointerOffset>12272</PointerOffset>
       <JapaneseText>「そこをどきやがれ、ブレーカー！
 　俺の邪魔をするんなら、叩き潰す！！」</JapaneseText>
-      <EnglishText>Get out of my way, Breakers!  I'll crush anyone who stops me!!</EnglishText>
+      <EnglishText>Get out of my way, Breakers! I'll destroy anyone who stops me!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2141,7 +2141,7 @@
       <PointerOffset>12304</PointerOffset>
       <JapaneseText>「そうは行くか！
 　お前を黙って通すつもりはないんだよ！」</JapaneseText>
-      <EnglishText>Oh no you don't!  I'm not going to just let you through!</EnglishText>
+      <EnglishText>Oh no you don't! I'm not going to just let you through!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2152,7 +2152,7 @@
       <JapaneseText>「くそっ！　てめえ、幾らで雇われた！？
 　金のために命を落とすのは
 　割りに合わねえぞ！！」</JapaneseText>
-      <EnglishText>Damn it! How much were you bought off for!?  Isn't it pathetic to put your life on the line for money!?</EnglishText>
+      <EnglishText>Damn it! How much were you bought off for?! Isn't it pathetic to risk your life for money?!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2173,7 +2173,7 @@
       <JapaneseText>「だけど、俺の中には
 　シベ鉄のやり方を許せない気持ちがある！
 　だから、本気で戦えるんだ！」</JapaneseText>
-      <EnglishText>However, I have my own reasons to not forgive the Siberian Railroad!  That's why I'm fighting for real!</EnglishText>
+      <EnglishText>However, I have my own reasons to not forgive the Siberian Railroad! That's the real reason I'm fighting!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2183,7 +2183,7 @@
       <PointerOffset>12432</PointerOffset>
       <JapaneseText>「だったら、容赦無しだ！
 　後悔するなよ、ブレーカー！！」</JapaneseText>
-      <EnglishText>Then there's no need to go easy!  You'll regret this, Breaker!!</EnglishText>
+      <EnglishText>Then there's no need to go easy! You'll regret this, Breaker!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2193,7 +2193,7 @@
       <PointerOffset>12464</PointerOffset>
       <JapaneseText>「うおおおおっ！！
 　俺だってエクソダスだぁぁぁぁっ！！」</JapaneseText>
-      <EnglishText>Aahhhhhh!! I'm alsop going to Exodus -----!</EnglishText>
+      <EnglishText>Aahhhhhh!! I'm also going to Exodus -----!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2206,7 +2206,7 @@
       <PointerOffset>12592</PointerOffset>
       <JapaneseText>「相手はシベ鉄の隊長さんだ！
 　あいつを叩けば金になるよ！！」</JapaneseText>
-      <EnglishText>We're up against the head of the Siberian Rail!  We get him and we're due for a cash bonus!!</EnglishText>
+      <EnglishText>We're up against the head of the Siberian Railroad! We bag him, and we're due for a cash bonus!!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2216,7 +2216,7 @@
       <PointerOffset>12624</PointerOffset>
       <JapaneseText>「くそっ！
 　金に目のくらんだ田舎者が！！」</JapaneseText>
-      <EnglishText>Damn it!  Country kids looking for money!!</EnglishText>
+      <EnglishText>Damn it! Country kids looking for money!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2227,7 +2227,7 @@
       <JapaneseText>「それの何が悪いのさ！
 　あたしらは金のために…生きるために
 　戦ってるのさ！」</JapaneseText>
-      <EnglishText>What's wrong with that!  We live for money...and we need to fight to live!</EnglishText>
+      <EnglishText>What's wrong with that?! We live for money...and we need to fight to live!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2238,7 +2238,7 @@
       <JapaneseText>「ピープルから金を掠め取る事しか
 　考えてないシベ鉄野郎に、
 　どうこう言われる筋はないね！！」</JapaneseText>
-      <EnglishText>You don't have grounds to talk when all you think about is profit when dealing with the People!</EnglishText>
+      <EnglishText>You don't have grounds to talk if all you think about is profit when dealing with the people!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2287,7 +2287,7 @@
       <PointerOffset>13536</PointerOffset>
       <JapaneseText>「お疲れさん！
 　これで機体のメンテは完了だ」</JapaneseText>
-      <EnglishText>Alright!  Just wrapped up the maintenance of all machines.</EnglishText>
+      <EnglishText>Alright! Just wrapped up the maintenance of all machines.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2297,7 +2297,7 @@
       <PointerOffset>13568</PointerOffset>
       <JapaneseText>「さっすが、コトセットさん。
 　メカニックの腕は抜群だね！」</JapaneseText>
-      <EnglishText>Great going Kotsett!  Your skills as a mechanic really shine!</EnglishText>
+      <EnglishText>Great going, Kotsett! Your skills as a mechanic are the real deal!</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2307,7 +2307,7 @@
       <PointerOffset>13600</PointerOffset>
       <JapaneseText>「へへへ、おだてんなって！
 　褒めても何も出ないぞ」</JapaneseText>
-      <EnglishText>Hehehe, no need to flatter me!  It's not going to get you anywhere.</EnglishText>
+      <EnglishText>Hehehe, no need to flatter me! It's not going to get you anywhere.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2318,7 +2318,7 @@
       <JapaneseText>「だが、あんたが来てくれりゃ、
 　バッハクロンのエンジンの不調も
 　何とかなりそうだ」</JapaneseText>
-      <EnglishText>But if you can come with us I think we might be able to fix the engines of the Backerkrom.</EnglishText>
+      <EnglishText>But if you can come with us, I think we might be able to fix the engines on the Backerkrom.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2329,7 +2329,7 @@
       <JapaneseText>「と言っても、シルエットエンジンは
 　専門外だからな…。
 　出来るのは、コナちゃんの助手ぐらいだ」</JapaneseText>
-      <EnglishText>Oh, I'm not an expert on Silhouette engines... Kona's assistant might be able to though.</EnglishText>
+      <EnglishText>Oh, I'm not an expert on Silhouette engines... Kona's assistant might be able to help you, though.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2338,7 +2338,7 @@
     <Entry>
       <PointerOffset>13696</PointerOffset>
       <JapaneseText>「ねえ、$nも手伝ってくれるんでしょ？」</JapaneseText>
-      <EnglishText>Hey, $n.  You're going help too, right?</EnglishText>
+      <EnglishText>Hey, $n. You're going help too, right?</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2349,7 +2349,7 @@
       <JapaneseText>「おう…俺に修理出来ないものは無いからな。
 　伊達にビーター・サービスの看板を
 　背負っちゃいねえさ」</JapaneseText>
-      <EnglishText>Yeah...there's nothing I can't repair.  We aren't called Beater Services for nothing ya know.</EnglishText>
+      <EnglishText>Yeah...there's nothing I can't repair. We aren't called Beater Services for nothing ya know.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2359,7 +2359,7 @@
       <PointerOffset>13760</PointerOffset>
       <JapaneseText>「大口叩くなよ。
 　親方に比べれば、まだまだヒヨッコだ」</JapaneseText>
-      <EnglishText>Stop talking so big.  You guys are still babies compared to the boss.</EnglishText>
+      <EnglishText>Stop talking so big. You guys are still babies compared to the boss.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2369,7 +2369,7 @@
       <PointerOffset>13792</PointerOffset>
       <JapaneseText>「厳しいねえ。
 　ま…相手が親方じゃ、しょうがねえがな」</JapaneseText>
-      <EnglishText>Rough. Well...compared to the boss I guess you're right.</EnglishText>
+      <EnglishText>Rough. Well...compared to the boss, I guess you're right.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2399,7 +2399,7 @@
       <JapaneseText>「まあ、何だな…。
 　とりあえず、明日から
 　バッハクロンの修理を始めるとするか」</JapaneseText>
-      <EnglishText>Well, anyway... Let's set to get started on fixing the Backerkrom tomorrow.</EnglishText>
+      <EnglishText>Well, anyway... Let's get started on repairing the Backerkrom tomorrow.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2409,7 +2409,7 @@
       <PointerOffset>13920</PointerOffset>
       <JapaneseText>「了解！
 　ガウリ隊に頼んで、人手を回してもらうね」</JapaneseText>
-      <EnglishText>Roger!  I'll ask Gauri squad to spare hands too.</EnglishText>
+      <EnglishText>Roger! I'll ask Gauri Squad if they have any spare hands, too.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2420,7 +2420,7 @@
       <JapaneseText>「シベ鉄も、この間の戦闘で
 　隊長さんがやられたからな。
 　少しは大人しくしてるだろう」</JapaneseText>
-      <EnglishText>The Siberian RR bastards also lost their leader last battle.  I bet they'll stay put for a while.</EnglishText>
+      <EnglishText>The Siberian Railroad bastards also lost their leader in thelast battle. I bet they'll stay off our backs for a while.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2430,7 +2430,7 @@
       <PointerOffset>13984</PointerOffset>
       <JapaneseText>「でも、大丈夫か？
 　あいつ…見るからに執念深そうだったぞ」</JapaneseText>
-      <EnglishText>But you sure it's ok? That guy...looked to hold grudges.</EnglishText>
+      <EnglishText>But you sure it's OK? That guy...looked like the type to hold grudges.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2459,7 +2459,7 @@
     <Entry>
       <PointerOffset>14080</PointerOffset>
       <JapaneseText>（熱いって言うより、暑苦しい…）</JapaneseText>
-      <EnglishText>(This guys just too painful to watch...)</EnglishText>
+      <EnglishText>(This guy's just too painful to watch...)</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2470,7 +2470,7 @@
       <JapaneseText>「んじゃ、今日は解散って事で。
 　ファットマン！　散らかってる工具は
 　片付けとけよ！」</JapaneseText>
-      <EnglishText>Anyway, let's wrap up for today.  Fatman!  Put the tools away.</EnglishText>
+      <EnglishText>Anyway, let's wrap up for today. Fatman! Put the tools away.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2479,7 +2479,7 @@
     <Entry>
       <PointerOffset>14144</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>.........</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2488,7 +2488,7 @@
     <Entry>
       <PointerOffset>14176</PointerOffset>
       <JapaneseText>「おやすみ、ファットマン」</JapaneseText>
-      <EnglishText>Good night, Fatman</EnglishText>
+      <EnglishText>Goodnight, Fatman.</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2497,7 +2497,7 @@
     <Entry>
       <PointerOffset>14272</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>.........</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2526,7 +2526,7 @@
       <JapaneseText>「フン…チョロいもんだぜ。
 　こんなんで、よくエクソダスなんぞ
 　やってられるな」</JapaneseText>
-      <EnglishText>Hmmph.  Too easy.  Surprised these fools dared to do an Exodus like this.</EnglishText>
+      <EnglishText>Hmmph. Too easy. Surprised these fools dared to do an Exodus in this state.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2536,7 +2536,7 @@
       <PointerOffset>14560</PointerOffset>
       <JapaneseText>「まあいい。
 　おかげで俺の仕事もやりやすくなる」</JapaneseText>
-      <EnglishText>Whatever.  This will make my job easier.</EnglishText>
+      <EnglishText>Whatever. This will make my job easier.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2546,7 +2546,7 @@
       <PointerOffset>14592</PointerOffset>
       <JapaneseText>「待ってろよ、アデット。
 　お前の任務を手伝ってやるからな」</JapaneseText>
-      <EnglishText>Just you wait Adette.  I'll help you on your mission.</EnglishText>
+      <EnglishText>Just you wait, Adette. I'll help you on your mission.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2593,7 +2593,7 @@
       <JapaneseText>「ふうん…ガロード君は
 　その空間のねじれに巻き込まれて、
 　こっちの大陸に来たんだ…」</JapaneseText>
-      <EnglishText>Hmm...so Garrod, you got sucked into the void and somehow ended up on this continent...</EnglishText>
+      <EnglishText>Hmm...so, Garrod, you got sucked into the void and somehow ended up on this continent...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2604,7 +2604,7 @@
       <JapaneseText>「そういう事。
 　で、俺はアメリアに戻るために
 　ゲインの仕事を手伝ってんだ」</JapaneseText>
-      <EnglishText>Yep.  I've been helping Gain in order to return to Ameria.</EnglishText>
+      <EnglishText>Yep. I've been helping Gain in order to return to Ameria.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2624,7 +2624,7 @@
       <PointerOffset>15072</PointerOffset>
       <JapaneseText>「確かに、そこからもっと東に進めば、
 　アメリアに渡るルートもあるわ」</JapaneseText>
-      <EnglishText>I hear that if you go even further east past that that there's a route that takes you into Ameria.</EnglishText>
+      <EnglishText>I hear that if you go even further east past that, there's a route that takes you to Ameria.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2634,7 +2634,7 @@
       <PointerOffset>15104</PointerOffset>
       <JapaneseText>「ねえ、メール姉ちゃん。
 　ヤーパンって、どこ？」</JapaneseText>
-      <EnglishText>Hey Mel. Where's Yapan?</EnglishText>
+      <EnglishText>Hey, Mel. Where's Yapan?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2702,7 +2702,7 @@
       <PointerOffset>15328</PointerOffset>
       <JapaneseText>「あたし達は今、北の雪原地帯の
 　シベリアを横断している事になるの」</JapaneseText>
-      <EnglishText>and we are currently crossing over the northern winter area of Siberia.</EnglishText>
+      <EnglishText>And we are currently crossing over the northern tundra area of Siberia.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2711,7 +2711,7 @@
     <Entry>
       <PointerOffset>15360</PointerOffset>
       <JapaneseText>「こいつは随分と長旅になるな」</JapaneseText>
-      <EnglishText>Seems like it'll be a long journey.</EnglishText>
+      <EnglishText>Seems like it'll be a long trip.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2721,7 +2721,7 @@
       <PointerOffset>15392</PointerOffset>
       <JapaneseText>「シベ鉄の妨害もあるから、
 　快適な旅ってわけにはいかなそうね」</JapaneseText>
-      <EnglishText>With the Siberian railroad bothering us it's not going to be pleasnt journey.</EnglishText>
+      <EnglishText>With the Siberian Railroad bothering us, it's not going to be pleasnt journey.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2732,7 +2732,7 @@
       <JapaneseText>「それにしても！
 　随分と色々な事をご存知なんですね、
 　メール様！」</JapaneseText>
-      <EnglishText>But wow, I'm surprised you know so much Mel!</EnglishText>
+      <EnglishText>But, wow, I'm surprised you know so much, Mel!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2742,7 +2742,7 @@
       <PointerOffset>15456</PointerOffset>
       <JapaneseText>「そりゃ、色んな場所を旅して、
 　ちゃんと思い出ノートに記録をつけてますから」</JapaneseText>
-      <EnglishText>Well, I've been traveling around for a while and been logging my thoughts in my diary.</EnglishText>
+      <EnglishText>Well, I've been traveling around for a while, and I've been recording my thoughts in my diary.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2762,7 +2762,7 @@
       <JapaneseText>「会計簿とお客様台帳、業務日誌を兼ねた
 　日記みたいなものです。
 　それの記入はあたしの役目なんです」</JapaneseText>
-      <EnglishText>It serves as an accounting ledger, customer logs, and diary to be exact.  It's part of my job,</EnglishText>
+      <EnglishText>It serves as an accounting ledger, business log, and diary, to be exact. It's part of my job,</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2772,7 +2772,7 @@
       <PointerOffset>15552</PointerOffset>
       <JapaneseText>「まだお若いのに…偉いんですね。
 　尊敬させていただきます」</JapaneseText>
-      <EnglishText>You're still so young...wow.  I really admire your drive.</EnglishText>
+      <EnglishText>You're still so young...wow. I really admire your drive.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2783,7 +2783,7 @@
       <JapaneseText>「え〜と…アナ姫様。
 　若いって…あたしの事、幾つだと
 　思ってます？」</JapaneseText>
-      <EnglishText>Ummm...Princess Ana.  When you call me young...exactly how old do you think I am?</EnglishText>
+      <EnglishText>Ummm...Princess Ana. When you call me young...exactly how old do you think I am?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2793,7 +2793,7 @@
       <PointerOffset>15616</PointerOffset>
       <JapaneseText>「もちろん、私よりも年上ですよね？
 　一つか、二つぐらい上でしょうか？」</JapaneseText>
-      <EnglishText>I mean, you're older than me right? Like 1 or 2 years older?</EnglishText>
+      <EnglishText>I mean, you're older than me, right? Like one or two years older?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2813,7 +2813,7 @@
       <JapaneseText>「だけど、大したもんだぜ。
 　まだ親に甘えていてもおかしくないような歳で
 　あっちこっち旅してよ」</JapaneseText>
-      <EnglishText>Still, this is really impressive.  Traveling around so much when most kids your age is still living with their parents.</EnglishText>
+      <EnglishText>Still, this is really impressive. Being so traveled, when most kids your age are still living with their parents.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2823,7 +2823,7 @@
       <PointerOffset>15712</PointerOffset>
       <JapaneseText>「そうやって子供扱いしないでよ！
 　あたし、もう１６歳なんだから！」</JapaneseText>
-      <EnglishText>Stop treating me like a kid! I'm 16 already!</EnglishText>
+      <EnglishText>Stop treating me like a kid! I'm sixteen already!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2832,7 +2832,7 @@
     <Entry>
       <PointerOffset>15744</PointerOffset>
       <JapaneseText>「ええええっ！？」</JapaneseText>
-      <EnglishText>Whaaaat!?</EnglishText>
+      <EnglishText>Whaaaat?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2841,7 +2841,7 @@
     <Entry>
       <PointerOffset>15776</PointerOffset>
       <JapaneseText>「て、てっきり、１２、３歳だと思ってた！」</JapaneseText>
-      <EnglishText>I, I thought you were 12 or 13!</EnglishText>
+      <EnglishText>I-I thought you were twelve or thirteen!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2859,7 +2859,7 @@
     <Entry>
       <PointerOffset>15840</PointerOffset>
       <JapaneseText>「ご、ごめんよ、その…」</JapaneseText>
-      <EnglishText>S, sorry, I...</EnglishText>
+      <EnglishText>S-Sorry, I...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2870,7 +2870,7 @@
       <JapaneseText>「うっそん！
 　あたし、そういうリアクション、
 　もう慣れっこだから」</JapaneseText>
-      <EnglishText>I'm kidding! I'm used to people acting like this to me.</EnglishText>
+      <EnglishText>I'm kidding! I'm used to hearing it from everyone.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2880,7 +2880,7 @@
       <PointerOffset>15904</PointerOffset>
       <JapaneseText>「旅先でいつも同じような事言われるから、
 　落ち込むのも馬鹿らしくなっちゃったよ」</JapaneseText>
-      <EnglishText>Everyone says the same thing no matter where I go so I stopped getting down about it.</EnglishText>
+      <EnglishText>People always say that to me no matter where I go, so I kinda had to get over it.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2890,7 +2890,7 @@
       <PointerOffset>15936</PointerOffset>
       <JapaneseText>「…親方さんの手がかり、
 　まだ見つかってないのか？」</JapaneseText>
-      <EnglishText>...you still haven't found any clues to where the boss is?</EnglishText>
+      <EnglishText>...You still haven't found any clues as to where the boss is?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2929,7 +2929,7 @@
       <PointerOffset>16064</PointerOffset>
       <JapaneseText>「パパはダーリンの師匠で、
 　みんなには親方って呼ばれてたのよ」</JapaneseText>
-      <EnglishText>Papa is darlin's teacher and we all call him boss.</EnglishText>
+      <EnglishText>Papa is Darling's teacher, and we all call him boss.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2949,7 +2949,7 @@
       <JapaneseText>「そんな顔しないで下さいよ。
 　これでも結構、毎日楽しくやってますから！
 　元気、元気！」</JapaneseText>
-      <EnglishText>No need to make that face.  I'm having fun!  Cheer up!</EnglishText>
+      <EnglishText>No need to make that face. I'm having fun! Cheer up!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2959,7 +2959,7 @@
       <PointerOffset>16192</PointerOffset>
       <JapaneseText>「これでわかったろ、ガロード？
 　アメリアに帰る苦労は並大抵じゃねえぜ」</JapaneseText>
-      <EnglishText>So you got it now Garrod?  Getting back to Ameria's going to be quite the pain.</EnglishText>
+      <EnglishText>So, you got it now, Garrod? Getting back to Ameria's going to be quite the pain.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2970,7 +2970,7 @@
       <JapaneseText>「…みたいだな。
 　エクソダスが上手くいっても、
 　アメリアまではまだ遠いみたいだしよ」</JapaneseText>
-      <EnglishText>...seems like like.  Guess even if the Exodus is successful it's going to be another journey to get over to Ameria.</EnglishText>
+      <EnglishText>...Seems like. Guess even if the Exodus is successful, it's going to take a second trip to get over to Ameria.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2981,7 +2981,7 @@
       <JapaneseText>「イノセントの支配のおかげで
 　この大陸の人間は他の地域と
 　あんまり行き来してなかったからな」</JapaneseText>
-      <EnglishText>Due to the Innocents rules, the people of this continent rarely communicated with peoplef rom the other areas.</EnglishText>
+      <EnglishText>Due to the Innocents' rules, the people of this continent had little contact with people from the other areas.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -2991,7 +2991,7 @@
       <PointerOffset>16288</PointerOffset>
       <JapaneseText>「おかげで、飛行機みたいな
 　長距離を移動する手段は発達してないんだ」</JapaneseText>
-      <EnglishText>That's why there aren't any long distance modes of travel here like planes.</EnglishText>
+      <EnglishText>That's why there aren't any long distance modes of travel here, like planes.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3022,7 +3022,7 @@
       <JapaneseText>「ゲインを手伝って
 　請負人をやるってのもありじゃねえか？
 　お前の腕なら十分、やってけるぜ」</JapaneseText>
-      <EnglishText>Or you can continue helping Gain and become a contractor like him?  You have the skills to make it.</EnglishText>
+      <EnglishText>Or you can continue helping Gain, and maybe even become a contractor like him? You have the skills to make it.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3033,7 +3033,7 @@
       <JapaneseText>「ねえ、あたい達と一緒に来なよ！
 　ガンダムを使うブレーカーって
 　格好いいよ！」</JapaneseText>
-      <EnglishText>Oh, come with us!  A breaker with a Gundam would be cool!</EnglishText>
+      <EnglishText>Oh, come with us! A Breaker with a Gundam would be cool!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3062,7 +3062,7 @@
     <Entry>
       <PointerOffset>16512</PointerOffset>
       <JapaneseText>「…どうしても会いたい子がいるんだ…」</JapaneseText>
-      <EnglishText>...there's a person I gotta see...</EnglishText>
+      <EnglishText>...There's a person I gotta see...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3092,7 +3092,7 @@
       <PointerOffset>16608</PointerOffset>
       <JapaneseText>「わかるよ、ガロード。
 　そういう気持ち」</JapaneseText>
-      <EnglishText>I know how you feel Garrod.</EnglishText>
+      <EnglishText>I know how you feel, Garrod.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3112,7 +3112,7 @@
       <PointerOffset>16736</PointerOffset>
       <JapaneseText>「何だ…？
 　教室はお前達のたまり場じゃないぞ」</JapaneseText>
-      <EnglishText>What is it...?  The classroom isn't your hangout spot you know.</EnglishText>
+      <EnglishText>What is it...? The classroom isn't your hangout spot, you know.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3122,7 +3122,7 @@
       <PointerOffset>16768</PointerOffset>
       <JapaneseText>「すみません、ママドゥ先生。
 　そろそろ帰ります」</JapaneseText>
-      <EnglishText>Sorry Mr. Mamado.  We'll head out now.</EnglishText>
+      <EnglishText>Sorry, Mr. Mamado. We'll head out now.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3132,7 +3132,7 @@
       <PointerOffset>16800</PointerOffset>
       <JapaneseText>「じゃあ、あたしらもバッハクロンの修理を
 　冷やかしにでも行こうかね」</JapaneseText>
-      <EnglishText>Then I guess I should go check up on repairs of the Backerkrom </EnglishText>
+      <EnglishText>Then I guess I should go check up on the Backerkrom, see how the repairs are coming along.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3141,7 +3141,7 @@
     <Entry>
       <PointerOffset>16832</PointerOffset>
       <JapaneseText>「…なあ…占いに行ってみないか？」</JapaneseText>
-      <EnglishText>...hey...what about getting our fortunes looked at?</EnglishText>
+      <EnglishText>...Hey...what about getting our fortunes told?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3160,7 +3160,7 @@
       <PointerOffset>16896</PointerOffset>
       <JapaneseText>「学校の近くに占い師が集まってる路地が
 　あるんだよ」</JapaneseText>
-      <EnglishText>There's an area filled with fortunetellers close from the school.</EnglishText>
+      <EnglishText>There's a district with a ton of fortune tellers close to the school.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3171,7 +3171,7 @@
       <JapaneseText>「そこに行って、エクソダスも
 　ガロードの彼女の事も、
 　メールの尋ね人も全部占ってもらおうぜ！」</JapaneseText>
-      <EnglishText>Let's go and check up on the Exodus, Garrod's girlfriend, and even the person Mel's looking for!</EnglishText>
+      <EnglishText>Let's go ask about the Exodus, Garrod's girlfriend, and even the person Mel's looking for!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3238,7 +3238,7 @@
       <PointerOffset>17376</PointerOffset>
       <JapaneseText>「ヤッサバ隊長が
 　単独でヤーパンの天井に忍び込んだって！？」</JapaneseText>
-      <EnglishText>Captain Yassaba snuck into Yapan Ceiling by himself!?</EnglishText>
+      <EnglishText>Captain Yassaba snuck into Yapan Ceiling all by himself?!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3258,7 +3258,7 @@
       <JapaneseText>「隊長は異常な程の負けず嫌いだからな。
 　大方、恥をかかされた恨みを晴らすために
 　内部から滅茶苦茶やる気だろうぜ」</JapaneseText>
-      <EnglishText>The captain hates losing.  He probably snuck in to make a ruckus and clear his shame.</EnglishText>
+      <EnglishText>The Captain hates losing. He probably snuck in to make a ruckus and clear his name.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3268,7 +3268,7 @@
       <PointerOffset>17472</PointerOffset>
       <JapaneseText>「加えて、先に潜入したアデットのお姉様に
 　いい所を見せようとしているんでしょう」</JapaneseText>
-      <EnglishText>He probably also wants to look good in front of Adette who snuck in earlier.</EnglishText>
+      <EnglishText>He probably also wants to look good in front of Adette, who infiltrated earlier.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3288,7 +3288,7 @@
       <JapaneseText>「あの隊長なら十分にあり得る。
 　髪の毛付きのオーバーマンに負けたのが
 　大ショックだったみたいだしな」</JapaneseText>
-      <EnglishText>The captain's the type to do this.  He must've been shocked to have lost to that haired Overman.</EnglishText>
+      <EnglishText>The Captain's the type to do that sort of thing. Losing to the long-haired Overman must've really rattled him.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3299,7 +3299,7 @@
       <JapaneseText>「へ…顔に似合わず、繊細なこった。
 　いつも威張り散らしているから、
 　逃げ出したのが格好付かないらしいな」</JapaneseText>
-      <EnglishText>Wow...he's a lot more sensitive than I thought.  I guess since he always talks big running away isn't his style.</EnglishText>
+      <EnglishText>Wow...he's a lot more sensitive than I thought. I guess he's not all talk, if he's pulling a stunt like this.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3318,7 +3318,7 @@
     <Entry>
       <PointerOffset>17632</PointerOffset>
       <JapaneseText>「そうなったら、次の隊長は…」</JapaneseText>
-      <EnglishText>If that happens the next captain would be...</EnglishText>
+      <EnglishText>If that happens, the next Captain would be...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3327,7 +3327,7 @@
     <Entry>
       <PointerOffset>17664</PointerOffset>
       <JapaneseText>「まあ、俺だろうな」</JapaneseText>
-      <EnglishText>Well, would be me.</EnglishText>
+      <EnglishText>Well, it would be me.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3349,7 +3349,7 @@
       <JapaneseText>「そう怖い顔すんなよ。
 　俺だって、考え無しに
 　こんな事を言ってるわけじゃねえ」</JapaneseText>
-      <EnglishText>Don't make that face. It's not like I'm saying this without thinking things through.</EnglishText>
+      <EnglishText>Don't make that face. I'm not being impulsive, here, I've thought about this a lot.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3368,7 +3368,7 @@
       <PointerOffset>17792</PointerOffset>
       <JapaneseText>「お前さんだって欲しいんだろ？
 　金とか、コネとか、力がよ…」</JapaneseText>
-      <EnglishText>You have needs don't you?  Money, connections, power...</EnglishText>
+      <EnglishText>You have needs, don't you? Money, connections, power...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3378,7 +3378,7 @@
       <PointerOffset>17824</PointerOffset>
       <JapaneseText>「次期隊長様に協力すれば、
 　美味しい思いも出来るってもんだぜ」</JapaneseText>
-      <EnglishText>If you help me become the next captain I'll make it worth your while.</EnglishText>
+      <EnglishText>If you help me become the next Captain, I'll make it worth your while.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3387,7 +3387,7 @@
     <Entry>
       <PointerOffset>17856</PointerOffset>
       <JapaneseText>「…何か策があるなら、聞かせてもらおう」</JapaneseText>
-      <EnglishText>...I'll hear your plans out.</EnglishText>
+      <EnglishText>...Ok, I'll hear you out.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3397,7 +3397,7 @@
       <PointerOffset>17888</PointerOffset>
       <JapaneseText>「話がわかるねえ、兄さん。
 　きっと出世するぜ」</JapaneseText>
-      <EnglishText>I'm glad we can do business.  You'll go far.</EnglishText>
+      <EnglishText>I'm glad we could do business. You'll go far with me.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3417,7 +3417,7 @@
       <PointerOffset>17952</PointerOffset>
       <JapaneseText>「ジャボリ！
 　余計な告げ口をするんじゃねえぞ！」</JapaneseText>
-      <EnglishText>Jaboli!  Enough with yer trap!</EnglishText>
+      <EnglishText>Jaboli! Enough with yer claptrap!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3438,7 +3438,7 @@
       <JapaneseText>「へへ…見てろよ。
 　俺が隊長になってから擦り寄ってきても
 　遅いからな」</JapaneseText>
-      <EnglishText>Heheh...just you wait.  It'll be too late for you to suck up to me once I'm captain.</EnglishText>
+      <EnglishText>Heheh...just you wait. Once I'm Captain, I won't take any of your ass-kissing.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3484,7 +3484,7 @@
       <PointerOffset>18400</PointerOffset>
       <JapaneseText>「…いらっしゃいませ。
 　どなたから占いましょうか？」</JapaneseText>
-      <EnglishText>...welcome.  Who wants their fortune told first?</EnglishText>
+      <EnglishText>...Welcome. Who wants their fortune told first?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3503,7 +3503,7 @@
       <PointerOffset>18464</PointerOffset>
       <JapaneseText>（仕方ないじゃない。
 　他の人気の占い師は行列になってるんだから）</JapaneseText>
-      <EnglishText>(Don't complain.  All the popular fortune tellers had long lines.)</EnglishText>
+      <EnglishText>(Don't complain. All the popular fortune tellers had long lines.)</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3512,7 +3512,7 @@
     <Entry>
       <PointerOffset>18496</PointerOffset>
       <JapaneseText>（でも、この子…全身、傷だらけだぜ）</JapaneseText>
-      <EnglishText>(But this kid...is full of scars across her body)</EnglishText>
+      <EnglishText>(But this kid...has scars all over her body.)</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3522,7 +3522,7 @@
       <PointerOffset>18528</PointerOffset>
       <JapaneseText>（占い師の元締めにお仕置きされてるんだろうぜ。
 　稼ぎが少ないってよ…）</JapaneseText>
-      <EnglishText>(Probably the head of the fortune tellers around here.  She's probably not making much money...) </EnglishText>
+      <EnglishText>(Probably the head of the fortune tellers around here. I bet she's not making much money...) </EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3540,7 +3540,7 @@
     <Entry>
       <PointerOffset>18592</PointerOffset>
       <JapaneseText>「じゃあ、俺から占ってもらうぜ」</JapaneseText>
-      <EnglishText>Okay, start from me.</EnglishText>
+      <EnglishText>Okay, start with me.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3551,7 +3551,7 @@
       <JapaneseText>「俺はガロード・ラン。
 　俺がティファの所に帰れるか
 　占ってくれよ」</JapaneseText>
-      <EnglishText>I'm Garrod Ran.  Tell me if I'll be able to head back and see Tifa.</EnglishText>
+      <EnglishText>I'm Garrod Ran. Please tell me if I'll be able to head home and see Tifa.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3562,7 +3562,7 @@
       <JapaneseText>「わかりました。
 　では、生年月日と生まれた時間を
 　教えてください」</JapaneseText>
-      <EnglishText>Understood.  Then please tell me your birth date and the time of birth.</EnglishText>
+      <EnglishText>Understood. Then please tell me your birth date as well as the time of birth.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3572,7 +3572,7 @@
       <PointerOffset>18688</PointerOffset>
       <JapaneseText>「詳しい時間まではわからないけど、
 　とりあえず、分かる範囲でよければ…」</JapaneseText>
-      <EnglishText>I don't know the exact time but I can tell you what I know...</EnglishText>
+      <EnglishText>I don't know the exact time, but I can tell you what I know...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3593,7 +3593,7 @@
       <JapaneseText>「ああ、可愛さはとびっきり！
 　おまけに、あの目で見つめられると
 　守ってあげたくなるんだ」</JapaneseText>
-      <EnglishText>Oh yeah, she's so cute!  When she looks at you you want to protect her with all your might.</EnglishText>
+      <EnglishText>Oh yeah, she's so cute! When she looks at you, you just want to protect her with all your might.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3611,7 +3611,7 @@
     <Entry>
       <PointerOffset>18816</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>......</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3621,7 +3621,7 @@
       <PointerOffset>18848</PointerOffset>
       <JapaneseText>「どうしたの、ゲイナー君？
 　ニヤニヤしちゃって」</JapaneseText>
-      <EnglishText>What is it Gainer? You're grinning.</EnglishText>
+      <EnglishText>What is it, Gainer? Why're you smiling?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3630,7 +3630,7 @@
     <Entry>
       <PointerOffset>18880</PointerOffset>
       <JapaneseText>「な、何でもないですよ！」</JapaneseText>
-      <EnglishText>N. nothing!</EnglishText>
+      <EnglishText>N-Nothing!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3639,7 +3639,7 @@
     <Entry>
       <PointerOffset>18912</PointerOffset>
       <JapaneseText>（ったく…煮え切らねえな…）</JapaneseText>
-      <EnglishText>(Sheesh...he should be more decisive...)</EnglishText>
+      <EnglishText>(Sheesh...he could do with being more decisive...)</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3649,7 +3649,7 @@
       <PointerOffset>18944</PointerOffset>
       <JapaneseText>「…結果が出ました。
 　『待ち人、思わぬ場所に来たる』…」</JapaneseText>
-      <EnglishText>...I have the results.  "Your awaited one will be where you do not expect"...</EnglishText>
+      <EnglishText>...I have the results. "Your awaited one will be where you do not expect"...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3669,7 +3669,7 @@
     <Entry>
       <PointerOffset>19008</PointerOffset>
       <JapaneseText>「ホントかよ！」</JapaneseText>
-      <EnglishText>Really!</EnglishText>
+      <EnglishText>Really?!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3709,7 +3709,7 @@
       <JapaneseText>「ありがとよ、お嬢ちゃん！
 　そっちの険しい事ってのは、ティファと
 　二人で乗り切ってみせるさ！」</JapaneseText>
-      <EnglishText>Thanks missy!  I'll overcome those trials once I get to see Tifa!</EnglishText>
+      <EnglishText>Thanks, missy! I'll overcome those trials once I get to see Tifa!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3719,7 +3719,7 @@
       <PointerOffset>19168</PointerOffset>
       <JapaneseText>「根拠の無い自信…。
 　凄い能天気…」</JapaneseText>
-      <EnglishText>Where does that confidence come from...he's really happy go lucky...</EnglishText>
+      <EnglishText>Where does that confidence come from...he's really happy-go-lucky...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3729,7 +3729,7 @@
       <PointerOffset>19200</PointerOffset>
       <JapaneseText>「いいんじゃないの？
 　とりあえずでも良い事を信じる方が」</JapaneseText>
-      <EnglishText>That's good isn't it?  It's better to believe in the positive.</EnglishText>
+      <EnglishText>That's good, isn't it? It's better to think positive.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3739,7 +3739,7 @@
       <PointerOffset>19232</PointerOffset>
       <JapaneseText>「楽天家なんですね、
 　ゾラの人って…」</JapaneseText>
-      <EnglishText>I guess everyone in Zola is happy go lucky...</EnglishText>
+      <EnglishText>I guess Zolans are optimistic by nature...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3750,7 +3750,7 @@
       <JapaneseText>「まあな。
 　でも、良くなるか、悪くなるか、
 　わかんないなら俺は良い方を信じるさ」</JapaneseText>
-      <EnglishText>Well yeah.  But if we don't know if it's going to be good or bad, I'd rather believe in the good.</EnglishText>
+      <EnglishText>Well, yeah. But if we don't know if our future's going to be good or bad, I'd rather hope for good.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3769,7 +3769,7 @@
       <PointerOffset>19328</PointerOffset>
       <JapaneseText>「言ってる事はわかりますけど、
 　そこまで割り切る事は出来ません」</JapaneseText>
-      <EnglishText>I know what you're saying but it's hard for me to say it so straight.</EnglishText>
+      <EnglishText>I know what you're saying, but it's hard for me to believe that, sometimes.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3778,7 +3778,7 @@
     <Entry>
       <PointerOffset>19392</PointerOffset>
       <JapaneseText>「次の方はどなたでしょう？」</JapaneseText>
-      <EnglishText>So who is next?</EnglishText>
+      <EnglishText>So, who is next?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3797,7 +3797,7 @@
       <PointerOffset>19456</PointerOffset>
       <JapaneseText>「う、うん…。
 　じゃあ、行方不明のあたしのパパの事を占って」</JapaneseText>
-      <EnglishText>W, well...then tell me where my missing papa is.</EnglishText>
+      <EnglishText>W-Well...then, tell me where my missing papa is.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3806,7 +3806,7 @@
     <Entry>
       <PointerOffset>19488</PointerOffset>
       <JapaneseText>「では、その方の事を話してください」</JapaneseText>
-      <EnglishText>Well then, tell me more about that person.</EnglishText>
+      <EnglishText>Please tell me more about this person.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3816,7 +3816,7 @@
       <PointerOffset>19520</PointerOffset>
       <JapaneseText>「名前はシエロ・ビーター。
 　修理屋ビーター・サービスのリーダーよ」</JapaneseText>
-      <EnglishText>His name is Ceiro Beater.  He's the leader of the repair shop Beater Service.</EnglishText>
+      <EnglishText>His name is Ceiro Beater. He's the boss of our repair shop, Beater Service.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3826,7 +3826,7 @@
       <PointerOffset>19552</PointerOffset>
       <JapaneseText>「じゃあ、ビーター・サービスって
 　本当は三人組だったんだ？」</JapaneseText>
-      <EnglishText>Oh, so Beater Service is originally a 3-man shop?</EnglishText>
+      <EnglishText>Oh, so Beater Service was originally a three- person operation?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3837,7 +3837,7 @@
       <JapaneseText>「うん…パパとあたしとダーリン…。
 　パパはガンレオンのパイロットでも
 　あったの」</JapaneseText>
-      <EnglishText>Yeah...Papa, me and darlin...Papa was the original pilot of the Gunleon.</EnglishText>
+      <EnglishText>Yeah...Papa, me and Darling...Papa was the original pilot of the Gunleon.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3847,7 +3847,7 @@
       <PointerOffset>19616</PointerOffset>
       <JapaneseText>「お父様が行方不明になった時の事を
 　話してください」</JapaneseText>
-      <EnglishText>Tell me about when your father disappeared.</EnglishText>
+      <EnglishText>Tell me about the time your father disappeared.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3858,7 +3858,7 @@
       <JapaneseText>「４年前…あたし達は
 　修理屋の仕事をしながら、各地を
 　旅してたの…」</JapaneseText>
-      <EnglishText>4 years ago...we were doing service work traveling around different areas...</EnglishText>
+      <EnglishText>Four years ago...we were traveling the world, doing business as usual...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3868,7 +3868,7 @@
       <PointerOffset>19680</PointerOffset>
       <JapaneseText>「でも、ある日…
 　荒野で空間のねじれに遭って…」</JapaneseText>
-      <EnglishText>But one day...we saw a a space distortion out in the wild...</EnglishText>
+      <EnglishText>But one day...we saw a spatial distortion out in the wild...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3877,7 +3877,7 @@
     <Entry>
       <PointerOffset>19712</PointerOffset>
       <JapaneseText>「それって…！？」</JapaneseText>
-      <EnglishText>Isn't that...!?</EnglishText>
+      <EnglishText>Isn't that...?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3887,7 +3887,7 @@
       <PointerOffset>19744</PointerOffset>
       <JapaneseText>「親父さんは俺と同じように
 　そのねじれに巻き込まれちまったのか！？」</JapaneseText>
-      <EnglishText>So your dad got caught up in the same distortion that I did!?</EnglishText>
+      <EnglishText>So your dad got caught up in the same distortion that I did?!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3898,7 +3898,7 @@
       <JapaneseText>「…わかんない…。
 　気がついたら、ガンレオンのコックピットに
 　パパはいなくて…」</JapaneseText>
-      <EnglishText>...I don't know... by the time I realized what happened Papa was gone from the cockpit of the Gunleon...</EnglishText>
+      <EnglishText>...I don't know...by the time I realized what happened, Papa had vanished from the cockpit of the Gunleon...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3908,7 +3908,7 @@
       <PointerOffset>19808</PointerOffset>
       <JapaneseText>「だから、あたしとダーリンは…
 　修理屋をしながら、パパを捜してるの」</JapaneseText>
-      <EnglishText>That's why darling and I...are traveling searching for papa while doing the repair work.</EnglishText>
+      <EnglishText>That's why Darling and I...are traveling; searching for Papa while we continue his work.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3928,7 +3928,7 @@
       <PointerOffset>19872</PointerOffset>
       <JapaneseText>「だから、同じように跳ばされた俺に
 　興味を持ったってわけか」</JapaneseText>
-      <EnglishText>So that's why you were so interested in me since I also got thrown to the other side of the world. </EnglishText>
+      <EnglishText>That's why you were so interested in me, since I got thrown to the other side of the world. </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3947,7 +3947,7 @@
       <PointerOffset>19936</PointerOffset>
       <JapaneseText>「親父さんの手がかり…
 　少しでも見つかるといいな」</JapaneseText>
-      <EnglishText>I really hope...that you're able to find some clues for your father.</EnglishText>
+      <EnglishText>I really hope...that you're able to find some clues to your father's whereabouts.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3956,7 +3956,7 @@
     <Entry>
       <PointerOffset>19968</PointerOffset>
       <JapaneseText>「ありがとう、ジロン」</JapaneseText>
-      <EnglishText>Thanks Jiron.</EnglishText>
+      <EnglishText>Thanks, Jiron.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3974,7 +3974,7 @@
     <Entry>
       <PointerOffset>20032</PointerOffset>
       <JapaneseText>「それで…！？」</JapaneseText>
-      <EnglishText>And...!?</EnglishText>
+      <EnglishText>And...?!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -3993,7 +3993,7 @@
     <Entry>
       <PointerOffset>20096</PointerOffset>
       <JapaneseText>「そりゃどういう事よ、お嬢ちゃん！？」</JapaneseText>
-      <EnglishText>Wait miss, what does that mean!?</EnglishText>
+      <EnglishText>Wait, miss, what does that mean?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4014,7 +4014,7 @@
       <JapaneseText>「確かに、それじゃ
 　良いようにも、悪いようにも
 　取る事が出来るわね…」</JapaneseText>
-      <EnglishText>I guess you can interpret that as both positive or negative...</EnglishText>
+      <EnglishText>I guess you can interpret that as either positive or negative...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4034,7 +4034,7 @@
       <PointerOffset>20224</PointerOffset>
       <JapaneseText>「ありがとう…。
 　でも、もういいよ」</JapaneseText>
-      <EnglishText>Thanks...but it's okay.</EnglishText>
+      <EnglishText>Thanks...but it's ok.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4054,7 +4054,7 @@
       <JapaneseText>「さっきのジロンの言葉じゃないけど、
 　良いか悪いかわからないなら
 　あたし、良い方を信じるよ」</JapaneseText>
-      <EnglishText>I don't want to repeat what Jiron said earlier, but if you don't know if something is positive or negative, I'll just believe in the positive.</EnglishText>
+      <EnglishText>I don't want to repeat what Jiron said earlier, but if we don't know if our future's going to be good or bad, I'd rather hope for good.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4065,7 +4065,7 @@
       <JapaneseText>「そして、ガロードが言ったみたいに
 　ダーリンと二人で絶対にパパを
 　見つけてみせる！」</JapaneseText>
-      <EnglishText>And like Garrod said I'm going to definitely find papa while traveling with darling!</EnglishText>
+      <EnglishText>And like Garrod said, I'm going to definitely find Papa while traveling with Darling!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4075,7 +4075,7 @@
       <PointerOffset>20352</PointerOffset>
       <JapaneseText>「その意気だよ、メール。
 　あたしらも応援するからね」</JapaneseText>
-      <EnglishText>That's the spirit Mel.  We'll be supporting you too.</EnglishText>
+      <EnglishText>That's the spirit, Mel. We'll be supporting you, too.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4093,7 +4093,7 @@
     <Entry>
       <PointerOffset>20416</PointerOffset>
       <JapaneseText>「あれ…？　アナ姫は？」</JapaneseText>
-      <EnglishText>Huh...? Where's princess Ana?</EnglishText>
+      <EnglishText>Huh...? Where's Princess Ana?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4103,7 +4103,7 @@
       <PointerOffset>20448</PointerOffset>
       <JapaneseText>「そう言えば、姿が見えないな。
 　あの３匹のお供も…」</JapaneseText>
-      <EnglishText>You're right, I don't see her. Nor those 3 pets...</EnglishText>
+      <EnglishText>You're right, I don't see her. Nor those three pets...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4123,7 +4123,7 @@
       <JapaneseText>「そんなのん気な事、
 　言ってる場合じゃないわよ！
 　あの子、あれでも大事な人質なんだから！」</JapaneseText>
-      <EnglishText>We can't take it easy!  She's our precious hostage!</EnglishText>
+      <EnglishText>We can't just take it easy! She's our precious hostage!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4133,7 +4133,7 @@
       <PointerOffset>20544</PointerOffset>
       <JapaneseText>「手分けして捜そう！
 　アナに何かあったら、一大事だ！」</JapaneseText>
-      <EnglishText>Let's split up and look for her!  We'll in deep trouble if she's hurt!</EnglishText>
+      <EnglishText>Let's split up and look for her! We're in deep trouble if she's hurt!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4143,7 +4143,7 @@
       <PointerOffset>20576</PointerOffset>
       <JapaneseText>「わかった！
 　行くぞ、みんな！」</JapaneseText>
-      <EnglishText>Alright!  Let's go everyone!</EnglishText>
+      <EnglishText>Alright! Let's go, everyone!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4200,7 +4200,7 @@
       <JapaneseText>「…放しなさい！
 　こんな風に人をさらって…
 　あなたはいったい何者です！？」</JapaneseText>
-      <EnglishText>...let go of me!  How dare you kidnap me...who in the world are you!?</EnglishText>
+      <EnglishText>...Let go of me! How dare you manhandle me...who in the world are you?!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4211,7 +4211,7 @@
       <JapaneseText>「手荒な真似をして申し訳ありません。
 　私はシベリア鉄道警備隊、
 　アデット・キスラーです」</JapaneseText>
-      <EnglishText>I apologize for the rough treatment.  I am Adette Kisler of the Siberian Railroad.</EnglishText>
+      <EnglishText>I apologize for the rough treatment. I am Adette Kisler of the Siberian Railroad.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4231,7 +4231,7 @@
       <JapaneseText>「パパ…？　父の所…？
 　では、あなたは私を連れ戻すために
 　ヤーパンの天井に侵入したのですか？」</JapaneseText>
-      <EnglishText>Papa...? Back to father...?  So you've snuck in here to Yapan's Ceiling in order to take me back?</EnglishText>
+      <EnglishText>Papa...? Back to father...? So you've come to find me here in Yapan's Ceiling in order to take me back?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4242,7 +4242,7 @@
       <JapaneseText>「その通りです。
 　人質がいたままじゃ、こちらも総攻撃が
 　かけられませんので」</JapaneseText>
-      <EnglishText>Yes, exactly.  We cannot attack them head on with you as their hostage.</EnglishText>
+      <EnglishText>Yes, exactly. We cannot attack them head on as long as you are their hostage.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4252,7 +4252,7 @@
       <PointerOffset>21184</PointerOffset>
       <JapaneseText>「さ、エクソダスごっこは終わりです。
 　家に帰りましょう」</JapaneseText>
-      <EnglishText>Now, this exodus is now over. Let us go home.</EnglishText>
+      <EnglishText>Now, this Exodus is over. Let us go home.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4261,7 +4261,7 @@
     <Entry>
       <PointerOffset>21216</PointerOffset>
       <JapaneseText>「わ、私はまだ…！」</JapaneseText>
-      <EnglishText>I, I still haven't...!</EnglishText>
+      <EnglishText>I-I still haven't...!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4289,7 +4289,7 @@
     <Entry>
       <PointerOffset>21344</PointerOffset>
       <JapaneseText>「何だ！？　こいつらは！」</JapaneseText>
-      <EnglishText>What!? What are these!</EnglishText>
+      <EnglishText>What?! What are these?!</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4298,7 +4298,7 @@
     <Entry>
       <PointerOffset>21376</PointerOffset>
       <JapaneseText>「ひ、姫様！　今の内にこちらへ！！」</JapaneseText>
-      <EnglishText>P, princess! Please come this way!!</EnglishText>
+      <EnglishText>P-Princess! Please come this way!!</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4308,7 +4308,7 @@
       <PointerOffset>21408</PointerOffset>
       <JapaneseText>「リュボフ！
 　あなたまでヤーパンの天井に来たのですか！？」</JapaneseText>
-      <EnglishText>Lioubov!  You've also come to Yapan's Ceiling!?</EnglishText>
+      <EnglishText>Lioubov! You've also come to Yapan's Ceiling?!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4317,7 +4317,7 @@
     <Entry>
       <PointerOffset>21440</PointerOffset>
       <JapaneseText>「必死で追いかけてきたのです！」</JapaneseText>
-      <EnglishText>I desperately came chasing after you!</EnglishText>
+      <EnglishText>I came chasing after you desperately!</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4328,7 +4328,7 @@
       <JapaneseText>「私は家庭教師であると同時に、
 　姫様のお世話を仰せつかっています！
 　姫様がどこにいようと、お守り致します！」</JapaneseText>
-      <EnglishText>I am not only your tutor but also your care taker!  I will protect you no matter where you go!</EnglishText>
+      <EnglishText>I am not only your tutor, but also your caretaker! I will protect you, no matter where you go!</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4348,7 +4348,7 @@
       <PointerOffset>21568</PointerOffset>
       <JapaneseText>「そこまでだ。
 　シベ鉄の美しき刺客のお嬢さん」</JapaneseText>
-      <EnglishText>Stop it right there, you beutiful assassin from Siberian Rail.</EnglishText>
+      <EnglishText>Stop it right there, you Siberian Railroad beauty.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4358,7 +4358,7 @@
       <PointerOffset>21600</PointerOffset>
       <JapaneseText>「黒いサザンクロス…！
 　ゲイン・ビジョウか！」</JapaneseText>
-      <EnglishText>Black Southern Cross...!  Gain Bijou!</EnglishText>
+      <EnglishText>Black Southern Cross...! Gain Bijou!</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4378,7 +4378,7 @@
     <Entry>
       <PointerOffset>21664</PointerOffset>
       <JapaneseText>「ちっ！　お仲間の壊し屋も一緒か！」</JapaneseText>
-      <EnglishText>Damn! Your breaker pals are also here!</EnglishText>
+      <EnglishText>Damn! Those Breakers again!</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4388,7 +4388,7 @@
       <PointerOffset>21696</PointerOffset>
       <JapaneseText>「姐さん…！
 　その呼び方はギリギリでアウトだ！」</JapaneseText>
-      <EnglishText>Hey Miss..!  You're starting to piss me off with your name calling!</EnglishText>
+      <EnglishText>Hey Miss..! All your name-calling is beginning to piss me off!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4417,7 +4417,7 @@
       <PointerOffset>21792</PointerOffset>
       <JapaneseText>「よく言う。
 　ファットマンを一撃で気絶させておいて」</JapaneseText>
-      <EnglishText>What do you mean.  You knocked out Fatman in just one blow.</EnglishText>
+      <EnglishText>What do you mean? You knocked out Fatman in just one blow.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4426,7 +4426,7 @@
     <Entry>
       <PointerOffset>21824</PointerOffset>
       <JapaneseText>「それは私ではない！」</JapaneseText>
-      <EnglishText>That's not me!</EnglishText>
+      <EnglishText>That wasn't me!</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4437,7 +4437,7 @@
       <JapaneseText>「まあいい。
 　とにかく俺達は潜入した賊を捜していて
 　アナ姫の周辺も警護していたのさ」</JapaneseText>
-      <EnglishText>Whatever. We've been looking for stowaways and have been increasing security around princess Ana.</EnglishText>
+      <EnglishText>Whatever. There've been reports of a stowaway onboard, so we've been increasing security around princess Ana.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4446,7 +4446,7 @@
     <Entry>
       <PointerOffset>21888</PointerOffset>
       <JapaneseText>「…殺せ！」</JapaneseText>
-      <EnglishText>...kill me!</EnglishText>
+      <EnglishText>...Kill me!</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4456,7 +4456,7 @@
       <PointerOffset>21920</PointerOffset>
       <JapaneseText>「逃げられないからって
 　凄い覚悟…！」</JapaneseText>
-      <EnglishText>That's quite the resolve knowing that you can't run away...!</EnglishText>
+      <EnglishText>That's quite the resolve you have, knowing that you can't run away...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4466,7 +4466,7 @@
       <PointerOffset>21952</PointerOffset>
       <JapaneseText>「死ぬぐらいなら、
 　俺の子供を生んでくれないか？」</JapaneseText>
-      <EnglishText>How about you have my babies rather than dying?</EnglishText>
+      <EnglishText>How about you have my kids, rather than dying?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4529,7 +4529,7 @@
     <Entry>
       <PointerOffset>22176</PointerOffset>
       <JapaneseText>「…単純な男達…」</JapaneseText>
-      <EnglishText>...such simple men...</EnglishText>
+      <EnglishText>...Such simple men...</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4538,7 +4538,7 @@
     <Entry>
       <PointerOffset>22208</PointerOffset>
       <JapaneseText>「素直って言って欲しいな」</JapaneseText>
-      <EnglishText>I wish you'd say honest.</EnglishText>
+      <EnglishText>I wish you'd say honest men.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4548,7 +4548,7 @@
       <PointerOffset>22240</PointerOffset>
       <JapaneseText>「ま…とりあえず、毒気が抜かれた所で
 　ご同行願おう」</JapaneseText>
-      <EnglishText>Well...anyway, now that we've calmed down you'll be coming with us.</EnglishText>
+      <EnglishText>Well...anyway, now that we've calmed down, you'll be coming with us.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4557,7 +4557,7 @@
     <Entry>
       <PointerOffset>22304</PointerOffset>
       <JapaneseText>「アデットは渡さねえぇぇぇっ！！」</JapaneseText>
-      <EnglishText>I'm not going to Adette overrr!!</EnglishText>
+      <EnglishText>I'll never hand Adette over to youuu!!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4566,7 +4566,7 @@
     <Entry>
       <PointerOffset>22336</PointerOffset>
       <JapaneseText>「な、何だぁ！？」</JapaneseText>
-      <EnglishText>W, what!?</EnglishText>
+      <EnglishText>W-What?!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4577,7 +4577,7 @@
       <JapaneseText>「ヤッサバ隊長！
 　忍び込んだ賊ってのは、
 　あんたの事だったんだね！」</JapaneseText>
-      <EnglishText>Captain Yassaba!  So you were the stowaway that they've been looking for!</EnglishText>
+      <EnglishText>Captain Yassaba! So you were the stowaway they've been looking for!</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4588,7 +4588,7 @@
       <JapaneseText>「おう！　内部から、こいつらを
 　ぶちのめしてやるつもりだったが、
 　事情が変わった！」</JapaneseText>
-      <EnglishText>Yep! I was going to mess with them from the inside but the situation has changed!</EnglishText>
+      <EnglishText>Yep! I was going to do some sabotaging, but it's time for a change of plan!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4598,7 +4598,7 @@
       <PointerOffset>22432</PointerOffset>
       <JapaneseText>「逃げろ、アデット！
 　ここは俺が引き受ける！！」</JapaneseText>
-      <EnglishText>Run Adette! I'll cover you!!</EnglishText>
+      <EnglishText>Run, Adette! I'll cover you!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4609,7 +4609,7 @@
       <JapaneseText>「ありがとうよ。
 　やっぱり、あんたはあたしが見込んだ
 　強い男だ！」</JapaneseText>
-      <EnglishText>Thank you.  You're definitely the strong man that I've been counting on!</EnglishText>
+      <EnglishText>Thank you. You're definitely the strong man that I hoped you were!</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4628,7 +4628,7 @@
       <PointerOffset>22592</PointerOffset>
       <JapaneseText>「$n！　姫様達を頼む！
 　俺はこいつの相手をする！」</JapaneseText>
-      <EnglishText>$n! Take care of the princess! I'm going to take him on!</EnglishText>
+      <EnglishText>$n! Take care of the princess! I'll take him on!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4666,7 +4666,7 @@
       <PointerOffset>22752</PointerOffset>
       <JapaneseText>「黒いサザンクロス…！
 　貴様にもこの前は煮え湯を飲まされたな！」</JapaneseText>
-      <EnglishText>Black Southern Cross...!  You made me taste defeat last time!</EnglishText>
+      <EnglishText>Black Southern Cross...! You made me taste defeat last time!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4686,7 +4686,7 @@
       <JapaneseText>「ならば、エクソダスする連中を
 　叩っ斬るのが俺の仕事だ！
 　一人だけ残った事を後悔させてやる！！」</JapaneseText>
-      <EnglishText>In that cases then crushing those who dare Exodus is my job!  I'll have you regret staying back by yourself!!</EnglishText>
+      <EnglishText>In that case, then stopping those who dare Exodus is my job! You'll regret trying this by yourself!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4695,7 +4695,7 @@
     <Entry>
       <PointerOffset>22848</PointerOffset>
       <JapaneseText>「…誰がお前の相手を一人でするって言った？」</JapaneseText>
-      <EnglishText>...who ever said that I'll be fighting you alone?</EnglishText>
+      <EnglishText>...Who ever said that I'll be alone?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4704,7 +4704,7 @@
     <Entry>
       <PointerOffset>22944</PointerOffset>
       <JapaneseText>「こいつがシベ鉄の隊長か…！」</JapaneseText>
-      <EnglishText>So this is the captain of the Siberian Rail...!</EnglishText>
+      <EnglishText>So this is the Captain from the Siberian Railroad...!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4723,7 +4723,7 @@
       <PointerOffset>23008</PointerOffset>
       <JapaneseText>「しっかし、本気かね？
 　一人で乗り込んでくるとはよ」</JapaneseText>
-      <EnglishText>Still, is this guy serious?  He really came all by himself?</EnglishText>
+      <EnglishText>Still, is this guy serious? He really thought he could do this solo?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4733,7 +4733,7 @@
       <PointerOffset>23040</PointerOffset>
       <JapaneseText>「気をつけろよ。
 　それだけ自信があるって事だからな」</JapaneseText>
-      <EnglishText>Be careful.  That just means that he's confident in his skills.</EnglishText>
+      <EnglishText>Be careful. That just means that he's confident in his abilities.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4751,7 +4751,7 @@
     <Entry>
       <PointerOffset>23136</PointerOffset>
       <JapaneseText>「な、何だと！？」</JapaneseText>
-      <EnglishText>W, what!?</EnglishText>
+      <EnglishText>W-What?!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4761,7 +4761,7 @@
       <PointerOffset>23168</PointerOffset>
       <JapaneseText>「こちらはゾラ育ちの皆さんだ。
 　荒っぽさではシベ鉄にも引けはとらん」</JapaneseText>
-      <EnglishText>They're all from Zola.  They won't lose on brashness to the Siberian Rail!</EnglishText>
+      <EnglishText>They're all from Zola. They won't lose to the Siberian Railroad when it comes to brashness!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4771,7 +4771,7 @@
       <PointerOffset>23200</PointerOffset>
       <JapaneseText>「行くぞ、ジロン！
 　奴を取り押さえるんだ！！」</JapaneseText>
-      <EnglishText>Let's go, Jiron!  Hold him down!!</EnglishText>
+      <EnglishText>Let's go, Jiron! Hold him down!!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4789,7 +4789,7 @@
     <Entry>
       <PointerOffset>23264</PointerOffset>
       <JapaneseText>「ぬ、ぬおおおおおおおっ！！」</JapaneseText>
-      <EnglishText>N, Nooooo!!</EnglishText>
+      <EnglishText>N-Nooooo!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4801,7 +4801,7 @@
     <Entry>
       <PointerOffset>23424</PointerOffset>
       <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
-      <EnglishText>Iron Gear Hanger</EnglishText>
+      <EnglishText>Iron Gear Hangar</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4810,7 +4810,7 @@
     <Entry>
       <PointerOffset>23456</PointerOffset>
       <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
-      <EnglishText>Iron Gear Hanger</EnglishText>
+      <EnglishText>Iron Gear Hangar</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4819,7 +4819,7 @@
     <Entry>
       <PointerOffset>23488</PointerOffset>
       <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
-      <EnglishText>Iron Gear Hanger</EnglishText>
+      <EnglishText>Iron Gear Hangar</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4829,7 +4829,7 @@
       <PointerOffset>23616</PointerOffset>
       <JapaneseText>「…ここはランドシップの格納庫か…！
 　後はマシンを奪って逃げるだけだな」</JapaneseText>
-      <EnglishText>...so this is the hanger of this landship...!  All that's left is to steal a machine and get out of here.</EnglishText>
+      <EnglishText>...So this is the hangar of this landship...! All that's left is to steal a machine, and get out of here.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4848,7 +4848,7 @@
       <PointerOffset>23680</PointerOffset>
       <JapaneseText>「すまないな、お嬢ちゃん。
 　ここまで道案内をさせちまってよ」</JapaneseText>
-      <EnglishText>Sorry missy.  Thanks for guiding me all the way here.</EnglishText>
+      <EnglishText>Sorry, missy. Thanks for guiding me all the way here.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4858,7 +4858,7 @@
       <PointerOffset>23712</PointerOffset>
       <JapaneseText>「だけど、いいのか？
 　追手から俺をかくまってくれたけどよ…」</JapaneseText>
-      <EnglishText>But you sure about this?  You've helped me avoid the bastards chasing after me...</EnglishText>
+      <EnglishText>But you sure about this? You've helped me avoid the bastards chasing after me...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4869,7 +4869,7 @@
       <JapaneseText>「俺はシベ鉄の人間だ。
 　お前達のエクソダスを止めようと
 　してるんだぞ」</JapaneseText>
-      <EnglishText>I'm of the Siberian Rail. I'm the one trying to stop your exodus.</EnglishText>
+      <EnglishText>I'm of the Siberian Railroad. I'm the one trying to stop your Exodus.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4878,7 +4878,7 @@
     <Entry>
       <PointerOffset>23776</PointerOffset>
       <JapaneseText>「でも、おじさんはいい人なんでしょ？」</JapaneseText>
-      <EnglishText>But you're a good person aren't you?</EnglishText>
+      <EnglishText>But you're a good person, aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4897,7 +4897,7 @@
       <PointerOffset>23840</PointerOffset>
       <JapaneseText>「一人の人、大勢で追い回す人達の方が
 　悪いわ」</JapaneseText>
-      <EnglishText>Those we gang up on one person is definitely the bad guys here.</EnglishText>
+      <EnglishText>I think they're the bad guys, since they were ganging up on you.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4916,7 +4916,7 @@
     <Entry>
       <PointerOffset>23904</PointerOffset>
       <JapaneseText>「うん…そんなに上手くないけれど…」</JapaneseText>
-      <EnglishText>Yeah...I'm not that good though...</EnglishText>
+      <EnglishText>Yeah...I'm not that good, though...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4926,7 +4926,7 @@
       <PointerOffset>23936</PointerOffset>
       <JapaneseText>「いい機会だ。
 　俺を占ってくれ」</JapaneseText>
-      <EnglishText>This is great timing.  Tell me my fortune.</EnglishText>
+      <EnglishText>This is great timing. Tell me my fortune.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4935,7 +4935,7 @@
     <Entry>
       <PointerOffset>23968</PointerOffset>
       <JapaneseText>「じゃあ、誕生日はいつ？」</JapaneseText>
-      <EnglishText>Ok, when's your birthday?</EnglishText>
+      <EnglishText>Ok, when is your birthday?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4946,7 +4946,7 @@
       <JapaneseText>「そいつは部隊の機密事項なんだけどな。
 　まあ…特別に教えてやる。
 　耳を貸しな」</JapaneseText>
-      <EnglishText>That's a squad secret. Well...I'll tell just you.  Bring your ear close.</EnglishText>
+      <EnglishText>That's a squad secret. Well...I'll tell you, but only you. Bring your ear close.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4955,7 +4955,7 @@
     <Entry>
       <PointerOffset>24032</PointerOffset>
       <JapaneseText>「…じゃあ、生まれた時間は？」</JapaneseText>
-      <EnglishText>...okay, what time were you born?</EnglishText>
+      <EnglishText>...Ok, at what time were you born?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4984,7 +4984,7 @@
       <PointerOffset>24128</PointerOffset>
       <JapaneseText>「そう驚くなって。
 　おじさんにも子供の頃があったんだよ」</JapaneseText>
-      <EnglishText>Don't be so surprised. I was a kid once too ya know.</EnglishText>
+      <EnglishText>Don't be so surprised. I was a kid once too, ya know.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -4994,7 +4994,7 @@
       <PointerOffset>24160</PointerOffset>
       <JapaneseText>「もっとも、父親は俺が生まれる前に
 　エクソダスしたらしいがな…」</JapaneseText>
-      <EnglishText>Although my dad exodused well before I was born...</EnglishText>
+      <EnglishText>Although my dad Exodused well before I was born...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5003,7 +5003,7 @@
     <Entry>
       <PointerOffset>24192</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>......</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5014,7 +5014,7 @@
       <JapaneseText>「笑っちまうだろ。
 　シベ鉄警備隊の隊長の親父が
 　妻と息子を放って、エクソダスとはよ」</JapaneseText>
-      <EnglishText>Don't you think it's funny?  The head of the Siberian Railroad security forces left his wife and child to Exodus.</EnglishText>
+      <EnglishText>Don't you think it's funny? The head of the Siberian Railroad security forces left his wife and child to Exodus.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5053,7 +5053,7 @@
       <JapaneseText>「…私が小さい頃に亡くなったそうです。
 　今は占い師を取りまとめている
 　元締めさんの世話になってます」</JapaneseText>
-      <EnglishText>...they all passed away when I was little.  I've been under the care of the head fortune teller since.</EnglishText>
+      <EnglishText>...They all passed away when I was little. I've been under the care of the head fortune teller since.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5063,7 +5063,7 @@
       <PointerOffset>24384</PointerOffset>
       <JapaneseText>「もしかして、その身体中の傷…
 　その元締めってのにやられたのか？」</JapaneseText>
-      <EnglishText>Wait those scars...is that from the head fortune teller?</EnglishText>
+      <EnglishText>Wait, those scars...are those from the head fortune teller?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5072,7 +5072,7 @@
     <Entry>
       <PointerOffset>24416</PointerOffset>
       <JapaneseText>「私…稼ぎが悪いですから…」</JapaneseText>
-      <EnglishText>That's...because I don't make much money...</EnglishText>
+      <EnglishText>Those are...because I don't make much money...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5082,7 +5082,7 @@
       <PointerOffset>24448</PointerOffset>
       <JapaneseText>「とんでもねえ下衆野郎だ…！
 　おじさんが、そいつをぶちのめしてやる！」</JapaneseText>
-      <EnglishText>What a low life...!  I'm going to teach that person a lesson!!</EnglishText>
+      <EnglishText>What a lowlife...! I'm going to teach that person a lesson!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5092,7 +5092,7 @@
       <PointerOffset>24480</PointerOffset>
       <JapaneseText>「でも、エクソダスするためには
 　このヤーパンの天井にいるしかないから」</JapaneseText>
-      <EnglishText>But I need to stay in Yapan's Ceiling in order to exodus.</EnglishText>
+      <EnglishText>But I need to stay here in Yapan's Ceiling in order to Exodus.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5111,7 +5111,7 @@
       <PointerOffset>24544</PointerOffset>
       <JapaneseText>「…私のご先祖様はインダスなんです…。
 　だから、そこに行ってみたいんです」</JapaneseText>
-      <EnglishText>....my ancesters were Indus...that's why I want to go there.</EnglishText>
+      <EnglishText>...My ancestors were Indus...that's why I want to go there.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5120,7 +5120,7 @@
     <Entry>
       <PointerOffset>24576</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>.........</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5130,7 +5130,7 @@
       <PointerOffset>24608</PointerOffset>
       <JapaneseText>「…よし…！
 　おじさんに全て任せろ！」</JapaneseText>
-      <EnglishText>...alright...!  Just leave it to me!</EnglishText>
+      <EnglishText>...Alright...! Just leave it to me!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5149,7 +5149,7 @@
       <PointerOffset>24672</PointerOffset>
       <JapaneseText>「おじさんがお嬢ちゃんを
 　連れてってやる！」</JapaneseText>
-      <EnglishText>I'll be the one to take missy there!</EnglishText>
+      <EnglishText>I'll be the one to take you there, missy!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5158,7 +5158,7 @@
     <Entry>
       <PointerOffset>24736</PointerOffset>
       <JapaneseText>「…そうはいかんな、シベ鉄」</JapaneseText>
-      <EnglishText>...no you won't, Siberian Rail.</EnglishText>
+      <EnglishText>...No you won't, Siberian Railroad.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5168,7 +5168,7 @@
       <PointerOffset>24768</PointerOffset>
       <JapaneseText>「黒いサザンクロス！
 　貴様、聞いてやがったな！？」</JapaneseText>
-      <EnglishText>Black Southern Cross! You've been listening in!?</EnglishText>
+      <EnglishText>Black Southern Cross! You've been eavesdropping?!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5187,7 +5187,7 @@
       <PointerOffset>24832</PointerOffset>
       <JapaneseText>「さあ、その子を返して
 　大人しくお縄を頂戴しな」</JapaneseText>
-      <EnglishText>Now, hand that girl back over to us and surrender.</EnglishText>
+      <EnglishText>Now, hand that girl back over to us, and surrender.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5196,7 +5196,7 @@
     <Entry>
       <PointerOffset>24864</PointerOffset>
       <JapaneseText>「人質を取るなんて汚いぞ、シベ鉄！」</JapaneseText>
-      <EnglishText>Taking hostages is dirty, Siberian rail!</EnglishText>
+      <EnglishText>Taking hostages is dirty, Siberian Railroad!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5206,7 +5206,7 @@
       <PointerOffset>24896</PointerOffset>
       <JapaneseText>「ち、違う！　人質なんかじゃない！
 　俺は…！」</JapaneseText>
-      <EnglishText>N, no! She's not a hostage! I...!</EnglishText>
+      <EnglishText>N-No! She's not a hostage! I...!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5217,7 +5217,7 @@
       <JapaneseText>「何だ！？
 　アイアン・ギアーにオーバーマンが
 　突っ込んできた！」</JapaneseText>
-      <EnglishText>What!?  The Iron Gear is under attack by an Overman!</EnglishText>
+      <EnglishText>What?! The Iron Gear is under attack by an Overman!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5236,7 +5236,7 @@
       <PointerOffset>25056</PointerOffset>
       <JapaneseText>「チャンスだ！
 　逃げるぞ！！」</JapaneseText>
-      <EnglishText>Now's the chance! Run!!</EnglishText>
+      <EnglishText>Now's our chance! Run!!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5246,7 +5246,7 @@
       <PointerOffset>25088</PointerOffset>
       <JapaneseText>「待って、おじちゃん！
 　占いの結果が！」</JapaneseText>
-      <EnglishText>Wait!  I haven't told you your fortune!</EnglishText>
+      <EnglishText>Wait! I haven't told you your fortune!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5265,7 +5265,7 @@
       <PointerOffset>25152</PointerOffset>
       <JapaneseText>「『窮地にありて、道は拓かれる』！
 　ピンチの時にチャンスが来るそうです！」</JapaneseText>
-      <EnglishText>"A path will open under times of desperation" !  It looks like your chance will come when you're in a big pinch!</EnglishText>
+      <EnglishText>"A path will open under times of desperation" ! It looks like your chance will come when you're in a big pinch!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5276,7 +5276,7 @@
       <JapaneseText>「…よし！　お嬢ちゃん！
 　俺と一緒に来るんだ！！
 　インダスでも、どこでも連れてってやる！」</JapaneseText>
-      <EnglishText>...alright!  Missy! You're coming with me! I'm take you to Indus or wherever you want to go!</EnglishText>
+      <EnglishText>...Alright! Missy! You're coming with me! I'll take you to Indus, or wherever else you want to go!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5295,7 +5295,7 @@
       <PointerOffset>25280</PointerOffset>
       <JapaneseText>「あの子…！
 　怖いおじさんについてっちゃった！」</JapaneseText>
-      <EnglishText>That girl...! She went with that scary looking guy!</EnglishText>
+      <EnglishText>That girl...! She went with that scary-looking guy!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5304,7 +5304,7 @@
     <Entry>
       <PointerOffset>25312</PointerOffset>
       <JapaneseText>「どうなってんだよ、いったい！？」</JapaneseText>
-      <EnglishText>What in the world is happening!?</EnglishText>
+      <EnglishText>What in the world is happening?!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5314,7 +5314,7 @@
       <PointerOffset>25344</PointerOffset>
       <JapaneseText>「追うぞ！
 　奴をこのままにしてはおけん！！」</JapaneseText>
-      <EnglishText>After him!  You can't let him escape!!</EnglishText>
+      <EnglishText>After him! We can't let him escape!!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5326,7 +5326,7 @@
     <Entry>
       <PointerOffset>25536</PointerOffset>
       <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
-      <EnglishText>Iron Gear - Hanger</EnglishText>
+      <EnglishText>Iron Gear - Hangar</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5335,7 +5335,7 @@
     <Entry>
       <PointerOffset>25568</PointerOffset>
       <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
-      <EnglishText>Iron Gear - Hanger</EnglishText>
+      <EnglishText>Iron Gear - Hangar</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5344,7 +5344,7 @@
     <Entry>
       <PointerOffset>25600</PointerOffset>
       <JapaneseText>アイアン・ギアー　格納庫</JapaneseText>
-      <EnglishText>Iron Gear - Hanger</EnglishText>
+      <EnglishText>Iron Gear - Hangar</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5353,7 +5353,7 @@
     <Entry>
       <PointerOffset>25728</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>........</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5363,7 +5363,7 @@
       <PointerOffset>25760</PointerOffset>
       <JapaneseText>「どうしたの、ゲイナー君？
 　調子悪いの？」</JapaneseText>
-      <EnglishText>What's wrong Gainer? Feeling sick?</EnglishText>
+      <EnglishText>What's wrong, Gainer? Feeling sick?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5394,7 +5394,7 @@
       <JapaneseText>「人質がいたのは知っています…。
 　でも、だったら…追い詰めて
 　その子を取り返してから…」</JapaneseText>
-      <EnglishText>I know he had a hostage...but then...he could've put him into a corner and gotten the hostage freed...</EnglishText>
+      <EnglishText>I know he had a hostage...but then...he could've easily cornered that guy and rescued the hostage...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5404,7 +5404,7 @@
       <PointerOffset>25888</PointerOffset>
       <JapaneseText>「でもよ、あの占いの女の子…
 　自分からあいつについてったみたいだぜ」</JapaneseText>
-      <EnglishText>but you know, that fortune telling girl...it seemed like she wanted to go with him.</EnglishText>
+      <EnglishText>But you know, that fortune-telling girl...it seemed like she wanted to go with him.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5433,7 +5433,7 @@
     <Entry>
       <PointerOffset>25984</PointerOffset>
       <JapaneseText>「そういうわけじゃないけど…！」</JapaneseText>
-      <EnglishText>Not exactly but...!</EnglishText>
+      <EnglishText>Not exactly, but...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5443,7 +5443,7 @@
       <PointerOffset>26016</PointerOffset>
       <JapaneseText>「じゃあ、逆に聞くよ。
 　ジロンはシベ鉄の肩を持つのかい？」</JapaneseText>
-      <EnglishText>Then let me ask you then.  You're taking the side of the Siberian Railroad, Jiron?</EnglishText>
+      <EnglishText>Then let me ask you. You're taking the side of the Siberian Railroad, Jiron?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5454,7 +5454,7 @@
       <JapaneseText>「シベ鉄は嫌いだ。
 　…でも、あのヤッサバって奴は
 　嫌いじゃない」</JapaneseText>
-      <EnglishText>I don't like the Siberian Rail....but I don't dislike Yassaba personally.</EnglishText>
+      <EnglishText>I don't like the Siberian Railroad....but I don't dislike Yassaba personally.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5474,7 +5474,7 @@
       <JapaneseText>「そりゃ、あいつが
 　エクソダスをしている人達にとって
 　敵だってのはわかってる」</JapaneseText>
-      <EnglishText>I mean, I understand that he's the enemy of those who are trying to Exodus.</EnglishText>
+      <EnglishText>I mean, I understand that he's the enemy of those who on this Exodus.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5484,7 +5484,7 @@
       <PointerOffset>26144</PointerOffset>
       <JapaneseText>「でも、あいつの生き方を知ったら
 　何となく憎めなくなったんだ」</JapaneseText>
-      <EnglishText>But once I saw the way he lives I can't get myself to hate him.</EnglishText>
+      <EnglishText>But once I saw the way he lives, I can't get myself to hate him.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5493,7 +5493,7 @@
     <Entry>
       <PointerOffset>26176</PointerOffset>
       <JapaneseText>「ヤッサバの生い立ちに同情したって事？」</JapaneseText>
-      <EnglishText>So you mean that you felt sympathy for his life path?</EnglishText>
+      <EnglishText>So you mean that you felt sympathy for his chosen path?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5504,7 +5504,7 @@
       <JapaneseText>「…そうじゃない…。
 　上手く言えないけど、あいつと俺達は
 　ただ立場が違うだけなんだって思って…」</JapaneseText>
-      <EnglishText>...not quite...It's hard to explain but I felt like he could've been us with just different life choices...</EnglishText>
+      <EnglishText>...Not quite...It's hard to explain, but I felt like if we'd made different choices, we could've been just like him...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5523,7 +5523,7 @@
     <Entry>
       <PointerOffset>26272</PointerOffset>
       <JapaneseText>「…そんなんで納得なんか出来ないよ」</JapaneseText>
-      <EnglishText>...that's not a very satisfying answer.</EnglishText>
+      <EnglishText>...That's not a very satisfying answer.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5564,7 +5564,7 @@
       <JapaneseText>「肩の力を抜けって事さ。
 　世の中、理屈じゃ片付かない事も
 　あるしな」</JapaneseText>
-      <EnglishText>Just relax your shoulders a bit.  Not everything in the world revolves around logic.</EnglishText>
+      <EnglishText>Just relax your shoulders a bit. Not everything in the world revolves around logic.</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5573,7 +5573,7 @@
     <Entry>
       <PointerOffset>26432</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>.........</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5584,7 +5584,7 @@
       <JapaneseText>「おら、お前ら！
 　マシンの整備の邪魔だ！！
 　用が無いんなら、そこをどけ！」</JapaneseText>
-      <EnglishText>Hey you!  You're in the way of machine maintenance!! Leave if you don't have business here!</EnglishText>
+      <EnglishText>Hey, you! You're in the way of machine maintenance!! Leave if you don't have business here!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5595,7 +5595,7 @@
       <JapaneseText>「おっと！
 　自分のマシンをぶっ壊した奴は、
 　罰として修理を手伝ってもらうぜ」</JapaneseText>
-      <EnglishText>Hold up!  Those who managed to get their machines all mangled up should stay and help out with repairs.</EnglishText>
+      <EnglishText>Hold up! Those who managed to get their machines all mangled up should stay to help out with the repairs.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5604,7 +5604,7 @@
     <Entry>
       <PointerOffset>26560</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>.........</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5615,7 +5615,7 @@
       <JapaneseText>「じゃあな、ゲイナー。
 　あんまり考えてばっかりだと
 　頭が重くなっちまうぞ」</JapaneseText>
-      <EnglishText>See ya Gainer. Don't think too hard or your head will feel heavy.</EnglishText>
+      <EnglishText>See ya, Gainer. Don't think too hard, or your head will get heavy.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5624,7 +5624,7 @@
     <Entry>
       <PointerOffset>26656</PointerOffset>
       <JapaneseText>「…簡単に言ってくれる…」</JapaneseText>
-      <EnglishText>...easy for you to say....</EnglishText>
+      <EnglishText>...Easy for you to say...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5663,7 +5663,7 @@
       <PointerOffset>26784</PointerOffset>
       <JapaneseText>「彼らの思い切りの良さは
 　強い意志に裏付けされてるというわけか…」</JapaneseText>
-      <EnglishText>Their easy going stay is backed up by their strong will...</EnglishText>
+      <EnglishText>Their easygoing nature is backed up by their strong will...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5704,7 +5704,7 @@
       <JapaneseText>「その男の名はジロン・アモス。
 　奴が『三日の掟』を破った事が
 　全ての始まりだったのさ」</JapaneseText>
-      <EnglishText>That man was Jiron Amos.  It all started when he ignored the "Three day rule".</EnglishText>
+      <EnglishText>That man was Jiron Amos. It all started when he ignored the "Three day rule".</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5714,7 +5714,7 @@
       <PointerOffset>26944</PointerOffset>
       <JapaneseText>「『三日の掟』って、どんな犯罪をしても
 　三日逃げ切れば罪に問われないって奴ですよね」</JapaneseText>
-      <EnglishText>"Three day rule" meaning the rule where any crime will be forgiven if not caught in the first three days?</EnglishText>
+      <EnglishText>"Three day rule", meaning the rule where any crime will be forgiven if the perpetrator isn't caught within three days?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5725,7 +5725,7 @@
       <JapaneseText>「その通り。
 　だが、あいつは自分の両親の仇を
 　しつこく追い回したのさ」</JapaneseText>
-      <EnglishText>Right.  But he chased faster the killers of his parents to the ends of the earth....</EnglishText>
+      <EnglishText>Right. But he relentlessly chased his parents' murderer to the ends of the earth....</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5735,7 +5735,7 @@
       <PointerOffset>27008</PointerOffset>
       <JapaneseText>「もちろん、その仇が三日以上、
 　逃げてもお構いなしにな」</JapaneseText>
-      <EnglishText>Of course,completely ignoring the three day time limit.</EnglishText>
+      <EnglishText>Of course, completely ignoring the three day time limit.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5774,7 +5774,7 @@
     <Entry>
       <PointerOffset>27136</PointerOffset>
       <JapaneseText>「………」</JapaneseText>
-      <EnglishText>.........</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5784,7 +5784,7 @@
       <PointerOffset>27168</PointerOffset>
       <JapaneseText>「そんなジロンに付き合ってる内に
 　多くの人間が気づき始めたのさ…」</JapaneseText>
-      <EnglishText>But as Jiron continued his quest more and more people starting thinking...</EnglishText>
+      <EnglishText>As Jiron continued his quest, more and more people starting thinking...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5794,7 +5794,7 @@
       <PointerOffset>27200</PointerOffset>
       <JapaneseText>「イノセントの掟なんてのは、
 　意味もなく勝手に決められたものだって事をな」</JapaneseText>
-      <EnglishText>that perhaps the rules that they were following from the Innocents had no real meaning behind them.</EnglishText>
+      <EnglishText>That perhaps the rules that they were following had no real meaning behind them.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5805,7 +5805,7 @@
       <JapaneseText>「そうやって支配の構造を知った
 　ゾラの人達は、自由を勝ち取るために
 　戦ったんですね…」</JapaneseText>
-      <EnglishText>And so the people Zola eventually decided to taken down the entire system and get their freedom back...</EnglishText>
+      <EnglishText>And so the people Zola eventually decided to taken down the entire system and reclaim their freedom...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5815,7 +5815,7 @@
       <PointerOffset>27264</PointerOffset>
       <JapaneseText>「ま…旗頭に担ぎ上げられたジロン自身は
 　成り行きでやってただけっぽいがな」</JapaneseText>
-      <EnglishText>Of course...it does seem like Jiron himself ended up being the leader of the movement completely by accident.</EnglishText>
+      <EnglishText>Of course...it does seem like Jiron himself ended up being the leader of the movement, if only by accident.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5836,7 +5836,7 @@
       <PointerOffset>27328</PointerOffset>
       <JapaneseText>「…あなたもジロンと同じで、
 　ゲインのやった事を認めるんですか？」</JapaneseText>
-      <EnglishText>...do you also agree with what Gain did like Jiron does?</EnglishText>
+      <EnglishText>...Do you also agree with what Gain did? Jiron does.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5856,7 +5856,7 @@
       <PointerOffset>27392</PointerOffset>
       <JapaneseText>「…もういいです。
 　あなたに聞いたのが間違いでした」</JapaneseText>
-      <EnglishText>...it's fine. It was my mistake to ask you.</EnglishText>
+      <EnglishText>...It's fine. Maybe I was wrong to ask you.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5895,7 +5895,7 @@
       <PointerOffset>27520</PointerOffset>
       <JapaneseText>「そうだ…。
 　そのシステムは時に人をも殺す」</JapaneseText>
-      <EnglishText>Yes...the system setup to kill people at times.</EnglishText>
+      <EnglishText>Yes...the system does kill people at times.</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5905,7 +5905,7 @@
       <PointerOffset>27552</PointerOffset>
       <JapaneseText>「シャルレ様…いや、ゲインの両親も
 　それに殺されたんだ…」</JapaneseText>
-      <EnglishText>Lord Charle...that is, Gain's parents were also killed by that...</EnglishText>
+      <EnglishText>Lord Charle...that is, Gain's parents, were also victims of the system...</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5914,7 +5914,7 @@
     <Entry>
       <PointerOffset>27584</PointerOffset>
       <JapaneseText>「ゲインの…両親…？」</JapaneseText>
-      <EnglishText>Gain's,,,parents...?</EnglishText>
+      <EnglishText>Gain's...parents...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5969,7 +5969,7 @@
       <PointerOffset>27936</PointerOffset>
       <JapaneseText>「そう連れない顔すんなよ、
 　シャルレ・フェリーべ」</JapaneseText>
-      <EnglishText>Don't be so sad, Charle Felibe</EnglishText>
+      <EnglishText>Don't be so sad, Charle Felibe.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5978,7 +5978,7 @@
     <Entry>
       <PointerOffset>27968</PointerOffset>
       <JapaneseText>「…ママドゥか？」</JapaneseText>
-      <EnglishText>...you get that from Mamado?</EnglishText>
+      <EnglishText>...You get that from Mamado?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5989,7 +5989,7 @@
       <JapaneseText>「ああ…。
 　あの先生、ドームポリス・ウッブスの
 　フェリーべ公爵家に仕えてたんだってな」</JapaneseText>
-      <EnglishText>Yeah...I know that he used to be a servant of Count Felibe in Domepolis Upps</EnglishText>
+      <EnglishText>Yeah...I know that he used to be a servant of Count Felibe, over in Domepolis Upps.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -5999,7 +5999,7 @@
       <PointerOffset>28032</PointerOffset>
       <JapaneseText>「だが、ウッブスはエクソダスに失敗し、
 　領主の公爵家はお取り潰しになった…」</JapaneseText>
-      <EnglishText>However, the Upps Exodus ended in failure and the count supporting the mission was eliminated...</EnglishText>
+      <EnglishText>However, the Upps Exodus ended in failure, and the Count was eliminated...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6009,7 +6009,7 @@
       <PointerOffset>28064</PointerOffset>
       <JapaneseText>「その息子は今や、見ての通りの
 　エクソダス請負人だ」</JapaneseText>
-      <EnglishText>And how his son is a contractor helping people Exodus.</EnglishText>
+      <EnglishText>And now, his son is a contractor helping people Exodus.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6020,7 +6020,7 @@
       <JapaneseText>「悪いな…。
 　先生が少年に世の『事情』って奴の
 　一例を説明してな…」</JapaneseText>
-      <EnglishText>Sorry man...but Mamado was explaining to the kid on the different situations people were in...</EnglishText>
+      <EnglishText>Sorry, man...but Mamado was explaining people's circumstances to the kid...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6029,7 +6029,7 @@
     <Entry>
       <PointerOffset>28128</PointerOffset>
       <JapaneseText>「俺もご相伴に預かったってわけだ」</JapaneseText>
-      <EnglishText>and I got to also gain some knowledge while chatting with him.</EnglishText>
+      <EnglishText>And I got to learn a few things myself while chatting with him.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6040,7 +6040,7 @@
       <JapaneseText>「なるほどね。
 　やっぱりゲイナー少年は
 　納得出来なかったか…」</JapaneseText>
-      <EnglishText>I see.  So I guess Gainer wasn't able to understand what happened...</EnglishText>
+      <EnglishText>I see. So I guess Gainer wasn't really convinced by what happened...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6051,7 +6051,7 @@
       <JapaneseText>「ま…事情があるのはお互い様だ。
 　…大変だな…コブ付きで人捜しの旅を
 　続けるってのは」</JapaneseText>
-      <EnglishText>Well..we all have our demons...must be tough...carrying a burden while searching for a missing person.</EnglishText>
+      <EnglishText>Well...we all have our demons...must be tough...carrying a burden while searching for a missing person.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6062,7 +6062,7 @@
       <JapaneseText>「何だよ…詫びて損したぜ。
 　そっちも、こっちの『事情』ってのを
 　聞いていたのかよ」</JapaneseText>
-      <EnglishText>Oh come on...you're making me regret looking for you.  I guess you heard about me as well.</EnglishText>
+      <EnglishText>Oh, come on...you're making me regret looking for you. I guess you heard about me as well.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6072,7 +6072,7 @@
       <PointerOffset>28256</PointerOffset>
       <JapaneseText>「これぐらいの歳になりゃ、
 　誰だって傷の一つや二つ持ってるもんさ」</JapaneseText>
-      <EnglishText>We all have our own wounds when we get to our age.</EnglishText>
+      <EnglishText>Men of our age carry our own wounds.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6082,7 +6082,7 @@
       <PointerOffset>28288</PointerOffset>
       <JapaneseText>「だな。
 　ま…それもひっくるめて、今の俺だ」</JapaneseText>
-      <EnglishText>You're right. Well..those are all things that made me what I am today.</EnglishText>
+      <EnglishText>You're right. Well...those are all things that made me what I am today.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6102,7 +6102,7 @@
       <PointerOffset>28352</PointerOffset>
       <JapaneseText>「さあな。
 　後は俺達の知った事じゃない」</JapaneseText>
-      <EnglishText>Who knows.  That's no longer our concern.</EnglishText>
+      <EnglishText>Who knows. That's no longer our concern.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6112,7 +6112,7 @@
       <PointerOffset>28384</PointerOffset>
       <JapaneseText>「だが、一杯やるだけの口実にはなる。
 　付き合えよ」</JapaneseText>
-      <EnglishText>However this is a good reason to get a drink. Come with me.</EnglishText>
+      <EnglishText>However, this is a good reason to get a drink. Join me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6123,7 +6123,7 @@
       <JapaneseText>「ＯＫ。
 　自由人ヤッサバ・ジンのエクソダスに
 　乾杯といこうか」</JapaneseText>
-      <EnglishText>OK.  Let's drink to freeman Yassaba Jin's exodus.</EnglishText>
+      <EnglishText>Ok. Let's drink to freeman Yassaba Jin's exodus.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6133,7 +6133,7 @@
       <PointerOffset>28448</PointerOffset>
       <JapaneseText>「ところで…俺達、何か忘れてない？
 　今回の一連の騒動で…」</JapaneseText>
-      <EnglishText>By the way...aren't we forgetting something? I feel like there was something...</EnglishText>
+      <EnglishText>By the way...aren't we forgetting something? I feel like there was...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6217,7 +6217,7 @@
       <PointerOffset>29024</PointerOffset>
       <JapaneseText>「え〜と…インダスは
 　こっちの方向でいいんだよな？」</JapaneseText>
-      <EnglishText>So...Indus is this way you said?</EnglishText>
+      <EnglishText>So...Indus is this way, you said?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6238,7 +6238,7 @@
       <JapaneseText>「ラッシュロッドも随分やられちまったが、
 　俺達二人を運んで飛ぶぐらいは
 　出来るだろうさ」</JapaneseText>
-      <EnglishText>Rushrod's taken some damage but it's good enough to carry the two of us.</EnglishText>
+      <EnglishText>Rushrod's taken some damage, but it's good enough to carry the two of us.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6249,7 +6249,7 @@
       <JapaneseText>「ま、コックピットのハッチは
 　ぶっ壊れちまったけどな。
 　寒いか、お嬢ちゃん？」</JapaneseText>
-      <EnglishText>Well, the cockpit hatch is busted though.  Are you cold, missy?</EnglishText>
+      <EnglishText>Well, the cockpit hatch is busted, though. Are you cold, missy?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6260,7 +6260,7 @@
       <JapaneseText>「大丈夫、我慢出来るよ。
 　それにインダスはシベリアと違って
 　とっても暑いのよ」</JapaneseText>
-      <EnglishText>It's ok, I can hold it.  Besides, Indus is supposed to really hot, unlike Siberia</EnglishText>
+      <EnglishText>It's ok, I can handle it. Besides, Indus is supposed to really hot, unlike Siberia.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6270,7 +6270,7 @@
       <PointerOffset>29184</PointerOffset>
       <JapaneseText>「それで、象やサイが川で
 　水浴びしているんだって」</JapaneseText>
-      <EnglishText>And Elephants and Rhinos are supposed to be washing themselves by the river.</EnglishText>
+      <EnglishText>And elephants and rhinos are supposed to wash themselves by the rivers.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Chapter>Uncategorized</Chapter>
@@ -6281,7 +6281,7 @@
       <JapaneseText>「そうかい、そうかい！
 　じゃ、凍えちまう前にインダスへ向けて
 　エクソダスといこうか！」</JapaneseText>
-      <EnglishText>I see, I see!  Then let's Exodus to Indus before we freeze to death!</EnglishText>
+      <EnglishText>I see, I see! Then let's Exodus to Indus before we freeze to death!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Chapter>Uncategorized</Chapter>
